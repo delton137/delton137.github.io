@@ -1,0 +1,19 @@
+- title: "About"
+  href: "/about/"
+
+- title: "Blog"
+  href: "/blog/"
+
+- title: "Software"
+  href: "/software/"
+
+- title: "Research"
+  href: "/science/"
+
+- title: "Miscellany"
+  href: "/miscellany/"
+  subcategories:
+    - subtitle: "Item 1"
+      subhref: "/miscellany/item-1/"
+    - subtitle: "Item 2"
+      subhref: "/miscellany/item-2/"
