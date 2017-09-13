@@ -88,7 +88,7 @@ JB :
   comments :
     provider : false
     disqus :
-      short_name : jekyllbootstrap
+      short_name :www-moreisdifferent-com
     livefyre :
       site_id : 123
     intensedebate :
@@ -156,5 +156,5 @@ JB :
   # where [HELPER] is the name of the helper you are overriding.
 
 # allow page redirection:
-plugins:
+plugins_dir:
   - jekyll-feed
