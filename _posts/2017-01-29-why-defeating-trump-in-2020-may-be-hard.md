@@ -11,7 +11,7 @@ categories:
 tags:
   - politics
 ---
-[[Crosspost from Facebook](https://www.facebook.com/Daniel.Elton/posts/10210733281302115?notif_t=like&notif_id=1485713031465247)]
+(Crosspost from Facebook)
 
 Currently waves of anti-Trump protests are sweeping the nation, in light of his unethical and likely un-constitutional executive order restricting the safe passage of immigrants and refugees. Since the women&#8217;s march on Washington I&#8217;ve heard two or three different people now say there is no way Trump will be re-elected in 2020. Everyone who wishes Trump to be defeated should try to cultivate a realistic view on how difficult it might be. Under my current calibration, my 95% confidence interval for Trump _winning_ in 2020 is is 20%-85%. That factors in a ~10% chance he will be impeached. Here&#8217;s my thinking:<!--more-->
 

@@ -12,12 +12,12 @@ categories:
 Can you decipher this: ?
 
 <p style="text-align:center;">
-  <a href="http://www.danielcelton.com/wp-content/uploads/2013/02/zoomed_in.png"><img class=" wp-image-1220 aligncenter" alt="zoomed_in" src="http://www.danielcelton.com/wp-content/uploads/2013/02/zoomed_in.png?w=283" width="556" height="588" srcset="http://www.moreisdifferent.com/wp-content/uploads/2013/02/zoomed_in.png 750w, http://www.moreisdifferent.com/wp-content/uploads/2013/02/zoomed_in-283x300.png 283w" sizes="(max-width: 556px) 100vw, 556px" /></a><!--more-->
+  <a href="http://www.moreisdifferent.com/wp-content/uploads/2013/02/zoomed_in.png"><img class=" wp-image-1220 aligncenter" alt="zoomed_in" src="http://www.moreisdifferent.com/wp-content/uploads/2013/02/zoomed_in.png?w=283" width="556" height="588" srcset="http://www.moreisdifferent.com/wp-content/uploads/2013/02/zoomed_in.png 750w, http://www.moreisdifferent.com/wp-content/uploads/2013/02/zoomed_in-283x300.png 283w" sizes="(max-width: 556px) 100vw, 556px" /></a><!--more-->
 </p>
 
 Oddly enough, it will become easier to read if we make it _smaller:_
 
-[<img class="alignnone size-medium wp-image-1221" alt="zoomed_out" src="http://www.danielcelton.com/wp-content/uploads/2013/02/zoomed_out.png?w=300" width="381" height="265" />](http://www.danielcelton.com/wp-content/uploads/2013/02/zoomed_out.png)
+[<img class="alignnone size-medium wp-image-1221" alt="zoomed_out" src="http://www.moreisdifferent.com/wp-content/uploads/2013/02/zoomed_out.png?w=300" width="381" height="265" />](http://www.moreisdifferent.com/wp-content/uploads/2013/02/zoomed_out.png)
 
 This is the same resolution image, but with a smaller size. You can get the same effect by moving away from your computer monitor.  By doing this I can read the titles of the brown and navy blue books as well as the author of the navy blue book. However I can&#8217;t read the title of the middle book.  Can any of you?
 
