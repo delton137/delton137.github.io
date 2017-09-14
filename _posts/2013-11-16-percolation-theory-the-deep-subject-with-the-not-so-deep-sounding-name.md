@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p dir="ltr">
-  <em>“Let us randomly place spherical cavities of radius</em> <em>r in a medium, allowing them to overlap. At what volume fraction of cavities is water able to travel arbitrarily long distances through the medium?”</em><a href="http://www.danielcelton.com/wp-content/uploads/2013/11/percolation_ex.png"><img class="size-medium wp-image-1488 aligncenter" alt="percolation_ex" src="http://www.danielcelton.com/wp-content/uploads/2013/11/percolation_ex.png?w=300" width="267" height="205" srcset="http://www.moreisdifferent.com/wp-content/uploads/2013/11/percolation_ex.png 520w, http://www.moreisdifferent.com/wp-content/uploads/2013/11/percolation_ex-300x232.png 300w" sizes="(max-width: 267px) 100vw, 267px" /></a>A way to visualize this is to picture a slab of this rock, with a thickness L, covered with water on top. The rock extends infinitely to the left and right. At a certain critical volume fraction, called the percolation threshold, water will always be able to find a path through the rock, regardless of the thickness L.
+  <em>“Let us randomly place spherical cavities of radius</em> <em>r in a medium, allowing them to overlap. At what volume fraction of cavities is water able to travel arbitrarily long distances through the medium?”</em><a href="http://www.moreisdifferent.com/wp-content/uploads/2013/11/percolation_ex.png"><img class="size-medium wp-image-1488 aligncenter" alt="percolation_ex" src="http://www.moreisdifferent.com/wp-content/uploads/2013/11/percolation_ex.png?w=300" width="267" height="205" srcset="http://www.moreisdifferent.com/wp-content/uploads/2013/11/percolation_ex.png 520w, http://www.moreisdifferent.com/wp-content/uploads/2013/11/percolation_ex-300x232.png 300w" sizes="(max-width: 267px) 100vw, 267px" /></a>A way to visualize this is to picture a slab of this rock, with a thickness L, covered with water on top. The rock extends infinitely to the left and right. At a certain critical volume fraction, called the percolation threshold, water will always be able to find a path through the rock, regardless of the thickness L.
 </p>
 
 <p dir="ltr">
@@ -58,7 +58,7 @@ categories:
 </p>
 
 <p dir="ltr">
-  <a href="http://www.danielcelton.com/wp-content/uploads/2013/11/percolation_squares.png"><img class="size-medium wp-image-1489 aligncenter" alt="percolation_squares" src="http://www.danielcelton.com/wp-content/uploads/2013/11/percolation_squares.png?w=137" width="213" height="505" /></a>To the best of our knowledge, the percolation threshold on the square lattice is:
+  <a href="http://www.moreisdifferent.com/wp-content/uploads/2013/11/percolation_squares.png"><img class="size-medium wp-image-1489 aligncenter" alt="percolation_squares" src="http://www.moreisdifferent.com/wp-content/uploads/2013/11/percolation_squares.png?w=137" width="213" height="505" /></a>To the best of our knowledge, the percolation threshold on the square lattice is:
 </p>
 
 <p dir="ltr">
@@ -82,7 +82,7 @@ categories:
 </p>
 
 <p dir="ltr">
-  The following table I compiled shows site and bond percolation thresholds for some simple lattices:<a href="http://www.danielcelton.com/wp-content/uploads/2013/11/percolation_thresholds.png"><img class="size-medium wp-image-1490 aligncenter" alt="percolation_thresholds" src="http://www.danielcelton.com/wp-content/uploads/2013/11/percolation_thresholds.png?w=300" width="488" height="377" srcset="http://www.moreisdifferent.com/wp-content/uploads/2013/11/percolation_thresholds.png 681w, http://www.moreisdifferent.com/wp-content/uploads/2013/11/percolation_thresholds-300x232.png 300w" sizes="(max-width: 488px) 100vw, 488px" /></a>A few of these are known exactly, but most are not.
+  The following table I compiled shows site and bond percolation thresholds for some simple lattices:<a href="http://www.moreisdifferent.com/wp-content/uploads/2013/11/percolation_thresholds.png"><img class="size-medium wp-image-1490 aligncenter" alt="percolation_thresholds" src="http://www.moreisdifferent.com/wp-content/uploads/2013/11/percolation_thresholds.png?w=300" width="488" height="377" srcset="http://www.moreisdifferent.com/wp-content/uploads/2013/11/percolation_thresholds.png 681w, http://www.moreisdifferent.com/wp-content/uploads/2013/11/percolation_thresholds-300x232.png 300w" sizes="(max-width: 488px) 100vw, 488px" /></a>A few of these are known exactly, but most are not.
 </p>
 
 <p dir="ltr">

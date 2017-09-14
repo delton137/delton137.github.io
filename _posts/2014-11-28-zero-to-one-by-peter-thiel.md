@@ -13,7 +13,7 @@ categories:
 tags:
   - Peter Thiel
 ---
-[<img class=" size-medium wp-image-1627 alignright" src="http://www.danielcelton.com/wp-content/uploads/2014/11/zerotoone_350h.jpg?w=199" alt="ZeroToOne_350h" width="199" height="300" srcset="http://www.moreisdifferent.com/wp-content/uploads/2014/11/zerotoone_350h.jpg 233w, http://www.moreisdifferent.com/wp-content/uploads/2014/11/zerotoone_350h-200x300.jpg 200w" sizes="(max-width: 199px) 100vw, 199px" />](http://www.danielcelton.com/wp-content/uploads/2014/11/zerotoone_350h.jpg)[**_Zero to One: Notes on Startups, or How to Build the Future_
+[<img class=" size-medium wp-image-1627 alignright" src="http://www.moreisdifferent.com/wp-content/uploads/2014/11/zerotoone_350h.jpg?w=199" alt="ZeroToOne_350h" width="199" height="300" srcset="http://www.moreisdifferent.com/wp-content/uploads/2014/11/zerotoone_350h.jpg 233w, http://www.moreisdifferent.com/wp-content/uploads/2014/11/zerotoone_350h-200x300.jpg 200w" sizes="(max-width: 199px) 100vw, 199px" />](http://www.moreisdifferent.com/wp-content/uploads/2014/11/zerotoone_350h.jpg)[**_Zero to One: Notes on Startups, or How to Build the Future_
   
 **](http://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296) Peter Thiel with Blake Masters
   

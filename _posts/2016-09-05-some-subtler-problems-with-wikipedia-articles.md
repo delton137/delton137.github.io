@@ -7,7 +7,7 @@ layout: post
 guid: http://www.moreisdifferent.com/?p=3260
 permalink: /2016/09/05/some-subtler-problems-with-wikipedia-articles/
 categories:
-  - Uncategorized
+  - programming
 tags:
   - wikipedia
 ---
@@ -17,11 +17,11 @@ tags:
 
 <span style="font-weight: 400;">Here are some specific issues I’ve noticed: </span>
 
-**Growing lists**
+# Growing lists
 
 <span style="font-weight: 400;">One problem I’ve noticed is growing lists. Consider this sentence from the lead of the article on Arkansas: </span><span style="font-weight: 400;"><br /> </span>
 
-> <span style="font-weight: 400;">&#8220;Arkansas&#8217;s enduring image has earned the state &#8220;a special place in the American consciousness&#8221;,</span>[<span style="font-weight: 400;">[11]</span>](https://en.wikipedia.org/wiki/Arkansas#cite_note-FOOTNOTEBlevins20094-13) <span style="font-weight: 400;">people such as politician and educational advocate </span>[<span style="font-weight: 400;">William Fulbright</span>](https://en.wikipedia.org/wiki/William_Fulbright)<span style="font-weight: 400;">, former President </span>[<span style="font-weight: 400;">Bill Clinton</span>](https://en.wikipedia.org/wiki/Bill_Clinton)<span style="font-weight: 400;">, former </span>[<span style="font-weight: 400;">NATO</span>](https://en.wikipedia.org/wiki/NATO) [<span style="font-weight: 400;">Supreme Allied Commander</span>](https://en.wikipedia.org/wiki/Supreme_Allied_Commander) <span style="font-weight: 400;">General </span>[<span style="font-weight: 400;">Wesley Clark</span>](https://en.wikipedia.org/wiki/Wesley_Clark)<span style="font-weight: 400;">, Walmart magnate </span>[<span style="font-weight: 400;">Sam Walton</span>](https://en.wikipedia.org/wiki/Sam_Walton)<span style="font-weight: 400;">,</span>[<span style="font-weight: 400;">[12]</span>](https://en.wikipedia.org/wiki/Arkansas#cite_note-14) <span style="font-weight: 400;">singer-songwriters </span>[<span style="font-weight: 400;">Johnny Cash</span>](https://en.wikipedia.org/wiki/Johnny_Cash) <span style="font-weight: 400;">and </span>[<span style="font-weight: 400;">Glen Campbell</span>](https://en.wikipedia.org/wiki/Glen_Campbell)<span style="font-weight: 400;">, the poet C.D. Wright, and physicist </span>[<span style="font-weight: 400;">William L. McMillan</span>](https://en.wikipedia.org/wiki/William_L._McMillan)<span style="font-weight: 400;">, who was a pioneer in superconductor research; have lived in Arkansans.”</span>
+<span style="font-weight: 400;">&#8220;Arkansas&#8217;s enduring image has earned the state &#8220;a special place in the American consciousness&#8221;,</span>[<span style="font-weight: 400;">[11]</span>](https://en.wikipedia.org/wiki/Arkansas#cite_note-FOOTNOTEBlevins20094-13) <span style="font-weight: 400;">people such as politician and educational advocate </span>[<span style="font-weight: 400;">William Fulbright</span>](https://en.wikipedia.org/wiki/William_Fulbright)<span style="font-weight: 400;">, former President </span>[<span style="font-weight: 400;">Bill Clinton</span>](https://en.wikipedia.org/wiki/Bill_Clinton)<span style="font-weight: 400;">, former </span>[<span style="font-weight: 400;">NATO</span>](https://en.wikipedia.org/wiki/NATO) [<span style="font-weight: 400;">Supreme Allied Commander</span>](https://en.wikipedia.org/wiki/Supreme_Allied_Commander) <span style="font-weight: 400;">General </span>[<span style="font-weight: 400;">Wesley Clark</span>](https://en.wikipedia.org/wiki/Wesley_Clark)<span style="font-weight: 400;">, Walmart magnate </span>[<span style="font-weight: 400;">Sam Walton</span>](https://en.wikipedia.org/wiki/Sam_Walton)<span style="font-weight: 400;">,</span>[<span style="font-weight: 400;">[12]</span>](https://en.wikipedia.org/wiki/Arkansas#cite_note-14) <span style="font-weight: 400;">singer-songwriters </span>[<span style="font-weight: 400;">Johnny Cash</span>](https://en.wikipedia.org/wiki/Johnny_Cash) <span style="font-weight: 400;">and </span>[<span style="font-weight: 400;">Glen Campbell</span>](https://en.wikipedia.org/wiki/Glen_Campbell)<span style="font-weight: 400;">, the poet C.D. Wright, and physicist </span>[<span style="font-weight: 400;">William L. McMillan</span>](https://en.wikipedia.org/wiki/William_L._McMillan)<span style="font-weight: 400;">, who was a pioneer in superconductor research; have lived in Arkansans.”</span>
 
 <span style="font-weight: 400;">Note how cumbersomely long this sentence is. This sentence is likely to only get longer in the future, because its is easy for anyone to add their favorite Arkansan to the list. Note that the grammar error in the last work of the sentence (Arkansans instead of “Arkansas”) clearly gives away that the sentence was tampered with at least once through its lifetime. </span>
 
@@ -31,7 +31,7 @@ tags:
 
 <span style="font-weight: 400;">In my view, this information (which is all unimportant trivia) does not belong in the lead to the article. The specific names of the naval vessels should be footnote at best, and do we really need to mention that an elementary school named after Sam Houston is called Sam Houston Elementary, and that a roadside statue of Sam Houston is named after Sam Houston? </span>
 
-**Trivia dropping** 
+# Trivia dropping
 
 <span style="font-weight: 400;">Looking further in the Sam Houston article reveals an example of another problem: </span>
 
@@ -39,7 +39,7 @@ tags:
 
 <span style="font-weight: 400;">This is an example of a trivia dropping. The problem is that people have many different views on what is important. To whoever placed it in the article, the “historic plaque in Townland” must have been highly salient and significant in the story of Sam Houston. That is fine, but just because something is significant to one person’s understanding of a subject doesn’t mean it is important more generally. It takes a subject matter expert to be able to properly determine what details are important enough for inclusion in an encyclopedia article. For many subjects on Wikipedia, entire books have been written (biographies, histories, monographs). The challenge of writing an encyclopedia articles is to take all that information and extract the bits that are likely to be the most relevant to the average reader, and condense that information into a few pages. More often though, Wikipedia articles appear to be random collections of facts which, while potentially important to some readers are not important for most readers. </span>
 
-**Wild fluctuations in technical level**
+# Wild fluctuations in technical level
 
 <span style="font-weight: 400;">This problem doesn’t seem to be as common, but I’ve noticed it several times over the years, especially in math and physics articles. Often, I&#8217;ll be reading an article and then all of a sudden there will be a very technical statement with a lot of unexplained jargon that was probably written by someone with a PhD in the field. As a random example, this statement is found in the </span>_<span style="font-weight: 400;">lead </span>_<span style="font-weight: 400;">of the </span>[<span style="font-weight: 400;">Boole’s inequality</span>](https://en.wikipedia.org/wiki/Boole%27s_inequality) <span style="font-weight: 400;">article: </span>
 
@@ -47,6 +47,6 @@ tags:
 
 Less commonly, one sometimes finds extremely obvious statements. For instance, the second sentence in the article on humidity is “Water vapor is the gaseous state of water and is invisible.”, for which a reference to a random website is given (clearly link dropping).
 
-**Do people really care?** 
+# Do people really care?
 
 <span style="font-weight: 400;">Despite these problems, Wikipedia is still very useful and will remain so. It seems like the primary way that people use Wikipedia as a quick way to look up facts &#8211; things like the population of Shanghai, whether a tomato is a fruit or a vegetable, or how old Hillary Clinton is. </span><span style="font-weight: 400;">Wikipedia was never meant for deep dives into a subject, for that books will always be the best. Wikipedia isn&#8217;t the best option for a serious review of a subject, because (in my opinion) the quality of information is not nearly as good as what can be found review articles published in peer reviewed journals (if you have access) or, for particular case of philosophy, the Stanford Encyclopedia of Philosophy.  There are also other projects like <a href="http://www.scholarpedia.org/article/Main_Page">ScholarPedia </a> that offer higher quality articles on many subjects. Still, for many subjects Wikipedia remains the best option. For many people though, the presence of so many intra-wiki links makes Wikipedia not very conducive for long term reading, leading to what XKCD calls “<a href="https://xkcd.com/214/">The Problem With Wikipedia</a>”.  [Personally, I have found that I can not do long form reading within in a browser at all. Fortunately, I recently discovered that it easy to send webpages to the Kindle using the </span>[<span style="font-weight: 400;">“Send to Kindle” extension</span>](https://www.amazon.com/gp/sendtokindle)<span style="font-weight: 400;">.]</span>

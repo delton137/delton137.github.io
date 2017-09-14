@@ -41,7 +41,7 @@ I do not have room here to discuss the long history of this problem, which goes 
 
 There is a very good chance that the hot water will freeze first. In most cases, the reason for this can be explained as follows:
 
-In almost all freezers, there is a thin layer of frost coating the inside of the freezer. This frost is a very good insulator. The hotter container will quickly melt this layer of frost, allowing good thermal conduction between the inside of the freezer and the container. Once this good thermal contact is established, the container of hot water will cool much faster than the container of cold.[<img class="size-medium wp-image-1280 aligncenter" src="http://www.danielcelton.com/wp-content/uploads/2013/04/hot_cold_in_freezer.png?w=207" alt="hot_cold_in_freezer" width="558" height="797" />](http://www.danielcelton.com/wp-content/uploads/2013/04/hot_cold_in_freezer.png)There is additionally another problem with this setup &#8211; the containers are open, so more hot water will evaporate than cold. Because of this, the hot water container will end up with a lower mass than the cold and thus will not take as long to freeze completely solid.
+In almost all freezers, there is a thin layer of frost coating the inside of the freezer. This frost is a very good insulator. The hotter container will quickly melt this layer of frost, allowing good thermal conduction between the inside of the freezer and the container. Once this good thermal contact is established, the container of hot water will cool much faster than the container of cold.[<img class="size-medium wp-image-1280 aligncenter" src="http://www.moreisdifferent.com/wp-content/uploads/2013/04/hot_cold_in_freezer.png?w=207" alt="hot_cold_in_freezer" width="558" height="797" />](http://www.moreisdifferent.com/wp-content/uploads/2013/04/hot_cold_in_freezer.png)There is additionally another problem with this setup &#8211; the containers are open, so more hot water will evaporate than cold. Because of this, the hot water container will end up with a lower mass than the cold and thus will not take as long to freeze completely solid.
 
 **But what about identical containers under identical conditions?
   
@@ -67,13 +67,13 @@ Of course it is still quite possible that the onset of freezing will occur first
 
 In his most recent round of experiments, he took ultra-pure samples of distilled water and sealed them in small glass vials. The vials were then suspended by threads in a vacuum and cooled using radiative cooling. The nice thing about this method of cooling is that it completely removes the possibility of a difference in the thermal contact between the hot & cold vials and ensures that they are all cooled in exactly the same fashion. Furthermore, the cooling is very uniform and reproducible.
 
-[<img class="aligncenter" src="http://www.danielcelton.com/wp-content/uploads/2013/04/experiment_apparatus.png?w=300" alt="experiment_apparatus" width="324" height="241" />](http://www.danielcelton.com/wp-content/uploads/2013/04/experiment_apparatus.png)
+[<img class="aligncenter" src="http://www.moreisdifferent.com/wp-content/uploads/2013/04/experiment_apparatus.png?w=300" alt="experiment_apparatus" width="324" height="241" />](http://www.moreisdifferent.com/wp-content/uploads/2013/04/experiment_apparatus.png)
 
 <p class="size-medium wp-image-1283 ">
   A small thermocouple measures the temperature as a function of time to high accuracy. Here is an example of two sets of data, comparing hot & cold water:
 </p>
 
-[<img class="aligncenter" src="http://www.danielcelton.com/wp-content/uploads/2013/04/hot_cold_latent_heat_ex1.png?w=300" alt="hot_cold_latent_heat_ex" width="300" height="227" />](http://www.danielcelton.com/wp-content/uploads/2013/04/hot_cold_latent_heat_ex1.png)
+[<img class="aligncenter" src="http://www.moreisdifferent.com/wp-content/uploads/2013/04/hot_cold_latent_heat_ex1.png?w=300" alt="hot_cold_latent_heat_ex" width="300" height="227" />](http://www.moreisdifferent.com/wp-content/uploads/2013/04/hot_cold_latent_heat_ex1.png)
 
 Notice that both the hot & cold water are cooled below 0 C &#8211; this is called supercooling, and it happens very easily in water, especially when the container is very clean.
 
@@ -85,7 +85,7 @@ So what was the outcome of Brownridge&#8217;s experiments? The outcomes were mix
 
 The HTNS is a constant of the container. Brownridge showed that it doesn&#8217;t change with time, by freezing and thawing the sample many many times:
 
-[<img class="size-medium wp-image-1286  aligncenter" src="http://www.danielcelton.com/wp-content/uploads/2013/04/reproducibility.png?w=300" alt="reproducibility" width="300" height="212" srcset="http://www.moreisdifferent.com/wp-content/uploads/2013/04/reproducibility.png 1005w, http://www.moreisdifferent.com/wp-content/uploads/2013/04/reproducibility-300x213.png 300w, http://www.moreisdifferent.com/wp-content/uploads/2013/04/reproducibility-768x544.png 768w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.danielcelton.com/wp-content/uploads/2013/04/reproducibility.png)
+[<img class="size-medium wp-image-1286  aligncenter" src="http://www.moreisdifferent.com/wp-content/uploads/2013/04/reproducibility.png?w=300" alt="reproducibility" width="300" height="212" srcset="http://www.moreisdifferent.com/wp-content/uploads/2013/04/reproducibility.png 1005w, http://www.moreisdifferent.com/wp-content/uploads/2013/04/reproducibility-300x213.png 300w, http://www.moreisdifferent.com/wp-content/uploads/2013/04/reproducibility-768x544.png 768w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.moreisdifferent.com/wp-content/uploads/2013/04/reproducibility.png)
 
 <p style="text-align:left;">
   In this case, the HTNS of the container was -11.2 C. Brownridge also kept a sample super cooled at -15 C for 422 days, just to show that the water will not spontaneously freeze!

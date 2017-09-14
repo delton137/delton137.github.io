@@ -22,7 +22,7 @@ Nevertheless, I felt I should lend a few thoughts on this matter. A few weeks ag
 
 <!--more-->
 
-[<img class="alignnone size-full wp-image-1583" src="http://www.danielcelton.com/wp-content/uploads/2014/11/51thv6md7bl-_sl300_.jpg" alt="51tHV6mD7bL._SL300_" width="300" height="300" srcset="http://www.moreisdifferent.com/wp-content/uploads/2014/11/51thv6md7bl-_sl300_.jpg 300w, http://www.moreisdifferent.com/wp-content/uploads/2014/11/51thv6md7bl-_sl300_-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.danielcelton.com/wp-content/uploads/2014/11/51thv6md7bl-_sl300_.jpg)
+[<img class="alignnone size-full wp-image-1583" src="http://www.moreisdifferent.com/wp-content/uploads/2014/11/51thv6md7bl-_sl300_.jpg" alt="51tHV6mD7bL._SL300_" width="300" height="300" srcset="http://www.moreisdifferent.com/wp-content/uploads/2014/11/51thv6md7bl-_sl300_.jpg 300w, http://www.moreisdifferent.com/wp-content/uploads/2014/11/51thv6md7bl-_sl300_-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.moreisdifferent.com/wp-content/uploads/2014/11/51thv6md7bl-_sl300_.jpg)
 
 I support the Tesla museum project 100%. For those who don&#8217;t know, [the Tesla Science Center](http://www.teslasciencecenter.org/) is a museum and multi-purpose space that is being built at Tesla&#8217;s Wardenclyff laboratory, the only remaining of his labs. [Their latest fundraiser is called &#8220;Buy Brick for Nik&#8221;.](https://www.indiegogo.com/projects/buy-a-brick-for-the-nikola-tesla-museum)
 
@@ -110,7 +110,7 @@ Finally a few points about money &#8212;  Tesla cared a lot about money &#8212;
 
 One final thing:
 
-[<img class="alignnone size-medium wp-image-1582" src="http://www.danielcelton.com/wp-content/uploads/2014/11/teslareading.jpg?w=300" alt="teslareading" width="300" height="198" srcset="http://www.moreisdifferent.com/wp-content/uploads/2014/11/teslareading.jpg 1181w, http://www.moreisdifferent.com/wp-content/uploads/2014/11/teslareading-300x199.jpg 300w, http://www.moreisdifferent.com/wp-content/uploads/2014/11/teslareading-768x509.jpg 768w, http://www.moreisdifferent.com/wp-content/uploads/2014/11/teslareading-1024x678.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.danielcelton.com/wp-content/uploads/2014/11/teslareading.jpg)
+[<img class="alignnone size-medium wp-image-1582" src="http://www.moreisdifferent.com/wp-content/uploads/2014/11/teslareading.jpg?w=300" alt="teslareading" width="300" height="198" srcset="http://www.moreisdifferent.com/wp-content/uploads/2014/11/teslareading.jpg 1181w, http://www.moreisdifferent.com/wp-content/uploads/2014/11/teslareading-300x199.jpg 300w, http://www.moreisdifferent.com/wp-content/uploads/2014/11/teslareading-768x509.jpg 768w, http://www.moreisdifferent.com/wp-content/uploads/2014/11/teslareading-1024x678.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.moreisdifferent.com/wp-content/uploads/2014/11/teslareading.jpg)
 
 Fun fact &#8212; this iconic picture is actually fake &#8212; it was made by first exposing the photographic plate to the lightening and then exposing it to Tesla sitting in the chair (pg 298).
 

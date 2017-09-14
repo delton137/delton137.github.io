@@ -29,7 +29,7 @@ tags:
   
 > &#8211; Richard Feynman, in _The Character of Physical Law_ (1965)
 
-[<img class=" wp-image-2088 aligncenter" src="http://www.danielcelton.com/wp-content/uploads/2015/09/drzbpv0.jpg?w=300" alt="DrZbPV0" width="1024" height="1364" />](http://www.danielcelton.com/wp-content/uploads/2015/09/drzbpv0.jpg)
+[<img class=" wp-image-2088 aligncenter" src="http://www.moreisdifferent.com/wp-content/uploads/2015/09/drzbpv0.jpg?w=300" alt="DrZbPV0" width="1024" height="1364" />](http://www.moreisdifferent.com/wp-content/uploads/2015/09/drzbpv0.jpg)
 
 One of the greatest things about being a physics major is that you learn quantum theory and can proudly say that you understand it. When I say &#8220;understand&#8221; I mean that you are able to apply it to make predictions about reality. As Feynman rightly pointed out, nobody understands quantum mechanics in the sense of understanding _why_ it is the way it is.  Fortunately, we don&#8217;t have to understand _why_ it is to know _how_ to use it to make predictions. Using quantum mechanics we can _in principle_ understand almost everything in the universe, in the sense of being able to predict things. In this respect, the theory of quantum mechanics is the highest pinnacle of human thought, since it subsumes almost all of reality into a theory based on just a few axioms and equations.
   
