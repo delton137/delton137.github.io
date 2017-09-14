@@ -80,9 +80,7 @@ In [widely-reported work in 2009](http://www.seas.harvard.edu/capasso/wp-content
 
 I managed to find a [very interesting study](http://www.sciencedirect.com/science/article/pii/S0021979796903264) from 1996 that measured the Casmir force between gold and [PTFE](https://en.wikipedia.org/wiki/Polytetrafluoroethylene) submerged in several liquids, including water. Milling et al. (1996) measured the force between a gold sphere and PTFE block submerged in several liquids, including water. They state:
 
-_
-
-&#8220;For most of the polar solvents used ( water, ethanol, and dimethyl sulfoxide ) the forces between the surfaces was always attractive, albeit weakly in the case of ethanol. The only instance of repulsion between the gold and PTFE surfaces with a polar solvent was observed with dimethyl formamide&#8230;&#8221;_
+> For most of the polar solvents used ( water, ethanol, and dimethyl sulfoxide ) the forces between the surfaces was always attractive, albeit weakly in the case of ethanol. The only instance of repulsion between the gold and PTFE surfaces with a polar solvent was observed with dimethyl formamide&#8230;&#8221;_
 
 Although the force they measured for water was attractive, Table 2 of their study shows that theoretically a gold sphere and PTFE should repel each other in water (indicated by a negative [Hamaker constant](https://en.wikipedia.org/wiki/Hamaker_constant)). Interestingly, the sign of the Hamaker constant predicted by theory only matches the sign found by experiment in 3/10 cases, suggesting problems with either the theory or experiment. At the end of the paper, they explain that this is likely due to incomplete knowledge about the high frequency (UV) dielectric function of the materials (the theory requires the frequency dependent dielectric function as input).
 
