@@ -139,19 +139,19 @@ plt.show()
 
 for $$ mu = 3.5$$ we have:
 <figure>
-<img src="http://www.moreisdifferent.com/wp-content/uploads/2015/12/mu3-5.png" alt="mu3.5" height="323" width="432"></img>
+<img src="http://www.moreisdifferent.com/wp-content/uploads/2015/12/mu3-5.png" alt="mu3.5" height="323" width="432">
 </figure>
 for $$ mu = 2$$ we have:
 <figure>
-<img src="http://www.moreisdifferent.com/wp-content/uploads/2015/12/mu2.png" alt="mu3.5" height="323" width="432"></img>
+<img src="http://www.moreisdifferent.com/wp-content/uploads/2015/12/mu2.png" alt="mu3.5" height="323" width="432">
 </figure>
 For $$ mu = 5$$ we have:
 <figure>
-<img src="http://www.moreisdifferent.com/wp-content/uploads/2015/12/mu5.png" alt="mu3.5" height="323" width="432"></img>
+<img src="http://www.moreisdifferent.com/wp-content/uploads/2015/12/mu5.png" alt="mu3.5" height="323" width="432">
 </figure>
 For $$ mu = 5.9$$ we have:
 <figure>
-<img src="http://www.moreisdifferent.com/wp-content/uploads/2015/12/mu5-9.png" alt="mu3.5" height="323" width="432"></img>
+<img src="http://www.moreisdifferent.com/wp-content/uploads/2015/12/mu5-9.png" alt="mu3.5" height="323" width="432">
 </figure>
 the algebraic computations were cumbersome, but it works!
 
