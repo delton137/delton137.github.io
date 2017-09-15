@@ -1,6 +1,6 @@
 ---
 id: 1774
-title: The chance that a child will have a severe reaction to the MMR vaccine is less than the chance they will die in 200 mile car ride
+title: The chance that a child will have a severe reaction to the MMR vaccine is less than the chance they will die in a 200 mile car ride
 date: 2015-05-05T02:47:13+00:00
 author: delton137
 layout: post
@@ -9,27 +9,11 @@ permalink: /2015/05/05/the-chance-that-a-child-will-have-a-severe-reaction-to-a-
 publicize_google_plus_url:
   - https://plus.google.com/+DanElton/posts/Atq1XX8HsY3
 publicize_facebook_url:
-  - https://facebook.com/
-  - https://facebook.com/
-  - https://facebook.com/
-  - https://facebook.com/
-  - https://facebook.com/
-  - https://facebook.com/
-  - https://facebook.com/
-  - https://facebook.com/
 publicize_twitter_user:
   - moreisdifferent
 publicize_twitter_url:
   - http://t.co/jNZx52351X
 publicize_linkedin_url:
-  - ""
-  - ""
-  - ""
-  - ""
-  - ""
-  - ""
-  - ""
-  - ""
 publicize_tumblr_url:
   - http://moreisdifferentblog.tumblr.com.tumblr.com/post/118168733973
 publicize_path_id:
@@ -42,7 +26,7 @@ tags:
   - pseudoscience
   - vacination
 ---
-_Backstory: Several weeks ago Newsday refused to publish a comment I posted on the article &#8220;[Vaccine court protects &#8216;big pharma](http://www.newsday.com/opinion/letters/letter-vaccine-court-protects-big-pharma-1.10123110)&#8216;&#8221;. Having experienced this before (they have a very limited window to submit comments), I decided to rewrite the comment and submit it as an editorial. Recently I discovered it [had been published](http://www.newsday.com/opinion/letters/letter-risks-from-vaccines-are-miniscule-1.10190694). Unfortunately, the editor removed one of the key points from my piece, and also botched the grammar on the third line, so I am republishing the full piece here, with minor copyediting._
+_**Backstory**: Several weeks ago Newsday refused to publish a comment I posted on the article &#8220;[Vaccine court protects &#8216;big pharma](http://www.newsday.com/opinion/letters/letter-vaccine-court-protects-big-pharma-1.10123110)&#8216;&#8221;. Having experienced this before (they have a very limited window to submit comments), I decided to rewrite the comment and submit it as an editorial. Recently I discovered it [had been published](http://www.newsday.com/opinion/letters/letter-risks-from-vaccines-are-miniscule-1.10190694). Unfortunately, the editor removed one of the key points from my piece, and also botched the grammar on the third line, so I am republishing the full piece here, with minor copyediting._
 
 <!--more-->
 
@@ -55,15 +39,15 @@ The author of the editorial is also correct that vaccines are not 100% effective
 We do not have to place ‘blind trust’ in big companies as the author suggests. All vaccines must past through years of rigorous safety testing at the FDA before they can appear on the market (on average this process takes 10-15 years). Once on the market, the FDA and other agencies continue to monitor the safety of vaccines. We also have a very powerful tort system which many argue gives excessive power to the plaintiff. The statistics compiled by research agencies across the world paint an extremely clear picture &#8211; vaccines work and the benefits of vaccination greatly outweigh the tiny risks of a side effect.
 
 _Addendum:_ _After publication of this, some people have suggested to me that the analogy to school shootings may make vaccines seem more threatening, since many parents are very concerned about the safety of their children at school. This is a valid point, so one should be careful before drawing the connection, because just as many people perceive the threat of vaccines to be much higher than it is, the same goes for school shootings. People overestimate certain risks (like shark attacks, etc) that seem scary while ignoring much larger risks that are more mundane (like dying by falling down stairs). The average person&#8217;s perception of risk is always going to be very skewed. Therefore there are likely much better analogies to help the average person relate to what a risk of 1 in 1 million is. For example, the chance of dying on a 150 mile car trip in California is about 1 in 1 million ([source](https://www.stat.berkeley.edu/~aldous/Real-World/million.html))
-  
+
 Here are some things that are a lot more likely: ([source](http://www.riskcomm.com/visualaids/riskscale/datasources.php))
-  
+
 &#8212; Dying next year in a car accident (1 in 17,625)_
-  
+
 _&#8212; Dying next year from poisoning (1 in 86,313)_
-  
+
 _&#8212; Dying next year in a fire (1 in 87,500)
-  
-_ 
-  
+
+_
+
 _The other point that should be made is that in the rare case that a child has a severe symptom after a vaccine, this does not imply the vaccine was at fault. The entire topic of severe vaccine reactions is poorly documented due to the extreme rarity of the event, which makes it hard to study. The statistics that are available are basically just based on anecdotal accounts of a child having a severe symptom concurrent with a vaccination. Therefore, the statistic at 1 in 1 million should be considered an upper bound (or in other words, an overestimate of the rate). There are good reasons to believe the actual risk is much smaller. However, I didn&#8217;t want to wade into a debate about what the exact best value is for the risk, since such debates usually can become quite intricate and distract from the point I was trying to make._
