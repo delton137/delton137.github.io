@@ -1,10 +1,10 @@
 ---
-id: 2000
+id: 10000
 title: DIY Drug Discovery - using molecular fingerprints and machine learning for solubility prediction
 comments: true
 author: delton137
 layout: post
-permalink: /2017/9/21/DIY-Drug-Discovery-using-molecular-fingerprints-and-machine-learning-for-solubility-prediction
+permalink: /2017/9/21/DIY-Drug-Discovery-using-molecular-fingerprints-and-machine-learning-for-solubility-prediction/
 categories:
   - drug discovery
   - Python
@@ -13,6 +13,10 @@ tags:
 ---
 
 This is going to be the first in a series of posts on what I am calling "DIY Drug Discovery". Admittedly, though, this title is hyperbolic. Discovering drug drug requires bringing it through a series of trials, which is very hard, if not impossible for an individual to do themselves. What I'm really going to be discussing is drug screening.
+
+<h1 id="no_toc">Table of contents</h1>
+* TOC
+{:toc}
 
 # Background on chemical space and drug discovery
 
@@ -2116,14 +2120,10 @@ Next we do grid searches to tune the hyperparameters of the KernelRidge, Ridge, 
 </div>
 </div>
 
-
-
 # Testing out different machine learning models
-
 
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[34]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
