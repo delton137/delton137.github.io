@@ -9,7 +9,7 @@ permalink: /2014/05/23/entropy-part-i/
 geo_public:
   - "0"
 categories:
-  - Uncategorized
+  - physics
 tags:
   - entropy
 ---

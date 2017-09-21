@@ -7,7 +7,7 @@ layout: post
 guid: https://moreisdifferent.wordpress.com/?p=2026
 permalink: /2010/07/02/some-energy-drink-reviews/
 categories:
-  - Uncategorized
+
 tags:
   - energy drinks
 ---

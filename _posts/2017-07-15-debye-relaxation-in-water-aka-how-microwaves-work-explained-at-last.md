@@ -8,7 +8,7 @@ guid: http://www.moreisdifferent.com/?p=3421
 permalink: /2017/07/15/debye-relaxation-in-water-aka-how-microwaves-work-explained-at-last/
 categories:
   - research
-  - Uncategorized
+
 ---
 My new paper, _&#8220;_[The origin of the Debye relaxation in liquid water and fitting the high frequency excess response](http://pubs.rsc.org/en/content/articlehtml/2017/cp/c7cp02884a#cit23)&#8221; has been published in The Royal Society of Chemistry&#8217;s journal *Physical Chemistry Chemical Physics*.
 

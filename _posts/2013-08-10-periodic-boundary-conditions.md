@@ -11,7 +11,6 @@ geo_public:
 categories:
   - research
   - technical
-  - Uncategorized
 tags:
   - polyhedra
   - research
@@ -19,7 +18,7 @@ tags:
 ---
 As promised , I shall now reveal why I had a bout of interest in polyhedra, as discussed in my [last post](http://moreisdifferent.wordpress.com/2013/07/19/polyhedra/).
 
-[Sorry for those of you who were waiting on the edge of your seats for three weeks]
+(Sorry for those of you who were waiting on the edge of your seats for three weeks)
 
 It all has to do with **periodic boundary conditions (PBCs)**.
 
@@ -27,7 +26,7 @@ It all has to do with **periodic boundary conditions (PBCs)**.
 
 When people do molecular dynamics simulations, for instance of water, they simulate a certain number of molecules.  In the field of water research I am in, typically people will simulate around 128 &#8211; 512 water molecules. (for some arcane reason, people like to use powers of 2). In biophysics simulations of biomolecules in water 10,000 to 100,000 water molecules may be called for.  These simulations are not done in &#8216;boxes&#8217; where the molecules bounce off the walls, instead they are done with periodic boundary conditions.
 
-The easiest way to understand how PBCs work is to play the game _[Asteroids](http://www.play.vg/games/4-Asteroids.html)._ __When an asteroid or spaceship reaches one side of the box, it re-enters on the opposite side. The same thing happens in a molecular dynamics simulation, except instead of asteroids, one has molecules.
+The easiest way to understand how PBCs work is to play the game [_Asteroids_](http://www.play.vg/games/4-Asteroids.html). When an asteroid or spaceship reaches one side of the box, it re-enters on the opposite side. The same thing happens in a molecular dynamics simulation, except instead of asteroids, one has molecules.
 
 This is great, because it means that there are no walls and no surfaces. Water molecules behave differently near surfaces (either a vacuum or a wall), creating special structures. In fact, when water is simulated in a box with walls, the water molecules near the walls create pressure on the water molecules in the simulation box. [This is called [Laplace pressure](http://en.wikipedia.org/wiki/Laplace_pressure)  &#8211; for instance, if 100,000 water molecules are confined in a nanocavity, they will behave much different than normal water, partially because of this extra pressure. Such &#8216;nanoconfined&#8217; water has been a hot topic of research of late and there were dozens of talks at American Physical Society March Meeting devoted to the topic.)
 
@@ -35,7 +34,10 @@ There is a difficulty with this approach though when it comes to treating the Co
 
 I won&#8217;t go into the technical details of Ewald summation &#8212; the important part is that it creates many &#8216;replicas&#8217; of the box arranged in a periodic fashion. Ewald summation gives the exact energies/forces for this periodic system, which makes it great for analyzing systems which are naturally periodic, like crystals.  Liquid water is of course, not periodic though, so this is cause for concern.
 
-<figure id="attachment_1400" class="thumbnail wp-caption aligncenter style="width: 441px"><img class="size-medium wp-image-1400 " alt="water_PBCs" src="http://www.moreisdifferent.com/wp-content/uploads/2013/08/water_pbcs.png?w=300" width="431" height="275" /><figcaption class="caption wp-caption-text">[Pic from TeXmple.net]</figcaption></figure>Because of this concern people have investigated using other boxes besides cubes for non-periodic systems like water. Essentially, we need a polyhedra with nice regular polygon sides which fills space and does so in a regular way (a similarly situated fashion). As discussed in the last post, there only five types of polyhedra (in three dimensions) which fulfill these criteria: the cube, hexagonal prism, rhombic dodecahedron, rhombo-hexagonal dodecahedron, and truncated octahedron.
+<figure><p align="center">
+<img class="size-medium wp-image-1400 " alt="water_PBCs" src="http://www.moreisdifferent.com/wp-content/uploads/2013/08/water_pbcs.png?w=300" width="431" height="275"/><figcaption>Pic from TeXmple.net</figcaption></p>
+</figure>
+Because of this concern people have investigated using other boxes besides cubes for non-periodic systems like water. Essentially, we need a polyhedra with nice regular polygon sides which fills space and does so in a regular way (a similarly situated fashion). As discussed in the last post, there only five types of polyhedra (in three dimensions) which fulfill these criteria: the cube, hexagonal prism, rhombic dodecahedron, rhombo-hexagonal dodecahedron, and truncated octahedron.
 
 Out of these the cube is still the most used because it is really easy to implement the PBCs, and in many applications the cube is perfectly fine. The hexagonal prism is useful for simulating very long molecules, like DNA, in water &#8211; otherwise simulating DNA in a cube would require adding many more water molecules than are necessary,  increasing the computational cost of the simulation.  Of the remaining polyhedra, the rhombic dodecahedron is the most used, followed by the truncated octahedron. The rhombo-hexagonal dodecahedron is never used and there really isn&#8217;t any good reason to use it.
 

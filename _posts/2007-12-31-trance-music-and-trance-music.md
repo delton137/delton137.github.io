@@ -9,7 +9,7 @@ permalink: /2007/12/31/trance-music-and-trance-music/
 geo_public:
   - "0"
 categories:
-  - Uncategorized
+  - music
 ---
 _This is a paper I wrote for the class &#8220;History of Western Music&#8221; at Rensselaer Polytechnic Institute which I decided to make public, since there are not many articles on the internet dealing with the specific topics I write about._
 
@@ -21,7 +21,7 @@ The roots of trance music go back some time.  Connections are often drawn to th
 
 At this juncture it is important to distinguish between trance and techno, because the two terms are often confused and used interchangeably, especially in the United States. In most literature on the subject, the term “techno” is reserved for the highly synthesized and sequenced music that developed in the late 1970s, primarily in Detroit.  Techno music usually contained darker sounds, some taken from rock, mixed with a wide degree of experimentation. There was also a parallel development in Germany, most notably by the German band Kraftwerk, which became known as “Electro”.  Highly minimal techno was also composed, for instance the album _E2-E4_ by Manuel Gottsching, produced in 1981, is 60 minute composition of slowly shifting layers of drums and simple synthesized sounds. Such pieces sound much like trance, and could well be considered trance, but by all accounts trance did not start until the 90s. The two tracks that are always referred to as the first examples of trance hits are “Age of Love” (_Track 1)_, by Age of Love, and “We Came in Peace”, by Dance 2 Trance, both composed in 1990. Indeed, these tracks were something distinctly different from anything before. Although not as slow as true minimalism, they utilized gradual changes and gradual ambient washes, along with a steady, danceable beat.  Some describe them as a combination of techno and house.
 
-During the period from around 1990-1996, trance only had only a small, underground following, and music of this era is already referred to as “Classic Trance”.  Early trance producers utilized the new and exciting sounds of the Roland TB-303 Bassline Synthesizer, a sound which became known as the “acid” sound.  Classic trance is known for unpredictable beat patterns, highly abstract sounds, and relatively longwinded tracks, which are perhaps reasons it remained unpopular to the public at large. A perfect example is “Falling” by Oliver Leib, from an album called _A Day on our Planet_.(_Track 2)_ A related genre is “gabber trance”, which incorporated hard, fast bass rhythms from the related genre of “gabber hardcore”. A song from the later half of this era that became mainstream classic was “Red Herring” by Union Jack. (_track 3)_ 
+During the period from around 1990-1996, trance only had only a small, underground following, and music of this era is already referred to as “Classic Trance”.  Early trance producers utilized the new and exciting sounds of the Roland TB-303 Bassline Synthesizer, a sound which became known as the “acid” sound.  Classic trance is known for unpredictable beat patterns, highly abstract sounds, and relatively longwinded tracks, which are perhaps reasons it remained unpopular to the public at large. A perfect example is “Falling” by Oliver Leib, from an album called _A Day on our Planet_.(_Track 2)_ A related genre is “gabber trance”, which incorporated hard, fast bass rhythms from the related genre of “gabber hardcore”. A song from the later half of this era that became mainstream classic was “Red Herring” by Union Jack. (_track 3)_
 
 By 1996, trance had started to become more melodic and anthemic. For instance, “Resurrection”, by Russian producer PPK was a major hit of this time. (_Track 4)_ A new form was becoming commercially successful: the “build, breakdown, anthem” form. This form contained catchy melodies and lots of tension and release which appealed to clubbers. Soon, producers were producing tracks without beginnings and ends, and DJs were mixing them together into huge mixes and starting to pull in huge audiences. During this time DJing became a respectable art on its own &#8212; no formal musical training required. The greatest example of this is DJ Tiesto, who was ranked no. 1 DJ in the World by TheDJList.com and DJ Magazine for many years. Like many new stars in electronic music, DJ Tiesto has been criticized for not having traditional musical talents or training.  However, he has produced some of the most highly acclaimed trance mixes, starting early on with gabber trance and gaining popularity with compilations of the very best of uplifting and epic trance. He even composed a few highly original and influential tracks of his own, such as a high energy remix of Samuel Barber’s “Adagio for Strings”, and a non-stop &#8220;hoover&#8221;-based song “Flight 643”.(_Track 5_).  However, he perhaps is best known for his compilations of Ibiza and Uplifting trance in a series of albums called “In Search of Sunrise”. (_tracks 6 and 7_) Ibiza trance follows the laid back lifestyle of vacationers on sunny Mediterranean beaches in Ibiza Spain and features soothing rifts, female vocals, ambient washes, and other “tropical” sounds, such as steel drums and samples of ocean waves and seagulls. Other influential DJs from the 2000&#8217;s include Paul Oakenfold, Sasha and John Digweed, and Paul Van Dyck.  Related to Ibiza trance is ambient trance, which contains all kinds of ambient washes, sounds and samples. Finally, one last genre of note is a genre ushered in by DJ Robert Miles with his album _Dreamland_ called “Dream Trance”. (_track 8)._ Dream trance is characterized by quieter sounds and soothing piano riffs, such as found in the notorious Italian dance hit “I Like Chopin”.
 
@@ -31,18 +31,16 @@ Now that we have seen some of the great variety of trance music, we should ask t
 
 I hope that in the future trance music will be studied more by musicologists because I believe there is a lot to be learned and taken from the genre.  The worse thing someone interested in understanding music can do is to limit themselves to specially cultivated forms, as was done by the high modernists. I also disagree with those that preach that future musicians and musicologists must study classical music only, to help preserve it. While preservation of the classical musical arts is certainly important, this attitude seems to have placed a certain stigma on the formal study of more popular genres. In particular there seems to be a belief that trance music is simplistic, boring, and will dull one’s senses. Perhaps it does &#8220;dull one&#8217;s senses&#8221; or some mental capabilities, but this is interesting in it&#8217;s own right. I also reject the notion that trance and other popular forms of electronic music are merely cultural fads of little significance in the wider scheme of music.  Music that is “simple”, accessible to the general population and emotionally powerful can still be studied and analyzed.  (although the degree of accessibility may vary greatly, commercial trance is generally acknowledged as being easily accessible).  Finally, there are a lot of important technical aspects associated with trance, such as how sounds are created and processed, and I suspect many of the techniques developed by trance musicians will only become more widely used as time passes.
 
-&nbsp;
+# References
 
-**References**
-  
 1. [Ishkur&#8217;s Guide to Electronic Music](http://www.di.fm/edmguide/)
-  
+
 2. Argentum. &#8220;[Trance music. A definition of genre](http://www.moodbook.com/music/trance.html).&#8221;
-  
+
 3. Wier, Dennis R. (1996). &#8220;[Trance Inducing Music](http://www.trance.ch/papers/music.htm)&#8220;. (The Trance Institute, Switzerland).
-  
+
 4. Pilch, J. J. (2004) Music and Trance. [Music Therapy Today](http://musictherapyworld.net) (online) Vol. V, Issue 2,
-  
+
 5. [Shamanism](http://en.wikipedia.org/wiki/Shamanism), from Wikipedia.
-  
+
 © 2007 Dan Elton

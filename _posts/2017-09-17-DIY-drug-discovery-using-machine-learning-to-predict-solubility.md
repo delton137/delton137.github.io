@@ -6,24 +6,33 @@ author: delton137
 layout: post
 permalink: /2007/09/10/my-top-10-electronic-albums/
 categories:
-  - music
+  - drug discovery
+  - Python
+  - machine learning
+
 tags:
-  - albums
-  - music
 ---
 
 This is going to be the first in a series of posts on what I am calling "DIY Drug Discovery". Admittedly, though, this title is hyperbolic. Discovering drug drug requires bringing it through a series of trials, which is very hard, if not impossible for an individual to do themselves. What I'm really going to be discussing is drug screening.
 
-The set of all possible molecules, which is known as chemical space, is incredibly vast. The Chemical Abstracts Service (CAS) registry lists  49,037,297 known molecules (molecules that have actually be synthesized). The number of different molecules that have been synthesized, in both public and private settings, may reach towards 100,000,000. Yet this is only tiny fraction of the number of possible molecules. Recent research has tried to enumerate the number of molecules containing Carbon, Nitrogen, Oxygen, Hydrogen, Oxygen, and halogens. So far, possible molecules up to a size of 17 atoms have been enumerated. Enumerating possible molecules isn't as simple as enumerating possible molecular graphs. There are many physical constraints as to what molecules are actually possible. For instance:
+The set of all possible molecules, which is known as chemical space, is incredibly vast. The Chemical Abstracts Service (CAS) registry lists 49,037,297 known molecules (molecules that have actually be synthesized). The number of different molecules that have been synthesized, in both public and private settings, may reach towards 100,000,000. Yet this is only tiny fraction of the number of possible molecules. Recent research has tried to enumerate the number of molecules containing Carbon, Nitrogen, Oxygen, Hydrogen, Oxygen, and halogens. So far, possible molecules up to a size of 17 atoms have been enumerated. Enumerating possible molecules isn't as simple as enumerating possible molecular graphs. There are many physical constraints as to what molecules are actually possible. For instance:
 
-* **geometrical strain** - Due to the nature of atomic orbitals, each atom prefers to bond in particular configuration. For instance, carbon prefers to bond tetrahedrally and when forming rings prefers to form hexagons. Pentagons and other shapes are not necessarily impossible, but they are generally high unstable. For instance, cubane, where carbon is forced to bond at 90 degrees, is highly unstable and explosive material. Carbon bonding in a triangle is impossible.
+* **bonding** many types of bonds are not possible -- covalent bonds must be between an electron donor and an electron acceptor. A Chlorine atom cannot bond to a flourine and a sodium cannot bond to a magnesium.
 
-* **functional group stability** - this is a very complex field with many rules. For instance, if an Oxygen or Nitrogen atom is bonded to a non-aromatic C=C, this creates an Enol or enamine group which is highly reactive.
+* **geometrical constraints** - Due to the nature of atomic orbitals, each atom prefers to bond in particular configuration. For instance, carbon prefers to bond tetrahedrally and when forming rings prefers to form hexagons. Pentagons and other shapes are not necessarily impossible, but they are generally high unstable. For instance, [https://en.wikipedia.org/wiki/Cubane](cubane), where carbon is forced to bond at 90 degrees, is highly unstable and explosive material. Carbon bonding in a triangle, or an isolated pentagon or decagon is impossible.
 
-These constraints limit the space significantly. For instance the authors of GBD note "The vast majority of fused small ring systems are high strained and reactive. 96.7% of molecules with carbon are removed by this constraint.   
+* **functional group stability** - Many arrangements may be structurally stable in isolation but are highly reactive, making them near impossible to contain in the real world.  For instance, if an oxygen or nitrogen atom is bonded to a non-aromatic C=C, this creates an Enol or enamine group which is highly reactive.
 
+These constraints limit the chemical space significantly, epsecially if one is interested in . For instance the authors of GBD note "The vast majority of fused small ring systems are high strained and reactive. 96.7% of molecules with carbon are removed by this constraint. There are further practical constraints for drugs:
 
-The point of all this is that molecular space is really large.
+* **synthesizability** - the molecule most be synthesizable. For instance molecules with more than three carbon rings are exceedingly difficult to synthesize.  
+
+* **solubility** the molecule must be soluble in the blood.
+
+* **toxicity** the molecule cannot be toxic.
+
+* binding (will it actually bind to the target of interest?
+
 
 * computer simulation
 * actual synthesis
@@ -32,44 +41,34 @@ It would be very helpful if machine learning could be used to screen molecules.
 
 For instance we would like to screen for:
 
-* solubility (can it disolve in the blood?)
-* toxicity
-* synthesizability ( many structures, such as those with more than 3 carbon rings, can be extremely hard or impossible to synthesize with current techniques).
-* binding (will it actually bind to the target of interest?
 
-First though we need to encode the structure of the molecule in a form that is amenable to machine learning. This is where most of research on applying to machine learning is focused. A useful represntation encodes features that are relevant and is efficient, so as to avoid the [curse of dimensionality](https://en.wikipedia.org/wiki/Curse_of_dimensionality). Fortunately, there is a way method of featuraization, called fingerprinting, which already has a long history of development in the world of drug discovery.
+First though we need to encode the structure of the molecule in a form that is amenable to machine learning. This is where most of research on applying to machine learning is focused. A useful representation encodes features that are relevant and is efficient, so as to avoid the [curse of dimensionality](https://en.wikipedia.org/wiki/Curse_of_dimensionality). Fortunately, there is a way method of featuraization, called fingerprinting, which already has a long history of development in the world of drug discovery.
 
 
 # Basic concepts of fingerprinting
 
-For more info an in easy to read format, see the [Daylight Information Systems](http://www.daylight.com/dayhtml/doc/theory/theory.finger.html) page on fingerprinting.
+For more info an in easy to read format, see the [http://www.daylight.com/dayhtml/doc/theory/theory.finger.html](Daylight Information Systems page on fingerprinting).
 
-Fingerprinting was originally designed to solve the problem of molecular substructure search -- how do I find all the molecules in my database with a particular substructure? A related problem is molecular simularity - given a molecule, how do I find the molecules in my database that are most similar. Only later were fingerprints applied for machine learning, or what has traditionally called quantitative structure property relationships (QSPR).
+Fingerprinting was originally designed to solve the problem of molecular substructure search -- how do I find all the molecules in my database with a particular substructure? A related problem is molecular similarity - given a molecule, how do I find the molecules in my database that are most similar. Only later were fingerprints applied for machine learning, or what has traditionally called quantitative structure property relationships (QSPR).
 
-Fingerprinting creates an efficient representation of the molecular graph. The basic process of fingerprinting is as follows: First the algorithm generates a set of patterns. For instance, enumeration of differe nt paths is common:
+Fingerprinting creates an efficient representation of the molecular graph. The basic process of fingerprinting is as follows: First the algorithm generates a set of patterns. For instance, enumeration of different paths is common:
 
-0-bond paths:
-  C
-  O
-  N
-1-bond paths:
-  OC
- C=C
-  CN
-2-bond paths:
-  OC=C
- C=CN
+0-bond paths:   |    1-bond paths: |
+  C             |       OC         |
+  O             |      C==C        |
+  N             |       CN         |
+2-bond paths:   |    3-bond paths: |
+ OC=C           |       OC=CN      |
+ C=CN           |                  |
 
-3-bond paths:
-  OC=CN
-
-Storing all this data would result in an enormous representation. The trick of fingerprinting is to “hash” each of these features, which essentially means they act as seeds to a random number generator called a hash function. The hash function generates a bit string. Typically the hash function is chosen so that 4 or 5 bits per pattern are non-zero in the bit string. Next, all of the bit strings are ’OR’ed together.
+<br>
+Storing all this data would result in an enormous representation. The trick of fingerprinting is to “hash” each of these features, which essentially means they act as seeds to a random number generator called a hash function. The hash function generates a bit string. Typically the hash function is chosen so that 4 or 5 bits per pattern are non-zero in the bit string. Next, all of the bit strings are [https://en.wikipedia.org/wiki/OR_gate](OR)’ed together.
 
 This process is very useful for substructure searching because every bit of the substructure’s fingerprint will be on (=1) in the molecule's fingerprint. Accidental collisions between patterns or substructures are possible, but if the bit density is low (known as a sparse representation) they are rare. Ideally, the on bit density of the bitstring should be tuned so as to reach a particular discriminatory power that is needed (ie. the chance that two structurally different molecules in my database have the same fingerprint is only 1%). There is a tradeoff between discriminatory power and the efficiency of the representation.
 
 In practice, creating a bit density is done through folding. A very long, very sparse fingerprint is ‘folded’ down (with OR operations) to create a fingerprint with a desired length and good bit density. In case this is not obvious what this means, it can be literally thought of as folding the vector onto itself.
 
-Now let's test some fingerprints. We use rdkit, an open source cheminformatics library. Our data consists of [https://en.wikipedia.org/wiki/Simplified_molecular-input_line-entry_system](SMILES) strings, which encode molecular graphs into a string of characters, and experimentally determined solubility values.
+Now let's test some fingerprints. We use [rdkit.org](rdkit), an open source cheminformatics library. Our data consists of [https://en.wikipedia.org/wiki/Simplified_molecular-input_line-entry_system](SMILES) strings, which encode molecular graphs into a string of characters, and experimentally determined solubility values.
 
 
 <div class="cell border-box-sizing code_cell rendered">
@@ -114,24 +113,6 @@ Now let's test some fingerprints. We use rdkit, an open source cheminformatics l
 <span class="n">y</span> <span class="o">=</span> <span class="n">data</span><span class="p">[</span><span class="s1">&#39;Solubility&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">values</span>
 </pre></div>
 
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area">
-<div class="prompt"></div>
-
-<div class="output_subarea output_stream output_stderr output_text">
-<pre>/home/dan/anaconda3/lib/python3.6/site-packages/sklearn/cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
-  &#34;This module will be removed in 0.20.&#34;, DeprecationWarning)
-Using TensorFlow backend.
-</pre>
-</div>
-</div>
-
-</div>
-</div>
-
 Next we make a bunch of different fingerprints. To do this, I have created a fingerprint object, which stores the name of the fingerprint and contains a method for applying the fingerprint and then converting the output into a NumPy array.
 
 </div>
@@ -145,7 +126,7 @@ Next we make a bunch of different fingerprints. To do this, I have created a fin
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[7]:</div>
+
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">rdkit.Chem.rdMolDescriptors</span> <span class="k">import</span>
@@ -183,16 +164,12 @@ Next we make a bunch of different fingerprints. To do this, I have created a fin
             <span class="k">if</span> <span class="p">(</span><span class="nb">str</span><span class="p">(</span><span class="nb">type</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">x</span><span class="p">[</span><span class="mi">0</span><span class="p">]))</span> <span class="o">!=</span> <span class="s2">&quot;&lt;class &#39;numpy.ndarray&#39;&gt;&quot;</span><span class="p">):</span>
                 <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;WARNING: type for &quot;</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">name</span><span class="p">,</span> <span class="s2">&quot;is &quot;</span><span class="p">,</span> <span class="nb">type</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">x</span><span class="p">[</span><span class="mi">0</span><span class="p">]))</span>
 
-        <span class="c1">#Scale X to unit variance and zero mean</span>
-        <span class="c1">#st = StandardScaler()</span>
-        <span class="c1">#self.x = st.fit_transform(self.x)</span>
-
 <span class="k">def</span> <span class="nf">make_fingerprints</span><span class="p">(</span><span class="n">length</span> <span class="o">=</span> <span class="mi">512</span><span class="p">,</span> <span class="n">verbose</span><span class="o">=</span><span class="kc">False</span><span class="p">):</span>
     <span class="n">fp_list</span> <span class="o">=</span> <span class="p">[</span>
          <span class="c1">#fingerprint(lambda x : GetBPFingerprint(x, fpfn=AtomPair), </span>
          <span class="c1">#            &quot;Physiochemical properties (1996)&quot;), ##NOTE: takes a long time to compute</span>
          <span class="n">fingerprint</span><span class="p">(</span><span class="k">lambda</span> <span class="n">x</span> <span class="p">:</span> <span class="n">GetHashedAtomPairFingerprintAsBitVect</span><span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="n">nBits</span> <span class="o">=</span> <span class="n">length</span><span class="p">),</span>
-                     <span class="s2">&quot;Atom pair (1985)&quot;</span><span class="p">),</span>
+                     <span class="s2">&qfuot;Atom pair (1985)&quot;</span><span class="p">),</span>
          <span class="n">fingerprint</span><span class="p">(</span><span class="k">lambda</span> <span class="n">x</span> <span class="p">:</span> <span class="n">GetHashedTopologicalTorsionFingerprintAsBitVect</span><span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="n">nBits</span> <span class="o">=</span> <span class="n">length</span><span class="p">),</span>
                      <span class="s2">&quot;Topological torsion (1987)&quot;</span><span class="p">),</span>
          <span class="n">fingerprint</span><span class="p">(</span><span class="k">lambda</span> <span class="n">x</span> <span class="p">:</span> <span class="n">GetMorganFingerprintAsBitVect</span><span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="n">nBits</span> <span class="o">=</span> <span class="n">length</span><span class="p">),</span>
@@ -220,26 +197,16 @@ Next we make a bunch of different fingerprints. To do this, I have created a fin
 </div>
 </div>
 </div>
+</div>
 
-</div>
-<div class="cell border-box-sizing text_cell rendered">
-<div class="prompt input_prompt">
-</div>
-<div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
+The following code compares the fingerprints we have created, using 20 fold https://en.wikipedia.org/wiki/Cross-validation) and a ridge regression model.
 
-The following code compares the fingerprints we have created.
-
-</div>
-</div>
-</div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[20]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="k">def</span> <span class="nf">test_model_cv</span><span class="p">(</span><span class="n">model</span><span class="p">,</span> <span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">,</span> <span class="n">cv</span><span class="o">=</span><span class="mi">20</span><span class="p">):</span>
-    <span class="n">scores</span> <span class="o">=</span> <span class="n">cross_validation</span><span class="o">.</span><span class="n">cross_val_score</span><span class="p">(</span><span class="n">model</span><span class="p">,</span> <span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">,</span> <span class="n">cv</span><span class="o">=</span><span class="n">cv</span><span class="p">,</span> <span class="n">n_jobs</span><span class="o">=-</span><span class="mi">1</span><span class="p">,</span> <span class="n">scoring</span><span class="o">=</span><span class="s1">&#39;neg_mean_absolute_error&#39;</span><span class="p">)</span>
+    <span class="n">scores</span> <span class="o">=</span> <span class="n">cross_validation</span><span class="o">.</span><span class="n">cross_val_score</span><span class="p">(</span><span class="n">model</span><span class="p">,</span> <span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">,</span> <span class="n">cv</span><span class="o">=</span><span class="n">cv</span><span class="p">,</span> <span class="n">n_jobs</span><span class="o">=-</span><span class="mi">1</span><span class="p">,</span> <br><span class="n">scoring</span><span class="o">=</span><span class="s1">&#39;neg_mean_absolute_error&#39;</span><span class="p">)</span>
 
     <span class="n">scores</span> <span class="o">=</span> <span class="o">-</span><span class="mi">1</span><span class="o"></span><span class="n">scores</span>
 
@@ -283,7 +250,8 @@ The following code compares the fingerprints we have created.
 <div class="prompt"></div>
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>doing  Atom pair (1985)
+<pre>
+doing  Atom pair (1985)
 doing  Topological torsion (1987)
 doing  Morgan circular
 doing  Estate (1995)
@@ -291,12 +259,6 @@ doing  Avalon bit based (2006)
 doing  Avalon+mol. weight
 doing  ErG fingerprint (2006)
 doing  RDKit fingerprint
-</pre>
-</div>
-</div>
-
-<div class="output_subarea output_stream output_stdout output_text">
-<pre>
 
 \begin{tabular}{c c}
            name        &amp;  avg abs error in CV (kJ/cc) \\
@@ -320,7 +282,7 @@ doing  RDKit fingerprint
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[9]:</div>
+
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="k">def</span> <span class="nf">test_model_cv</span><span class="p">(</span><span class="n">model</span><span class="p">,</span> <span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">,</span> <span class="n">cv</span><span class="o">=</span><span class="mi">20</span><span class="p">):</span>
@@ -1967,14 +1929,14 @@ YII=
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>We see that the Estate fingerprint performs best. This is not suprising as Estate encodes information about the effective charge on each atom. For other applications I have tried, the avalon or atom pair fingerprints often perform best. Estate has a fixed length of 80.</p>
+<p>We see that the Estate fingerprint performs best. This is not suprising as Estate encodes information about the effective charge on each atom. For other applications I have tried, the avalon or atom pair fingerprints often perform best. Estate has a fixed length of 80. We create the array X using the Estate fingerprint to feed into machine learning models:</p>
 
 </div>
 </div>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[12]:</div>
+
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="k">def</span> <span class="nf">estate_fingerprint</span><span class="p">(</span><span class="n">mol</span><span class="p">):</span>
@@ -1990,41 +1952,16 @@ YII=
 <span class="n">X</span> <span class="o">=</span> <span class="n">st</span><span class="o">.</span><span class="n">fit_transform</span><span class="p">(</span><span class="n">X</span><span class="p">)</span>
 
 </pre></div>
-
 </div>
 </div>
-</div>
-
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area">
-<div class="prompt"></div>
-
-<div class="output_subarea output_stream output_stderr output_text">
-<pre>/Users/dan/anaconda/lib/python3.6/site-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype int64 was converted to float64 by StandardScaler.
-  warnings.warn(msg, _DataConversionWarning)
-</pre>
 </div>
 </div>
 
-</div>
-</div>
+Next we do grid searches to tune the hyperparameters of the KernelRidge, Ridge, GaussianProcessRegressor, and RandomForestRegressor models in sci-kit-learn:
 
-</div>
-<div class="cell border-box-sizing text_cell rendered">
-<div class="prompt input_prompt">
-</div>
-<div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="Do-grid-searches-to-find-best-parameters-for-KernelRidge">Do grid searches to find best parameters for KernelRidge<a class="anchor-link" href="#Do-grid-searches-to-find-best-parameters-for-KernelRidge">&#182;</a></h3>
-</div>
-</div>
-</div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[14]:</div>
+
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">KRmodel</span> <span class="o">=</span> <span class="n">GridSearchCV</span><span class="p">(</span><span class="n">KernelRidge</span><span class="p">(),</span> <span class="n">cv</span><span class="o">=</span><span class="mi">10</span><span class="p">,</span>
@@ -2063,7 +2000,7 @@ YII=
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[13]:</div>
+
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">Rmodel</span> <span class="o">=</span> <span class="n">GridSearchCV</span><span class="p">(</span><span class="n">Ridge</span><span class="p">(),</span> <span class="n">cv</span><span class="o">=</span><span class="mi">20</span><span class="p">,</span>
@@ -2101,7 +2038,7 @@ YII=
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[15]:</div>
+
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">GPmodel</span> <span class="o">=</span> <span class="n">GridSearchCV</span><span class="p">(</span><span class="n">GaussianProcessRegressor</span><span class="p">(</span><span class="n">normalize_y</span><span class="o">=</span><span class="kc">True</span><span class="p">),</span> <span class="n">cv</span><span class="o">=</span><span class="mi">20</span><span class="p">,</span>
@@ -2138,7 +2075,7 @@ YII=
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[16]:</div>
+
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">RFmodel</span> <span class="o">=</span> <span class="n">GridSearchCV</span><span class="p">(</span><span class="n">RandomForestRegressor</span><span class="p">(),</span> <span class="n">cv</span><span class="o">=</span><span class="mi">20</span><span class="p">,</span>
@@ -2174,18 +2111,12 @@ YII=
 </div>
 
 </div>
-<div class="cell border-box-sizing text_cell rendered">
-<div class="prompt input_prompt">
 </div>
-<div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Test-out-different-machine-learning-models">Test out different machine learning models<a class="anchor-link" href="#Test-out-different-machine-learning-models">&#182;</a></h2>
-</div>
-</div>
-</div>
+# Testing out different machine learning models
+
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[21]:</div>
+
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
@@ -2196,8 +2127,8 @@ YII=
     <span class="n">plt</span><span class="o">.</span><span class="n">figure</span><span class="p">(</span><span class="n">figsize</span><span class="o">=</span><span class="n">figsize</span><span class="p">)</span>
     <span class="n">plt</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">y_train</span><span class="p">,</span><span class="n">y_pred_train</span><span class="p">,</span> <span class="n">label</span> <span class="o">=</span> <span class="s1">&#39;Train&#39;</span><span class="p">,</span> <span class="n">c</span><span class="o">=</span><span class="s1">&#39;blue&#39;</span><span class="p">)</span>
     <span class="n">plt</span><span class="o">.</span><span class="n">title</span><span class="p">(</span><span class="n">title</span><span class="p">,</span><span class="n">fontsize</span><span class="o">=</span><span class="n">fontsize</span><span class="o">+</span><span class="mi">5</span><span class="p">)</span>
-    <span class="n">plt</span><span class="o">.</span><span class="n">xlabel</span><span class="p">(</span><span class="s1">&#39;Huang Massa Explosive Energy (kJ/cc)&#39;</span><span class="p">,</span> <span class="n">fontsize</span><span class="o">=</span><span class="n">fontsize</span><span class="p">)</span>
-    <span class="n">plt</span><span class="o">.</span><span class="n">ylabel</span><span class="p">(</span><span class="s1">&#39;Predicted Explosive Energy (kJ/cc)&#39;</span><span class="p">,</span> <span class="n">fontsize</span><span class="o">=</span><span class="n">fontsize</span><span class="p">)</span>
+    <span class="n">plt</span><span class="o">.</span><span class="n">xlabel</span><span class="p">(</span><span class="s1">&#39;solubility&#39;</span><span class="p">,</span> <span class="n">fontsize</span><span class="o">=</span><span class="n">fontsize</span><span class="p">)</span>
+    <span class="n">plt</span><span class="o">.</span><span class="n">ylabel</span><span class="p">(</span><span class="s1">&#39;Predicted solubility&#39;</span><span class="p">,</span> <span class="n">fontsize</span><span class="o">=</span><span class="n">fontsize</span><span class="p">)</span>
     <span class="n">plt</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">y_test</span><span class="p">,</span><span class="n">y_pred_test</span><span class="p">,</span><span class="n">c</span><span class="o">=</span><span class="s1">&#39;lightgreen&#39;</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">&#39;Test&#39;</span><span class="p">,</span> <span class="n">alpha</span> <span class="o">=</span> <span class="mf">0.8</span><span class="p">)</span>
     <span class="n">plt</span><span class="o">.</span><span class="n">legend</span><span class="p">(</span><span class="n">loc</span><span class="o">=</span><span class="mi">4</span><span class="p">)</span>
     <span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
@@ -2218,7 +2149,7 @@ YII=
     <span class="k">for</span> <span class="p">(</span><span class="n">name</span><span class="p">,</span> <span class="n">model</span><span class="p">)</span> <span class="ow">in</span> <span class="n">model_dict</span><span class="o">.</span><span class="n">items</span><span class="p">():</span>
         <span class="c1">#print(&quot;running %s&quot; % name)</span>
         <span class="n">scores</span> <span class="o">=</span> <span class="n">cross_validation</span><span class="o">.</span><span class="n">cross_val_score</span><span class="p">(</span><span class="n">model</span><span class="p">,</span> <span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">,</span> <span class="n">cv</span><span class="o">=</span><span class="mi">20</span><span class="p">,</span> <span class="n">n_jobs</span><span class="o">=-</span><span class="mi">1</span><span class="p">,</span> <span class="n">scoring</span><span class="o">=</span><span class="s1">&#39;neg_mean_absolute_error&#39;</span><span class="p">)</span>
-        <span class="n">scores</span> <span class="o">=</span> <span class="o">-</span><span class="mi">1</span><span class="o">*</span><span class="n">scores</span>
+        <span class="n">scores</span> <span class="o">=</span> <span class="o">-</span><span class="mi">1</span><span class="o">\*</span><span class="n">scores</span>
         <span class="n">mean_score</span> <span class="o">=</span> <span class="n">scores</span><span class="o">.</span><span class="n">mean</span><span class="p">()</span>
         <span class="n">mean_scores</span><span class="p">[</span><span class="n">name</span><span class="p">]</span> <span class="o">=</span> <span class="n">mean_score</span>
 
@@ -2230,7 +2161,7 @@ YII=
 
         <span class="n">y_pred_test</span>  <span class="o">=</span> <span class="n">model</span><span class="o">.</span><span class="n">predict</span><span class="p">(</span><span class="n">X_test</span><span class="p">)</span>
 
-        <span class="n">percent_error</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">mean</span><span class="p">(</span> <span class="mi">100</span><span class="o">*</span><span class="n">np</span><span class="o">.</span><span class="n">abs</span><span class="p">(</span><span class="n">y_test</span> <span class="o">-</span><span class="n">y_pred_test</span><span class="p">)</span><span class="o">/</span><span class="n">np</span><span class="o">.</span><span class="n">abs</span><span class="p">(</span><span class="n">y_pred_test</span><span class="p">))</span>
+        <span class="n">percent_error</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">mean</span><span class="p">(</span> <span class="mi">100</span><span class="o">\*</span><span class="n">np</span><span class="o">.</span><span class="n">abs</span><span class="p">(</span><span class="n">y_test</span> <span class="o">-</span><span class="n">y_pred_test</span><span class="p">)</span><span class="o">/</span><span class="n">np</span><span class="o">.</span><span class="n">abs</span><span class="p">(</span><span class="n">y_pred_test</span><span class="p">))</span>
 
         <span class="n">percent_errors</span><span class="p">[</span><span class="n">name</span><span class="p">]</span> <span class="o">=</span> <span class="n">percent_error</span>
 
@@ -2280,9 +2211,7 @@ YII=
 
 
 
-<div class="output_text output_subarea ">
-<pre>&lt;matplotlib.figure.Figure at 0x1200cc240&gt;</pre>
-</div>
+
 
 </div>
 
@@ -2976,9 +2905,7 @@ NwzDMIwSw5S/YRiGYZQYpvwNwzAMo8T4/wJF/VuN7wBKAAAAAElFTkSuQmCC
 
 
 
-<div class="output_text output_subarea ">
-<pre>&lt;matplotlib.figure.Figure at 0x11fff14e0&gt;</pre>
-</div>
+
 
 </div>
 
@@ -3701,9 +3628,7 @@ fsY/GZKW7ZGhQRYAAAAASUVORK5CYII=
 
 
 
-<div class="output_text output_subarea ">
-<pre>&lt;matplotlib.figure.Figure at 0x11fdd2b70&gt;</pre>
-</div>
+
 
 </div>
 
@@ -4412,9 +4337,7 @@ BEEQBE3GT2SpCXQVf9voAAAAAElFTkSuQmCC
 
 
 
-<div class="output_text output_subarea ">
-<pre>&lt;matplotlib.figure.Figure at 0x11fc9e128&gt;</pre>
-</div>
+
 
 </div>
 
@@ -4993,9 +4916,7 @@ wzCMPMOUv2EYhmHkGab8DcMwDCPPMOVvGIZhGHnG/wfppDQjjrHp/wAAAABJRU5ErkJggg==
 
 
 
-<div class="output_text output_subarea ">
-<pre>&lt;matplotlib.figure.Figure at 0x12015b358&gt;</pre>
-</div>
+
 
 </div>
 
@@ -5721,9 +5642,7 @@ brsAAAAASUVORK5CYII=
 
 
 
-<div class="output_text output_subarea ">
-<pre>&lt;matplotlib.figure.Figure at 0x123de06a0&gt;</pre>
-</div>
+
 
 </div>
 
@@ -6441,9 +6360,7 @@ TkSuQmCC
 
 
 
-<div class="output_text output_subarea ">
-<pre>&lt;matplotlib.figure.Figure at 0x120976b38&gt;</pre>
-</div>
+
 
 </div>
 
@@ -7127,9 +7044,7 @@ AElFTkSuQmCC
 
 
 
-<div class="output_text output_subarea ">
-<pre>&lt;matplotlib.figure.Figure at 0x120eb0278&gt;</pre>
-</div>
+
 
 </div>
 
@@ -7845,9 +7760,7 @@ gg==
 
 
 
-<div class="output_text output_subarea ">
-<pre>&lt;matplotlib.figure.Figure at 0x123e9f3c8&gt;</pre>
-</div>
+
 
 </div>
 
@@ -8507,537 +8420,4 @@ b4wxxhQZC/7GGGNMkbHgb4wxxhSZ/w8+QzS7p9lq2gAAAABJRU5ErkJggg==
 </div>
 
 </div>
-</div>
-
-</div>
-<div class="cell border-box-sizing text_cell rendered">
-<div class="prompt input_prompt">
-</div>
-<div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="Try-PCA-with-fingerprints-of-size-1024">Try PCA with fingerprints of size 1024<a class="anchor-link" href="#Try-PCA-with-fingerprints-of-size-1024">&#182;</a></h3>
-</div>
-</div>
-</div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[3]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">sklearn.decomposition</span> <span class="k">import</span> <span class="n">PCA</span>
-
-<span class="n">model_list</span> <span class="o">=</span> <span class="p">[</span><span class="n">Ridge</span><span class="p">(</span><span class="n">alpha</span><span class="o">=</span><span class="mf">1e-9</span><span class="p">),</span>  
-              <span class="n">RandomForestRegressor</span><span class="p">(</span><span class="n">n_estimators</span><span class="o">=</span><span class="mi">100</span><span class="p">)</span>
-             <span class="p">]</span>
-
-<span class="n">model_names</span> <span class="o">=</span> <span class="p">[</span><span class="s2">&quot;Ridge regression&quot;</span><span class="p">,</span> <span class="s2">&quot;Random Forest&quot;</span><span class="p">]</span>
-
-<span class="n">num_PCA_to_test</span> <span class="o">=</span> <span class="mi">20</span>
-
-<span class="n">PCA_sizes</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">linspace</span><span class="p">(</span><span class="mi">4</span><span class="p">,</span> <span class="mi">80</span><span class="p">,</span> <span class="n">num_PCA_to_test</span><span class="p">)</span>
-
-<span class="n">cv</span> <span class="o">=</span> <span class="mi">20</span>
-
-<span class="n">num_models</span> <span class="o">=</span> <span class="nb">len</span><span class="p">(</span><span class="n">model_list</span><span class="p">)</span>
-
-<span class="n">scores_vs_PCA_size</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">zeros</span><span class="p">([</span><span class="n">num_models</span><span class="p">,</span> <span class="n">num_PCA_to_test</span><span class="p">])</span>
-
-<span class="c1">#make fingerprint</span>
-<span class="n">fpsize</span> <span class="o">=</span> <span class="mi">1024</span>
-<span class="n">x</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">zeros</span><span class="p">([</span><span class="n">num_mols</span><span class="p">,</span> <span class="n">fpsize</span> <span class="p">])</span>
-<span class="k">for</span> <span class="n">n</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">num_mols</span><span class="p">):</span>
-    <span class="n">x</span><span class="p">[</span><span class="n">n</span><span class="p">,:]</span> <span class="o">=</span> <span class="n">RDKFingerprint</span><span class="p">(</span><span class="n">data</span><span class="p">[</span><span class="s1">&#39;Mol&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">iloc</span><span class="p">[</span><span class="n">n</span><span class="p">],</span> <span class="n">fpSize</span><span class="o">=</span><span class="n">fpsize</span><span class="p">)</span>
-
-
-<span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">num_PCA_to_test</span><span class="p">):</span>
-
-    <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;doing size&quot;</span><span class="p">,</span> <span class="n">i</span><span class="p">,</span> <span class="s2">&quot; of&quot;</span><span class="p">,</span> <span class="n">num_PCA_to_test</span><span class="p">)</span>
-
-    <span class="n">pca</span> <span class="o">=</span> <span class="n">PCA</span><span class="p">(</span><span class="n">n_components</span><span class="o">=</span><span class="nb">int</span><span class="p">(</span><span class="n">PCA_sizes</span><span class="p">[</span><span class="n">i</span><span class="p">]))</span>
-    <span class="n">x_reduced</span> <span class="o">=</span> <span class="n">pca</span><span class="o">.</span><span class="n">fit_transform</span><span class="p">(</span><span class="n">x</span><span class="p">)</span>
-
-    <span class="c1">##run models in model_list </span>
-    <span class="k">for</span> <span class="n">j</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">num_models</span><span class="p">):</span>
-        <span class="n">scores</span> <span class="o">=</span> <span class="n">cross_validation</span><span class="o">.</span><span class="n">cross_val_score</span><span class="p">(</span><span class="n">model_list</span><span class="p">[</span><span class="n">j</span><span class="p">],</span> <span class="n">x_reduced</span><span class="p">,</span> <span class="n">y</span><span class="p">,</span> <span class="n">cv</span><span class="o">=</span><span class="n">cv</span><span class="p">,</span> <span class="n">n_jobs</span><span class="o">=-</span><span class="mi">1</span><span class="p">,</span> <span class="n">scoring</span><span class="o">=</span><span class="s1">&#39;neg_mean_absolute_error&#39;</span><span class="p">)</span>
-        <span class="n">scores</span> <span class="o">=</span> <span class="o">-</span><span class="mi">1</span><span class="o">*</span><span class="n">scores</span>
-        <span class="n">scores_vs_PCA_size</span><span class="p">[</span><span class="n">j</span><span class="p">,</span><span class="n">i</span><span class="p">]</span> <span class="o">=</span> <span class="n">scores</span><span class="o">.</span><span class="n">mean</span><span class="p">()</span>
-</pre></div>
-
-</div>
-</div>
-</div>
-
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area">
-<div class="prompt"></div>
-
-<div class="output_subarea output_stream output_stdout output_text">
-<pre>doing size 0  of 20
-doing size 1  of 20
-doing size 2  of 20
-doing size 3  of 20
-doing size 4  of 20
-doing size 5  of 20
-doing size 6  of 20
-doing size 7  of 20
-doing size 8  of 20
-doing size 9  of 20
-doing size 10  of 20
-doing size 11  of 20
-doing size 12  of 20
-doing size 13  of 20
-doing size 14  of 20
-doing size 15  of 20
-doing size 16  of 20
-doing size 17  of 20
-doing size 18  of 20
-doing size 19  of 20
-</pre>
-</div>
-</div>
-
-</div>
-</div>
-
-</div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[7]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
-<span class="n">plt</span><span class="o">.</span><span class="n">clf</span><span class="p">()</span>
-<span class="n">fig</span> <span class="o">=</span> <span class="n">plt</span><span class="o">.</span><span class="n">figure</span><span class="p">(</span><span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">9</span><span class="p">,</span><span class="mi">6</span><span class="p">))</span>
-<span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">num_models</span><span class="p">):</span>
-    <span class="n">plt</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">PCA_sizes</span><span class="p">,</span> <span class="n">scores_vs_PCA_size</span><span class="p">[</span><span class="n">i</span><span class="p">,:],</span><span class="s1">&#39;*&#39;</span><span class="p">)</span>
-<span class="c1">#plt.title(&#39;average CV score vs # of principle components used&#39;,fontsize=25)</span>
-<span class="n">plt</span><span class="o">.</span><span class="n">ylabel</span><span class="p">(</span><span class="s1">&#39;average mean absolute error in CV &#39;</span><span class="p">,</span><span class="n">fontsize</span><span class="o">=</span><span class="mi">20</span><span class="p">)</span>
-<span class="n">plt</span><span class="o">.</span><span class="n">xlabel</span><span class="p">(</span><span class="s1">&#39;PCA components used &#39;</span><span class="p">,</span><span class="n">fontsize</span><span class="o">=</span><span class="mi">20</span><span class="p">)</span>
-<span class="n">plt</span><span class="o">.</span><span class="n">legend</span><span class="p">(</span><span class="n">model_names</span><span class="p">,</span><span class="n">fontsize</span><span class="o">=</span><span class="mi">15</span><span class="p">)</span>
-<span class="n">plt</span><span class="o">.</span><span class="n">ylim</span><span class="p">([</span><span class="o">.</span><span class="mi">5</span><span class="p">,</span><span class="mf">1.4</span><span class="p">])</span>
-<span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
-</pre></div>
-
-</div>
-</div>
-</div>
-
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area">
-<div class="prompt"></div>
-
-
-
-<div class="output_text output_subarea ">
-<pre>&lt;matplotlib.figure.Figure at 0x7fc5f29575f8&gt;</pre>
-</div>
-
-</div>
-
-<div class="output_area">
-<div class="prompt"></div>
-
-
-
-<div class="output_png output_subarea ">
-<img src="data:image/png;base64,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
-x4IFC7jrrrto164dM2bM4PPPPycl5acfa+vWreOUU07hmGOO4bbbbmPDhg2MHTuWnTt3Fuvr6aef
-5uyzz+bCCy/ktttu4/PPP+e3v/0t+fn5zJgxo8I43nnnHT7//HPuuOMOmjRpQvPmzfnss8849thj
-yczMZPbs2eTm5nLjjTdy6qmnsnTpUsyMH374gZNPPpl27drx5JNPsmvXLq688kr++9//cvDBBxe7
-x1dffcWkSZP43e9+R7t27ejatStbt26lb9++tGzZkgcffJAmTZowbdo0fv7zn7Nq1SoaN27M448/
-zm233cYdd9xBjx492LJlC/Pnz+f774MxiNtvv50nnniCadOm0bVrVzZs2MDcuXPJyyv/x/rpp5/O
-Z599xowZM2jVqhV33nkn/fr1Y8WKFXTr1q3YZ3rooYcyc+ZM1q5dy8SJE7n++ut54IEHKvw8Y8Ld
-k+7Vq1cvFxFJZh9//HFM+7vhuZXe5bqX/IbnVsa034pMmTLFW7Zs6Tk5OZ6Tk+OfffaZ//znP/ee
-PXv6rl27Ctu9+eabDvgHH3zg7u4ffvihA/7UU08Vttm+fbvvtdde3rlz58JzV199tbds2dJ/+OGH
-wnN///vfHfApU6a4u3t+fr536tTJzz333GKxPfLII56enu6bN28uN/4TTjjB09PTfcOGDcXO/+IX
-v/D999/fd+/eXXhu1apV3qBBA3/ppZfc3f2+++7z1NRUX7t2bWGb9957zwH/1a9+VXjuV7/6lQO+
-YsWKYveYPHmyt2jRwrds2VJ4buvWrd6sWTO/77773N390ksv9REjRpQb/5AhQ3zixInlXn/ssccc
-8O3bt7u7+yuvvOKAL1iwoLDNjh07vFWrVj5+/PjCc507d/af/exnnpOTU3juiiuu8LZt25Z7L/eK
-/0wDWR5lDlDpoygREUle3Se/QpfrXmb2e6txh9nvrabLdS/TffIrCbn/li1bSE1NJTU1lW7durFi
-xQqee+450tLSyn3PsmXLABg2bFjhuaZNmzJgwIBS7QYMGFBsI8PTTjutWJtVq1axevVqzjrrLHJz
-cwtfJ510Ert27ap0JVavXr1o27b4jiivv/46w4cPp0GDBoX9de3alS5duhQ+tlm2bBm9evWiQ4cO
-he878sgjS/UF0KFDB3r27FnqHgMGDKBZs2aF98jIyKBXr16F9+jZsydz585lypQpLF26tNRITM+e
-PZk1axbTp09n5cqVBPlD+ZYuXUqbNm044YQTCs/tscceDB06lLfffrtY2379+hUbPTvooIMSVtdM
-iY2ISD321qR+nNazPempwY+D9NQGDOvZnreu7ZeQ+zdv3pxly5axZMkSHnroIX788UfGjBlDfn5+
-ue/ZsGEDGRkZpKcXf2TWpk2bUu1KTn5NT0+nadOmhcebN28G4JRTTilMsFJTUwsfhRWd61OWshKR
-zZs3c8cddxTrLzU1lS+++KKwv7JiA8o8V949/v73v5e6x5tvvll4j/POO4/bbruNp59+mj59+tC2
-bVsmT55cmOBMnjyZSy+9lAceeIDDDjuMffbZh7vvvrvc/9Zvvvmm1GdcEF/RVWwAe+65Z7HjRo0a
-4e7s3r273P5jJao5NiIikpzaNEsnIy2F3bn5pKU0YHduPhlpKQmbZ5OSkkJmZiYAffr0oXHjxvzy
-l7/kmWeeYdSoUWW+p127dmzfvp1du3YVS25K1hpq164dmzZtKnZu165dxSbDtmgRTBmdOXMmhx9+
-eKl7VTbXp6wdc1u0aMHw4cO54IILSl1r1apVYWwlJ/oCpeKt6B6nnXYaN954Y6lrGRkZADRo0IAr
-r7ySK6+8kjVr1vDEE09www030LFjRy666CLS09O5+eabufnmm/n000958MEHmTBhAt27d2fQoEGl
-+t17773LrOe0cePGws+xNtCIjYhIPbd5x27G9unMnEuOZWyfzmzaEf/fqsvzi1/8gh49enDHHXeU
-26Z3795AsJKpwI4dO5g3b16pdvPmzSs2WfjFF18s1qZ79+506NCBr776iszMzFKvli1bhv5v6N+/
-Px999BG9evUq1V/BBoK9e/dm+fLlhVWtIXjUs3HjxlD36NGjR6l7dO/evVT7ffbZh+uuu45u3brx
-8ccfl7q+3377MWPGDNLS0sq8DkHimZ2dzaJFiwrP/fDDD7z88sv07ds3qrgTQSM2IiL13EPnZBZ+
-f8vpB1fQMv7MjOuvv56xY8fyxhtv0L9//1JtevTowWmnncbFF1/Mtm3b2HvvvbnzzjtLbSQ3YcIE
-7r//fk499VSuvPJKNmzYwLRp02jSpAkNGgS/1zdo0IA//OEPnHPOOWzbto3BgwfTqFEjvvjiC55/
-/nmeffbZ0BvUTZ06lSOPPJIhQ4Zw3nnn0apVK9atW8e8efM499xzOfHEExk3bhy33HILQ4cOZcqU
-KezcuZMpU6bQunXrwtgqMnHiRGbPns1JJ53E5ZdfTocOHdi4cSMLFy6kb9++hau8WrRowVFHHUXz
-5s158803+fTTTwuTxuHDh9OrVy8OP/xwGjduzLPPPktubi7HH398mfc8+eSTOeaYYxg1ahTTpk2j
-ZcuWzJgxg507d3LNNdeE+oziSSM2IiJSq4waNYr99tuP6dOnl9tm1qxZDBw4kAkTJnD++efTv39/
-Ro8eXaxNhw4dePnll8nOzmbEiBHce++9PProo+Tl5dGsWbNi93vhhRd4//33GTlyJCNGjOCBBx7g
-iCOOqNJGePvvvz9LliyhSZMmjB8/nsGDBzNlyhTS0tIKl0Q3adKEV199lcaNGzNq1CimTp3K9OnT
-2XPPPYvFVp5WrVqxZMkSDjjgAK688koGDhzIpEmT+O677zj00EMBOProo1m0aBHjxo3jlFNOYc6c
-OTz88MOcfvrpABxzzDE8//zzjBkzhmHDhrF8+XL+8Y9/FD4aLMvzzz/PgAEDmDBhAiNHjsTdmT9/
-frGl3jXNKpsFXRdlZmZ6yQ2DRESSySeffMKBBx5Y02HUOW+//TbHHXcc8+fPp1+/xEyQjtaXX37J
-/vvvz8yZMxk3blxNh5NwFf2ZNrPl7l5+xlVEqEdRZpYKDAOOBPYCyto32t39/DD9ioiIxMO1117L
-4YcfXjhZ9/e//z2HHnposSXLNeX222+nffv2dO7cmdWrV3P77bfTunVrzjjjjJoOrU6LOrExs/bA
-POAAgnIK5XFAiY2IiNS43bt3c80117Bx40YyMjIYOHAg//M//xPVPJZ4MzNuuukm1q9fT1paGscd
-dxwzZsyI6lGUlC/qR1Fm9iQwCngSeBhYA+SW1dbdv45VgFWhR1Eikuz0KEqSTU08ihoILHL3sSHe
-IyIiIpIwYcbi0oH34hWIiIiISHWFSWw+BDrHKxARERGR6gqT2NwJnGZmB8Xq5mb2qJllm1mZVcbM
-bJiZrTSz980sy8xqz9aGIiIiUuuEmWOTDfwTeNfM7gaWA9+W1dDdF5V1vgyzgPuAx8u5/gbworu7
-mR0KPE2wKktERESklDCJzQKCpdwG3Bj5vjxl7W9TirsvMrMuFVzfUeRwj0ruKSIiIvVcmMTmZmog
-sTCz4cDtQBtgSKLvLyIiInVH1HNs3H2qu98UzSuWAbr7HHc/ADgd+H157cxsfGQeTlZZZd9FRKR2
-mTp1KmZW+GrXrh1Dhw5l5cqVCY+lVatWTJ06NeH3LaroZ1H09fbbb9doXEVNnz6dBQsW1HQYFar5
-rRejFJm38zMza1XO9Znununuma1bt45LDNnbdnHWQ4vJ3r4rLv2LiNQ3zZs3Z/HixSxevJg//vGP
-rFq1igEDBrB169aaDq1GXHXVVYWfR8HrsMMOq+mwCtWFxCZUrahEM7NuwOeRycNHAGnAlpqK5543
-PmXZV1u55/VPuWX4ITUVhohI0khJSeGoo44C4KijjqJLly4cffTRvPrqq4wZM6aGo0u8Ll26FH4e
-sbJz504aN24c0z5rs3JHbMxsvpm9YWYdixxH83oj2ptHyjQsBrqb2VozO9/MLjKziyJNzgA+NLP3
-gfuBUV4D5ci7T36FLte9zOz3VuMOs99bTZfrXqb75FcSHYqISHxs3wCPDYbtG2s0jILRiTVr1hSe
-+/7777nsssvo3r07TZo0oWvXrlx66aVs27at2HvNjLvvvpvrr7+e1q1b06ZNGy699FJ2795drN2i
-RYs47LDDSE9Pp1evXrz77rtlxnLfffex3377kZaWRrdu3bjrrruKXZ86dSqtWrXivffeIzMzk8aN
-G9O3b1++/PJLsrOzOf3002natCkHHngg8+fPj8XHw/z58+nTpw/p6em0bduWSy65hB07flpns2DB
-AsyM1157jdNOO42mTZty2WWXAZCfn8+0adPo1q0baWlp7L///vzlL38p1n9B9fNmzZrRrFkzevbs
-yTPPPAMESdeWLVu46aabCh+T1cbRm4pGbE4kmCzcpMhxNKJOPNz97Equ3wHcEW1/8fLWpH7cMvcT
-/vXRBnbl5JOe2oCTe7TjhiGq0yIiSWLhdFi9BBbeAUP/p8bCWL16NQBdu3YtPPfDDz+Qk5PDzTff
-TLt27VizZg233norI0eO5LXXXiv2/j/84Q+cdNJJzJ49m5UrV/Lb3/6Wzp07M2nSJADWr1/P4MGD
-OfLII3n22WdZv349Y8eO5YcffijWz8MPP8zll1/OxIkTOfnkk3nzzTe56qqr2L17N9ddd12x2MaP
-H8+kSZPYY489+M1vfsM555xDWloagwcP5pJLLmH69OmMHDmSNWvW0KRJEyqSn59Pbu5PZRjNjIYN
-g4XGH330EYMGDWLAgAH84x//YM2aNVx33XV88cUXvPrqq8X6Of/88xk3bhwTJkwgPT0dgMsvv5y/
-/OUv/O53v+OII45g3rx5nHfeebRs2ZKhQ4eybds2hg4dyrBhw/jd736Hu/PBBx/w7bfBzi5z5syh
-X79+nHnmmVxwwQUAHHRQzLa2ix13T7pXr169PNauf26ld7nuJd//hrne5bqX/IbnVsb8HiIi0fr4
-449j09HvW7tPaVb69fvWsem/AlOmTPGWLVt6Tk6O5+Tk+GeffeY///nPvWfPnr5r165y35eTk+Nv
-v/22A/71118Xngf8uOOOK9Z22LBh3qdPn8Lja665xlu0aOHff/994bnZs2c74FOmTHF397y8PG/f
-vr2fe+65xfq6+OKLvVmzZr5z587C+AFfsGBBYZv777/fAb/pppsKz3300UcO+Ny5cyv8PAgGBoq9
-jj322MLro0aN8m7dunlubm7hub///e8O+Lvvvuvu7m+++aYDPmHChGJ9f/rpp25mPmvWrGLnzznn
-HM/MzHR392XLljng27ZtKzfGli1bFn5OsVbRn2kgy6PMAerM5OGatnnHbsb26cycS45lbJ/ObNqx
-u/I3iYjUdleshINHQkpkDkZKYzhkJFzxQUJuv2XLFlJTU0lNTaVbt26sWLGC5557jrS0tGLt/vrX
-v3L44YfTtGlTUlNT6ds32Ih+1apVxdoNHDiw2PFBBx3E2rVrC4+XLl3KgAEDio2cDB8+vNh71q5d
-y/r16xk5cmSx86NGjWLbtm188MFPn02jRo047rjjCo+7desGwEknnVTq3Lp16yr5NOCaa65h2bJl
-ha9HHnmkWOzDhw8vHMEBOOOMM0hJSSm1cmrIkOK7o7zxxhs0aNCA4cOHk5ubW/jq378/77//Pnl5
-eey77740bdqUMWPG8MILLxSO1NQ1tXrycG3y0Dk/VUu/5fSDazASEZEYymgHaRmQtxtS0oOvac0g
-o21Cbt+8eXNef/118vLy+Pe//83VV1/NmDFjeOedd2jQIPjde86cOfzyl7/k4osv5rbbbqNFixZ8
-8803DB8+nF27iq9S3XPPPYsdN2rUqFibDRs2cOihhxZr06RJE5o2bVp4/M033wDQtm3xz6DguOiK
-rYyMjMI4C+5XMo6CcyVjLUunTp3IzMws89o333xTKqaGDRvSsmXLUqvISrbbvHkzeXl5NG/evNy+
-O3bsyLx585g6dSpnnXUW+fn5DBw4kHvvvZef/exnlcZeWyixERGp777Phl7jIHMcZD0GOxI3gTgl
-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
-"
->
-</div>
-
-</div>
-
-</div>
-</div>
-
-</div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span>
-</pre></div>
-
-</div>
-</div>
-</div>
-
 </div>

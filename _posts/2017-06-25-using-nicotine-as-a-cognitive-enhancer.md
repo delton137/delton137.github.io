@@ -8,7 +8,7 @@ guid: http://www.moreisdifferent.com/?p=3404
 permalink: /2017/06/25/using-nicotine-as-a-cognitive-enhancer/
 categories:
   - nootropics
-  - Uncategorized
+
 ---
 <p class="western" align="left">
   <span style="font-family: 'Times New Roman', serif;">For the past few months I’ve been experimenting with nicotine as a nootropic. A <i>nootropic substance </i>is one that improves cognitive function without any harmful effects, and ideally is non addictive and non habit forming. A lot of nootropics do not have hard science backing them up. Nicotine is one of the very few that has scientific literature showing general cognitive benefits.</span>
