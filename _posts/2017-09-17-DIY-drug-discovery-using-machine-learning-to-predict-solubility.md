@@ -1,5 +1,5 @@
 ---
-id: 10000
+id: 10000git
 title: DIY Drug Discovery - using molecular fingerprints and machine learning for solubility prediction
 comments: true
 author: delton137
@@ -68,7 +68,7 @@ Fingerprinting creates an efficient representation of the molecular graph. The b
  C=CN           |                  |
 
 <br>
-Storing all this data would result in an enormous representation. The trick of fingerprinting is to “hash” each of these features, which essentially means they act as seeds to a random number generator called a hash function. The hash function generates a bit string. Typically the hash function is chosen so that 4 or 5 bits per pattern are non-zero in the bit string. Next, all of the bit strings are [https://en.wikipedia.org/wiki/OR_gate](OR)’ed together.
+Storing all this data would result in an enormous representation. The trick of fingerprinting is to “hash” each of these features, which essentially means they act as seeds to a random number generator called a hash function. The hash function generates a bit string. Typically the hash function is chosen so that 4 or 5 bits per pattern are non-zero in the bit string. Next, all of the bit strings are [OR](https://en.wikipedia.org/wiki/OR_gate)’ed together.
 
 This process is very useful for substructure searching because every bit of the substructure’s fingerprint will be on (=1) in the molecule's fingerprint. Accidental collisions between patterns or substructures are possible, but if the bit density is low (known as a sparse representation) they are rare. Ideally, the on bit density of the bitstring should be tuned so as to reach a particular discriminatory power that is needed (ie. the chance that two structurally different molecules in my database have the same fingerprint is only 1%). There is a tradeoff between discriminatory power and the efficiency of the representation.
 
@@ -1934,7 +1934,7 @@ YII=
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>We see that the Estate fingerprint performs best. This is not surprising as Estate encodes information about the effective charge on each atom. For other applications I have tried, the Avalon or atom pair fingerprints often perform best. Estate has a fixed length of 80. Another interesting thing we see in this graph is that the error increases once the fingerprint length grows beyond 500. This is not something I have observed in other applications yet, but is likely due to the curse of dimensionality rearing its ugly head, even though we are using a regularized model (Ridge regression).
+<p>We see that the Estate fingerprint performs best. This is not surprising as Estate encodes information about the effective charge on each atom. For other applications I have tried, the Avalon or atom pair fingerprints often perform best. Estate has a fixed length of 80. Another interesting thing we see in this graph is that the error increases once the fingerprint length grows beyond 500. This is not something I have observed in other applications yet, but is likely due to the curse of dimensionality rearing its ugly head, even though we are using a regularized model (Ridge regression). In retrospect, it was pointed out to me that Lasso regression (L1 regularization) would probably do a lot better than Ridge regression here, since fingerprints have a lot of zeros. [L1 regularization introduces a penalty term which has a gradient that forces parameters corresponding to variables with no predictive power to be precisely zero, whereas L2 only force  them to be very small.]
 
 In any case, we create the array *X* using the Estate fingerprint to feed into machine learning models:</p>
 
