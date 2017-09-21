@@ -6,10 +6,10 @@ author: delton137
 layout: post
 guid: http://moreisdifferent.wordpress.com/?p=1244
 permalink: /2013/03/02/what-the-heck-is-this-stuff/
-categories:
-  - Uncategorized
+categories: nootropics
+
 ---
-## [An analysis of Cellucor C4 Extreme Pre-workout dietary supplement w/ NO3 technology]
+# An analysis of Cellucor C4 Extreme Pre-workout dietary supplement w/ NO3 technology
 
 A few days ago I stopped by the local GNC to buy some whey protein. In retrospect I partially wish I had just bought it online, as I would have probably saved a few dollars and avoided a sequence of awkward exchanges with the store owner.
 
@@ -31,6 +31,8 @@ These &#8216;pre-workout drinks&#8217; are quite something, and in this article 
 
 **Creatine Nitrate** (1000 mg)  no doubt many of you have heard of this ingredient. Creatine Nitrate (C<sub>4</sub>H<sub>9</sub>N<sub>3</sub>O<sub>2</sub>.HNO) is a salt which dissolves in your stomach into 77 % creatine and 23 % nitrate by weight.[[link](http://suppversity.blogspot.com/2011/07/ask-dr-andro-is-creatine-nitrate-worth.html)] [Wikipedia](http://en.wikipedia.org/wiki/Creatine) mentions three scientific studies looking for cognitive improvement due to creatine enhancement, two found some a slight enhancement over many weeks, another found no effect. I&#8217;d rather not go into all the details about creatine here, partly because the 777 mg of creatine here is not very much. Most bodybuilding professionals recommend 20 &#8211; 25g a day during the &#8216;loading phase&#8217; which lasts 5-6 days. Thereafter, according to the American College of Sports Medicine,  2 g a day are necessary to maintain a slight surplus, due to natural degradation.[[link](http://www.livestrong.com/article/519830-the-best-way-to-take-creatine-monohydrate/#ixzz2MFyiD6kc)] So in other words, the 777 mg in this product will only remain in your system for a few days at most, and probably won&#8217;t do much. Consider that creatine breaks down into a combination of three amino acids:  glycine, [arginine](http://www.bodybuilding.com/store/arginine.html), and methionine. (For a low level description of creatine chemistry, [see here](http://www.bodybuilding.com/fun/layne13.htm)). All three of these can be found in GNC whey protein, at about twice the mg amounts per serving. Even though creatine is very popular, because of this fact I&#8217;m skeptical whether it is any more effective than whey protein, which, supplies more mgs of those amino acids per each dollar of cost. Almost all of the websites providing information about creatine are linked to suppliers trying to sell it, even websites that appear to be reviews by health professionals. The boom in creatine sales has been self perpetuating, with many people citing the boom in sales as strong evidence for its efficacy , thus leading to more sales. The placebo effect is probably very important here as well &#8211; if people are optimistic about their athletic results, they will achieve more in the weight room, and also feel more excited about whatever results they get, which they will happily attribute to the creatine. If one really wants to find out if creatine has a special biological mechanism of action besides just supplying three important amino acids, one should consult the scientific literature, something which I haven&#8217;t done.
 
+# Main 'active' ingredients
+
 <div>
   <strong>Nitrate </strong>This brings us to the 233mg of nitrate that was just referenced, which is advertised on the package as &#8220;NO3 technology&#8221;. This component annoys me. They seem to be playing off the public&#8217;s ignorance here, probably hoping people will confuse it with NOS (nitrous oxide, N2O, or laughing gas)  [NOS is found in some energy drinks, as a dissolved gas]  Creatine nitrate is formed by mixing creatine and nitric acid (HNO<sub>3</sub>). When it dissolves in the stomach, it seems pretty clear that the result should be nitrate ions (NO3-). In theory I suppose it&#8217;s possible that nitric oxide (NO) (which is a free radical) could form instead, but according to Wikipedia NO is converted by the body into nitrate for subsequent processing by the kidneys and disposal in the urine.  The troubling thing is that nitrate is a toxin (ever heard of nitrate contamination, or acid rain?). According to Wikipedia : &#8220;Nitrites oxidize the iron atoms in hemoglobin from ferrous iron (2+) to ferric iron (3+), rendering it unable to carry oxygen.&#8221;  This seems counterproductive to a workout.
 </div>
@@ -45,11 +47,10 @@ These &#8216;pre-workout drinks&#8217; are quite something, and in this article 
 
 **Mucuna pruriens (standardized for L-Dopa)** This is one of the ingredients that caught my eye. <small>L</small>-DOPA is a[precursor](http://en.wikipedia.org/wiki/Precursor_%28chemistry%29 "Precursor (chemistry)") to the [neurotransmitters](http://en.wikipedia.org/wiki/Neurotransmitter "Neurotransmitter") [dopamine](http://en.wikipedia.org/wiki/Dopamine "Dopamine"), [norepinephrine](http://en.wikipedia.org/wiki/Norepinephrine "Norepinephrine") (noradrenaline), and [epinephrine. ](http://en.wikipedia.org/wiki/Epinephrine "Epinephrine") According to Wikipedia, L-Dopa can cause a lot of different side effects. This alone discourages me from taking it or researching it further. Also from Wikipedia: &#8220;_Mucuna pruriens_ is a tropical [legume](http://en.wikipedia.org/wiki/Fabaceae "Fabaceae") known as velvet bean or cowitch&#8221;
 
-**Bitter Orange (Citrus aurantium)(fruit)(30% Synephrine)(Advantra Z(R)) :
-  
-** Synephrine is marketed as a &#8216;weight loss compound&#8217;. I found this quite annoying, because no where on the packaging does it mention weight loss. I am trying to achieve the opposite &#8211; weight gain &#8211; and many other people who go to the gym are doing the same. They don&#8217;t say how many mg of Synephrine are actually included, but according to Wikipedia 2-20 mg of synephrine are usually included in dietary supplements. As you can find on Wikipedia, there are several peer reviewed journal articles linking synephrine consumption with severe cardiovascular reactions.For instance, &#8220; _The Mayo Clinic published a report that suggested a link between Stacker 2 pills and increased risk of ischemic stroke, increased blood pressure, and myocardial infarction&#8221;._ In one case, an otherwise healthy 24 year old male with no significant risk factors incurred heart problems and a heart attack. [luckily, because he was being treated at the time, he survived]. [[link](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2801940/)]  The bottom line here is I would stay away from this!
+**Bitter Orange** (Citrus aurantium)(fruit)(30% Synephrine)(Advantra Z(R)) :
+Synephrine is marketed as a &#8216;weight loss compound&#8217;. I found this quite annoying, because no where on the packaging does it mention weight loss. I am trying to achieve the opposite &#8211; weight gain &#8211; and many other people who go to the gym are doing the same. They don&#8217;t say how many mg of Synephrine are actually included, but according to Wikipedia 2-20 mg of synephrine are usually included in dietary supplements. As you can find on Wikipedia, there are several peer reviewed journal articles linking synephrine consumption with severe cardiovascular reactions.For instance, &#8220; _The Mayo Clinic published a report that suggested a link between Stacker 2 pills and increased risk of ischemic stroke, increased blood pressure, and myocardial infarction&#8221;._ In one case, an otherwise healthy 24 year old male with no significant risk factors incurred heart problems and a heart attack. [luckily, because he was being treated at the time, he survived]. [[link](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2801940/)]  The bottom line here is I would stay away from this!
 
-**Niacinamide &#8211; **from Wikipedia: &#8220;_Nicotinic acid, also known as [niacin](http://en.wikipedia.org/wiki/Niacin "Niacin"), is converted to nicotinamide [in vivo](http://en.wikipedia.org/wiki/In_vivo "In vivo"), and, though the two are identical in their vitamin functions, nicotinamide does not have the same pharmacological and toxic effects of [niacin](http://en.wikipedia.org/wiki/Niacin "Niacin"), which occur incidental to niacin&#8217;s conversion. Thus nicotinamide does not reduce cholesterol or cause flushing,<sup id="cite_ref-1"><a href="http://en.wikipedia.org/wiki/Niacinamide#cite_note-1">[1]</a></sup> although nicotinamide may be toxic to the liver at doses exceeding 3 g/day for adults&#8221;_
+**Niacinamide** &#8211; from Wikipedia: &#8220;Nicotinic acid, also known as [niacin](http://en.wikipedia.org/wiki/Niacin "Niacin"), is converted to nicotinamide [in vivo](http://en.wikipedia.org/wiki/In_vivo "In vivo"), and, though the two are identical in their vitamin functions, nicotinamide does not have the same pharmacological and toxic effects of [niacin](http://en.wikipedia.org/wiki/Niacin "Niacin"), which occur incidental to niacin&#8217;s conversion. Thus nicotinamide does not reduce cholesterol or cause flushing,<sup id="cite_ref-1"><a href="http://en.wikipedia.org/wiki/Niacinamide#cite_note-1">[1]</a></sup> although nicotinamide may be toxic to the liver at doses exceeding 3 g/day for adults&#8221;_
 
 **Folate** (as Folic Acid) &#8211; I guess this is here because it tyrosine sellers claim it helps with the conversion of tyrosine into other compounds (I didn&#8217;t bother to see if there is actually any evidence for this). It&#8217;s also possible they just wanted to add something that sounds healthy and which doesn&#8217;t cost much or take up much mass (it&#8217;s only 250mcg, which is 62% of one&#8217;s daily value).
 
@@ -59,24 +60,23 @@ These &#8216;pre-workout drinks&#8217; are quite something, and in this article 
 
 **Calcium** (25mg, 3%) &#8211; as with vitamin B12, this was included just to make the product seem more healthy and because people know calcium is necessary for the bone hardening which accompanies muscle growth. However, the amount here is negligible and of no consequence.
 
-**Other minor ingredients:**
-  
+# Other minor ingredients
+
 **Natural and artificial flavors &#8211;** they don&#8217;t say what these are but I doubt they are healthy for you.
-  
+
 **Citric acid &#8211;** this is likely in there to improve the flavor
-  
+
 **Malic acid &#8211;** this is a common souring agent. Apparently it is more sour and less sweet than citric acid.
-  
+
 **Silicon dioxide &#8211;** mmmm sand! SO2 is found in many processed foods as an anti-caking agent.
-  
-**Calcium silicate &#8211;** this is another anti-caking agent. Whey they need two is beyond me. According to one website, &#8220;_Excess intake of Calcium Silicate has been known to trigger bronchitis and diminish lung function. Short-term exposure to the chemical can cause eye irritations and mild respiratory tract disorders. People with ADD should abstain from consuming foods containing Calcium Silicate as it can exacerbate the disorder. &#8220;_  [[link](http://www.whatsinthisstuff.com/ingredient/Calcium-Silicate)]
-  
+
+**Calcium silicate &#8211;** this is another anti-caking agent. Whey they need two is beyond me. According to one website, "Excess intake of Calcium Silicate has been known to trigger bronchitis and diminish lung function. Short-term exposure to the chemical can cause eye irritations and mild respiratory tract disorders. People with ADD should abstain from consuming foods containing Calcium Silicate as it can exacerbate the disorder." [[link](http://www.whatsinthisstuff.com/ingredient/Calcium-Silicate)]
+
 **Sucralose &#8211;** This is an artificial sweetener. From what I&#8217;ve read in the past, it&#8217;s considered pretty safe.
-  
+
 **FD&C Yellow # 5** &#8211; I didn&#8217;t really research this much at all, but a quick glance on Wikipedia shows that it is banned in Norway and Austria, which is cause for concern. I try to stay away from artificial coloring agents in general.
-  
+
 **Acesulfame Potassium (Ace-K)** &#8211; this is another artificial sweetener. Why they need this, especially when this is much more controversial and has a worse reputation than Sucralose, is hard to say. Perhaps having two artificial sweeteners helps make the sweetness taste more genuine.
 
-**Conclusion:
-  
-** Stay away from this product! The only useful ingredients for improving workout performance here are caffeine, creatine, and Beta alanine. Caffeine can easily be obtained by other means. In my opinion creatine & beta alanine are not worth the cost of buying separately, but one could if one wanted I suppose. The rest of the ingredients are a hodgepodge mix of amino acids and vitamins, along with some chemicals which are likely to do more harm than good. It&#8217;s definitely not worth spending money on this crap , let alone putting in your body.
+# Conclusion:
+Stay away from this product! The only useful ingredients for improving workout performance here are caffeine, creatine, and Beta alanine. Caffeine can easily be obtained by other means. In my opinion creatine & beta alanine are not worth the cost of buying separately, but one could if one wanted I suppose. The rest of the ingredients are a hodgepodge mix of amino acids and vitamins, along with some chemicals which are likely to do more harm than good. It&#8217;s definitely not worth spending money on this crap , let alone putting in your body.

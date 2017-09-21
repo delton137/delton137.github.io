@@ -19,15 +19,14 @@ publicize_linkedin_url:
 publicize_tumblr_url:
   - http://moreisdifferentblog.tumblr.com.tumblr.com/post/107531407128
 publicize_path_id:
-  - ""
-  - ""
 categories:
-  - Uncategorized
+  - science communication
+
 ---
 Recently the physics department here at Stony Brook University decided to have a photo / digital artwork competition. I think such competitions are a great idea, since it provides a way for physicists to express their passion for what they study in a way which people outside their field can understand. It also shows that art and physics are not incommensurate. In fact over the years I have met at least one or two very good artists who have pursued careers in both physics and art at the same time.
 
 I submitted two pieces to the competition:
-  
+
 <!--more-->
 
 <p style="text-align:center;">
@@ -41,7 +40,7 @@ I submitted two pieces to the competition:
 To make this piece 1000 water molecules were placed randomly in a box at a density of 2 g/L, or about 1/500th the density of liquid water.  Energy minimization was run to  quench (rapidly cool) the system.  A classical molecular dynamics simulation was run at 220 K (-53 C) for two nanoseconds. I then analyzed the trajectory using [VMD](www.ks.uiuc.edu/Research/vmd/) (Visual Molecular Dynamics) and rendered two frames using [POVray](en.wikipedia.org/wiki/POV-Ray‎), a popular open source ray tracing program. I collected several interesting looking clusters into one image. The model used was the flexible extended simple point charge (SPC/E-f) model. The SPC/E model was optimized to reproduce the behaviour of water at 300 K and does not reproduce the phase diagram of water very well, yielding a freezing point of 215 K. Therefore, the results of this simulation show the behaviour of water at low density slightly above the freezing point of the model.
 
 The results can also be visualized as a movie:
-  
+
 
 
 <div class="jetpack-video-wrapper">
@@ -58,9 +57,9 @@ What I like about this image is that you can see how the water molecules coordin
 
 The piece &#8220;condensation&#8221; won the photo contest in the digital artwork category. Expect to see it soon on permanent display in the physics building!
 
-_**Update: Jan 8th, 2015:**
-  
-_ &#8220;Condensation&#8221; is on permanent display in the physics building, across from the North entrance (the entrance near the elevators.
+_*Update: Jan 8th, 2015:**
+
+_Condensation_ is on permanent display in the physics building, across from the North entrance (the entrance near the elevators.
 
 For the 2014 photo contest I submitted an improved version of &#8220;Salt Water Matrix&#8221;.  I made all of the hydrogen bonds much thicker (a process which took quite a bit of time), and I took some artistic license and moved some of the water molecules around and removed some of the overlapping ones.
 

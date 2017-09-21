@@ -7,7 +7,7 @@ layout: post
 guid: http://moreisdifferent.wordpress.com/?p=1485
 permalink: /2013/11/16/percolation-theory-the-deep-subject-with-the-not-so-deep-sounding-name/
 categories:
-  - Uncategorized
+  - physics
 ---
 <p dir="ltr">
   I first discovered percolation theory about a year ago and was instantly fascinated.  I now consider it to be one of the deepest subjects in science.

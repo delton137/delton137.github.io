@@ -9,7 +9,7 @@ permalink: /2017/07/31/condensed-notes-from-ethics-of-ai-at-nyu-october-2016/
 categories:
   - AI
   - philosophy
-  - Uncategorized
+
 ---
 Last October I attended the _Ethics of AI_ conference at NYU. ([link to program notes and videos](https://wp.nyu.edu/consciousness/ethics-of-artificial-intelligence/)). I&#8217;ve decided to publish some of my tweets and notes from the conference here.
 

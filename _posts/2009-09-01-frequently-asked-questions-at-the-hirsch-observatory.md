@@ -17,7 +17,7 @@ publicize_tumblr_url:
 publicize_path_id:
   - 55c6859511d7de3eeacf8644
 categories:
-  - Uncategorized
+
 tags:
   - amateur astronomy
   - astronomy

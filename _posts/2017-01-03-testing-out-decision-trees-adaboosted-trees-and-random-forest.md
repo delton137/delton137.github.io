@@ -8,7 +8,7 @@ guid: http://www.moreisdifferent.com/?p=3329
 permalink: /2017/01/03/testing-out-decision-trees-adaboosted-trees-and-random-forest/
 categories:
   - machine learning
-  - Uncategorized
+  - python
 tags:
   - data science
   - decision trees
