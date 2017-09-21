@@ -6,7 +6,6 @@ author: delton137
 layout: page
 guid: https://moreisdifferent.wordpress.com/?page_id=2114
 geo_public:
-  - "0"
 ---
 
 <ul class="listing">
