@@ -12,7 +12,7 @@ categories:
 tags:
 ---
 
-This is going to be the first in a series of posts on what I am calling "DIY Drug Discovery". Admittedly, though, this title is hyperbolic. Discovering a new drug requires bringing it through a series of trials, which is very hard, if not impossible for an individual to do themselves. What I'm really going to be discussing is DIY drug screening. I believe in the near future individuals will be able to discover candidate drug molecules using commodity GPU hardware and open source software, such as [scikit-learn.org](scikit-learn), [https://keras.io/](Keras), [http://www.rdkit.org/](RDkit) and [https://deepchem.io/](DeepChem). 
+This is going to be the first in a series of posts on what I am calling "DIY Drug Discovery". Admittedly, though, this title is hyperbolic. Discovering a new drug requires bringing it through a series of trials, which is very hard, if not impossible for an individual to do themselves. What I'm really going to be discussing is DIY drug screening. I believe in the near future individuals will be able to discover candidate drug molecules using commodity GPU hardware and open source software, such as [scikit-learn.org](scikit-learn), [https://keras.io/](Keras), [http://www.rdkit.org/](RDkit) and [https://deepchem.io/](DeepChem).
 
 <h1 id="no_toc">Table of contents</h1>
 * TOC
@@ -20,7 +20,7 @@ This is going to be the first in a series of posts on what I am calling "DIY Dru
 
 # Background on chemical space and drug discovery
 
-The set of all possible molecules, which is known as chemical space, is incredibly vast. The Chemical Abstracts Service (CAS) registry lists 49,037,297 known molecules (molecules that have actually be synthesized). The number of different molecules that have been synthesized, in both public and private settings, may reach towards 100,000,000. Yet this is only tiny fraction of the number of possible molecules.  Recent research has tried to enumerate the number of possible molecules containing Carbon, Nitrogen, Oxygen, Hydrogen, Oxygen, and halogens which may be of interest for drug discovery. So far, possible molecules up to a size of 17 atoms have been enumerated and a [large database](http://gdb.unibe.ch/downloads/) has been created. Enumerating possible molecules isn't as simple as enumerating possible molecular graphs. There are many physical constraints that the authors had to take into account. For instance:
+The set of all possible molecules, which is known as chemical space, is incredibly vast. The Chemical Abstracts Service (CAS) registry lists 49,037,297 known molecules (molecules that have actually be synthesized). The number of different molecules that have been synthesized, in both public and private settings, may reach towards 100,000,000. Yet this is only tiny fraction of the number of possible molecules.  Recent research has tried to enumerate the number of possible molecules containing Carbon, Nitrogen, Oxygen, Hydrogen, Oxygen, and halogens which may be of interest for drug discovery. So far, possible molecules up to a size of 17 atoms have been enumerated and a [large database](http://gdb.unibe.ch/downloads/) called GBD has been created. Enumerating possible molecules isn't as simple as enumerating possible molecular graphs. There are many physical constraints that the authors had to take into account. For instance:
 
 * **bonding** many types of bonds are not possible -- covalent bonds must be between an electron donor and an electron acceptor. A Chlorine atom cannot bond to a flourine and a sodium cannot bond to a magnesium.
 
