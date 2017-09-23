@@ -1,6 +1,7 @@
 ---
 id: 1644
 title: '&#8220;Halting State&#8221; by Charles Stross'
+comments: true
 date: 2014-12-13T00:36:45+00:00
 author: delton137
 layout: post
@@ -17,9 +18,9 @@ tags:
   - scifi
 ---
 [<img class="  wp-image-1647 alignright" src="http://www.moreisdifferent.com/wp-content/uploads/2014/12/halting_state1sted.jpg?w=195" alt="Halting_State(1stEd)" width="153" height="236" srcset="http://www.moreisdifferent.com/wp-content/uploads/2014/12/halting_state1sted.jpg 600w, http://www.moreisdifferent.com/wp-content/uploads/2014/12/halting_state1sted-195x300.jpg 195w" sizes="(max-width: 153px) 100vw, 153px" />](http://www.moreisdifferent.com/wp-content/uploads/2014/12/halting_state1sted.jpg)**_Halting State_
-  
+
 ** by Charles Stross
-  
+
 2007, 336 pgs
 
 I originally learned about Charles Stross at the Rensselaer Polytechnic Institute transhumanism club, where his books _Singularity Sky_ and _Accelerando_ where highly lauded. Shamefully, I have not yet read either of these yet. As it turned out I picked up some different books by Stross when the Borders Books in Smithtown closed down.<!--more-->

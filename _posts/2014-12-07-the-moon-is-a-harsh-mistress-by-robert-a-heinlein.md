@@ -1,6 +1,7 @@
 ---
 id: 1638
 title: '&#8220;The Moon is a Harsh Mistress&#8221;  by Robert A. Heinlein'
+comments: true
 date: 2014-12-07T07:10:18+00:00
 author: delton137
 layout: post
@@ -14,11 +15,11 @@ tags:
   - books
 ---
 **_<img class=" alignright" src="http://publiusonline.com/wp-content/uploads/2012/11/TheMoonIsAHarshMistress_2505-200x300.jpg" alt="" width="200" height="300" />The Moon is  Harsh Mistress_
-  
+
 ** by Robert A. Heinlein
-  
+
 1966, 382 pages
-  
+
 A few months ago I finished reading _The Moon is a Harsh Mistress_ by Robert A. Heinlein.  I was shamefully unaware that this was one of the greatest works of science fiction ever written. Previously the only other work by Heinlein I had read was _A_ _Stranger in a Strange Land._ What drew my attention to _The Moon is a Harsh Mistress_ was the fact that it was recommended by Elon Musk as one of his favourite books.
 
 <!--more-->
@@ -34,9 +35,9 @@ The novel contains several libertarian ideas. [Heinlein expressed such ideas in 
 The main libertarian idea here is succession &#8211; the idea that people have the right to self-government. The concept of succession can be extended to groups as small as one individual &#8212; this notion of &#8220;radical succession&#8221; (originally articulated by Ludwig von Mises) is central to underlying moral framework of anarcho-capitalism as first espoused by Rothbard in the 1960s. It seems very unlikely that Heinlein knew of the work of Rothbard during the time of the writing, although he did meet Rothbard later in the 1970s.
 
 Bernardo de La Paz has a political philosophy which he calls &#8220;rational anarchy&#8221;. He describes it thus:
-  
+
 _
-  
+
 &#8220;A rational anarchist believes that concepts such as &#8220;state&#8221; and &#8220;society&#8221; and &#8220;government&#8221; have no existence save as physically exemplified in the acts of self-responsible individuals_&#8221;
 
 de La Paz expresses a radical individualism:
@@ -44,7 +45,7 @@ de La Paz expresses a radical individualism:
 _&#8220;I will accept any rules that you feel necessary to your freedom. I am free, no matter what rules surround me. If I find them tolerable, I tolerate them; if I find them too obnoxious, I break them. I am free because I know that I alone am morally responsible for everything I do._ &#8221;
 
 (minor spoiler alert: ) The final goal of the revolution is not an anarchist society, but more of a minimal democratic workers state, established through a constitutional convention. La Paz introduces this idea (among others):
-  
+
 &#8220;_Let the legislators pass laws only with a two-thirds majority&#8230; while the repealers are able to cancel any law through a mere one-third minority._ &#8221;
 
 The novel is famous for its use of the abbreviation TANSTAAFL  (&#8220;There Ain&#8217;t No Such Thing As A Free Lunch&#8221;). Because Lunnies live in a completely artificial environment,  concept of TANSTAAFL can be applied to everything in the lunar colony &#8211; even the air they breath costs something to produce. The way these things are managed is quite interesting &#8211; food, water & air can be exchanged between different families (which are polyandrous/ poly-amorous, by the way).

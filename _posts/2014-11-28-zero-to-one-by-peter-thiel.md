@@ -1,6 +1,7 @@
 ---
 id: 1608
 title: '&#8220;Zero to One&#8221; by Peter Thiel'
+comments: true
 date: 2014-11-28T22:20:34+00:00
 author: delton137
 layout: post
@@ -14,9 +15,9 @@ tags:
   - Peter Thiel
 ---
 [<img class=" size-medium wp-image-1627 alignright" src="http://www.moreisdifferent.com/wp-content/uploads/2014/11/zerotoone_350h.jpg?w=199" alt="ZeroToOne_350h" width="199" height="300" srcset="http://www.moreisdifferent.com/wp-content/uploads/2014/11/zerotoone_350h.jpg 233w, http://www.moreisdifferent.com/wp-content/uploads/2014/11/zerotoone_350h-200x300.jpg 200w" sizes="(max-width: 199px) 100vw, 199px" />](http://www.moreisdifferent.com/wp-content/uploads/2014/11/zerotoone_350h.jpg)[**_Zero to One: Notes on Startups, or How to Build the Future_
-  
+
 **](http://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296) Peter Thiel with Blake Masters
-  
+
 195 pgs
 
 This is my first book review/discussion on this blog &#8212; hopefully the first of many!
@@ -26,7 +27,7 @@ Recently I became interested in Peter Thiel after watching one of the many inter
 <!--more-->
 
 
-  
+
 Despite [being a hardcore libertarian](http://www.cato-unbound.org/2009/04/13/peter-thiel/education-libertarian) seeking to maximize human liberty, Thiel is never a ranting ideologue. Thiel rarely discusses politics and usually avoids answering political questions when asked. His current attitude towards politics, as far as I can surmise, is that the democratic process is no longer an efficient way of achieving human liberty. Thiel would rather focus his energy on liberating technologies &#8211; the internet, decentralized cryptocurrencies, radical life extension, seasteading (colonizing the oceans) and spacesteading (colonizing outer space). The escape from the ever-expanding state, according to Thiel, is not to be achieved within the system but through technologies which allow people to live outside the system.
 
 Despite shying away from and dis-avowing politics in public, Thiel [still contributes to candidates](http://www.mercurynews.com/business/ci_26666183/peter-thiel-wields-political-influence-gop), [primarily Republicans](en.wikipedia.org/wiki/Peter_Thiel#Support_for_political_activism), perhaps to stave off the encroachment of the state into the tech sector.  When [asked on Reddit](http://www.reddit.com/r/IAmA/comments/2g4g95/peter_thiel_technology_entrepreneur_and_investor) why he contributes to Republicans even though he is a gay libertarian, Thiel responded by saying he wouldn&#8217;t have donated to those candidates if he thought they were against gays. Besides the obvious libertarian Republicans, I&#8217;m guessing the rest of the Republicans he has donated to can be summarized as &#8220;fiscally conservative and socially apathetic&#8221;.
@@ -38,7 +39,7 @@ When addressing the question as to why technological progress has been so rapid 
 Thiel also cites the libertarian explanation for the green-tech bubble &#8212; that &#8220;gov&#8217;t subsidies were too liberally applied and grossly inefficient&#8221;. Thiel acknowledges this was a factor but offers a host of what he considers better explanations &#8212; a failure of companies to meaningfully distinguish themselves with new technologies and a failure to of companies and investors to acknowledge and predict the competition. In particular the solar panel industry in the US was obliterated by two sources of competition &#8212; ruthless price-competition from Chinese gov&#8217;t backed firms and the sudden rise of cheap natural gas via fracking.
 
 **Monopolies**
-  
+
 A highly publicized part of Thiel&#8217;s book is his argument that monopolies are good. Thiel argues that startup founders should aim for a situation with no competition rather than one with lots of competition. While on the one hand competition encourages economic efficiency, it is also bad because &#8220;_competition means no profits for anybody, no meaningful differentiation, and a struggle for survival&#8221;._  Thiel says that currently our society is trapped in an &#8220;ideology of competition&#8221;. The ideology of competition extends beyond economics into all levels of academia, which focuses on competition between peers for entry into top schools, grades and grants. Competition leads people to pursue small incremental improvements over others, not radical change. In other words, Thiel says that &#8220;_Rivalry causes us to overemphasize old opportunities and slavishly copy what has worked in the pas_t&#8221;. Thiel argues that a startup founder&#8217;s goal should not be to &#8220;beat the competition&#8221; but rather to have a monopoly on a technological secret (and branding and distribution) so that no other company can compete with you.
 
 Thiels claims have a strongly contrarian streak since the prevailing view is that monopolies, while certainly good for the monopolist, are bad for society as a whole. Although most of Thiel&#8217;s writing argues for the benefits to the monopolist, Thiel also argues that monopolies are good for society as well. In my view, Thiel could have done a much better job defending this stance and hence has received some pushback. In subsequent interviews following the publication of the book, Thiel has been repeatably been pressed on this point and has had to explain what he failed to explain in the book.
@@ -48,5 +49,5 @@ When Thiel discusses monopolies, he is referring to what he calls &#8220;creativ
 Additionally, Thiel believes that as long as the market is functioning and start-ups do not face regulatory barriers to entry, monopolies will either be overtaken by new startups or be forced to compete with them. Large companies get stuck in certain patterns of thinking and are not flexible, while startups are highly flexible and free thinking. Thiel acknowledges that large companies will often buy small startups, but he thinks this is often the best outcome. Most importantly, Thiel argues monopolies are good because they can reap a large profit, whereas competition drives profits to zero. In addition to signalling an improvement in the human condition via the identification of an economic inefficiency, large profits are good because they give companies capital, which can be invested into better technology and capital equipment. In other words, without monopolistic profits, companies would have much less ability to invest in research and development.
 
 **Conclusion
-  
+
 ** I highly recommend this book for anyone interested in technological development. It contains many novel ideas you won&#8217;t find anywhere else, expressed in short concise statements. He offers contrarian views to popular memes &#8211; such as &#8220;success is mainly luck&#8221;, &#8220;competition is good&#8221;, &#8220;sales & advertising are unimportant&#8221;, &#8220;technology is booming&#8221;, &#8220;diversification is good&#8221;, and that we live in the &#8220;developed world&#8221;. Thiel argues that success is usually because of reproducible reasons, competition is bad, advertising & sales are important, technological progress has slowed down, venture capitalists can&#8217;t afford to diversify and that the &#8220;developed world&#8221; needs to be developed. It will be especially interesting to anyone who is interested in the [PayPal mafia](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0CCgQjBAwAQ&url=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPayPal_Mafia&ei=6O94VPLWOcecgwSCloTYDA&usg=AFQjCNHxRMdeig6s86KwRTwcYYiBDZ4C0g&sig2=7jmi7yX04Pz9Q596TbKHog&bvm=bv.80642063,d.eXY) and startup culture. Overall, it&#8217;s a worthwhile investment to read, especially considering how many bits of wisdom are packed into 195 pgs.

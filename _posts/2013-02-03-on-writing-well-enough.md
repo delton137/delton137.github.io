@@ -1,6 +1,7 @@
 ---
 id: 1210
 title: On writing well enough
+comments: true
 date: 2013-02-03T20:55:24+00:00
 author: delton137
 layout: post

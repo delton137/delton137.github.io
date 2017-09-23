@@ -1,5 +1,5 @@
 ---
-id: 10000git
+id: 10000
 title: DIY Drug Discovery - using molecular fingerprints and machine learning for solubility prediction
 comments: true
 author: delton137
@@ -22,7 +22,7 @@ This is going to be the first in a series of posts on what I am calling "DIY Dru
 
 The set of all possible molecules, which is known as chemical space, is incredibly vast. The Chemical Abstracts Service (CAS) registry lists 49,037,297 known molecules (molecules that have actually be synthesized). The number of different molecules that have been synthesized, in both public and private settings, may reach towards 100,000,000. Yet this is only tiny fraction of the number of possible molecules.  Recent research has tried to enumerate the number of possible molecules containing Carbon, Nitrogen, Oxygen, Hydrogen, Oxygen, and halogens which may be of interest for drug discovery. So far, possible molecules up to a size of 17 atoms have been enumerated and a [large database](http://gdb.unibe.ch/downloads/) called GBD has been created. Enumerating possible molecules isn't as simple as enumerating possible molecular graphs. There are many physical constraints that the authors had to take into account. For instance:
 
-* **bonding** many types of bonds are not possible -- covalent bonds must be between an electron donor and an electron acceptor. A Chlorine atom cannot bond to a flourine and a sodium cannot bond to a magnesium.
+* **bonding** - many types of bonds are not possible -- covalent bonds must be between an electron donor and an electron acceptor. A Chlorine atom cannot bond to a flourine and a sodium cannot bond to a magnesium.
 
 * **geometrical constraints** - Due to the nature of atomic orbitals, each atom prefers to bond in particular configuration. For instance, carbon prefers to bond tetrahedrally and when forming rings prefers to form hexagons. Pentagons and other shapes are not necessarily impossible, but they are generally high unstable. For instance, [https://en.wikipedia.org/wiki/Cubane](cubane), where carbon is forced to bond at 90 degrees, is highly unstable and explosive material. Carbon bonding in a triangle, or an isolated pentagon or decagon is impossible.
 

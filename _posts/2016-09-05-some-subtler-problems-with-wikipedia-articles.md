@@ -1,6 +1,7 @@
 ---
 id: 3260
 title: Some subtler problems with Wikipedia articles
+comments: true
 date: 2016-09-05T17:23:28+00:00
 author: delton137
 layout: post

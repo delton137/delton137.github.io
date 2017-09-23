@@ -1,6 +1,7 @@
 ---
 id: 1419
 title: Wasserfadden!
+comments: true
 date: 2013-10-26T04:01:08+00:00
 author: delton137
 layout: post

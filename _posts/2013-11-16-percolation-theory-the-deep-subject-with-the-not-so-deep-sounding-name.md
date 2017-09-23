@@ -1,6 +1,7 @@
 ---
 id: 1485
 title: 'Percolation Theory &#8211; the deep subject with the not-so-deep sounding name'
+comments: true
 date: 2013-11-16T00:11:49+00:00
 author: delton137
 layout: post
