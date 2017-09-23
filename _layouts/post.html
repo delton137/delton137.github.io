@@ -14,8 +14,8 @@ layout: default
   {% for cat in page.categories %}
   <a href="/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>&nbsp;
   {% endfor %}
-
 {% endif %}
+{% if page.comments %} • <a href="http://moreisdifferent.com{{ page.url }}#disqus_thread">0 Comments</a>{% endif %}
 </p>
   </header>
 
