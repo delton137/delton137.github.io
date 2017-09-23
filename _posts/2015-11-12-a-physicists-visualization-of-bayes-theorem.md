@@ -1,6 +1,7 @@
 ---
 id: 2245
 title: 'A physicist&#8217;s visualization of Bayes&#8217; theorem'
+comments: true
 date: 2015-11-12T06:41:49+00:00
 author: delton137
 layout: post
@@ -27,7 +28,7 @@ tags:
 
 <span style="font-weight: 400;">Bayes&#8217; theorem itself is not very complicated. The human mind, however, is extremely bad at trying to gain an intuitive understanding of Bayes&#8217; theorem based (Bayesian) reasoning. The counter-intuitive nature of Bayesian reasoning, combined with the jargon and intellectual baggage that usually accompanies descriptions of Bayes&#8217; theorem, can make it difficult to wrap one’s mind around. I am a very visual thinker, therefore, I quickly came up with a visualization of the theorem. A little Googling shows that there are many different ways of visualizing Bayes&#8217; theorem. A few months ago I came across a</span>[ <span style="font-weight: 400;">visualization of Bayes&#8217; theorem</span>](http://lesswrong.com/lw/2b0/bayes_theorem_illustrated_my_way/) <span style="font-weight: 400;">which I found somewhat perplexing.  Even though mathematical truths are universal, they are internalized differently by every individual. I would love to hear whether others find my visualization approach useful. It is a very physicist-oriented visualization.<br /> </span><!--more-->
 
-**Derivation of Bayes&#8217; theorem, with visualization** 
+**Derivation of Bayes&#8217; theorem, with visualization**
 
 <span style="font-weight: 400;">The derivation of Bayes&#8217; theorem rests on the definition of </span>**conditional probability**<span style="font-weight: 400;">. Let’s consider some random variables,</span> <span style="font-weight: 400;">X and Y</span>_<span style="font-weight: 400;">. </span>_<span style="font-weight: 400;">Capital letters denote random variables, and lowercase denote particular values they may have.</span>_ <span style="font-weight: 400;"> </span>_<span style="font-weight: 400;">The </span>**joint probability** <span style="font-weight: 400;">is a function <img src="http://www.moreisdifferent.com/wp-content/ql-cache/quicklatex.com-519742e55a1b21ae0c12d70b89bb67e1_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#32;&#80;&#40;&#88;&#61;&#120;&#44;&#32;&#89;&#61;&#121;&#41;" title="Rendered by QuickLaTeX.com" height="18" width="132" style="vertical-align: -4px;" />, or in slightly simpler notation, <img src="http://www.moreisdifferent.com/wp-content/ql-cache/quicklatex.com-a266894a6e54fcc1a0780235c58a7369_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#32;&#80;&#40;&#120;&#44;&#121;&#41;" title="Rendered by QuickLaTeX.com" height="18" width="54" style="vertical-align: -4px;" />.  If we think of <img src="http://www.moreisdifferent.com/wp-content/ql-cache/quicklatex.com-016d6997f144d3fb15299a6811155823_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#32;&#120;" title="Rendered by QuickLaTeX.com" height="8" width="10" style="vertical-align: 0px;" /> and <img src="http://www.moreisdifferent.com/wp-content/ql-cache/quicklatex.com-5ca52823f6f70f385d07b9f37b0e559a_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#32;&#121;" title="Rendered by QuickLaTeX.com" height="12" width="9" style="vertical-align: -4px;" /> as continuous variables like spatial coordinates, then this function becomes a probability density function (PDF). PDFs are fundamental in statistical physics and quantum physics. However, to keep things as simple as possible, I’ll assume that x and y are discrete variables that can take one of the following values: <img src="http://www.moreisdifferent.com/wp-content/ql-cache/quicklatex.com-fbca7e584865dd4fd9f4899fe0bd95a4_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#32;&#92;&#108;&#98;&#114;&#97;&#99;&#101;&#32;&#49;&#44;&#50;&#44;&#51;&#44;&#52;&#44;&#53;&#44;&#54;&#44;&#55;&#44;&#56;&#44;&#57;&#44;&#49;&#48;&#32;&#92;&#114;&#98;&#114;&#97;&#99;&#101;" title="Rendered by QuickLaTeX.com" height="18" width="185" style="vertical-align: -5px;" />. Let’s plot an example of what <img src="http://www.moreisdifferent.com/wp-content/ql-cache/quicklatex.com-a266894a6e54fcc1a0780235c58a7369_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#32;&#80;&#40;&#120;&#44;&#121;&#41;" title="Rendered by QuickLaTeX.com" height="18" width="54" style="vertical-align: -4px;" /> might look like on our space of possible values: </span>
 
@@ -55,7 +56,7 @@ Dividing the \left and \right hand sides of this identity by P(y) yields Bayes&#
 
 <span style="font-weight: 400;"><img src="http://www.moreisdifferent.com/wp-content/ql-cache/quicklatex.com-5d9e509a019c52d6b756eaa49e0572fb_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#32;&#80;&#40;&#121;&#124;&#120;&#41;&#32;&#61;&#32;&#92;&#102;&#114;&#97;&#99;&#123;&#32;&#80;&#40;&#120;&#124;&#121;&#41;&#32;&#80;&#40;&#120;&#41;&#32;&#125;&#123;&#32;&#80;&#40;&#121;&#41;&#32;&#125;" title="Rendered by QuickLaTeX.com" height="29" width="148" style="vertical-align: -9px;" /></span>
 
-**Example** 
+**Example**
 
 <span style="font-weight: 400;">The archetypical example of applying Bayes&#8217; theorem is (stolen from <a href="http://www.inference.phy.cam.ac.uk/itila/">MacKay&#8217;s book</a>): </span>
 
@@ -68,7 +69,7 @@ _<span style="font-weight: 400;">Jo has a test for a nasty disease. We denote Jo
 <span style="font-weight: 400;">So, despite the positive result on the test, the probability he actually has the disease is only .16, or 16%.  Our intuition often fails us with such problems, because we neglect to notice that the base rate of the disease is very small (1%). If the base rate is on the same order of magnitude as how often the test gives a false positive, then a positive result on a test won&#8217;t be able to tell us whether a patient has a disease with very much certainty. </span>
 
 **An inference problem
-  
+
 ** Now let&#8217;s consider a classic inference problem. There are 10 different urns, each with 10 balls. Urn  <img src="http://www.moreisdifferent.com/wp-content/ql-cache/quicklatex.com-86b08b8d286eb3f461d64e00649a9dca_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#32;&#117;" title="Rendered by QuickLaTeX.com" height="8" width="10" style="vertical-align: 0px;" />contains  <img src="http://www.moreisdifferent.com/wp-content/ql-cache/quicklatex.com-86b08b8d286eb3f461d64e00649a9dca_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#32;&#117;" title="Rendered by QuickLaTeX.com" height="8" width="10" style="vertical-align: 0px;" />black balls and  <img src="http://www.moreisdifferent.com/wp-content/ql-cache/quicklatex.com-2d9a54be1b01785ae6d53538b4a6503a_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#32;&#49;&#48;&#45;&#117;" title="Rendered by QuickLaTeX.com" height="13" width="48" style="vertical-align: -1px;" />white balls. An urn is chosen from random, and we start drawing balls, replacing each ball after its been drawn. Suppose after  <img src="http://www.moreisdifferent.com/wp-content/ql-cache/quicklatex.com-8af0979e40d3e8c9999ffa9ac24910ca_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#32;&#78;&#32;&#61;&#32;&#49;&#48;" title="Rendered by QuickLaTeX.com" height="13" width="58" style="vertical-align: -1px;" />draws we&#8217;ve drawn  <img src="http://www.moreisdifferent.com/wp-content/ql-cache/quicklatex.com-1ea908e01ce9782e0a2bc7a1592b94af_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#32;&#110;&#95;&#66;&#32;&#61;&#32;&#51;" title="Rendered by QuickLaTeX.com" height="15" width="55" style="vertical-align: -3px;" />black balls. What is the probability that we have urn <img src="http://www.moreisdifferent.com/wp-content/ql-cache/quicklatex.com-86b08b8d286eb3f461d64e00649a9dca_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#32;&#117;" title="Rendered by QuickLaTeX.com" height="8" width="10" style="vertical-align: 0px;" />?
 
 The conditional probability of drawing  <img src="http://www.moreisdifferent.com/wp-content/ql-cache/quicklatex.com-70d4746b752e9937dc1eabf614af4ec9_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#32;&#110;&#95;&#66;" title="Rendered by QuickLaTeX.com" height="11" width="22" style="vertical-align: -3px;" />balls from urn  <img src="http://www.moreisdifferent.com/wp-content/ql-cache/quicklatex.com-86b08b8d286eb3f461d64e00649a9dca_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#32;&#117;" title="Rendered by QuickLaTeX.com" height="8" width="10" style="vertical-align: 0px;" />is :
@@ -78,7 +79,7 @@ The conditional probability of drawing  <img src="http://www.moreisdifferent.com
 Prior to drawing any balls, we assume each urn is equally likely, so  <img src="http://www.moreisdifferent.com/wp-content/ql-cache/quicklatex.com-b95763f563884c68b60beec59bff9983_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#32;&#80;&#40;&#117;&#41;&#32;&#61;&#32;&#49;&#47;&#49;&#48;" title="Rendered by QuickLaTeX.com" height="19" width="97" style="vertical-align: -5px;" />(yes, this is an assumption. in the words of MacKay, &#8220;you can&#8217;t do inference without making assumptions&#8221;). The conditional probability and prior probability allow us to construct the joint probability:
 
 <img src="http://www.moreisdifferent.com/wp-content/ql-cache/quicklatex.com-382f3aa0ee71e9d0fc084f6d54eb9812_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#32;&#80;&#40;&#117;&#44;&#32;&#110;&#95;&#66;&#41;&#32;&#61;&#32;&#80;&#40;&#110;&#95;&#66;&#32;&#124;&#32;&#117;&#41;&#32;&#80;&#40;&#117;&#41;" title="Rendered by QuickLaTeX.com" height="18" width="194" style="vertical-align: -4px;" />
-  
+
 [<img class="size-full wp-image-2255 aligncenter" src="http://www.moreisdifferent.com/wp-content/uploads/2015/11/joint_dist1.png" alt="joint_dist" width="509" height="399" srcset="http://www.moreisdifferent.com/wp-content/uploads/2015/11/joint_dist1.png 509w, http://www.moreisdifferent.com/wp-content/uploads/2015/11/joint_dist1-300x235.png 300w" sizes="(max-width: 509px) 100vw, 509px" />](http://www.moreisdifferent.com/wp-content/uploads/2015/11/joint_dist1.png)
 
 The joint probability contains all the information we need. We simply consider the subspace  <img src="http://www.moreisdifferent.com/wp-content/ql-cache/quicklatex.com-1ea908e01ce9782e0a2bc7a1592b94af_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#32;&#110;&#95;&#66;&#32;&#61;&#32;&#51;" title="Rendered by QuickLaTeX.com" height="15" width="55" style="vertical-align: -3px;" />(highlighted in the figure above) and properly normalize it. The normalization factor is :
@@ -96,8 +97,8 @@ The result is :
 <img src="http://www.psychologyinaction.org/wp-content/uploads/2012/10/bayes-rule-e1350930203949.png" alt="" width="500" height="238" />
 
 **Jargon
-  
-** <span style="font-weight: 400;">Because of its importance, there is a lot of jargon attached to Bayes&#8217; theorem. Once you learn the jargon, reading stats articles becomes a lot easier!</span></div> 
+
+** <span style="font-weight: 400;">Because of its importance, there is a lot of jargon attached to Bayes&#8217; theorem. Once you learn the jargon, reading stats articles becomes a lot easier!</span></div>
 
 **evidence &#8211; **this is whatever we measured so far.
 
@@ -110,5 +111,5 @@ The result is :
 <span style="font-weight: 400;"><strong>marginal</strong> &#8211; in physics language, we would call this the ‘normalization factor’ or the probability of being in the subspace determined by the evidence/measurements. </span>
 
 **Further reading:
-  
+
 ** [_Information Theory, Inference, and Learning Algorithms _David J. Mackay](http://www.inference.phy.cam.ac.uk/itila/) (free to read online)

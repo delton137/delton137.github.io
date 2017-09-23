@@ -1,6 +1,7 @@
 ---
 id: 1684
 title: '&#8220;Cloud Atlas&#8221; by David Mitchel'
+comments: true
 date: 2015-01-24T23:54:23+00:00
 author: delton137
 layout: post
@@ -31,19 +32,19 @@ tags:
   - sifi
 ---
 **_[<img class=" size-medium wp-image-1686 alignright" src="http://www.moreisdifferent.com/wp-content/uploads/2015/01/cloud_200x300-301cd8c005594716ef4a7196ada6890867f72474-s6-c30.jpg?w=200" alt="cloud_200x300-301cd8c005594716ef4a7196ada6890867f72474-s6-c30" width="200" height="300" srcset="http://www.moreisdifferent.com/wp-content/uploads/2015/01/cloud_200x300-301cd8c005594716ef4a7196ada6890867f72474-s6-c30.jpg 948w, http://www.moreisdifferent.com/wp-content/uploads/2015/01/cloud_200x300-301cd8c005594716ef4a7196ada6890867f72474-s6-c30-200x300.jpg 200w, http://www.moreisdifferent.com/wp-content/uploads/2015/01/cloud_200x300-301cd8c005594716ef4a7196ada6890867f72474-s6-c30-768x1152.jpg 768w, http://www.moreisdifferent.com/wp-content/uploads/2015/01/cloud_200x300-301cd8c005594716ef4a7196ada6890867f72474-s6-c30-683x1024.jpg 683w" sizes="(max-width: 200px) 100vw, 200px" />](http://www.moreisdifferent.com/wp-content/uploads/2015/01/cloud_200x300-301cd8c005594716ef4a7196ada6890867f72474-s6-c30.jpg)Cloud Atlas
-  
+
 _** by David Mitchell
-  
+
 2004, 509 pgs
 
 _Cloud Altas _was a very fun read over Christmas break.  This book was originally recommended to me in 2010. It is, in fact, six books in one. In 2012, I went to see the movie, which is directed by the Wachowskis, the same filmaking duo responsible for _The Matrix _and _V for Vendetta._ Making a movie of _Cloud_ _Atlas_ was a difficult task, since one must create six different movies, each taking place in vastly different settings, without going way over the standard budget for a single film. To keep the production value high required spending a lot of money, which makes it one of the most expensive independent films ever produced. It was also very difficult to mold the six separate plots together in under three hours &#8212; I found the six separate story arcs easy to keep track of. It turned out to be the sort of movie that people either loved or hated. Personally, I was very impressed by the movie and consider it the best scifi movie that&#8217;s come out in quite a while, possibly since _The Matrix_ (2003).
-  
+
 <!--more-->
 
 One of the main ideas of _Cloud Atlas_ is show how individuals who are separated by vast intervals of space and time can be connected. To do this, Mitchel takes the reader through six different stories. You start reading the journal of Adam Ewig, an American notary travelling from Australia to California. The first story then abruptly cuts out half way through, and you read the first half of the second story, which takes place 82 years later. By the time you have reached the sixth story, you have read five unresolved stories. In the words of one of the main characters, &#8220;<span class="st">A half-read book is a half-finished love affair.</span>&#8221; Having to leave five stories unfinished is of course frustrating, but Mitchell also drops a few threads connecting the stories which are fun to pick up on. This book is also chock full of pulp material, so it stays exciting and interesting throughout, making the sudden changes between stories relatively painless.
 
 The six stories are:
-  
+
 ****
 
 [<img class="alignnone  wp-image-1716" src="http://www.moreisdifferent.com/wp-content/uploads/2015/01/stories.png?w=300" alt="stories" width="931" height="180" srcset="http://www.moreisdifferent.com/wp-content/uploads/2015/01/stories.png 1149w, http://www.moreisdifferent.com/wp-content/uploads/2015/01/stories-300x58.png 300w, http://www.moreisdifferent.com/wp-content/uploads/2015/01/stories-768x148.png 768w, http://www.moreisdifferent.com/wp-content/uploads/2015/01/stories-1024x198.png 1024w" sizes="(max-width: 931px) 100vw, 931px" />](http://www.moreisdifferent.com/wp-content/uploads/2015/01/stories.png)

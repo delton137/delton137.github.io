@@ -1,6 +1,7 @@
 ---
 id: 3404
 title: Using nicotine as a cognitive enhancer
+comments: true
 date: 2017-06-25T18:05:54+00:00
 author: delton137
 layout: post
@@ -214,7 +215,7 @@ While overall taking nicotine on a regular basis has been helpful for me, one sh
       <span style="font-family: 'Times New Roman', serif;"><b>Toxicity</b></span><span style="font-family: 'Times New Roman', serif;"> &#8211; nicotine is toxic at high levels. It is extremely toxic to insects, </span><a href="http://archive.boston.com/business/healthcare/articles/2010/06/21/why_do_tobacco_plants_make_nicotine/"><span style="color: #1155cc;"><span style="font-family: 'Times New Roman', serif;"><u>which is why many plants produce it</u></span></span></a><span style="font-family: 'Times New Roman', serif;">. The exact LD50 concentration of nicotine in humans is controversial, but lies somewhere between </span><span style="font-family: 'Times New Roman', serif;"></span><span style="font-family: 'Times New Roman', serif;">.5-10 mg/kg. More important to bear in mind is the range for a fatal single dose, which is 30-60 mg in adults and 10 mg in children. This is import ant to bear in mind with e-cigarettes, as a single vial of e-liquid can easily contain 20 mg of nicotine – </span><span style="font-family: 'Times New Roman', serif;">so </span><span style="font-family: 'Times New Roman', serif;">they should be kept away from children! Death from nicotine overdose is extremely rare though, Between 2010-2012 only one death from e-liquids was reported, which was a suicide.</span><span style="font-family: 'Times New Roman', serif;">[<a href="https://en.wikipedia.org/wiki/Nicotine_poisoning">wikipedia</a>]</span>
     </p>
 
-# Further reading (and sources with lots more references) 
+# Further reading (and sources with lots more references)
 
   * <p class="western">
       <span style="font-family: 'Times New Roman', serif;">Dave Asprey: &#8220;<a href="https://blog.bulletproof.com/is-nicotine-the-next-big-smart-drug/">Is Nicotine the next Big Smart Drug?</a>&#8221; &#8211; very similar to this post</span>

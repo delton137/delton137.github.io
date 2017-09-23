@@ -1,6 +1,7 @@
 ---
 id: 3362
 title: Why defeating Trump in 2020 may be really hard
+comments: true
 date: 2017-01-29T23:06:16+00:00
 author: delton137
 layout: post

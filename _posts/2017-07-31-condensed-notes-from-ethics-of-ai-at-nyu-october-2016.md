@@ -2,6 +2,7 @@
 id: 3440
 title: 'Condensed notes from &#8220;Ethics of AI&#8221; at NYU, October 14-15th, 2016'
 date: 2017-07-31T19:07:19+00:00
+comments: true
 author: delton137
 layout: post
 guid: http://www.moreisdifferent.com/?p=3440

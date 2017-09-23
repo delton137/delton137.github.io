@@ -1,6 +1,7 @@
 ---
 id: 1903
 title: A Critique of the Institution of Football
+comments: true
 date: 2008-01-01T00:00:27+00:00
 author: delton137
 layout: post

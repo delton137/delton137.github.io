@@ -1,6 +1,7 @@
 ---
 id: 1130
 title: Digital artwork
+comments: true
 date: 2013-12-24T04:23:46+00:00
 author: delton137
 layout: post

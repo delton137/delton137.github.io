@@ -1,6 +1,7 @@
 ---
 id: 1374
 title: Polyhedra
+comments: true
 date: 2013-07-19T04:46:41+00:00
 author: delton137
 layout: post

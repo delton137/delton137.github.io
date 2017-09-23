@@ -1,6 +1,7 @@
 ---
 id: 1344
 title: A misconception about microwaves
+comments: true
 date: 2013-07-14T00:30:55+00:00
 author: delton137
 layout: post
@@ -39,7 +40,7 @@ The misconception I had is that this frequency is tuned to one of the vibrationa
 
 This is simply not true, as can be easily checked by looking up the vibration frequencies for water molecules, which are well established. The symmetric and asymmetric stretching modes have frequencies of around 108 THz and the bending mode has a frequency of 45 THz.  A terahertz (THz) is 1000 faster than a gigahertz.  These frequencies are in the infrared range.<figure id="attachment_1132" class="thumbnail wp-caption alignnone style="width: 173px">
 
-[<img class="size-full wp-image-1132" src="http://www.moreisdifferent.com/wp-content/uploads/2013/01/scissoring.gif" alt="Bending" width="163" height="115" />](http://www.moreisdifferent.com/wp-content/uploads/2013/01/scissoring.gif)<figcaption class="caption wp-caption-text">The bending mode</figcaption></figure> <figure id="attachment_1133" class="thumbnail wp-caption alignnone style="width: 156px">[<img class="size-full wp-image-1133" src="http://www.moreisdifferent.com/wp-content/uploads/2013/01/symmetrical_stretching.gif" alt="Symmetrical_stretching" width="146" height="103" />](http://www.moreisdifferent.com/wp-content/uploads/2013/01/symmetrical_stretching.gif)<figcaption class="caption wp-caption-text">The symmetrical stretching mode</figcaption></figure> <figure id="attachment_1131" class="thumbnail wp-caption alignnone style="width: 161px">[<img class="size-full wp-image-1131" src="http://www.moreisdifferent.com/wp-content/uploads/2013/01/asymmetrical_stretching.gif" alt="Asymmetrical_stretching" width="151" height="107" />](http://www.moreisdifferent.com/wp-content/uploads/2013/01/asymmetrical_stretching.gif)<figcaption class="caption wp-caption-text">The asymmetrical stretching mode</figcaption></figure> 
+[<img class="size-full wp-image-1132" src="http://www.moreisdifferent.com/wp-content/uploads/2013/01/scissoring.gif" alt="Bending" width="163" height="115" />](http://www.moreisdifferent.com/wp-content/uploads/2013/01/scissoring.gif)<figcaption class="caption wp-caption-text">The bending mode</figcaption></figure> <figure id="attachment_1133" class="thumbnail wp-caption alignnone style="width: 156px">[<img class="size-full wp-image-1133" src="http://www.moreisdifferent.com/wp-content/uploads/2013/01/symmetrical_stretching.gif" alt="Symmetrical_stretching" width="146" height="103" />](http://www.moreisdifferent.com/wp-content/uploads/2013/01/symmetrical_stretching.gif)<figcaption class="caption wp-caption-text">The symmetrical stretching mode</figcaption></figure> <figure id="attachment_1131" class="thumbnail wp-caption alignnone style="width: 161px">[<img class="size-full wp-image-1131" src="http://www.moreisdifferent.com/wp-content/uploads/2013/01/asymmetrical_stretching.gif" alt="Asymmetrical_stretching" width="151" height="107" />](http://www.moreisdifferent.com/wp-content/uploads/2013/01/asymmetrical_stretching.gif)<figcaption class="caption wp-caption-text">The asymmetrical stretching mode</figcaption></figure>
 
 However, this misconception is almost true, as microwaves are tuned to one of the biggest absorption peaks of water. This is the biggest dielectric loss peak which is sometimes called the &#8220;Debye peak&#8221;.
 
@@ -62,11 +63,11 @@ The dashed blue lines show the dramatic change in the shape of the loss spectrum
 It is also interesting how the loss spectrum changes with temperature. For instance, with pure water, cold water near 0C will absorb a lot less than hot water at 2.45 GHz. A &#8216;smart&#8217; microwave would change the frequency as the temperature of the food changes, however this is probably very difficult to achieve.
 
 **Much more info from Martin Chaplin&#8217;s website:
-  
+
 ** [Water & Microwaves](http://www.lsbu.ac.uk/water/microwave.html)
 
 **Addendum**
-  
+
 The topic of microwaves is discussed by J.B. Hasted in his obscure book _Aqueous Dielectrics_. I&#8217;m not recommending this as a useful book, but I include the relevant section here because it is amusing:
 
 <img class="alignnone size-full wp-image-3100" src="http://www.moreisdifferent.com/wp-content/uploads/2016/01/fullsizerender.jpg" alt="FullSizeRender" width="2405" height="2809" srcset="http://www.moreisdifferent.com/wp-content/uploads/2016/01/fullsizerender.jpg 2405w, http://www.moreisdifferent.com/wp-content/uploads/2016/01/fullsizerender-257x300.jpg 257w, http://www.moreisdifferent.com/wp-content/uploads/2016/01/fullsizerender-768x897.jpg 768w, http://www.moreisdifferent.com/wp-content/uploads/2016/01/fullsizerender-877x1024.jpg 877w, http://www.moreisdifferent.com/wp-content/uploads/2016/01/fullsizerender-1200x1402.jpg 1200w" sizes="(max-width: 2405px) 100vw, 2405px" />

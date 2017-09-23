@@ -1,6 +1,7 @@
 ---
 id: 2010
 title: 'What&#8217;s your evidence threshold?'
+comments: true
 date: 2015-08-08T21:48:35+00:00
 author: delton137
 layout: post

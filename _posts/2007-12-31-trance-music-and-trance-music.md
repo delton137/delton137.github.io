@@ -1,6 +1,7 @@
 ---
 id: 1894
 title: Trance, Music, and Trance Music
+comments: true
 date: 2007-12-31T00:00:52+00:00
 author: delton137
 layout: post
