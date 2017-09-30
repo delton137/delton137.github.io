@@ -44,4 +44,5 @@ Taking the concept of a capsule further and speaking very hypothetically, Hinton
 Toward the end of the lecture, Hinton shows a system that combines these concepts. Hinton's system does about as well as a CNN in terms of classification accuracy. However, his system is much slower because it doesn't not have the nice property of corresponding to a sequence of tensor operations (matrix multiplies) that CNNs have.  
 
 # More information
-* [unpublished research paper: *Transforming Auto-encoders*](http://www.cs.toronto.edu/~fritz/absps/transauto6.pdf)
+* [unpublished research paper from circa 2014: *Transforming Auto-encoders*](http://www.cs.toronto.edu/~fritz/absps/transauto6.pdf)
+* [NIPS paper from 2017 to appear soon: *Dynamic Routing between Capsules*](https://research.google.com/pubs/pub46351.html)
