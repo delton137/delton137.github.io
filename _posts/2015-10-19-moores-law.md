@@ -127,6 +127,6 @@ Markets themselves are based on the flow of information in the form of prices. 
 
 I came across a recent interview with Peter Thiel were he directly acknowledges that he disagrees with many of the exponential projections Kurzweil gives in his book _The Singularity is Near_.
 
-<div class="jetpack-video-wrapper">
-  <span class="embed-youtube" style="text-align:center; display: block;"></span>
-</div>
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i_yJTCDU4uE" frameborder="0" allowfullscreen></iframe>
+</p>
