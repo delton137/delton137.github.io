@@ -43,15 +43,15 @@ It is often said that the reason Fortran is still used is that it is _fast._ But
 
 So, altogether, C/C++ is just as fast as Fortran and often a bit faster.  The question we really should be asking is “why do physics professors continue to advise their students to use Fortran rather than C/C++?”
 
-### Fortran has legacy code
+## Fortran has legacy code
 
 Given the long history of Fortran, it is no surprise that a large amount of legacy code in physics is written in Fortran. Physicists usually try to minimize the amount of coding they do, therefore, if legacy code exists they will use it. Even if old code is hard to read, poorly documented, and not the most efficient, it is often faster to use old validated code than to write new code. Physicists are not in the business of writing code, after all, they are trying to understand the nature of reality. Professors usually have this legacy code on hand (often code they wrote themselves decades ago) and pass this code on to their students. This saves their students time, and also takes uncertainty out of the debugging process.
 
-### Fortran is easier for physics students to learn than C/C++
+## Fortran is easier for physics students to learn than C/C++
 
 Overall, I think Fortran is easier to learn than C/C++. Fortran 90 and C are very similar, but Fortran is easier to code in for reasons I will discuss. C is a fairly primitive languages, so physicists who go the C/C++ route tend to look into object oriented coding. Object oriented coding can be useful, especially with massive software projects, but it takes significantly more time to learn. One has to learn abstract concepts like classes and inheritance. The paradigm of object oriented coding is very different from the procedural paradigm used in Fortran. Fortran is based on a simple procedural paradigm that is closer to what actually happens &#8216;under the hood&#8217; inside a computer. When optimizing / vectorizing code for speed the procedural paradigm seems easier to work under.  Physicists generally have an understanding of how computers work and are inclined to think in terms of physical processes, such as the transfer of data from disk to RAM and from RAM to CPU cache. This is in contrast to mathematicians, who prefer to think in terms of abstract functions and logic. It is also in contrast to the way one thinks about object oriented code. Optimizing object oriented code seems more difficult to me than procedural code. Objects are very bulky structures compared the physicist&#8217;s data structure of choice: the array.
 
-### Point of ease 1: Fortran array handling features
+## Point of ease 1: Fortran array handling features
 
 ** Arrays (or in physics-speak, matrices) lie at the heart of all physics calculations. Fortran 90+ incorporates array handling features, similar to [APL](https://en.wikipedia.org/wiki/APL_(programming_language)) or Matlab/Octave. Arrays can be copied, multiplied by a scalar, or multiplied together quite intuitively as:
 
@@ -121,7 +121,7 @@ In C/C++, we have:
 free(array);
 </pre>
 
-### Point of ease 2: Little need to worry about pointers / memory allocation
+## Point of ease 2: Little need to worry about pointers / memory allocation
 
 In languages like C/C++ , all variables are passed by value, unless they are arrays, which are passed by reference. However, in many scenarios passing an array by value may make more sense &#8211; consider if our data consists of the positions of 100 molecules at different timesteps. Now we may want to analyze the motion of a single molecule. We take a ‘slice’ of the array (a subarray) corresponding to the coordinates of the atoms in that molecule and pass it to a function. Now we are going to do a complicated series of analyses on that subarray. If we used pass by reference, the values being pointed to are going to be non-contiguous in memory. Because of the way CPUs access memory, manipulating non-contiguous data is _slow_. If we pass by value, however, we create a new array in memory which is contiguous. For instance, when passing a slice of a large array into a function to be operated on, the compiler may create a new location in memory if this is deemed more efficient. This may in fact be much more efficient, if the array can be stored in the CPU&#8217;s cache. To the physicist&#8217;s delight, the compiler does all the ‘dirty work’ of optimizing memory use.
 
