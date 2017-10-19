@@ -129,21 +129,9 @@ In Fortran, variables are usually passed by reference, not by value. Under the
 
 # A few other points regarding Fortran vs C
 
-Fortran has several features that allow the programmer to give information to the compiler which assists in debugging and optimization. In this way, coding errors can be caught at compile-time, rather than at run-time. For instance, any variable can be declared as a parameter, that is, something which doesn&#8217;t change.
+Fortran has several features that allow the programmer to give information to the compiler which assists in debugging and optimization. In this way, coding errors can be caught at compile-time, rather than at run-time. For instance, any variable can be declared as a parameter, that is, something which doesn&#8217;t change. If a parameter is ever changed in the code, the compiler returns an error. In C, there is something similar called a _[const](https://en.wikipedia.org/wiki/Const_(computer_programming)):_ Similarly, Fortran also has an &#8216;intent&#8217; specification tells the compiler whether an argument being passed to a function or subroutine is an just an input, an output, or both an input and output. The use of &#8216;intent&#8217; specifiers helps the compiler optimize code and increases code readability and robustness. A similar thing can be done in C++ to assist in optimization, but people online complain the syntax is confusing ([see for instance the discussion here](http://duramecho.com/ComputerInformation/WhyHowCppConst.html)).
 
-<pre class="brush: cpp; title: ; notranslate" title="">double precision, parameter :: hbar = 6.63e-34
-</pre>
-
-If a parameter is ever changed in the code, the compiler returns an error. In C, there is something similar called a_ [const](https://en.wikipedia.org/wiki/Const_(computer_programming)):_
-
-<pre class="brush: cpp; title: ; notranslate" title="">double const hbar = 6.63e-34
-</pre>
-
-The problem is that a &#8216;const real&#8217; is a different type than a normal &#8216;real&#8217;. If a function that takes a &#8216;real&#8217; is fed a &#8216;const real&#8217;, it will return an error. It is easy to imagine how this can lead to problems with interoperability between codes.
-
-Fortran also has an &#8216;intent&#8217; specification tells the compiler whether an argument being passed to a function or subroutine is an input, and output, or both an input and output. The use of &#8216;intent&#8217; specifiers helps the compiler optimize code and increases code readability and robustness.
-
-There are other similar features in Fortran, used to varying degrees. For instance, Fortran 95 introduced the idea of declaring a function as &#8216;pure&#8217;. A pure function does not have any side effects &#8211; it only changes variables that are arguments to the function and not any other global variables. A special case of a pure function is an &#8216;elemental&#8217; function, which is a function that takes a scalar argument and returns a scalar, and is meant to operate on the elements of an array. The knowledge that a functions are &#8216;pure&#8217; or &#8216;elemental&#8217; can lead to additional optimizations by the compiler, especially when the code is being parallized.
+There are other similar features in Fortran, used to varying degrees, to assist the compiler. For instance, Fortran 95 introduced the idea of declaring a function as &#8216;pure&#8217;. A pure function does not have any side effects &#8211; it only changes variables that are arguments to the function and not any other global variables. A special case of a pure function is an &#8216;elemental&#8217; function, which is a function that takes a scalar argument and returns a scalar, and is meant to operate on the elements of an array. Both of these operations help the compiler optimize code, especially when the code is being parallized.
 
 # What is the future?
 
