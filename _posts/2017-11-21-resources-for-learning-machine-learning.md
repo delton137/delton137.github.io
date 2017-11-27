@@ -36,7 +36,6 @@ The are a gazillion other data science / machine learning online courses. Many o
 
 [Introduction to machine learning in Python with scikit-learn (video series)](http://www.dataschool.io/machine-learning-with-scikit-learn/)
 
-
 # Pandas
 <a href="http://pandas.pydata.org/pandas-docs/stable/cookbook.html">The Pandas cookbook</a>
 
@@ -78,6 +77,8 @@ Some people love em, some people hate em.
 [Siraj Rival](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) - (225,000+ subscribers)
 
 # Textbooks
+[Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/) by Aurélien Géron 
+
 <a href="http://www.deeplearningbook.org/">http://www.deeplearningbook.org/</a>  Free draft online, by Ian Goodfellow and Yoshua Bengio and Aaron Courville
 
 <a href="http://www.inference.phy.cam.ac.uk/itila/p0.html">“Information Theory, Inference, and Learning Algorithms”</a> by David J.C. MacKay
