@@ -14,9 +14,10 @@ categories:
 tags:
   - books
 ---
-**_<img class=" alignright" src="http://publiusonline.com/wp-content/uploads/2012/11/TheMoonIsAHarshMistress_2505-200x300.jpg" alt="" width="200" height="300" />The Moon is  Harsh Mistress_
+<img class=" alignright" src="http://publiusonline.com/wp-content/uploads/2012/11/TheMoonIsAHarshMistress_2505-200x300.jpg" alt="" width="200" height="300" />
+**_The Moon is  Harsh Mistress_**
 
-** by Robert A. Heinlein
+by Robert A. Heinlein
 
 1966, 382 pages
 

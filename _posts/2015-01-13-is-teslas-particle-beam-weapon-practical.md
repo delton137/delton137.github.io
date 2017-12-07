@@ -37,9 +37,9 @@ To get my readers up to speed on this topic, here is quick timeline of known his
 
 **~1937** Tesla claims to a reporter that his apartment was broken into and his papers examined. He claims that the spies left empty handed, though, since there are critical details about the weapon which he has not committed to paper, but carries around in his head instead.
 
-**1939 &#8211; **WW2 begins. Tesla attempts to gain funding to build his particle beam weapon from the US government, but is denied.
+**1939 &#8211;** WW2 begins. Tesla attempts to gain funding to build his particle beam weapon from the US government, but is denied.
 
-**1940 &#8211; **Seeking publicity, Tesla announces a new beam weapon idea which he calls &#8220;teleforce&#8221;. No details are given, however.
+**1940 &#8211;** Seeking publicity, Tesla announces a new beam weapon idea which he calls &#8220;teleforce&#8221;. No details are given, however.
 
 **1943 &#8211;** Tesla dies. The FBI uses the Office of Alien Property Custodian (OAPC) to seize Tesla&#8217;s papers, setting off decades of speculation about a coverup. According to the FBI, the papers were carefully analyzed by John G. Trump, a RADAR scientist at MIT, along with several high level Naval Intelligence officials. Trump declares that the papers do not contain any new information which would &#8220;constitute a hazard in unfriendly hands&#8221; and the papers are deemed safe to be released.  Trump includes an analysis of Tesla&#8217;s particle beam papers in his report, concluding that the plans do not contain enough information to actually build a weapon and that any workable configuration would be of very limited power.
 
@@ -55,11 +55,11 @@ To get my readers up to speed on this topic, here is quick timeline of known his
 
 **1981 &#8211;** The [Strategic Defense Initiative](https://en.wikipedia.org/wiki/Strategic_Defense_Initiative) (SDI) is announced publicly.
 
-**1989  **As part of SDI, researchers develop neutral beam technology at Los Alamos National Laboratory, with the intent of using a particle beam weapon in orbit to disable space-based systems. As part of the [Beam Experiments Aboard Rocket (BEAR) project](https://accelconf.web.cern.ch/accelconf/l90/papers/th454.pdf), a prototype hydrogen beam weapon is launched from White Sands Missile Range in July 1989 and successfully deployed into low Earth orbit. It is operated successfully in space and is recovered after reentry.
+**1989** As part of SDI, researchers develop neutral beam technology at Los Alamos National Laboratory, with the intent of using a particle beam weapon in orbit to disable space-based systems. As part of the [Beam Experiments Aboard Rocket (BEAR) project](https://accelconf.web.cern.ch/accelconf/l90/papers/th454.pdf), a prototype hydrogen beam weapon is launched from White Sands Missile Range in July 1989 and successfully deployed into low Earth orbit. It is operated successfully in space and is recovered after reentry.
 
 **2006** The BEAR weapon prototype is transferred from Los Alamos [to the Smithsonian Air and Space Museum in Washington, DC](http://airandspace.si.edu/collections/artifact.cfm?object=nasm_A20070004000).
 
-**Difficulties in building a particle beam weapon**
+# Difficulties in building a particle beam weapon
 
 There are major differences between the space-based particle beam weapon tested during the cold war and the type of weapon Tesla envisioned. First of all, a large portion of the the design plans Tesla presents are not for the accelerator itself (which is a rather simple device, similar to the cathode ray tubes found in old TVs) but for the high voltage generator he envisions to power it, which is essentially a highly modified [van de Graaf generator](https://en.wikipedia.org/wiki/Van_de_Graaff_generator) (picture a van de Graaf, but one that uses circulating air in tubes instead of a belt to transfer charge). I will not dwell on this hypothetical van de Graaf, since we now have other ways of generating high voltages. I will also not dwell on Tesla&#8217;s particular accelerator design, since it has since been supplanted by vastly superior designs. Instead, I will ask if the the general principle &#8211; using a neutral particle beam as a weapon &#8211; is feasible.
 

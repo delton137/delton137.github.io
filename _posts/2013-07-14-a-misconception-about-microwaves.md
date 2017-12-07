@@ -62,9 +62,9 @@ The dashed blue lines show the dramatic change in the shape of the loss spectrum
 
 It is also interesting how the loss spectrum changes with temperature. For instance, with pure water, cold water near 0C will absorb a lot less than hot water at 2.45 GHz. A &#8216;smart&#8217; microwave would change the frequency as the temperature of the food changes, however this is probably very difficult to achieve.
 
-**Much more info from Martin Chaplin&#8217;s website:
+**Much more info from Martin Chaplin&#8217;s website**:
 
-** [Water & Microwaves](http://www.lsbu.ac.uk/water/microwave.html)
+[Water & Microwaves](http://www.lsbu.ac.uk/water/microwave.html)
 
 **Addendum**
 

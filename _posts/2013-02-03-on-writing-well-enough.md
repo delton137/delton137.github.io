@@ -15,7 +15,7 @@ categories:
 ---
 I’ve come to realize that my writing skills have much room for improvement.
 
-_**Resting on my laurels**_
+# Resting on my laurels
 
 I used to be under the glib impression that I was an excellent writer.  This was based on a number of factors. First of all, in high school my English teachers all told me I was good. Part of their enthusiasm about me was more due my unusual approach to literary topics &#8211; I interpreted literature in a more analytical fashion than other students.
 
@@ -25,7 +25,7 @@ In college I considered myself an excellent writer, and wrote a total of three n
 
 My point is, based on the praise I received in high school, and my standing in relation to the foreign student population at Stony Brook, I felt my writing was ‘good enough’.  I also drew conclusions from statistics on the performance of US students vs Chinese.  In the face of the fact that my math skills (and those of American students on average) are highly deficient, I took some comfort in thinking that at least my writing skills were better.  I was smug (and to some extent still am) with the idea that although the Chinese students outperform American students on standardized tests and math exams, American students turn out to be much more freethinking and creative.
 
-_**The arrogance of Feynman**_
+# The arrogance of Feynman
 
 In addition to the aforementioned factors, I believe that there was another subtle factor which led me to believe my writing was ‘good enough’ &#8211; and this factor I call ‘the arrogance of Feynman’. Like many physics majors, I was heavily influenced by Richard Feynman. I read about half of the first volume of the Feynman lectures and several of his popular books. In these books Feynman displays his characteristic bravado and arrogance for which he is famous. Two of the worst cases of this are his dismissal of the then emerging social sciences (most notably in his lecture ‘Cargo Cult Science’) and his flippant attitude towards philosophy.  Obviously Feynman wasn’t very well versed in either the social sciences or philosophy, but, as is a flaw found in many intellectuals, he felt that his high standing in one field gave legitimacy to his criticisms of other fields. (And all too often, we give such people this undue legitimacy.)  In addition to his arrogance towards philosophy and the social sciences, I also think there is one passage in which he displayed an arrogance towards language &#8211; or at least, it can be interpreted in this way. The basic idea is this:
 
@@ -40,7 +40,7 @@ The first point is that if you carefully investigate the idea that words don’t
 
 The second, and more important point is that practically speaking, although the meaning is in the semantics (relations) the syntax itself is extremely important. You may understand perfectly how something works but that knowledge won’t be very useful if you can’t communicate it to someone else. I think this is an area where physicists can improve a lot, by standardizing the words we use and also our mathematical syntax. We can also improve a lot in our ability to communicate ideas to members of other disciplines (even within physics) and to the public at large.
 
-**_Developing from slow crystallization to rapid realization_**
+# Developing from slow crystallization to rapid realization 
 
 Now, getting on with my realization, let me briefly discuss what I hope to improve. The first thing is I would like is for my writing to be free from grammar and spelling errors and easily understandable by the intended audience. Ideally I would like to be able write something without having to proofread it a dozen times to remove all the errors. Right now, creating a good piece of writing takes me a lot of time and a lot of proofreading, which I am terribly inefficient at.
 
