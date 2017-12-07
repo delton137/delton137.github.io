@@ -77,7 +77,7 @@ Some people love em, some people hate em.
 [Siraj Rival](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) - (225,000+ subscribers)
 
 # Textbooks
-[Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/) by Aurélien Géron 
+[Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/) by Aurélien Géron
 
 <a href="http://www.deeplearningbook.org/">http://www.deeplearningbook.org/</a>  Free draft online, by Ian Goodfellow and Yoshua Bengio and Aaron Courville
 
@@ -116,6 +116,9 @@ Gaussian Processes For Machine Learning, <a href="http://www.amazon.com/Gaussian
 <a href="http://bit.ly/1GnnQdE">Machine Learning with Spark</a>
 
 <a href="http://amzn.to/2hhrJgh">Amazon.com: Convex Optimization (9780521833783): Stephen Boyd, Lieven Vandenberghe: Books<
+
+# Cool articles for lay audiences
+[The Extraordinary Link Between Deep Neural Networks and the Nature of the Universe](https://www.technologyreview.com/s/602344/the-extraordinary-link-between-deep-neural-networks-and-the-nature-of-the-universe/)
 
 # Books for lay audiences
 [The Master Algorithm : How the Quest for the Ultimate Learning Machine Will Remake Our World](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine/dp/0465065708/ref=sr_1_1?s=books&ie=UTF8&qid=1470187436&sr=1-1&keywords=The+master+algorithm) by Pedro Domingos

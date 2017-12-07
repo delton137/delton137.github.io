@@ -16,7 +16,7 @@ Can you decipher this: ?
   <a href="http://www.moreisdifferent.com/wp-content/uploads/2013/02/zoomed_in.png"><img class=" wp-image-1220 aligncenter" alt="zoomed_in" src="http://www.moreisdifferent.com/wp-content/uploads/2013/02/zoomed_in.png?w=283" width="556" height="588" srcset="http://www.moreisdifferent.com/wp-content/uploads/2013/02/zoomed_in.png 750w, http://www.moreisdifferent.com/wp-content/uploads/2013/02/zoomed_in-283x300.png 283w" sizes="(max-width: 556px) 100vw, 556px" /></a><!--more-->
 </p>
 
-Oddly enough, it will become easier to read if we make it _smaller:_
+Oddly enough, it will become easier to read if we make it _smaller_:
 
 [<img class="alignnone size-medium wp-image-1221" alt="zoomed_out" src="http://www.moreisdifferent.com/wp-content/uploads/2013/02/zoomed_out.png?w=300" width="381" height="265" />](http://www.moreisdifferent.com/wp-content/uploads/2013/02/zoomed_out.png)
 

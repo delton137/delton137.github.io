@@ -32,9 +32,9 @@ Last time I gave the canonical example of a test for a disease. Humans tend to n
 
 Here I will give two more examples of highly non-intuitive Bayesian problems.
 
-**The Monty Hall problem
+# The Monty Hall problem
 
-** The famous Monty Hall problem can be solved with Bayes&#8217; rule. A statement of the problem is:
+The famous Monty Hall problem can be solved with Bayes&#8217; rule. A statement of the problem is:
 
 _There are three doors, labelled 1, 2, 3. A single prize has been hidden between one of them. You get to select one door. Initially your chosen door will not be opened. Instead, the gameshow host will choose one of the other two doors, and he will do so in such a way as to not reveal the prize. After this, you will be given a fresh choice among the 2 remaining doors &#8211; you can stick with your first choice, or switch to the other closed door._
 
@@ -66,7 +66,7 @@ Note the following mind-blowing shortcut to solving the problem:
 
 Since door 3 was opened, we know <img src="http://www.moreisdifferent.com/wp-content/ql-cache/quicklatex.com-a5866efcacb201320ffe8e2083ce41eb_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#32;&#80;&#40;&#68;&#95;&#51;&#41;&#32;&#61;&#32;&#48;" title="Rendered by QuickLaTeX.com" height="18" width="83" style="vertical-align: -4px;" />. The gameshow host did nothing to interfere with door 1. Thus  <img src="http://www.moreisdifferent.com/wp-content/ql-cache/quicklatex.com-305fa411d22957d9b1c3d5745e122131_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#32;&#80;&#40;&#68;&#95;&#49;&#41;&#32;&#61;&#32;&#49;&#47;&#51;" title="Rendered by QuickLaTeX.com" height="19" width="101" style="vertical-align: -5px;" />as it was in the beginning. Now, we know <img src="http://www.moreisdifferent.com/wp-content/ql-cache/quicklatex.com-1faa0898521fb4209c8e31a943cfd098_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#32;&#80;&#40;&#68;&#95;&#49;&#41;&#32;&#43;&#32;&#80;&#40;&#68;&#95;&#50;&#41;&#32;&#43;&#32;&#80;&#40;&#68;&#95;&#51;&#41;&#32;&#61;&#32;&#49;" title="Rendered by QuickLaTeX.com" height="18" width="225" style="vertical-align: -4px;" />, so <img src="http://www.moreisdifferent.com/wp-content/ql-cache/quicklatex.com-7b11056ace370994ddfaacd8f92e6d03_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#32;&#80;&#40;&#68;&#95;&#50;&#41;&#32;&#61;&#32;&#50;&#47;&#51;" title="Rendered by QuickLaTeX.com" height="19" width="101" style="vertical-align: -5px;" />!
 
-**Bayesian model comparison**
+# Bayesian model comparison
 
 Bayes&#8217; theorem allows us to compare the likelihoods of different models being true. To take a concrete example, let&#8217;s assume we have black box with a button attached. Whenever we hit the button, and a light on top of the box blinks either green or red. We hit the button a number times, obtaining a sequence:
 
@@ -88,7 +88,7 @@ The relative probability of model 2 over model 1 is encoded in the ratio of the 
 
 The ratio tells us the relative probability that model 1 is correct. Note that absolute probabilities of model 1 and model 2 can be computed from this using the fact that  <img src="http://www.moreisdifferent.com/wp-content/ql-cache/quicklatex.com-45425fa59350e6af70c37dd65c16508b_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#32;&#80;&#40;&#92;&#109;&#97;&#116;&#104;&#99;&#97;&#108;&#123;&#72;&#125;&#95;&#49;&#124;&#115;&#41;&#43;&#80;&#40;&#92;&#109;&#97;&#116;&#104;&#99;&#97;&#108;&#123;&#72;&#125;&#95;&#50;&#32;&#124;&#115;&#41;&#61;&#49;" title="Rendered by QuickLaTeX.com" height="18" width="180" style="vertical-align: -4px;" />That&#8217;s all on model comparison for now. A more detailed discussion can be found in MacKay&#8217;s book.
 
-**The case of the blood stains**
+# The case of the blood stains
 
 This problem is taken directly MacKay&#8217;s book:
 
@@ -135,7 +135,7 @@ If there are more type O stains than the average number expected under hypothesi
 
 Note the similarity with the drug test example. The base rate of blood stains must be considered.
 
-**Bayesian statistics in court**
+# Bayesian statistics in court
 
 Ideally, a jury would apply Bayesian reasoning to rank the likelihood of different hypotheses. The chance that a person is a suspect is denoted <img src="http://www.moreisdifferent.com/wp-content/ql-cache/quicklatex.com-05813704fb74f4112070a63a15e143dc_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#32;&#83;" title="Rendered by QuickLaTeX.com" height="12" width="12" style="vertical-align: 0px;" />, and the probability is encoded in the ratio <img src="http://www.moreisdifferent.com/wp-content/ql-cache/quicklatex.com-7448c9d66a370ddfd7e192b8daec2dc4_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#32;&#92;&#102;&#114;&#97;&#99;&#123;&#83;&#125;&#123;&#92;&#98;&#97;&#114;&#123;&#83;&#125;&#125;" title="Rendered by QuickLaTeX.com" height="23" width="10" style="vertical-align: -7px;" />. In the words of MacKay:
 

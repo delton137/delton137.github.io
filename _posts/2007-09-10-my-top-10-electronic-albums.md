@@ -1,6 +1,6 @@
 ---
 id: 1901
-title: My top 10 electronic albums
+title: 10 of the greatest electronic albums
 comments: true
 date: 2007-09-10T00:00:24+00:00
 author: delton137
@@ -23,8 +23,6 @@ tags:
 
 <!--more-->
 
-
-
 Many of the albums where found from a very helpful and carefully constructed [list by &#8220;darktremor&#8221;.](http://www.listology.com/content_show.cfm/content_id.25894/Music) However, some of the albums on his list are slightly outside the bounds of electronic music, for instance _Music for 18 Musicians_ which he ranks as no.1 is actually instrumental classical. Also, _Neon Golden_ and _loveless_ are both great albums,  but I found both too much akin to rock and pop for this list. I also considered the fact that there are electronic versions of _Music for 18 Musicians_, but from what I have heard they are either mediocre or take too many liberties with the material.  I will pay my respects to _Music for 18 Musicians_ by saying that I consider it one of the top 10 albums of the 20th century in any genre.  The top ten albums of the 20th century is a much more difficult project. (some albums I think would include would be _Sergeant Pepper&#8217;s Lonely Hearts Club Band_, _Kind of Blue_, and _Rite of Spring)._
 
 Also considered was  [this list](http://www.slantmagazine.com/music/features/2520electronicalbums.asp),  from &#8220;slant magazine&#8221;,  there are several albums high on the list I have not listened to, which probably should be considered. One that I have listened to, which I was surprised to see on the list was _Orbital 2_ by Orbital. This is a masterwork of classic trance. However, while the song &#8220;Halcyon on and on..&#8221; is simply amazing, over all I think it lacks originality and influence. I believe most of the album was influenced heavily by underground German artists such as Oliver Leib and Sven Vath.
@@ -37,7 +35,7 @@ I do not recommend just listening to these off Youtube. Sound quality is very im
   <b> <i> <img src="http://mysbfiles.stonybrook.edu/%7Edelton/images/Top10%20Album%20Art/abtuw.jpg" alt="" width="258" height="252" align="right" border="0" /></i></b>
 </p>
 
-**1: The Orb &#8211; _Adventures Beyond the Ultraworld_
+## 1: The Orb &#8211; _Adventures Beyond the Ultraworld_
 
 Year: 1991
 
@@ -47,7 +45,7 @@ Starting with the well known &#8220;Little Fluffy Clouds&#8221;, this album slow
 
 &nbsp;
 
-**2: Spicelab &#8211;  _A Day on Our Planet_
+## 2: Spicelab &#8211;  _A Day on Our Planet_
 
 Year: 1994**<span style="font-size:small;"><img src="http://mysbfiles.stonybrook.edu/%7Edelton/images/Spicelab/A%20day%20on%20our%20planet_small.jpg" alt="" width="258" height="265" align="right" border="0" hspace="3" /></span>**
 
@@ -57,7 +55,7 @@ As online electronic music expert Darktremor says, &#8220;The first wave of tran
 
  <span style="font-size:small;"><img src="http://mysbfiles.stonybrook.edu/%7Edelton/images/Top10%20Album%20Art/endtroducing1.jpg" alt="" width="258" height="255" align="right" border="0" hspace="3" /></span>
 
-**3: DJ Shadow &#8211; _Endtroducing&#8230;_**
+## 3: DJ Shadow &#8211; _Endtroducing&#8230;_
 
 **Year: 1996**
 
@@ -71,7 +69,7 @@ Endtroducing is important because it was the first albums ever composed entirely
 
 **
 
-4: Faust &#8211; _Faust_****
+## 4: Faust &#8211; _Faust_
 
 Year: 1971
 
@@ -81,9 +79,9 @@ This album is strange, horrible madness. As Darktremor says, it sounds like a jo
 
 &nbsp;
 
- ** _<img src="http://mysbfiles.stonybrook.edu/%7Edelton/images/Top10%20Album%20Art/blue%20lines.jpg" alt="" width="248" height="254" align="right" border="0" />_**
+<img src="http://mysbfiles.stonybrook.edu/%7Edelton/images/Top10%20Album%20Art/blue%20lines.jpg" alt="" width="248" height="254" align="right" border="0" />
 
-**5: Massive Attack &#8211; _Blue Lines_
+## 5: Massive Attack &#8211; _Blue Lines_
 
 Year: 1991
 
@@ -97,7 +95,8 @@ Electronic genre: Trip-hop
 
 &nbsp;
 
-**6: DJ Tiesto &#8211; _In Search of Sunrise 1<img src="http://mysbfiles.stonybrook.edu/%7Edelton/images/Top10%20Album%20Art/MusicCatalog-D-DJ%20Tiesto%20-%20In%20Search%20Of%20Sunrise%201-DJ%20Tiesto%20-%20In%20Search%20Of%20Sunrise%201.jpg" alt="" width="249" height="247" align="right" border="0" />_
+## 6: DJ Tiesto &#8211; _In Search of Sunrise 1_
+<img src="http://mysbfiles.stonybrook.edu/%7Edelton/images/Top10%20Album%20Art/MusicCatalog-D-DJ%20Tiesto%20-%20In%20Search%20Of%20Sunrise%201-DJ%20Tiesto%20-%20In%20Search%20Of%20Sunrise%201.jpg" alt="" width="249" height="247" align="right" border="0" />_
 
 Year: 2000
 
@@ -105,7 +104,7 @@ Electronic genre: Commercial Trance &#8211; Epic trance/ Uplifting Trance/ Ibiza
 
 ISOS is a album that takes you on a powerful aural journey. A journey which perfectly captures all the wonderful sounds of commercial &#8220;epic&#8221; trance. The album is generally described as smooth, uplifting, sensual, a tad spooky/nocturnal, and just plain uber-cool. Perhaps there is nothing special in the mixing, but this does not detract from the albums value, which is in its track selection: basically hit after hit after hit by the best artists in commercial uplifting trance. The track selection is done to insure lots of tension and release, both in the macrostructure of the album and the internal emotional power of the tracks. Songs include &#8220;Walhalla&#8221;, &#8220;Far From Over&#8221;, &#8220;Sparkles (Magikal remix)&#8221; composed by Tiesto himself (under different aliases), and others by big names in the genre like Yahel Sherman, Lange, BT, and Billie Ray Martin. _Highly Recommended, especially for beginners !!!_
 
-**7: Amon Tobin &#8211; _Bricolage_
+## 7: Amon Tobin &#8211; _Bricolage_
 
 Year: 1997**<img src="http://mysbfiles.stonybrook.edu/%7Edelton/images/Top10%20Album%20Art/bricolage.jpg" alt="" width="256" height="228" align="right" border="0" />**
 
@@ -113,7 +112,7 @@ Electronic Genre: “Electronic Jazz”/ Intelligent Dance Music / Ambient Dub**
 
 It was hard to choose between “Bricolage”, “Supermodified”, and “Out from No Where”, three great albums by Tobin. Supermodified is my originally my favorite, and is more popular then his earlier works. It was a very successful album, and contains some very remarkable sounds, no doubt. The same can be said for &#8220;Out from No Where&#8221;, which is a further development  of his style. However, Bricolage  wins high points of originality and influence. A lot of movie soundtracks have a similar sound. Additionally, &#8220;Bricolage&#8221; has started to grow on me, and every time I hear it I like it more and more. It is smooth electronic jazz at its finest. His later works are more rough and complex, by comparison. This, by contrast, is more sublime and beautiful.  I also recommend the other two aforementioned albums as a continued evolution of this music.
 
-**8: Kraftwerk &#8211; _Autobahn<img src="http://mysbfiles.stonybrook.edu/%7Edelton/images/Top10%20Album%20Art/Kraftwerk-Autobahn199622480_f.jpg" alt="" width="249" height="255" align="right" border="0" />_
+## 8: Kraftwerk &#8211; _Autobahn<img src="http://mysbfiles.stonybrook.edu/%7Edelton/images/Top10%20Album%20Art/Kraftwerk-Autobahn199622480_f.jpg" alt="" width="249" height="255" align="right" border="0" />_
 
 Electronic genre: Early techno / electro
 
@@ -121,7 +120,7 @@ Year: 1974**
 
 This receives such a high ranking for originality. It is one of the first albums to use synthesizers to create catchy melodies and other interesting sound effects, meant to convey a trip on the Autobahn. Previously electronic music had been mostly abstract experimentation in highly academic circles. Due to their overall influence on the development of electronic music, I could not leave Kraftwerk out of the top 10. A lot of people say “Trans-Europe Express” was their opus magnum, and I have listened to it, and perhaps it is true. Either way, it scores lower points on originality and influence.
 
-**9: Sasha & Digweed &#8211; _Northern Exposure (Double Album)_
+## 9: Sasha & Digweed &#8211; _Northern Exposure (Double Album)_
 
 Year: 1995
 
@@ -131,9 +130,9 @@ Electronic genre: Progressive house / Ambient trance_<img src="http://mysbfiles.
 
 impressive mix of progressive house at its finest. It is highly recommended if you have never listened to progressive house before.
 
- ** _<img src="http://mysbfiles.stonybrook.edu/%7Edelton/images/Top10%20Album%20Art/BrianEno-Ambient1.jpg" alt="" width="242" height="237" align="right" border="0" />_**
+<img src="http://mysbfiles.stonybrook.edu/%7Edelton/images/Top10%20Album%20Art/BrianEno-Ambient1.jpg" alt="" width="242" height="237" align="right" border="0" />
 
-**10: Brian Eno &#8211; _Ambient 1: Music For Airports_
+## 10: Brian Eno &#8211; _Ambient 1: Music For Airports_
 
 Year: 1978**
 
@@ -141,7 +140,7 @@ Electronic genre: Ambient (?)
 
 This is one of the undisputed greats in electronic music. For me this is like meditation music, especially the first track. In fact, it was meant to be relaxing music for people waiting at airports. It scores high points on originality and influence. It earned Eno a respectable place in the history of western music.
 
-**Runners up (these where chose to cover some other genres)**
+# Runners up (these where chose to cover some other genres)**
 
 **Klaus Schulze &#8211; _Irrlicht_**
 
@@ -197,9 +196,9 @@ and psychedelic trance styles.
 
 Electronic genre: Psychedelic Rock/Musique Concrete
 
-**Radiohead &#8211; _Kid A
+**Radiohead &#8211; _Kid A_**
 
-_** Electronic genre: Electronic Rock / Art Rock
+Electronic genre: Electronic Rock / Art Rock
 
 (I wanted to include this on the main list, but was trying to restrict the list to pure electronic)
 
@@ -231,9 +230,9 @@ Electronic genre: microhouse
 
 This is interesting. Microhouse is music made from short sound samples (<1sec).
 
-**Robert Miles &#8211; Dreamland
+**Robert Miles &#8211; _Dreamland_**
 
-** Electronic genre : Dream Trance
+Electronic genre : Dream Trance
 
 This is the alpha and omega of Dream Trance. It is all dream trance was meant and will ever be. Sweet heavenly bliss.
 
