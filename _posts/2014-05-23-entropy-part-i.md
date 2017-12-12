@@ -36,7 +36,7 @@ One can also see the distinction between classical and quantum in terms of the u
 
 There are three definitions of entropy that one sees a lot.
 
-The thermodynamic definition **S = Q/ T  **
+The thermodynamic definition **S = Q/ T**
 
 (Q = heat due to work, T = temperature. Discovered by [Rudolf Clausius](http://en.wikipedia.org/wiki/Rudolf_Clausius) in 1854)
 
