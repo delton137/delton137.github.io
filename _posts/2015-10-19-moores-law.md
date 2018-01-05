@@ -123,10 +123,12 @@ What&#8217;s interesting _and unique_ about IT is that there is an insatiable ma
 
 Markets themselves are based on the flow of information in the form of prices. The price system efficiently conveys information about market conditions. [As F.A. Hayek pointed out, the price system is essential](https://en.wikipedia.org/wiki/The_Use_of_Knowledge_in_Society) &#8211; it conveys important information which cannot be gathered in any other way. Better IT tech leads to better information processing, which leads to more robust markets, which in turn leads to more wealth that can be invested back into IT technology. The insatiable demand of the market for more transistors is the underlying driver of Moore&#8217;s law.
 
-# Update:
+# Addendums:
 
 I came across a recent interview with Peter Thiel were he directly acknowledges that he disagrees with many of the exponential projections Kurzweil gives in his book _The Singularity is Near_.
 
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i_yJTCDU4uE" frameborder="0" allowfullscreen></iframe>
 </p>
+
+12-18-17 : in economics, one cause of the diminishing returns from investment of more resources is the so called ["learning curve" effect](https://en.wikipedia.org/wiki/Experience_curve_effects). It may be worthwhile exploring the literature on learning curves (both in economics \& society ) and see if they have connections to Moore's law vs traditional S-shaped development curves.

@@ -112,7 +112,6 @@ Gaussian Processes For Machine Learning, <a href="http://www.amazon.com/Gaussian
 
 <a href="http://bit.ly/1vHzOWS">Building Machine Learning Systems with Python</a>
 
-
 <a href="http://bit.ly/1GnnQdE">Machine Learning with Spark</a>
 
 <a href="http://amzn.to/2hhrJgh">Amazon.com: Convex Optimization (9780521833783): Stephen Boyd, Lieven Vandenberghe: Books<
