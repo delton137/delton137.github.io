@@ -12,7 +12,7 @@ tags:
   - capitalism
 ---
 
-*This is a response to a brochure that was circulated on the Stony Brook University campus entitled "SOCIALISM - AN OUTLINE", which I wrote in 2014-2015. The idea was to make it into a tri-fold brochure. I was disenchanted with other attempts to promote capitalism on college campuses, such as*
+*This is a response to a brochure that was circulated on the Stony Brook University campus entitled "SOCIALISM - AN OUTLINE", which I wrote in 2014-2015. The idea was to make it into a tri-fold brochure. I was disenchanted with other attempts to promote capitalism on college campuses, such as done by Turning Point USA.*
 
 For thousands of years the vast majority of people lived day to day, producing just enough to subsist off the land. Most of what they produced was confiscated by feudal lords. Life expectancy hovered around 30 and modern medicine was nonexistent. Land, education and political power could only be obtained by birth into the aristocratic class. This state of affairs persisted for thousands of years. Then, in a small stretch of time between ~1650-1750 everything changed. It is no coincidence that this sweeping social revolution began in Britain, one of the few countries where property and voting rights were extended to greater segments of the population. It was also the place where philosophers such as John Locke advocated for greater liberty for all. It was during this time that both the theory and practice of free market capitalism emerged, leading to dramatic increases in standards of living and human freedom across the globe.
 
