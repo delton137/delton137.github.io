@@ -12,7 +12,7 @@ switch_like_status:
 ---
 This is the personal webpage and blog of Daniel C. Elton.
 
-I am currently a postdoctoral researcher at the University of Maryland, College Park, where I work in the Mechanical Engineering department with Prof. [Peter W. Chung](http://blog.umd.edu/crstl/) on applying machine learning to materials property prediction and molecular design.
+I am currently a postdoctoral researcher at the University of Maryland, College Park, where I work in the Mechanical Engineering department with Prof. [Peter W. Chung](http://blog.umd.edu/crstl/) and Prof. [Mark D. Fuge](http://ideal.umd.edu) on applying machine learning to materials property prediction and molecular design.
 
 You can also download my [one page resume](http://www.danielcelton.com/wp-content/uploads/2014/11/Daniel_Elton_one_page_resume.pdf) or a longer [CV.](http://www.danielcelton.com/wp-content/uploads/2017/08/Daniel_Elton_CV.pdf)
 
