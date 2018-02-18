@@ -24,7 +24,7 @@ tags:
   - probability
   - stats
 ---
-****<span style="font-weight: 400;">Have you noticed that everyone is talking about Bayes&#8217; theorem nowadays? </span>
+<span style="font-weight: 400;">Have you noticed that everyone is talking about Bayes&#8217; theorem nowadays? </span>
 
 <span style="font-weight: 400;">Bayes&#8217; theorem itself is not very complicated. The human mind, however, is extremely bad at trying to gain an intuitive understanding of Bayes&#8217; theorem based (Bayesian) reasoning. The counter-intuitive nature of Bayesian reasoning, combined with the jargon and intellectual baggage that usually accompanies descriptions of Bayes&#8217; theorem, can make it difficult to wrap one’s mind around. I am a very visual thinker, therefore, I quickly came up with a visualization of the theorem. A little Googling shows that there are many different ways of visualizing Bayes&#8217; theorem. A few months ago I came across a</span>[ <span style="font-weight: 400;">visualization of Bayes&#8217; theorem</span>](http://lesswrong.com/lw/2b0/bayes_theorem_illustrated_my_way/) <span style="font-weight: 400;">which I found somewhat perplexing.  Even though mathematical truths are universal, they are internalized differently by every individual. I would love to hear whether others find my visualization approach useful. It is a very physicist-oriented visualization.<br /> </span><!--more-->
 
@@ -68,9 +68,9 @@ _<span style="font-weight: 400;">Jo has a test for a nasty disease. We denote Jo
 
 <span style="font-weight: 400;">So, despite the positive result on the test, the probability he actually has the disease is only .16, or 16%.  Our intuition often fails us with such problems, because we neglect to notice that the base rate of the disease is very small (1%). If the base rate is on the same order of magnitude as how often the test gives a false positive, then a positive result on a test won&#8217;t be able to tell us whether a patient has a disease with very much certainty. </span>
 
-**An inference problem
+# An inference problem
 
-** Now let&#8217;s consider a classic inference problem. There are 10 different urns, each with 10 balls. Urn  <img src="http://www.moreisdifferent.com/wp-content/ql-cache/quicklatex.com-86b08b8d286eb3f461d64e00649a9dca_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#32;&#117;" title="Rendered by QuickLaTeX.com" height="8" width="10" style="vertical-align: 0px;" />contains  <img src="http://www.moreisdifferent.com/wp-content/ql-cache/quicklatex.com-86b08b8d286eb3f461d64e00649a9dca_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#32;&#117;" title="Rendered by QuickLaTeX.com" height="8" width="10" style="vertical-align: 0px;" />black balls and  <img src="http://www.moreisdifferent.com/wp-content/ql-cache/quicklatex.com-2d9a54be1b01785ae6d53538b4a6503a_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#32;&#49;&#48;&#45;&#117;" title="Rendered by QuickLaTeX.com" height="13" width="48" style="vertical-align: -1px;" />white balls. An urn is chosen from random, and we start drawing balls, replacing each ball after its been drawn. Suppose after  <img src="http://www.moreisdifferent.com/wp-content/ql-cache/quicklatex.com-8af0979e40d3e8c9999ffa9ac24910ca_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#32;&#78;&#32;&#61;&#32;&#49;&#48;" title="Rendered by QuickLaTeX.com" height="13" width="58" style="vertical-align: -1px;" />draws we&#8217;ve drawn  <img src="http://www.moreisdifferent.com/wp-content/ql-cache/quicklatex.com-1ea908e01ce9782e0a2bc7a1592b94af_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#32;&#110;&#95;&#66;&#32;&#61;&#32;&#51;" title="Rendered by QuickLaTeX.com" height="15" width="55" style="vertical-align: -3px;" />black balls. What is the probability that we have urn <img src="http://www.moreisdifferent.com/wp-content/ql-cache/quicklatex.com-86b08b8d286eb3f461d64e00649a9dca_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#32;&#117;" title="Rendered by QuickLaTeX.com" height="8" width="10" style="vertical-align: 0px;" />?
+Now let&#8217;s consider a classic inference problem. There are 10 different urns, each with 10 balls. Urn  <img src="http://www.moreisdifferent.com/wp-content/ql-cache/quicklatex.com-86b08b8d286eb3f461d64e00649a9dca_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#32;&#117;" title="Rendered by QuickLaTeX.com" height="8" width="10" style="vertical-align: 0px;" />contains  <img src="http://www.moreisdifferent.com/wp-content/ql-cache/quicklatex.com-86b08b8d286eb3f461d64e00649a9dca_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#32;&#117;" title="Rendered by QuickLaTeX.com" height="8" width="10" style="vertical-align: 0px;" />black balls and  <img src="http://www.moreisdifferent.com/wp-content/ql-cache/quicklatex.com-2d9a54be1b01785ae6d53538b4a6503a_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#32;&#49;&#48;&#45;&#117;" title="Rendered by QuickLaTeX.com" height="13" width="48" style="vertical-align: -1px;" />white balls. An urn is chosen from random, and we start drawing balls, replacing each ball after its been drawn. Suppose after  <img src="http://www.moreisdifferent.com/wp-content/ql-cache/quicklatex.com-8af0979e40d3e8c9999ffa9ac24910ca_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#32;&#78;&#32;&#61;&#32;&#49;&#48;" title="Rendered by QuickLaTeX.com" height="13" width="58" style="vertical-align: -1px;" />draws we&#8217;ve drawn  <img src="http://www.moreisdifferent.com/wp-content/ql-cache/quicklatex.com-1ea908e01ce9782e0a2bc7a1592b94af_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#32;&#110;&#95;&#66;&#32;&#61;&#32;&#51;" title="Rendered by QuickLaTeX.com" height="15" width="55" style="vertical-align: -3px;" />black balls. What is the probability that we have urn <img src="http://www.moreisdifferent.com/wp-content/ql-cache/quicklatex.com-86b08b8d286eb3f461d64e00649a9dca_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#32;&#117;" title="Rendered by QuickLaTeX.com" height="8" width="10" style="vertical-align: 0px;" />?
 
 The conditional probability of drawing  <img src="http://www.moreisdifferent.com/wp-content/ql-cache/quicklatex.com-70d4746b752e9937dc1eabf614af4ec9_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#32;&#110;&#95;&#66;" title="Rendered by QuickLaTeX.com" height="11" width="22" style="vertical-align: -3px;" />balls from urn  <img src="http://www.moreisdifferent.com/wp-content/ql-cache/quicklatex.com-86b08b8d286eb3f461d64e00649a9dca_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#32;&#117;" title="Rendered by QuickLaTeX.com" height="8" width="10" style="vertical-align: 0px;" />is :
 
@@ -96,9 +96,9 @@ The result is :
 
 <img src="http://www.psychologyinaction.org/wp-content/uploads/2012/10/bayes-rule-e1350930203949.png" alt="" width="500" height="238" />
 
-**Jargon
+# Jargon
 
-** <span style="font-weight: 400;">Because of its importance, there is a lot of jargon attached to Bayes&#8217; theorem. Once you learn the jargon, reading stats articles becomes a lot easier!</span></div>
+<span style="font-weight: 400;">Because of its importance, there is a lot of jargon attached to Bayes&#8217; theorem. Once you learn the jargon, reading stats articles becomes a lot easier!</span>
 
 **evidence &#8211; **this is whatever we measured so far.
 
@@ -110,6 +110,6 @@ The result is :
 
 <span style="font-weight: 400;"><strong>marginal</strong> &#8211; in physics language, we would call this the ‘normalization factor’ or the probability of being in the subspace determined by the evidence/measurements. </span>
 
-**Further reading:
+# Further reading:
 
-** [_Information Theory, Inference, and Learning Algorithms _David J. Mackay](http://www.inference.phy.cam.ac.uk/itila/) (free to read online)
+[_Information Theory, Inference, and Learning Algorithms _David J. Mackay](http://www.inference.phy.cam.ac.uk/itila/) (free to read online)
