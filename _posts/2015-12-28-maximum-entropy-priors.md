@@ -119,7 +119,7 @@ from scipy.optimize import fsolve
 n = 6
 mu = 2
 
-func = \lambda r : (n-\mu)*r**(n+1) + (mu-n-1)*r**n + \mu*r - \mu + 1
+func = \lambda r : (n-\mu)*r**(n+1) + (\mu-n-1)*r**n + \mu*r - \mu + 1
 
 initial_guess = .3
 r = fsolve(func, initial_guess)
@@ -137,19 +137,19 @@ plt.xlabel('dice roll')
 plt.show()
 {% endhighlight %}
 
-for $$ mu = 3.5$$ we have:
+for $$\mu = 3.5$$ we have:
 <figure>
 <img src="http://www.moreisdifferent.com/wp-content/uploads/2015/12/mu3-5.png" alt="mu3.5" height="323" width="432">
 </figure>
-for $$ mu = 2$$ we have:
+for $$\mu = 2$$ we have:
 <figure>
 <img src="http://www.moreisdifferent.com/wp-content/uploads/2015/12/mu2.png" alt="mu3.5" height="323" width="432">
 </figure>
-For $$ mu = 5$$ we have:
+For $$\mu = 5$$ we have:
 <figure>
 <img src="http://www.moreisdifferent.com/wp-content/uploads/2015/12/mu5.png" alt="mu3.5" height="323" width="432">
 </figure>
-For $$ mu = 5.9$$ we have:
+For $$\mu = 5.9$$ we have:
 <figure>
 <img src="http://www.moreisdifferent.com/wp-content/uploads/2015/12/mu5-9.png" alt="mu3.5" height="323" width="432">
 </figure>

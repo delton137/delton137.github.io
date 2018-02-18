@@ -23,7 +23,7 @@ tags:
   - amateur astronomy
   - astronomy
 ---
-_Note: This was originally posted on the Rensselaer Astrophysical Society website in late 2009. Since that website is currently no longer available (2015), this article has been imported into the blog for posterity._##
+_Note: This was originally posted on the Rensselaer Astrophysical Society website in late 2009. Since that website is currently no longer available (2015), this article has been imported into the blog for posterity._
 
 ## Can Hubble take pictures of Earth?
 
