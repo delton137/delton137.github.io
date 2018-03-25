@@ -1928,26 +1928,16 @@ YII=
 </div>
 </div>
 
-</div>
-<div class="cell border-box-sizing text_cell rendered">
-<div class="prompt input_prompt">
-</div>
-<div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-
-
-<p> Unfortunately, we the error shooting up as the fingerprint length increases, which is not the expected behaviour. This is likely due to the fact that we are not tuning the regularization parameter alpha in the ridge regression -- we are just using the default value. The value of alpha is either set too high or too low. One solution would be to run a grid search or other hyperparamter optimization for each size we want to test. However, this is computationally expensive. An easier solution is to use [http://scikit-learn.org/stable/auto_examples/linear_model/plot_bayesian_ridge.html](Bayesian Ridge Regression) in scikit-learn:</p>
+Unfortunately, we the error shooting up as the fingerprint length increases, which is not the expected behaviour. This is likely due to the fact that we are not tuning the regularization parameter alpha in the ridge regression -- we are just using the default value. The value of alpha is either set too high or too low. One solution would be to run a grid search or other hyperparamter optimization for each size we want to test. However, this is computationally expensive. An easier solution is to use [Bayesian Ridge Regression](http://scikit-learn.org/stable/auto_examples/linear_model/plot_bayesian_ridge.html) in scikit-learn:
 <figure>
 <img src="/assets/DIY_drug_discovery_lasso_fingerprints.png" alt="fingerprint accuracy"  style="width: 550px;"/>
 </figure>
 
-<p> Now we see expected behaviour -- fingerprint performance increases as the length is increased, and eventually converges around 200 bits. Note that the Estate has a fixed length of 80 and is more like a descriptor set rather than a fingerprint. Another point is that Lasso regression (L1 regularization) generally does slightly better than Ridge regression with fingerprints, since fingerprints can have elements which are always zero or almost always zero. [L1 regularization introduces a penalty term which has a gradient that forces coefficients corresponding to variables with no predictive power to be precisely zero, whereas L2 has trouble getting coefficients to be precisely zero.]
+<p> Now we see expected behaviour -- fingerprint performance increases as the length is increased, and eventually converges around 2000 bits. Note that the Estate has a fixed length of 80 and is more like a descriptor set rather than a fingerprint. Another point is that Lasso regression (L1 regularization) generally does slightly better than Ridge regression with fingerprints, since fingerprints can have elements which are always zero or almost always zero. [L1 regularization introduces a penalty term which has a gradient that forces coefficients corresponding to variables with no predictive power to be precisely zero, whereas L2 has trouble getting coefficients to be precisely zero.]
 
 In what follows, I use the Estate fingerprint, as I was comparing Estate with some other applications. I create a new data matrix *X* and then feed into machine learning models:</p>
 
-</div>
-</div>
-</div>
+
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 
