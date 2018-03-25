@@ -79,15 +79,15 @@ Just as model types categorized as “black boxes" are becoming increasingly int
 
 
 ## References
-[^Kim2017arXiv]: Doshi-Velez and B. Kim, ArXiv e-prints (2017), [1702.08608](https://arxiv.org/abs/1702.08608).
-[^OECDrecommendation]: [237th Joint Meeting of the Chemicals Committee](http//www.oecd.org/chemicalsafety/risk-assessment/37849783.pdf), P. Working Party on Chemicals, and Biotechnology, OECD principles for the Validation, for Regulatory Purposes, of (Q)SAR Models (2004).
-[^Mathieu2016]: Mathieu, Industrial & Engineering Chemistry Research 55, 7569 (2016).
-[^Reiher2018]: Aspuru-Guzik, R. Lindh, and M. Reiher, [ACS Central Science](https://pubs.acs.org/doi/abs/10.1021/acscentsci.7b00550) (2018).
-[^Zeiler2014]: D. Zeiler and R. Fergus, in Computer Vision – ECCV 2014, edited by D. Fleet, T. Pajdla, B. Schiele, and T. Tuytelaars (Springer International Publishing, Cham, 2014), pp. 818–833, ISBN 978-3-319-10590-1.
-[^Montavon20181]: Montavon, W. Samek, and K.-R. M¨uller, Digital Signal Processing 73, 1 (2018)
+[^Kim2017arXiv]: Doshi-Velez and B. Kim, ArXiv e-prints (2017), [1702.08608](https://arxiv.org/abs/1702.08608)
+[^OECDrecommendation]: [237th Joint Meeting of the Chemicals Committee](http//www.oecd.org/chemicalsafety/risk-assessment/37849783.pdf), P. Working Party on Chemicals, and Biotechnology, OECD principles for the Validation, for Regulatory Purposes, of (Q)SAR Models (2004)
+[^Mathieu2016]: Mathieu, Industrial & Engineering Chemistry Research **55**, 7569 (2016)
+[^Reiher2018]: Aspuru-Guzik, R. Lindh, and M. Reiher, [ACS Central Science](https://pubs.acs.org/doi/abs/10.1021/acscentsci.7b00550) (2018)
+[^Zeiler2014]: D. Zeiler and R. Fergus, in Computer Vision – ECCV 2014, edited by D. Fleet, T. Pajdla, B. Schiele, and T. Tuytelaars (Springer International Publishing, Cham, 2014), pp. 818–833, ISBN 978-3-319-10590-1
+[^Montavon20181]: Montavon, W. Samek, and K.-R. M¨uller, Digital Signal Processing **73**, 1 (2018)
 [^Webb20148]: J. Webb, T. Hanser, B. Howlin, P. Krause, and J. D. Vessey, [Journal of Cheminformatics **6**, 8](https//doi.org/10.1186/1758-2946-6-8) (2014)
-[^Polishchuk20172618]: Polishchuk, Journal of Chemical Information and Modeling 57, 2618 (2017).
-[^Guha20051109]: Guha, D. T. Stanton, and P. C. Jurs, Journal of Chemical Information and Modeling 45, 1109 (2005).
-[^Zhangarxiv2018]: Zhang and S.-C. Zhu, ArXiv e-prints (2018), [1802.00614](https://arxiv.org/abs/1802.00614).
-[^Guha20041440]: Guha and P. C. Jurs, Journal of Chemical Information and Computer Sciences 44, 1440 (2004), URL http//dx.doi.org/10.1021/ci0499469.
-[^Frosst2017arxiv]: Frosst and G. E. Hinton, ArXiv e-prints, [1711.09784](https://arxiv.org/abs/1711.09784) (2017).
+[^Polishchuk20172618]: Polishchuk, Journal of Chemical Information and Modeling **57**, 2618 (2017)
+[^Guha20051109]: Guha, D. T. Stanton, and P. C. Jurs, Journal of Chemical Information and Modeling **45**, 1109 (2005)
+[^Zhangarxiv2018]: Zhang and S.-C. Zhu, ArXiv e-prints (2018), [1802.00614](https://arxiv.org/abs/1802.00614)
+[^Guha20041440]: Guha and P. C. Jurs, [Journal of Chemical Information and Computer Sciences **44**, 1440](http//dx.doi.org/10.1021/ci0499469) (2004)
+[^Frosst2017arxiv]: Frosst and G. E. Hinton, ArXiv e-prints, [1711.09784](https://arxiv.org/abs/1711.09784) (2017)
