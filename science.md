@@ -17,7 +17,7 @@ A final draft of my Ph.D. thesis can be downloaded here: (11 Mb PDF):
 For publications, see also [Google Scholar](https://scholar.google.com/citations?user=KG0pbOYAAAAJ)
 
 ## Journal articles
-**D. C. Elton**, Z. Boukouvalas, M. S. Butrico, M. D. Fuge, and P. W. Chung, "Applying machine learning techniques to predict the properties of energetic materials" ([arXiv:1801.04900](https://arxiv.org/abs/1801.04900), under review), 2017
+**D. C. Elton**, Z. Boukouvalas, M. S. Butrico, M. D. Fuge, and P. W. Chung, "Applying machine learning techniques to predict the properties of energetic materials" ([arXiv:1801.04900](https://arxiv.org/abs/1801.04900), under review), 2018
 
 F. G. VanGessel, **D. C. Elton**, and P. W. Chung, “A Phonon Boltzmann Study of Microscale Thermal Transport in α-RDX Cook-Off", 16th International Detonation Symposium, Cambridge MD, USA, July 2018. (abstract accepted)
 
