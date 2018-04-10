@@ -127,7 +127,7 @@ JB :
   #
   sharing :
    provider : false
-   twitter :
+   twitter : 
      size :
      via :
      count :
