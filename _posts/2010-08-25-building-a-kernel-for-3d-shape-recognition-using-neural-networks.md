@@ -25,7 +25,7 @@ The first approaches to computer vision were highly geometrical in nature. For i
 
 While these “geometric” approaches have proven to be fruitful, they have also proven to be quite limited. For this reason, many people are turning to biologically inspired approaches as a solution to the general problem of computer vision.  Originally, computer models of the visual cortex were developed to test the current theories about its function. When they were used for object recognition they were found to outperform all the other approaches in certain cases.
 
-<figure class="aligncenter style="width: 334px">
+<figure  class="aligncenter" style="width: 334px">
 <img src="http://www.moreisdifferent.com/wp-content/uploads/2016/01/computer_vision_research-300x210.png" alt="computer_vision_research" width="324" height="227" srcset="http://www.moreisdifferent.com/wp-content/uploads/2016/01/computer_vision_research-300x210.png 300w, http://www.moreisdifferent.com/wp-content/uploads/2016/01/computer_vision_research-768x538.png 768w, http://www.moreisdifferent.com/wp-content/uploads/2016/01/computer_vision_research.png 1010w" sizes="(max-width: 324px) 100vw, 324px" /><figcaption>Figure 1 &#8211; Some of the disciplines involved in computer vision research. (PD, Wikimedia)</figcaption></figure>
 
 # Biological vision
@@ -36,7 +36,7 @@ These signals then travel to the Lateral Geniculate Body (LGB), a part of the vi
 
 After processing in the LGB, visual data moves into the Inferior Temporal Gyrus (IT), the temporal lobe, prefrontal cortex and the rest of the brain. Although our understanding of IT is quite poor, it is believed that this region is responsible for mapping a class (such as “car”, “tree”, “pencil”) to parts of the visual data. It appears that some class neurons are very general (“human face”) while other class neurons are more specific (“mother’s face”). There is probably extensive feedback between IT and the lower layers to check different object hypotheses. Such feedback systems would also be essential for learning. Eye movements are directed by the brain to get a better idea what objects are. Some of the larger eye movements are made consciously but the vast majorities are actually unconscious. These eye movements are a very useful area to study but are not relevant to this research since we will be processing still images with a computer.
 
-<figure  class="aligncenter style="width: 422px">
+<figure  class="aligncenter" style="width: 422px">
 <img src="http://www.moreisdifferent.com/wp-content/uploads/2016/01/visual_field_test-300x150.png" alt="visual_field_test" width="412" height="206" srcset="http://www.moreisdifferent.com/wp-content/uploads/2016/01/visual_field_test-300x150.png 300w, http://www.moreisdifferent.com/wp-content/uploads/2016/01/visual_field_test.png 698w" sizes="(max-width: 412px) 100vw, 412px" /><figcaption >Figure 2: An example of stimuli used by Field, Hayes, and Hess 1993. The object of this test is to detect the contour.</figcaption></figure>
 
 A paper by Yamane, Carlson et al. entitled “A neural code for three-dimensional object shape in macaque inferotemporal cortex” hypothesizes that certain neurons or collections of neurons in IT are responsible for detecting 3D surface patches. They confirmed this by subjecting macaque monkeys to a variety of shape stimuli and finding the stimuli that gave the best response for neurons. This finding is significant to this research because it means it implies that biological brains analyze surface patches in addition to edges.
@@ -51,12 +51,12 @@ This project builds off a facet of the Petavision project, which simulated the v
 
 A similar task can be found in a paper by Field, et al. published in 1993 (see _figure 2)_.
 
-<figure class="aligncenter style="width: 550px">
+<figure class="aligncenter" style="width: 550px">
 <img  src="http://www.moreisdifferent.com/wp-content/uploads/2016/01/3d_amoebas-300x239.png" alt=" Figure 3: Four examples of amoebas and debris." width="447" height="356" srcset="http://www.moreisdifferent.com/wp-content/uploads/2016/01/3d_amoebas-300x239.png 300w, http://www.moreisdifferent.com/wp-content/uploads/2016/01/3d_amoebas-768x613.png 768w, http://www.moreisdifferent.com/wp-content/uploads/2016/01/3d_amoebas.png 929w" sizes="(max-width: 447px) 100vw, 447px" /><figcaption>Figure 3: Four examples of amoebas and debris.</figcaption></figure>
 
 Next, we started to make the kernel, which will store information about surface patches. An amoeba is created and analyzed. There are eight pieces of data to store : x position, y position, Gaussian curvature, two normal vector components, spatial frequency and orientation. The normal vector components are encoded as two angles, theta and phi, measured with respect to the direction of sight. This is simpler then storing them as (x,y,z) components and more intuitive as well.
 
-<figure class="aligncenter style="width: 680px">
+<figure class="aligncenter" style="width: 680px">
 <img  src="http://www.moreisdifferent.com/wp-content/uploads/2016/01/amoeba_training_examples-300x73.png" alt="amoeba_training_examples" width="670" height="163" srcset="http://www.moreisdifferent.com/wp-content/uploads/2016/01/amoeba_training_examples-300x73.png 300w, http://www.moreisdifferent.com/wp-content/uploads/2016/01/amoeba_training_examples-768x188.png 768w, http://www.moreisdifferent.com/wp-content/uploads/2016/01/amoeba_training_examples-1024x250.png 1024w, http://www.moreisdifferent.com/wp-content/uploads/2016/01/amoeba_training_examples.png 1570w" sizes="(max-width: 670px) 100vw, 670px" /><figcaption >Figure 4 &#8211; Amoeba training parameters</figcaption></figure>
 
 The program is run many times for many different Amoeba surfaces until a large body of data is collected. This data can then be mapped onto an eight-dimensional array of “neurons”. Each neuron has a Gaussian response curve for each parameter. So, for each patch of an amoeba, the array of neurons is “lit up” in a certain way.  These arrays can be used to train a neural network. Essentially, the neural network learns how to associate given stimuli with curvature and normal vector orientation, which it can’t detect directly. Ultimately it will be able predict the general characteristics of nearby surface patches, assuming the object is closed and smooth. In this way it will be able to detect amoebas since they are always closed and smooth, while debris have discontinuities along their edges.
