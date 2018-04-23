@@ -77,7 +77,7 @@ Some people love em, some people hate em.
 [Siraj Rival](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) - (225,000+ subscribers)
 
 # Textbooks
-[Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/) by Aurélien Géron
+[Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/) by Aurélien Géron  - One of my personal favorite books - if you already know Python well and want to get hands on with machine learning quickly and up to speed on the latest methods & techniques, this is an excellent book. 
 
 <a href="http://www.deeplearningbook.org/">http://www.deeplearningbook.org/</a>  Free draft online, by Ian Goodfellow and Yoshua Bengio and Aaron Courville
 
@@ -100,7 +100,7 @@ David Barber's <a href="http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.ph
 
 Foundations of Machine Learning,<a href="http://www.amazon.com/dp/026201825X"> Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar</a>
 
-Learning From Data, <a href="http://www.amazon.com/gp/product/1600490069">Yaser S. Abu-Mostafa, Malik Magdon-Ismail, Hsuan-Tien Lin</a>
+Learning From Data, <a href="http://www.amazon.com/gp/product/1600490069">Yaser S. Abu-Mostafa, Malik Magdon-Ismail, Hsuan-Tien Lin</a> - one of the most popular texts, presents a more rigorous statistical learning perspective.
 
 All of Statistics, <a href="http://www.amazon.com/All-Statistics-Statistical-Inference-Springer/dp/0387402721">Larry Wasserman</a>
 
