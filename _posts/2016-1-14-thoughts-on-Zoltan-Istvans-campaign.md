@@ -10,7 +10,7 @@ categories:
 tags:
 ---
 
-Yesterday I listened to the [https://www.singularityweblog.com/transhumanist-zoltan-istvan-on-his-presidential-campaign/](*Singularity 1 on 1* interview with Zoltan Istvan), a US Presidential candidate who is running as a transhumanist.
+Yesterday I listened to the [*Singularity 1 on 1* interview with Zoltan Istvan](https://www.singularityweblog.com/transhumanist-zoltan-istvan-on-his-presidential-campaign/), a US Presidential candidate who is running as a transhumanist.
 <div style="text-align: center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kt0XHy3ustM" frameborder="0" allowfullscreen></iframe>
 </div>
