@@ -1,0 +1,44 @@
+---
+id: 1824
+title: 'What leads to achievement?'
+comments: true
+date: 2016-07-20T04:46:52+00:00
+author: delton137
+layout: post
+permalink: /2016/07/20/what-leads-to-educational_success
+categories:
+  - education
+  - musings
+tags:
+  - education
+  - musings
+---
+
+*This was written in July 2016, and copyread and published in 2018* <br>
+*Epistemic status - speculative*
+
+When I was searching for colleges to apply to during high school, several people told me "the school you go to isn't as important as the effort you put in". I was told things like "this school has excellent professors - you can get an Ivy League level education here if you apply yourself". The implication is that the exact ranking of a school is not very important, and all that is more important is the quality of the professors and the amount of effort you personally devote. In other words, you can reach your full potential at a lot more schools than just Ivy League or top 10.
+
+The people who gave me this advice no doubt meant well, and probably didn't want me to label myself doomed if I didn't get into a top school. Based on what I have seen, it seems like the undergraduate lectures at mid range schools are not much different from those given at top schools. A school like MIT will have a bit more rigor, but physics programs (which are what I'm familiar with) seem to be pretty good at keeping standards high across mid and top schools. While it is true that top schools do have world class experts who can impart specialized wisdom, but such people usually teach graduate courses, not undergraduate ones. I therefore believed that educational success, which I am defining very broadly in terms of achievement in later life, was determined mainly by the effort put forth by the student.
+
+Since high school, I have developed a different understanding of what causes achievement. The issue with the idea that it is mostly based on individual effort is that humans are social beings and their behaviour is largely effected by the behaviour of others around them. Place one student in one social context and they will achieve much differently than in a different context. People are not atomized individuals. If you are around smart motivated people, you are much more likely to become smart and motivated. Conversely, if you are around slackers, you are much more likely to become a slacker. Additionally, there are "network effects" are well known in economics and sociology. Meeting smart people connects you with other smart people with similar interests that you can "resonate" with.
+
+I believe these simple sociological observations partially explain why so many people who do exceptional things (Nobel prizes, achieve a high h-index in scientific publications, write famous books, become politicians, etc) all graduate from top schools (Nobel Prize winners being the clearest example). It is also possible that top school's application process works as some sort of filtering mechanism that select those with innate talent. However, given the vast amount of talent there is in the world, and considering that only a tiny fraction of that talent makes it into top schools, there must be plenty of people with very good innate talent not in top schools. If innate talent were all that mattered, I don't think the distribution would be so skewed. The distribution of High School students "talent", as quantified by IQ, is near Gaussian, but contains a well-known fat tail. The presence of a fat tail is important, since surely there would be more students in the fat tail (students with the requisite high levels of intelligence & achievement) then can be taken by the very top schools. Consider also that the acceptance rates at the top schools hover around 10%, so likely many capable students are not able to get in and instead go to upper mid level schools.
+
+...
+
+So social environment is important. I believe other environmental factors are also important. A number of years ago at Rensselaer Polytechnic Institute I was studying with my friend Tim and we remarked that the library had been really cold all winter. My friend Tim remarked that he couldn't believe that the university was spending so much money lavishing the University President with a Gala and new house, but could not afford to keep the library warm. He then said something that stuck with me - that perhaps if they kept the library warmer, student's minds would be able to work a little better. He remarked that something as mundane as not having the right temperature could be holding back students from ever discovering the next big technological breakthrough.
+
+That was a curious notion - is it really possible that something as banal as room temperature could make the difference between whether a technological breakthrough is discovered, or not? The more time I have spent as a grad student, the more I believe this may be the case. Small environmental differences, such as a room having unpredictable temperature (too hot/cold), unpredictable and disruptive noise, early closure of study facilities on Friday and weekends, flaky WiFi, all create stress. Stress can greatly effect brain function, which compounded over years can conceivably make a difference in performance how likely that brain is to achieve later in life.
+
+The cumulative effects of small environmental factors probably explains some of the success students who go to the top schools. A myriad number of factors affect our brains' ability to function.  The basic environmental factors - food, shelter, and internet cannot be underestimated. These factors are numerous - background noise, type of light, quality of office fixtures, speed of Internet, accessibility of caffeine, ventilation (proper oxygen levels), air quality, type of food which is available. Reliability is key - unpredictable environments are stressful. Then there are the social factors discussed above - presence of good role models and a culture with the right values. Cultural values are numerous -- examples would be having respectful manners, moderation in drinking and smoking, willingness to challenge authority, and discipline in the relevant areas (sleeping, going to class, studying, etc). Another cultural factor is the inspirational power of historical precedent at the campus. This is very well understood by the top companies, who now go to great lengths to build a good work environment.
+
+...
+
+As a side note, a related types of analyses could be applied to history in general to answer the question "what caused the Enlightenment?". One lesser known theory attributes the emergence of the enlightenment largely to the development of coffee houses in Europe - nice places where people could gather to have intellectual conversations and timulating drinks. This theory, while very speculative, opens many questions - is it possible there is a new non-harmful brain enhancing substance (nootropic), which, similar to caffeine, will boost humanity to higher levels of enlightenment? It even seems plausible that historians will look back at our era and opine on the importance of modafinil, which is becoming highly used by Silicon Valley technologists.
+
+...
+
+In conclusion, I will end with a quote by Benjamin Franklin. Franklin, who is known as the "first American", is known for inventing many useful things such as the lightening rod, an improved wood stove, bifocals, the volunteer fire department and the public lending library. He is known as the first purveyor of what would become distinctly American middle class values, being focused on the importance of hard work and civic improvements and a detest for aristocracy and inherited wealth. Widely praised and lauded in his own time as the greatest living American, Franklin was later criticized by Romantic poets in the 1800s for being too pragmatically focused on small improvements and not on grandiose world-encompassing ideas. Franklin presented his own response to this criticism in [his autobiography](http://www.ushistory.org/franklin/autobiography/page61.htm). He presents a civic improvement scheme for employing the poor to help keep the streets clean. His reasons for having clean streets seems to resonate with my thoughts here:
+
+> "Some may think these trifling matters not worth minding or relating; but when they consider that tho' dust blown into the eyes of a single person, or into a single shop on a windy day, is but of small importance, yet the great number of the instances in a populous city, and its frequent repetitions, give it weight and consequence, perhaps they will not censure very severely those who bestow some attention to affairs of this seemingly low nature. Human felicity is produced not so much by great pieces of good fortune, that seldom happen, as by little advantages that occur every day."
