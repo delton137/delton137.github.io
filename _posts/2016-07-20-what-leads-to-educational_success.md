@@ -14,7 +14,7 @@ tags:
   - musings
 ---
 
-*This was written in July 2016, and copyread and published in 2018* <br>
+*This was written in July 2016, and copyedited and published in 2018* <br>
 *Epistemic status - speculative*
 
 When I was searching for colleges to apply to during high school, several people told me "the school you go to isn't as important as the effort you put in". I was told things like "this school has excellent professors - you can get an Ivy League level education here if you apply yourself". The implication is that the exact ranking of a school is not very important, and all that is more important is the quality of the professors and the amount of effort you personally devote. In other words, you can reach your full potential at a lot more schools than just Ivy League or top 10.
@@ -35,7 +35,7 @@ The cumulative effects of small environmental factors probably explains some of 
 
 ...
 
-As a side note, a related types of analyses could be applied to history in general to answer the question "what caused the Enlightenment?". One lesser known theory attributes the emergence of the enlightenment largely to the development of coffee houses in Europe - nice places where people could gather to have intellectual conversations and timulating drinks. This theory, while very speculative, opens many questions - is it possible there is a new non-harmful brain enhancing substance (nootropic), which, similar to caffeine, will boost humanity to higher levels of enlightenment? It even seems plausible that historians will look back at our era and opine on the importance of modafinil, which is becoming highly used by Silicon Valley technologists.
+As a side note, analyses based on the ideas here could be applied to history in general to investigate the question "what caused the Enlightenment?". One lesser known theory attributes the emergence of the enlightenment largely to the development of coffee houses in Europe - nice places where people could gather to have intellectual conversations and stimulating drinks. This theory, while very speculative, opens many questions - is it possible there is a new non-harmful brain enhancing substance (nootropic), which, similar to caffeine, will lead to a revolution in ideas similar to the Enlightenment? It even seems plausible that historians will look back at our era and opine on the importance of modafinil, which is becoming highly used by Silicon Valley technologists.
 
 ...
 
