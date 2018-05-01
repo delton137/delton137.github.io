@@ -14,10 +14,10 @@ tags:
   - musings
 ---
 
-*This was written in July 2016, and copyedited and published in 2018* <br>
+*This was written around July 2016, and copyedited and published in 2018* <br>
 *Epistemic status - speculative*
 
-When I was searching for colleges to apply to during high school, several people told me "the school you go to isn't as important as the effort you put in". I was told things like "this school has excellent professors - you can get an Ivy League level education here if you apply yourself". The implication is that the exact ranking of a school is not very important, and all that is more important is the quality of the professors and the amount of effort you personally devote. In other words, you can reach your full potential at a lot more schools than just Ivy League or top 10.
+When I was searching for colleges to apply to during high school, several people told me "the school you go to isn't as important as the effort you put in". I was told things like "this school has excellent professors - you can get an Ivy League level education here if you apply yourself". The implication was that the exact ranking of a school is not very important, and all that is important is the quality of the professors and the amount of effort you personally devote. In other words, you can reach your full potential at a lot more schools than just those in the Ivy League or top 10.
 
 The people who gave me this advice no doubt meant well, and probably didn't want me to label myself doomed if I didn't get into a top school. Based on what I have seen, it seems like the undergraduate lectures at mid range schools are not much different from those given at top schools. A school like MIT will have a bit more rigor, but physics programs (which are what I'm familiar with) seem to be pretty good at keeping standards high across mid and top schools. While it is true that top schools do have world class experts who can impart specialized wisdom, such people usually teach graduate courses, not undergraduate ones. These observations support my prior belief that educational success, which I am defining very broadly in terms of achievement in later life, is determined mainly by the effort put forth by the student.
 
