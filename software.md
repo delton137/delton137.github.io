@@ -10,8 +10,7 @@ guid: http://www.moreisdifferent.com/?page_id=3374
 These are all licensed with the MIT open source license and available on my GitHub:
 
 ## *<a href="https://github.com/delton137/mmltoolkit"> Molecular Machine Learning Toolkit</a>*
-Several functions for featurizing molecules be found here. The API is not fully standardized yet. Please contact me if you have questions and/or comments.
-
+Several functions for featurizing molecules can be found here. The API is not fully standardized yet. Please contact me if you have questions and/or comments.
 
 I have released several software packages from my Ph.D. research:
 
