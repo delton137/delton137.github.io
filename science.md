@@ -49,6 +49,8 @@ feedback on these is always appreciated.
 * [Hydrogen bond network analysis for TIP4P water](http://www.moreisdifferent.com/wp-content/uploads/2015/07/hydrogen_bond_network_analysis_dan_elton.pdf) (2012)
 * [Maxwell&#8217;s equations in different conventions](http://www.moreisdifferent.com/wp-content/uploads/2015/07/maxwells-equations-dan-elton.pdf) (2011)
 * [Some errata for _Geometry, Topology, & Physics_ by M. Nakahara](http://www.moreisdifferent.com/wp-content/uploads/2015/08/Nakahara_Errata.pdf) (2011)
+* [Equations for the Physics GRE](http://www.moreisdifferent.com/assets/science_notes/physics_GRE_equations.pdf) (2010)
+
 
 <!-- [Optical Pumping of Rubidium Vapor](http://www.moreisdifferent.com/wp-content/uploads/2015/07/lab1_optical_pumping_dan_elton.pdf)
 [The Lifetime of Carbon-11](http://www.moreisdifferent.com/wp-content/uploads/2015/07/lab2_c11_lifetime_dan_elton.pdf)
