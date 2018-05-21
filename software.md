@@ -6,12 +6,19 @@ author: delton137
 layout: page
 guid: http://www.moreisdifferent.com/?page_id=3374
 ---
-I have released several software packages from my Ph.D. research on my Github account. These are all licensed with the MIT open source license:
+
+These are all licensed with the MIT open source license and available on my GitHub:
+
+## *<a href="https://github.com/delton137/mmltoolkit"> Molecular Machine Learning Toolkit</a>*
+Several functions for featurizing molecules be found here. The API is not fully standardized yet. Please contact me if you have questions and/or comments.
+
+
+I have released several software packages from my Ph.D. research:
 
 ## *<a href="https://github.com/delton137/spectrumfitter">spectrumfitter </a>*
 A Python package for fitting dielectric or infrared spectra with an arbitrary number of Debye, damped oscillator, and other lineshape functions.
 
-##  *<a href="https://github.com/delton137/epskw">epskw</a>*
+## *<a href="https://github.com/delton137/epskw">epskw</a>*
 
 Fortran-90 and Matlab codes for computing the nonlocal dielectric susceptibilities of molecular liquids from molecular dynamics trajectory files. These codes can be used to analyze any molecular liquid and reads either .xyz or compressed .xtc molecular dynamics trajectory files. It can also compute distance-decomposed dielectric spectra.
 
