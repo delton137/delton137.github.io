@@ -85,22 +85,22 @@ to Objectivist Epistemology</a> Ayn- Rand</cite>
 
 <p align="left">
 
-<b><a name = "Existentialism"/>Existentialism</a> </b><br>
+</b><a name = "Existentialism"/>Existentialism</a> </b><br>
 Gazing up at the dark sky spangled with its signs and stars, for the first time,
-the first, I laid my heart open to the benign indifference of the universe. <b>-
+the first, I laid my heart open to the benign indifference of the universe. </b>-
 Albert Camus</b><br>
 <br>
 Everything is permitted,&quot; exclaims Ivan Karamazov. That, too, smacks of the
 absurd. But on condition that it not be taken in a vulgar sense. I don't know
 whether or not it has been sufficiently pointed out that it is not an outburst
-of relief or of joy, but rather a bitter acknowledgment of a fact. - <b>Albert Camus</b><br>
+of relief or of joy, but rather a bitter acknowledgment of a fact. - </b>Albert Camus</b><br>
 <br>
 All systems of morality are based on the idea that an action has consequences
 that legitimize or cancel it. A mind imbued with the absurd merely judges that
-those consequences must be considered calmly. - <b>Albert Camus</b><br>
+those consequences must be considered calmly. - </b>Albert Camus</b><br>
 <br>
 The struggle itself toward the heights is enough to fill a man's heart. One must
-imagine Sisyphus happy. - <b>Albert Camus<br>
+imagine Sisyphus happy. - </b>Albert Camus<br>
 <br>
 Philosophy<br>
 <br>
@@ -314,16 +314,16 @@ Therefore all progress depends on the unreasonable man&quot;&nbsp;  - George Ber
 
 <p align="left">
 
-<b><a name = "Inspirational"/>Inspirational</a>:<br>
+</b><a name = "Inspirational"/>Inspirational</a>:<br>
 <br>
 </b><span class="TCText">&quot;You see things that are and ask, &quot;Why?&quot; But I dream
-things that never were and ask &quot;Why not?&quot;&quot;<b><font color="#000000"><br>
+things that never were and ask &quot;Why not?&quot;&quot;</b><font color="#000000"><br>
 - George Bernard Shaw<br>
 </font></b>
 
 <br>
 &quot;Do not be too squeamish about your actions. All life is an experiment. The more
-experiments you make the better&quot;.<b> Ralph Waldo Emerson.</b>
+experiments you make the better&quot;.</b> Ralph Waldo Emerson.</b>
 
 
 
@@ -334,7 +334,7 @@ experiments you make the better&quot;.<b> Ralph Waldo Emerson.</b>
 
 &quot;In three words I can sum up everything I've learned about life: it goes on.&quot;
 <br>
-<b>-Robert Frost</b>
+</b>-Robert Frost</b>
 
 
 
@@ -344,13 +344,13 @@ experiments you make the better&quot;.<b> Ralph Waldo Emerson.</b>
 <p class="TCText"><span class="TCText">&quot;In the depths of
 <font color="#000066"><b style="color: black">winter</b></font> I finally
 learned <font color="#000066"><b style="color: black">there</b> was in
-<b style="color: black">me</b> an invincible summer.&quot;<b> - <font color="#000000">
+<b style="color: black">me</b> an invincible summer.&quot;</b> - <font color="#000000">
 Albert Camus <br>
 </font></b></font>
 
 <br>
 <span class="TCText">&quot;Most people are about as
-happy as they make up their minds to be.&quot;<font color="#000000"> <b>- Abraham
+happy as they make up their minds to be.&quot;<font color="#000000"> </b>- Abraham
 Lincoln</b></font>
 
 
@@ -362,13 +362,13 @@ Lincoln</b></font>
 
 <span class="TCText">&quot;Did you ever see an unhappy horse? Did you ever see
 bird that had the blues? One reason why birds and horses are not unhappy is
-because they are not trying to impress other birds and horses.&quot;&nbsp;<b>
+because they are not trying to impress other birds and horses.&quot;&nbsp;</b>
 <font color="#000000">- Dale Carnegie<br>
 </font></b>
 
 <br>
 &quot;Now and then it's good to pause in our pursuit of happiness and just be happy.&quot;<br>
-<b>-Guillaume Appollinaire</b>
+</b>-Guillaume Appollinaire</b>
 
 
 
@@ -377,7 +377,7 @@ because they are not trying to impress other birds and horses.&quot;&nbsp;<b>
 
 <p align="left">
 
-<b>MORE:</b>
+</b>MORE:</b>
 
 
 
@@ -401,57 +401,57 @@ empires of obsolete mythology�Any good poet, in our age at least, must begin
 with the scientific view of the world; and any scientist worth listening to must
 be something of a poet, must possess the ability to communicate to the rest of
 us his sense of love and wonder at what his work discovers.<br>
-<b>� Edward Abbey</b></font>
+</b>� Edward Abbey</b></font>
 <p class="MsoNormal"><font size="3">I believe that scientific knowledge has
 fractal properties; that no matter how much we learn; whatever is left, however
 small it may seem, is just as infinitely complex as the whole was to start with.
 That, I think, is the secret of the Universe.<br>
-<b>� Isaac Asimov</b></font>
+</b>� Isaac Asimov</b></font>
 <p class="MsoNormal"><font size="3">&nbsp;There are many aspects of the universe that
 still can�t be explained satisfactorily by science; but ignorance implies only
 ignorance that may <span class="SpellE">some day be conquered. To
 surrender to ignorance and call it God has always been premature up to this
 time, and it remains premature today.<br>
-<b>� Isaac Asimov</b></font>
+</b>� Isaac Asimov</b></font>
 <p class="MsoNormal"><font size="3">The most exciting phrase to hear in science,
 the one that heralds new discoveries, is not �Eureka!� (I found it!)
 <span class="GramE">but �That�s funny��<br>
-<b>� Isaac Asimov</b><br>
+</b>� Isaac Asimov</b><br>
 <br>
 If a man will begin with certainties, he shall end in doubts; but if he will be
 content to begin with doubts, he shall end in certainties.<br>
-<b>� Francis Bacon</b></font>
+</b>� Francis Bacon</b></font>
 <p class="MsoNormal"><font size="3">Nature, to be commanded, must be obeyed.<br>
-� <b>Francis Bacon</b></font>
+� </b>Francis Bacon</b></font>
 <p class="MsoNormal"><font size="3">Seek ye first the good things of the mind,
 and the rest will either be supplied or its loss will not be felt.<br>
-� <b>Francis Bacon</b><br>
+� </b>Francis Bacon</b><br>
 <br>
 What is truth? <span class="GramE">said jesting Pilate; and would not
 stay for an answer.<br>
-� <b>Francis Bacon&nbsp;</b></font>
+� </b>Francis Bacon&nbsp;</b></font>
 <p class="MsoNormal"><font size="3">Let the mind be enlarged, according to its
 capacity, to the grandeur of the mysteries, and not the mysteries contracted to
 the narrowness of the mind.<br>
-� <b>Francis Bacon&nbsp;</b></font>
+� </b>Francis Bacon&nbsp;</b></font>
 <p class="MsoNormal"><font size="3">Knowledge is power.<br>
-� <b>Francis Bacon</b></font>
+� </b>Francis Bacon</b></font>
 <p class="MsoNormal"><font size="3">&nbsp;There is no great concurrence between
 learning and wisdom.<br>
-� <b>Francis Bacon</b></font>
+� </b>Francis Bacon</b></font>
 <p class="MsoNormal"><font size="3">&nbsp;Read not to contradict and confute; nor to
 believe and take for granted; nor to find talk and discourse; but to weigh and
 consider. Some books are to be tasted, others to be swallowed, and some few to
 be chewed and digested: that is, some books are to be read only in parts, others
 to be read, but not curiously, and some few to be read wholly, and with
 diligence and attention.<br>
-� <b>Francis Bacon</b></font>
+� </b>Francis Bacon</b></font>
 <p class="MsoNormal"><font size="3">&nbsp;Atheism leaves a man to sense, to
 philosophy, to natural piety, to laws, to reputation; all of which may be guides
 to an outward moral virtue, even if religion vanished; but religious
 superstition dismounts all these and erects an absolute monarchy in the minds of
 men.<br>
-� <b>Francis Bacon</b><br>
+� </b>Francis Bacon</b><br>
 <br>
 Don�t walk in front of me, I may not follow. Don�t walk behind me, I may not
 lead. Just walk beside me and be my friend.<br>
@@ -543,7 +543,7 @@ belonged to my country, my home, my friends, or even my immediate family, with
 my whole heart; in the face of all these ties, I have never lost a sense of
 distance and a need for solitude...&quot;
 <p>-from &quot;The World as I See It&quot;, by Albert Einstein
-<p align="justify"><font size="3"><b>My Credo</b><i> (1932</i>)</font>
+<p align="justify"><font size="3"></b>My Credo</b><i> (1932</i>)</font>
 <p align="justify"><font size="3">&quot;It is a special blessing to belong among
 those who can and may devote their best energies to the contemplation and
 exploration of objective and timeless things. How happy and grateful I am for
@@ -850,7 +850,7 @@ they are free. - Van Goethe.&nbsp;
 
 
 
-<p class="MsoNormal"><b><br>
+<p class="MsoNormal"></b><br>
 &nbsp;</b>
 
 
@@ -858,7 +858,7 @@ they are free. - Van Goethe.&nbsp;
 
 
 &nbsp;
-&nbsp;<b>Science</b>
+&nbsp;</b>Science</b>
 It is the sense of mystery
 that, in my opinion, drives the true scientist; the same blind force, blindly
 seeing, deafly hearing, unconsciously remembering<span class="GramE">,
