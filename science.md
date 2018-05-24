@@ -16,12 +16,12 @@ A final draft of my Ph.D. thesis can be downloaded here: (11 Mb PDF):
 
 For publications, see also [Google Scholar](https://scholar.google.com/citations?user=KG0pbOYAAAAJ)
 
-## Peer reviewed articles
-<!--- B. C. Barnes, **D. C. Elton**, Z. Boukouvalas, D. E. Taylor, W. D. Mattson, M. D. Fuge, and P.W. Chung, “Machine Learning of Energetic Material Properties”, 16th International Detonation Symposium, Cambridge MD, USA, July 2018 (abstract accepted, in prep) --->
+## Journal articles
+B. C. Barnes, **D. C. Elton**, Z. Boukouvalas, D. E. Taylor, W. D. Mattson, M. D. Fuge, and P.W. Chung, “Machine Learning of Energetic Material Properties”, Proceedings of the 16th International Detonation Symposium, Cambridge MD, USA, July 2018 (abstract accepted, in prep)
 
 **D. C. Elton**, Z. Boukouvalas, M. S. Butrico, M. D. Fuge, and P. W. Chung, "Applying machine learning techniques to predict the properties of energetic materials" ([arXiv:1801.04900](https://arxiv.org/abs/1801.04900), under review), 2018
 
-F. G. VanGessel, **D. C. Elton**, and P. W. Chung, “A Phonon Boltzmann Study of Microscale Thermal Transport in α-RDX Cook-Off", 16th International Detonation Symposium, Cambridge MD, USA, July 2018. (abstract accepted, in prep)
+F. G. VanGessel, **D. C. Elton**, and P. W. Chung, “A Phonon Boltzmann Study of Microscale Thermal Transport in α-RDX Cook-Off", Proceedings of the 16th International Detonation Symposium, Cambridge MD, USA, July 2018. (abstract accepted, in prep)
 
 **D. C. Elton** and M. Fritz, "Using a monomer potential energy surface to perform approximate path integral molecular dynamics simulation of ab-initio water at near-zero added cost" ([arXiv:1803.05740](https://arxiv.org/abs/1803.05740)), 2018
 <!--- <span style="font-size: 12px;"><br> My most recent project (currently unpublished but covered in the last chapter of my Ph.D. thesis), was on simulating water from “first principles”, ie. from the laws of quantum mechanics. The usual technique that physicists use to approximate the quantum mechanics of electrons in condensed matter systems, density functional theory, does not work well for water and much work is being done to understand its shortcomings. One usual assumption is that only electrons need to be treated quantum mechanically. We argue that for water both electrons and nuclei need to be treated quantum mechanically and that density functionals should be tested with nuclear quantum effects included. Our <a href="https://github.com/delton137/PIMD">custom code</a> implements a novel algorithm which greatly speeds up the calculation of nuclear quantum effects with only minor losses in accuracy. Accurate first principles simulations are important for developing energy materials and in computational drug design. </span> --->
