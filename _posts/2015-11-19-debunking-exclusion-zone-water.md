@@ -41,10 +41,7 @@ I contend that the Mpbema effect, where hot water is observed to freeze faster
 A final example are the present day claims of the so-called autothixiotrpy of water &#8211; that containers of completely pure water will become more viscous after sitting still for a long time (months or years). The reported autothixiotropic effect is very small.
 
 # The main phenomena
-
-<figure id="" class="thumbnail wp-caption aligncenter style="width: 388px">
-
-<img class="" src="http://doublehelixwater.eu/store/wp-content/uploads/2014/05/ez_layer.png" alt="" width="378" height="284" /><figcaption class="caption wp-caption-text">an example of an exclusion zone observed in Pollack&#8217;s lab. The microspheres (right) are repelled from the Nafion sheet on the left.</figcaption></figure>
+<img src="http://doublehelixwater.eu/store/wp-content/uploads/2014/05/ez_layer.png"  width="378" height="284"/><figcaption>an example of an exclusion zone observed in Pollack&#8217;s lab. The microspheres (right) are repelled from the Nafion sheet on the left.</figcaption></figure>
 
 Most of G. Pollack&#8217;s claims hinge on a single narrow class of experiments, where he measures how microspheres are repelled from different surfaces. In _[Unexpected Presence of Solute-Free Zones at Metal-Water Interfaces_](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3692373/), for instance, he the various types of microspheres as follows:
 
@@ -81,7 +78,7 @@ In [widely-reported work in 2009](http://www.seas.harvard.edu/capasso/wp-content
 
 I managed to find a [very interesting study](http://www.sciencedirect.com/science/article/pii/S0021979796903264) from 1996 that measured the Casmir force between gold and [PTFE](https://en.wikipedia.org/wiki/Polytetrafluoroethylene) submerged in several liquids, including water. Milling et al. (1996) measured the force between a gold sphere and PTFE block submerged in several liquids, including water. They state:
 
-> For most of the polar solvents used ( water, ethanol, and dimethyl sulfoxide ) the forces between the surfaces was always attractive, albeit weakly in the case of ethanol. The only instance of repulsion between the gold and PTFE surfaces with a polar solvent was observed with dimethyl formamide&#8230;&#8221;_
+> For most of the polar solvents used ( water, ethanol, and dimethyl sulfoxide ) the forces between the surfaces was always attractive, albeit weakly in the case of ethanol. The only instance of repulsion between the gold and PTFE surfaces with a polar solvent was observed with dimethyl formamide&#8230;&#8221;
 
 Although the force they measured for water was attractive, Table 2 of their study shows that theoretically a gold sphere and PTFE should repel each other in water (indicated by a negative [Hamaker constant](https://en.wikipedia.org/wiki/Hamaker_constant)). Interestingly, the sign of the Hamaker constant predicted by theory only matches the sign found by experiment in 3/10 cases, suggesting problems with either the theory or experiment. At the end of the paper, they explain that this is likely due to incomplete knowledge about the high frequency (UV) dielectric function of the materials (the theory requires the frequency dependent dielectric function as input).
 
@@ -135,13 +132,13 @@ The last paper, published in PNAS, includes an independent experimental verifica
 
 # References
 
-  1. Pollack GH. Chai B, Mahtani AG. Unexpected presence of solute-free zones at metal-water interfaces. _Contemporary Materials_, # 31, 2012.
+  1. Pollack GH. Chai B, Mahtani AG. Unexpected presence of solute-free zones at metal-water interfaces. _Contemporary Materials_, **31**, 2012.
   2. H.C. Hamaker. The london van der waals attraction between spherical particles. _Physica_, 4(10):1058 – 1072, 1937.
   3. Irving Langmuir and Robert N. Hall. Pathological science. _Physics Today_, 42:36, 1989.
-  4. Anders Meurk, Paul F. Luckham, and Lennart Bergs ̈om. Direct measurement of repulsive and attractive van der waals forces between inorganic materials. _Langmuir,_ 13(14):3896–3899, 1997.
-  5. Andrew Milling, Paul Mulvaney, and Ian Larson. Direct measurement of repulsive van der waals interactions using an atomic force microscope. _Journal of Colloid and Interface Science_, # 180# (2):460-465, 1996
-  6. Capasso Federico Munday, J. N. and V. Adrian Parsegian. Measured long-range repulsive casimir-lifshitz forces. _Nature_, # 457:# 170, 2009.
-  7. P. J. van Zwol and G. Palasantzas. Repulsive casimir forces between solid materials with high-refractive-index intervening liquids. _Phys. Rev. A,_ # 81# :062502, Jun 2010.
-  8. Seung woo Lee and Wolfgang M. Sigmund. Afm study of repulsive van der waals forces between teflon af thin film and silica or alumina. _Colloids and Surfaces A: Physicochemical __and Engineering Aspects_, # 204# (13):43 – 50, 2002.
-  9. R. Zhao, Th. Koschny, E. N. Economou, and C. M. Soukoulis. Repulsive casimir forces with finite-thickness slabs. _Phys. Rev. B_, # 83# :075108, Feb 2011.
+  4. Anders Meurk, Paul F. Luckham, and Lennart Bergsom. Direct measurement of repulsive and attractive van der waals forces between inorganic materials. _Langmuir,_ 13(14):3896–3899, 1997.
+  5. Andrew Milling, Paul Mulvaney, and Ian Larson. Direct measurement of repulsive van der waals interactions using an atomic force microscope. _Journal of Colloid and Interface Science_, **180**     (2):460-465, 1996
+  6. Capasso Federico Munday, J. N. and V. Adrian Parsegian. Measured long-range repulsive Casimir-lifshitz forces. _Nature_, **457** 170, 2009.
+  7. P. J. van Zwol and G. Palasantzas. Repulsive casimir forces between solid materials with high-refractive-index intervening liquids. _Phys. Rev. A,_ **81** :062502, Jun 2010.
+  8. Seung woo Lee and Wolfgang M. Sigmund. Afm study of repulsive van der waals forces between teflon af thin film and silica or alumina. _Colloids and Surfaces A: Physicochemical and Engineering Aspects_,  **204** (13):43 – 50, 2002.
+  9. R. Zhao, Th. Koschny, E. N. Economou, and C. M. Soukoulis. Repulsive casimir forces with finite-thickness slabs. _Phys. Rev. B_, **83** :075108, Feb 2011.
   10. E. M. Lifshitz. The theory of molecular attractive forces between solids. _Sov. Phys. JETP_, 2:73–83, 1956.
