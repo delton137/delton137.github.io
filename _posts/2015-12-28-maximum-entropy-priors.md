@@ -94,7 +94,7 @@ $$ \sum_{i=1}^n r^i = \frac{r (r^n-1)}{r-1}$$
 Using this to find $$ C$$ we obtain:
 $$ p_i = \frac{r-1}{r(r^n-1)} r^i$$
 
-Now let's solve for $$ r$$ in terms of $$ mu$$ explicitly. We have the following condition:
+Now let's solve for $$ r$$ in terms of $$\mu$$ explicitly. We have the following condition:
 $$ \sum_{i=1}^n\frac{r-1}{r(r^n-1)} i r^{i} = \mu$$
 
 We need to know the following sum:
