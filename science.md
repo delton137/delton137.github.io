@@ -43,6 +43,7 @@ J. J. Podesta, M. A. Forman, C. W. Smith, **D. C. Elton**, and Y. Malecot, &#822
 
 feedback on these is always appreciated.
 
+* [Notes on GAN objective functions](http://www.moreisdifferent.com/assets/science_notes/notes_on_GAN_objective_functions.pdf) (2018)
 * [Relation of crystal shape & structure to LO-TO splitting](http://www.moreisdifferent.com/wp-content/uploads/2015/08/loto1.pdf) (2015)
 * [Elementary theory of solvation](http://www.moreisdifferent.com/wp-content/uploads/2015/08/solvation4.pdf) (2015)
 * [Energy Barriers and Rates &#8211; Transition State Theory for Physicists](http://www.moreisdifferent.com/wp-content/uploads/2015/07/transition_state_theory_dan_elton1.pdf) (2013)
