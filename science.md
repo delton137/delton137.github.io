@@ -8,11 +8,12 @@ guid: https://moreisdifferent.wordpress.com/?page_id=1917
 geo_public:
   - "0"
 ---
+
 <img class="alignright" src="http://www.danielcelton.com/wp-content/uploads/2015/09/waterbinding2-300x204.png" alt="atom in a clathrate-like cage" width="199" height="135" srcset="http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-300x204.png 300w, http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-768x523.png 768w, http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-1024x698.png 1024w, http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-1200x818.png 1200w, http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2.png 1573w" sizes="(max-width: 199px) 100vw, 199px" />
 
 A final draft of my Ph.D. thesis can be downloaded here: (11 Mb PDF):
 
- *[Understanding the Dielectric Properties of Water](http://www.danielcelton.com/wp-content/uploads/2014/11/Daniel_Elton_Thesis_Final_Copy.pdf)*
+*[Understanding the Dielectric Properties of Water](http://www.moreisdifferent.com/wp-content/uploads/2014/11/Daniel_Elton_Thesis_Final_Copy.pdf)*
 
 For publications, see also [Google Scholar](https://scholar.google.com/citations?user=KG0pbOYAAAAJ)
 
