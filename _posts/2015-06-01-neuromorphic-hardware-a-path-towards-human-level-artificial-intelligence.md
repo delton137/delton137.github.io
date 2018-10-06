@@ -1,7 +1,8 @@
 ---
 id: 1798
 title: 'Neuromorphic hardware &#8211; a path towards human-level artificial intelligence'
-comments: true
+comments: false
+disquscomments: true
 date: 2015-06-01T03:12:36+00:00
 author: delton137
 layout: post

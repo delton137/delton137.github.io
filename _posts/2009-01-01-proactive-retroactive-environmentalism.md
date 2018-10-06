@@ -1,0 +1,40 @@
+---
+id: 1898
+title: Proactive vs. Retroactive Environmentalism
+comments: true
+date: 2009-01-01T00:00:57+00:00
+author: delton137
+layout: post
+permalink: 2009/01/01-proactive-retroactive-environmentalism /
+categories:
+  - environmentalism
+tags:
+  - environmentalism
+---
+*Note: this is a rant which I wrote and published on the Inanimate Objects Party web blog sometime in 2009. I have since removed it from that blog since it was not relevant to the IOP (an absurdist campus political party at RPI). The points made in this piece is perhaps made in an over extended, facetious manner however I think they are reasonable points.*
+<!--more-->
+
+There are two approaches to environmentalism: *proactive* and *retroactive*. A proactive approach develops solutions using science, engineering, and technology to meet growing demand. A retroactive approach involves trying to change the behavior of large masses of people. Retroactive solutions include any kind of “back to nature” philosophy, advocating making one’s lifestyle “simpler” and less impactful on the environment. A more proactive approach recognizes mankind as a growing, complex, highly technological species, whose already has changed the environment of the earth. It also recognizes that it is hard to limit use. We must develop technological solutions for sustainable extended use.  Merely cutting down on use helps delay problems associated with growth but it does not solve them. In some cases, it may even engender a false sense of security.
+
+Let’s consider an example — the “Trayless Tuesday’s” fiasco last year mandated by RPI’s environmental club. A small band of environmentalists decided to go into the dining halls and take control of the use of trays. Of course, anything that goes under the banner of “helping the environment” is considered a public good and thus worth sacrificing our liberty for. Furthermore, it was argued that this could save the university waste food and energy costs, which is probably the real reason campus dining went along with it.
+
+It is not clear whether this action helped keep students from taking too much food. As most students usually only use one plate, the effect is small at at best.  Lets face it, it’s always hard to gauge how much food we will want to eat. I am all for conserving food. It does save the institute money (my tuition dollars) which can go towards more useful things. However I can tolerate a bit of waste, especially if it makes my life easier. As far as I can tell the effect on food waste in this case was negligible.  When it comes to food waste, food is cheap in America and we pride ourselves in our excess. It’s part of our culture.
+
+Another, more prevalent argument for going trayless is that would conserve “precious water” used during the washing of trays. In elementary school, my classmates and I were told to turn off the faucet while brushing our teeth to save water. Even as a 5th grader, I knew about the water cycle, so this need to ‘save water’ seemed weird to me.  Many years later, I am tired of hearing self-proclaimed “environmentalists” tell me we must conserve water at all costs. I once asked someone in Ecologic about this. The flustered environmentalist explained that there is a dire water shortage in our region. “Huh”, I thought, “if that is true, then why haven’t we heard anything about it? Why is this not in the news?” I told her I was skeptical and had never heard of such shortage.  With a somewhat aghast look on her face she responded, “Well, I’m a civil engineer and there are lot of problems with delivering water to people. No offense but you really don’t have any clue.” With that, she walked off, content in her superiority on the issue as a civil engineer.  The point she made was a good one -- I really don’t know much about the difficulties of delivering and maintaining a supply of freshwater to thousands of people. It amazes me how reliably we can keep our water supplies clean and accessible and I commend the civil engineers for having figured out how to do this.
+
+However, I do not see any evidence of a water shortage in the Troy, New York area -- the taps run as fast and reliably as ever. However, let us suppose there was a real shortage.  Would the best response really be to tell people to “stop using as much water”?  Maybe in the short term, but in the long term I don’t think this is the best response and here are some reasons:
+
+1. How much water do people actually “waste”? How do you define “waste”? Sure, once and awhile someone leaves their hose on or leaves a dripping sink unfixed for an extended period of time. However, most people are fairly conservative in the amount of water they use, because they are paying for it, either directly to their utility company or indirectly through taxes. People know that water isn’t free and that wasting it hurts themselves and their community. The result of this is that if we tell people to stop using as much water, we are likely going to be inconveniencing them.
+
+2. Psychologically, we will make people worry and stress about what uses are wasteful vs legitimate. All of this worrying about “waste” make people less productive.
+
+3. A solution by reducing use is only a temporary solution. Lets face it, there will always be inevitable growth in population. Reducing each person’s use only delays the grow in overall use.  A much better solution would be proactive—something along the lines of building a new water treatment facility or improving existing facilities.
+
+Additionally, while I’m on this subject, I hate how they keep the buildings at RPI so cold. I assume its to save money, not to help the environment. I think it makes people less productive. We need a warm, well lit environment to work. Not some dimly lit, “energy saving” environment.
+
+The new “Eco-Hall Challenge” at RPI is an example of retroactive environmentalism. It is described as an “eight-week competition designed to educate students on life-long habits that reduce energy consumption.”  
+
+One could argue that fundamentally the administration here doesn’t really care about the environment. Like any major private corporation, all they care about one thing: their bottom line. However, maintaining the bottom line requires maintaining a good public image and reducing energy costs. So, they are in favor of putting solar panels on the Houston Field House, as long as they get subsidies from the federal gov’t so it’s economically effective, and as long as it looks good to potential students and other parties that may invest financially in the university. However, what the solar panel installed to power computers in the VCC? The administration decided it was an eyesore and tore it down. The whole SSTF is largely supported by the RPI administration to help them with their agenda.
+
+While I’m on the subject of environmentalism there is one other thing I want to point out – a lot of people this year are remarking on how much paper is being wasted by candidates in this year’s campaigns. Many candidates have even taken pains to recycle paper for their posters. However, the mantra of “save paper, save a tree” is largely false. Increased demand for paper leads to more tree farms and more trees. Here’s what Edward L. Glashier, professor of economics at Harvard university says: “Our paper recycling programs cost time and money and do little to protect first-growth woodlands and rainforests. The trees used by paper mills are a renewable resource. When people use more paper, suppliers plant more trees. If we want bigger commercial forests, then we should use more paper not less. Our policies should directly protect important wildlife habitats, not try to reduce our demand for paper.” You can read more about the economic issues here. The number of trees in the US has grown by close to 400% since 1920 due to increased demands for tree based products. According to the website for International Paper : “In the next 30 years the U.S. could lose 44 million acres of forest to development.(
+(According to USDA estimates.) When you use paper, you help keep trees growing.”
