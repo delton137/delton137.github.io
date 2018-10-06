@@ -1,7 +1,8 @@
 ---
 id: 1865
 title: Why physicists still use Fortran
-comments: true
+comments: false
+disquscomments: true
 date: 2015-07-16T03:34:17+00:00
 author: delton137
 layout: post

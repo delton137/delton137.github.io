@@ -88,7 +88,7 @@ JB :
   comments :
     provider : false
     disqus :
-      short_name :www-moreisdifferent-com
+      short_name : moreisdifferent
     livefyre :
       site_id : 123
     intensedebate :
@@ -127,7 +127,7 @@ JB :
   #
   sharing :
    provider : false
-   twitter : 
+   twitter :
      size :
      via :
      count :
