@@ -23,4 +23,4 @@ A  custom path integral molecular dynamics (PIMD) code written in Fortran-90 fo
 
 I was a contributor on this project:
 ## *<a href="https://github.com/zoisboukouvalas/pyiva">pyIVA</a>*
-*pyiva* is a python package which implements the independent vector analysis (IVA) using a multivariate Laplace prior. IVA is a data fusion technique which is an extension of <a href="https://en.wikipedia.org/wiki/Independent_component_analysis">Independent Component Analysis> to  multiple statistically-dependent data sets.
+*pyiva* is a python package which implements the independent vector analysis (IVA) using a multivariate Laplace prior. IVA is a data fusion technique which is an extension of <a href="https://en.wikipedia.org/wiki/Independent_component_analysis">Independent Component Analysis<a> to  multiple statistically-dependent data sets.
