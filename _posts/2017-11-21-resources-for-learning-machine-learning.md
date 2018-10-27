@@ -10,6 +10,7 @@ categories:
   - machine learning
   - Python
 tags:
+  - machine learning
 ---
 
 Recently a few people have asked me for the best courseware for learning machine learning. The truth is there is no simple answer. Certainly the machine learning course by Andrew Ng is a good place to start, but most people I know are looking for more depth. Here are some resources I've collected. This list will be expanded and refined over time:
@@ -18,6 +19,8 @@ Recently a few people have asked me for the best courseware for learning machine
 Coursera: <a href="https://www.coursera.org/learn/machine-learning">“Machine Learning” - Andrew Ng</a> (the most popular)
 
 Coursera: “<a href="https://www.coursera.org/learn/neural-networks">Neural Networks for Machine Learning</a>” - Geoffrey Hinton (for a deep dive)
+
+Lectures for course on [reinforcement learning](https://drive.google.com/drive/folders/0B-WvrETGtkesN29sV1g3aXZ1Z0U).
 
 The are a gazillion other data science / machine learning online courses. Many of them are very short there or only superficially introduce topics and show you barebones implementations. [Someone reviewed a large number of them here](http://www.skilledup.com/articles/list-data-science-bootcamps)
 
@@ -77,7 +80,7 @@ Some people love em, some people hate em.
 [Siraj Rival](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) - (225,000+ subscribers)
 
 # Textbooks
-[Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/) by Aurélien Géron  - One of my personal favorite books - if you already know Python well and want to get hands on with machine learning quickly and up to speed on the latest methods & techniques, this is an excellent book. 
+[Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/) by Aurélien Géron  - One of my personal favorite books - if you already know Python well and want to get hands on with machine learning quickly and up to speed on the latest methods & techniques, this is an excellent book.
 
 <a href="http://www.deeplearningbook.org/">http://www.deeplearningbook.org/</a>  Free draft online, by Ian Goodfellow and Yoshua Bengio and Aaron Courville
 
