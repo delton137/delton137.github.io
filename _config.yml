@@ -33,6 +33,7 @@ excerpt_separator: "<!--more-->"
 gems:
   - jekyll-sitemap
 
+
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :
