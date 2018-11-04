@@ -13,6 +13,8 @@ tags:
   - recipes
 ---
 
+This page will be continually updated..  
+
 # Table of contents
 {:.no_toc}
 
@@ -97,7 +99,7 @@ For the Wraps:
 * 4 oz crumbled feta cheese (about 1 cup)
 * 3 tablespoons tomato paste
 
-### Instructions 
+### Instructions
 * Preheat oven to 350°F.
 * Coat a small baking dish with cooking spray.
 * Bring the broth to a boil in a saucepan, add the couscous, cover the pan and remove it from the heat.
@@ -260,6 +262,9 @@ From Trader Joes Israeli couscous package, adapted to be vegan
 
 
 # More recipes to try :
+
+[Chickpea Tofu](https://www.deliciouseveryday.com/burmese-chickpea-tofu-recipe/?fbclid=IwAR0R7cbPsNYMKIkL1m2um1PRSDaOYSCbPJu6Dlv3s8JT_t76duL6NHeRqZ4)
+
 https://www.veganricha.com/2017/03/sticky-ginger-sesame-tofu-veggies.html
 
 https://thevietvegan.com/red-curry-mac-cheese/
