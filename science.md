@@ -18,6 +18,8 @@ A final draft of my Ph.D. thesis can be downloaded here: (11 Mb PDF):
 For publications, see also [Google Scholar](https://scholar.google.com/citations?user=KG0pbOYAAAAJ)
 
 ## Publications
+Z. Boukouvalas, **D. C. Elton**, M. D. Fuge, and P. W. Chung. "Independent Vector Analysis for Data Fusion Prior to Molecular Property Prediction with Machine Learning". Submitted to the 2018 Neural Information Processing Systems (NIPS) workshop on Machine Learning for Molecules and Materials. [[arXiv](https://arxiv.org/abs/1811.00628)]
+
 B. C. Barnes, **D. C. Elton**, Z. Boukouvalas, D. E. Taylor, W. D. Mattson, M. D. Fuge, and P.W. Chung, “Machine Learning of Energetic Material Properties”, Proceedings of the 16th International Detonation Symposium, Cambridge MD, USA, July 2018, [[arXiv](https://arxiv.org/abs/1807.06156)]
 
 F. G. VanGessel, G. Kumar, **D. C. Elton**, and P. W. Chung, “A Phonon Boltzmann Study of Microscale Thermal Transport in α-RDX Cook-Off", Proceedings of the 16th International Detonation Symposium, Cambridge MD, USA, July 2018. [[arXiv](https://arxiv.org/abs/1808.08295)]
