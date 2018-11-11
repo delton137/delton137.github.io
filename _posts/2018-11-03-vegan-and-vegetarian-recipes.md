@@ -240,6 +240,23 @@ From Trader Joes Israeli couscous package, adapted to be vegan
 ---
 ---
 
+# Flax seed egg substitute
+---
+---
+From [Minimalist Baker](https://minimalistbaker.com/how-to-make-a-flax-egg/)
+
+### Ingredients
+* 1 Tbsp flaxseed meal (ground raw flaxseed)
+* 2 1/2 Tbsp water
+
+## Instructions
+* Add flaxseed meal and water to a dish and stir.
+* Let rest for 5 minutes to thicken. Add to recipes in place of 1 egg (as original recipe is written).
+
+
+---
+---
+
 # Banana chocolate chip blender mini muffins
 ---
 ---
@@ -255,7 +272,7 @@ From Trader Joes Israeli couscous package, adapted to be vegan
 * 1 C baby spinach
 * 1/4 C dairy-free mini chocolate chips
 
-### Instructions:
+### Instructions
 * Preheat Oven 350, Spray 24 C Mini Muffin Pan w/Coconut oil spray
 * Blend all ingredients except chocolate chips in blender until smooth, fill muffin cups three-fourths full, sprinkle w/chocolate chips
 * Bake 9-12 minutes or until toothpick comes out clean

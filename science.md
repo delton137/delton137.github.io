@@ -18,7 +18,7 @@ A final draft of my Ph.D. thesis can be downloaded here: (11 Mb PDF):
 For publications, see also [Google Scholar](https://scholar.google.com/citations?user=KG0pbOYAAAAJ)
 
 ## Publications
-Z. Boukouvalas, **D. C. Elton**, M. D. Fuge, and P. W. Chung. "Independent Vector Analysis for Data Fusion Prior to Molecular Property Prediction with Machine Learning". Submitted to the 2018 Neural Information Processing Systems (NIPS) workshop on Machine Learning for Molecules and Materials. [[arXiv](https://arxiv.org/abs/1811.00628)]
+Z. Boukouvalas, **D. C. Elton**, M. D. Fuge, and P. W. Chung. "Independent Vector Analysis for Data Fusion Prior to Molecular Property Prediction with Machine Learning". Accepted to the [2018 Neural Information Processing Systems (NIPS) workshop on Machine Learning for Molecules and Materials](http://www.quantum-machine.org/workshops/nips2018draft/). [[arXiv](https://arxiv.org/abs/1811.00628)]
 
 B. C. Barnes, **D. C. Elton**, Z. Boukouvalas, D. E. Taylor, W. D. Mattson, M. D. Fuge, and P.W. Chung, “Machine Learning of Energetic Material Properties”, Proceedings of the 16th International Detonation Symposium, Cambridge MD, USA, July 2018, [[arXiv](https://arxiv.org/abs/1807.06156)]
 
@@ -26,7 +26,7 @@ F. G. VanGessel, G. Kumar, **D. C. Elton**, and P. W. Chung, “A Phonon Boltzma
 
 **D. C. Elton**, Z. Boukouvalas, M. S. Butrico, M. D. Fuge, and P. W. Chung, “[Applying machine learning techniques to predict the properties of energetic materials](https://www.nature.com/articles/s41598-018-27344-x)”, *Scientific Reports* **8**, 9059 (2018).
 
-**D. C. Elton**,  M. Fritz, and M.-V Fernández-Serra. "Using a monomer potential energy surface to perform approximate path integral molecular dynamics simulation of ab-initio water at near-zero added cost", ([arXiv:1803.05740](https://arxiv.org/abs/1803.05740)), 2018
+**D. C. Elton**,  M. Fritz, and M.-V Fernández-Serra. "Using a monomer potential energy surface to perform approximate path integral molecular dynamics simulation of ab-initio water at near-zero added cost", ([arXiv](https://arxiv.org/abs/1803.05740)), 2018
 <!--- <span style="font-size: 12px;"><br> My most recent project (currently unpublished but covered in the last chapter of my Ph.D. thesis), was on simulating water from “first principles”, ie. from the laws of quantum mechanics. The usual technique that physicists use to approximate the quantum mechanics of electrons in condensed matter systems, density functional theory, does not work well for water and much work is being done to understand its shortcomings. One usual assumption is that only electrons need to be treated quantum mechanically. We argue that for water both electrons and nuclei need to be treated quantum mechanically and that density functionals should be tested with nuclear quantum effects included. Our <a href="https://github.com/delton137/PIMD">custom code</a> implements a novel algorithm which greatly speeds up the calculation of nuclear quantum effects with only minor losses in accuracy. Accurate first principles simulations are important for developing energy materials and in computational drug design. </span> --->
 
 **D.C. Elton** &#8220;[The microscopic origin of the Debye relaxation in liquid water and fitting the high frequency excess response](http://pubs.rsc.org/en/Content/ArticleLanding/2017/CP/C7CP02884A#!divAbstract)&#8221;, _Phys. Chem. Chem. Phys._, **19**, 18739 (2017) [[arXiv](https://arxiv.org/abs/1704.01667v1)]
