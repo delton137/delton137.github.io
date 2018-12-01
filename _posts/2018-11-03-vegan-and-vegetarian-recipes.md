@@ -256,6 +256,45 @@ From [Minimalist Baker](https://minimalistbaker.com/how-to-make-a-flax-egg/)
 
 ---
 ---
+# Banana oatmeal chocolate chip muffins
+
+---
+---
+From [Beaming Baker](https://beamingbaker.com/banana-oatmeal-chocolate-chip-muffins-vegan-gluten-free-dairy-free-refined-sugar-free/)
+
+### Ingredients
+* 3 medium, very ripe bananas (1 cup + 2 tablespoons mashed)
+* ¼ cup melted coconut oil
+* ¼ cup coconut sugar
+* ¼ cup pure maple syrup
+* 2 flax eggs (2 tablespoons ground flax + 6 tablespoons water, whisk together, set for 15 mins)
+* ½ cup unsweetened almond milk, room temperature
+* 1 teaspoon pure vanilla extract
+* Dry Ingredients
+* 1 ¾ cups gluten free oat flour (how to make gluten free oat flour here)
+* 1 ¼ cups gluten free rolled oats
+* 1 ½ teaspoons baking powder
+* 1 teaspoon baking soda
+* 2 teaspoons ground cinnamon
+* ¾ cup vegan chocolate chips
+
+Optional Toppings
+
+* 1 tablespoon gluten free rolled oats
+* 2 tablespoons vegan chocolate chips
+
+### Instructions
+* Preheat the oven to 325°F degrees. Line a 12-cup muffin pan with muffin liners.
+* Peel bananas and add to a large mixing bowl. Using a sturdy whisk or fork, mash bananas until smooth. Add the oil, sugar, maple syrup, flax eggs, milk and vanilla. Whisk until well incorporated.
+* Add oat flour, oats, baking powder, baking soda and cinnamon. Whisk together until just incorporated, making sure no flour patches remain. Fold in chocolate chips.
+* Using a large scoop, scoop and drop batter evenly into muffin cups. I use this ice cream scoop for easy scooping and a beautiful round top. If not using the scoop, smooth batter into an even layer, with a domed top (rise) in the center. Optionally, press oats and chocolate chips on top of the muffins.
+* Bake for 24-30 minutes. Mine took 29 minutes for large domed-topped muffins.
+* Allow to cool in muffin pan set on a cooling rack for about 20 minutes. Remove from pan to finish cooling, about 1-2 hours.
+
+
+
+---
+---
 
 # Banana chocolate chip blender mini muffins
 ---
@@ -277,6 +316,11 @@ From [Minimalist Baker](https://minimalistbaker.com/how-to-make-a-flax-egg/)
 * Blend all ingredients except chocolate chips in blender until smooth, fill muffin cups three-fourths full, sprinkle w/chocolate chips
 * Bake 9-12 minutes or until toothpick comes out clean
 
+# Other muffin recipes
+
+* [Vegan chunky apple cinnamon muffins](https://www.averiecooks.com/vegan-chunky-apple-cinnamon-muffins/#)
+* [Basic Vegan blender muffins (desert)](https://passtheplants.com/vegan-no-bowl-blender-muffins/)
+* [Flour based vegan blueberry muffins (desert)](https://www.mydarlingvegan.com/vegan-blueberry-muffins/)
 
 # More recipes to try :
 
