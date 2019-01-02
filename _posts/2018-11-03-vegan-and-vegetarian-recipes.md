@@ -316,6 +316,46 @@ Optional Toppings
 * Blend all ingredients except chocolate chips in blender until smooth, fill muffin cups three-fourths full, sprinkle w/chocolate chips
 * Bake 9-12 minutes or until toothpick comes out clean
 
+
+---
+---
+
+# Vegetable soup
+---
+---
+From [Cookin Caunuck](https://www.cookincanuck.com/instant-pot-vegetable-soup/)
+
+### Ingredients
+
+* 2 tsp olive oil
+* 1 yellow onion, chopped
+* 4 garlic cloves, minced
+* 3/4 tsp dried oregano
+* 3/4 tsp dried thyme
+* 12 oz. Simple Truth Frozen Organic Mixed Vegetables
+* 12 oz. Simple Truth Frozen Organic Green Beans
+* 1 (14 oz.) can petite diced tomatoes
+* 2 3/4 cups vegetable broth
+* 1/2 tsp salt
+* 1/2 tsp ground pepper
+* 1/4 cup chopped flat-leaf parsley
+* Salt and pepper, to taste
+
+### Instructions
+For an instant pot:  
+* Set Instant Pot to the sauté setting. Add the olive oil and allow to heat for 1 minute. Add the onion and cook, stirring occasionally, until softened, about 5 minutes. Stir in the garlic, oregano and thyme, and cook for 1 minute.
+* Add the frozen mix vegetables, frozen green beans, petite diced tomatoes, vegetable broth, salt and pepper, and stir to combine.
+* Put the lid on the Instant Pot, close the steam vent and set to HIGH pressure using the manual setting. Decrease the time to 4 minutes.
+* Once the time is expired, wait for 5 minutes, then carefully use the quick release valve to release the steam. Stir in the parsley. Season to taste. Serve.
+
+For The Stovetop:  
+* Heat the olive oil in a large saucepan set over medium heat. Add the onions and cook until tender, about 5 minutes. Stir in the garlic, oregano and thyme, and cook for 1 minute.
+* Add the vegetable broth, crushed tomatoes, salt and pepper, and stir to combine.
+* Bring to a boil, then reduce heat and simmer for 20 minutes, stirring occasionally.
+* Stir in the parsley. Season to taste with salt and pepper. Serve.
+
+For a heartier meal, add instant brown rice.
+
 # Other muffin recipes
 
 * [Vegan chunky apple cinnamon muffins](https://www.averiecooks.com/vegan-chunky-apple-cinnamon-muffins/#)
