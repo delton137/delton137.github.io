@@ -356,6 +356,29 @@ For The Stovetop:
 
 For a heartier meal, add instant brown rice.
 
+---
+---
+
+# Super Easy Asian Noodles
+---
+---
+Adapted from [My Plant Based Family](https://myplantbasedfamily.com/2015/08/16/asian-noodles/)
+
+### Ingredients
+* 1ox Brown Rice Noodles (they recommend Annie Chun’s)
+* 3 carrots, sliced (about 1 cup)
+* 1 cup frozen peas
+* 1/2 cup SoyNut Butter (or other peanut butter type spread)
+* 2 Tbsp Soy Sauce
+
+### Instructions
+* Bring water to a boil. As you wait slice the carrots and get the other ingredients ready.
+* Dump the carrots into the boiling water and cook them for 2-3 minutes.
+* After the carrots have cooked a few minutes add the frozen peas and the noodles.
+* Cook everything together for 5 minutes. Once the timer beeps, taste test the noodles and carrots to see if either need a minute or two longer.
+* Carefully drain the water out of your pot. I like to use one of these. Then dump in the soy sauce and the SoyNut/Peanut butter. Stir well until it has melted into the noodles and is evenly distributed.
+
+
 # Other muffin recipes
 
 * [Vegan chunky apple cinnamon muffins](https://www.averiecooks.com/vegan-chunky-apple-cinnamon-muffins/#)
