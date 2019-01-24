@@ -37,7 +37,7 @@ For publications, see also [Google Scholar](https://scholar.google.com/citations
 J. J. Podesta, M. A. Forman, C. W. Smith, **D. C. Elton**, and Y. Malecot, &#8220;[Accurate Estimation of](http://www.nonlin-processes-geophys.net/16/99/2009/npg-16-99-2009.html) [Third-Order Moments from Turbulence Measurements](http://www.nonlin-processes-geophys.net/16/99/2009/npg-16-99-2009.html)&#8220;, _Nonlin. Proc. Geophys.,_ **16,** 99 (2009) [[arXiv](http://arxiv.org/abs/0901.3499)]
 
 ## Peer reviewed conference proceedings
-**D. C. Elton**, D. Turakhia, N. Reddy, Z. Boukouvalas, R. M. Doherty, M. D. Fuge, and P. W. Chung. "Using natural language processing techniques to extract information on the properties and functionalities of energetic materials from large text corpora".  [New Trends in Research of Energetic Materials, 2018 (in prep, abstract submitted)](http://www.ntrem.com/registration/print_paper.cgi?id=102)
+**D. C. Elton**, D. Turakhia, N. Reddy, Z. Boukouvalas, R. M. Doherty, M. D. Fuge, and P. W. Chung. "Using natural language processing techniques to extract information on the properties and functionalities of chemicals from large text corpora".  [New Trends in Research of Energetic Materials, 2018 (in prep, abstract submitted)](http://www.ntrem.com/registration/print_paper.cgi?id=102)
 
 G. Kumar, F. G. VanGessel, **D. C. Elton**, and P. W. Chung. "Prediction of Phonon Relaxation Times in α-RDX'' MRS 2019 proceedings (in prep, abstract submitted)
 
