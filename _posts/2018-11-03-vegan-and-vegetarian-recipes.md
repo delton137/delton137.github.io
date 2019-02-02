@@ -149,6 +149,39 @@ For the Wraps:
 * Top with the breadcrumbs and sprinkle with paprika.
 * Bake for 25-30 minutes and enjoy!
 
+---
+---
+
+# Easy vegan mac
+---
+---
+This vegan mac is not nearly as tasty as the one above and is actually rather bland, but it is nutritious and very easy to make.  
+From [Vegan Yummies](https://veganyumminess.com/creamy-vegan-mac-and-cheese/)
+
+### INGREDIENTS
+
+* 10 ounces dried macaroni (or about 2 2/3 cups)
+* 1 cup peeled/diced yellow potatoes (or russets)
+* 1/4 cup peeled/diced carrots
+* 1/3 cup chopped onion
+* 3/4 cup water (preferably use liquid from pot of boiled veggies)
+* 1/2 cup raw cashews
+* 1/4 cup coconut milk
+* 2 tablespoons nutritional yeast flakes
+* 1 tablespoon lemon juice
+* 3/4 to 1 teaspoon salt (or more to taste)
+* 1/4 teaspoon garlic powder
+* 1 pinch cayenne pepper (optional)
+* 1 pinch paprika
+
+### INSTRUCTIONS
+* Cook macaroni al dente, according to package instructions (usually requires boiling for 6-8 minutes in salted water), drain, and set aside.
+* Bring several cups of water to boil in a small pot. Place chopped potatoes, carrots, and onion in the boiling water, and cook for about 10 minutes, or until vegetables are tender and soft enough to blend. Cooking time will vary slightly, based on how small you have chopped your veggies.
+* When veggies are soft enough to blend, use a slotted spoon to remove them from cooking water, and place them in your blender. Add 3/4 cup of that cooking water to your blender, along with your remaining ingredients (including cashews).
+* Blend until smooth.
+* Pour sauce over your cooked macaroni noodles in a dish of your choice, taste for salt, and serve immediately.
+Or, place macaroni mixture in a baking dish, sprinkle with bread crumbs, and bake at 350 degrees Fahrenheit for 15 minutes, or until crumbs are turning golden brown.
+
 
 ---
 ---
