@@ -18,15 +18,18 @@ This page will be continually updated..
 # Table of contents
 {:.no_toc}
 
-{::options toc_levels="1" /}
+{::options toc_levels="2" /}
 
 * TOC
 {:toc}
 
+<!----------------------------------------------------------------------------->
+# Vegan meals
+<!----------------------------------------------------------------------------->
 ---
 ---
 
-# Greek quinoa wraps with tzatziki
+## Greek quinoa wraps with tzatziki
 ---
 ---
 Quinoa component adapted from Two Peas & Their Pod
@@ -73,12 +76,11 @@ For the Wraps:
 * Prepare wraps: Lay a lettuce leaf in the center of each wrap.  Top with tzatziki sauce and quinoa, wrap, and serve.
 
 
-
-
+<!----------------------------------------------------------------------------->
 ---
 ---
 
-# Couscous and feta stuffed peppers
+## Couscous and feta stuffed peppers
 ---
 ---
 
@@ -111,10 +113,11 @@ For the Wraps:
 * Fill peppers with the couscous mixture.
 * Bake 15 minutes. Serve immediately.
 
+<!----------------------------------------------------------------------------->
 ---
 ---
 
-# VegNews' macaroni and cheese
+## VegNews' macaroni and cheese
 ---
 ---
 [Modified by Epicureanvegan](http://epicureanvegan.com/2011/05/28/vegnews-macaroni-and-cheese/)
@@ -149,10 +152,11 @@ For the Wraps:
 * Top with the breadcrumbs and sprinkle with paprika.
 * Bake for 25-30 minutes and enjoy!
 
+<!----------------------------------------------------------------------------->
 ---
 ---
 
-# Easy vegan mac
+## Easy vegan mac
 ---
 ---
 This vegan mac is not nearly as tasty as the one above and is actually rather bland, but it is nutritious and very easy to make.  
@@ -183,10 +187,11 @@ From [Vegan Yummies](https://veganyumminess.com/creamy-vegan-mac-and-cheese/)
 Or, place macaroni mixture in a baking dish, sprinkle with bread crumbs, and bake at 350 degrees Fahrenheit for 15 minutes, or until crumbs are turning golden brown.
 
 
+<!----------------------------------------------------------------------------->
 ---
 ---
 
-# Veggie Lasagna
+## Veggie Lasagna
 ---
 ---
 Elton family recipe
@@ -212,12 +217,11 @@ Elton family recipe
 * Let it set a bit before cutting.
 
 
-
-
+<!----------------------------------------------------------------------------->
 ---
 ---
 
-# Hearty black bean quesadillas
+## Hearty black bean quesadillas
 ---
 ---
 from [Budget Bytes](https://www.budgetbytes.com/hearty-black-bean-quesadillas/)
@@ -239,10 +243,11 @@ from [Budget Bytes](https://www.budgetbytes.com/hearty-black-bean-quesadillas/)
 * To freeze the quesadillas, simply fill each one and place on a baking sheet lined with parchment paper. Place in the freezer for one hour to solidify the quesadillas and then transfer to a freezer bag. To reheat either microwave (for a soft quesadilla) or cook in a skillet on low heat (make sure to use low heat so that the filling has time to thaw and melt before the outside burns).
 
 
+<!----------------------------------------------------------------------------->
 ---
 ---
 
-# Israeli Couscous with pine nuts & parsley
+## Israeli Couscous with pine nuts & parsley
 ---
 ---
 From Trader Joes Israeli couscous package, adapted to be vegan
@@ -270,90 +275,11 @@ From Trader Joes Israeli couscous package, adapted to be vegan
 * Remove from heat and stir in parsely, pine nuts, and lemon zest. Add the raisins for a savory sweet taste. Season with black pepper to taste.  
 
 
+<!----------------------------------------------------------------------------->
 ---
 ---
 
-# Flax seed egg substitute
----
----
-From [Minimalist Baker](https://minimalistbaker.com/how-to-make-a-flax-egg/)
-
-### Ingredients
-* 1 Tbsp flaxseed meal (ground raw flaxseed)
-* 2 1/2 Tbsp water
-
-## Instructions
-* Add flaxseed meal and water to a dish and stir.
-* Let rest for 5 minutes to thicken. Add to recipes in place of 1 egg (as original recipe is written).
-
-
----
----
-# Banana oatmeal chocolate chip muffins
-
----
----
-From [Beaming Baker](https://beamingbaker.com/banana-oatmeal-chocolate-chip-muffins-vegan-gluten-free-dairy-free-refined-sugar-free/)
-
-### Ingredients
-* 3 medium, very ripe bananas (1 cup + 2 tablespoons mashed)
-* ¼ cup melted coconut oil
-* ¼ cup coconut sugar
-* ¼ cup pure maple syrup
-* 2 flax eggs (2 tablespoons ground flax + 6 tablespoons water, whisk together, set for 15 mins)
-* ½ cup unsweetened almond milk, room temperature
-* 1 teaspoon pure vanilla extract
-* Dry Ingredients
-* 1 ¾ cups gluten free oat flour (how to make gluten free oat flour here)
-* 1 ¼ cups gluten free rolled oats
-* 1 ½ teaspoons baking powder
-* 1 teaspoon baking soda
-* 2 teaspoons ground cinnamon
-* ¾ cup vegan chocolate chips
-
-Optional Toppings
-
-* 1 tablespoon gluten free rolled oats
-* 2 tablespoons vegan chocolate chips
-
-### Instructions
-* Preheat the oven to 325°F degrees. Line a 12-cup muffin pan with muffin liners.
-* Peel bananas and add to a large mixing bowl. Using a sturdy whisk or fork, mash bananas until smooth. Add the oil, sugar, maple syrup, flax eggs, milk and vanilla. Whisk until well incorporated.
-* Add oat flour, oats, baking powder, baking soda and cinnamon. Whisk together until just incorporated, making sure no flour patches remain. Fold in chocolate chips.
-* Using a large scoop, scoop and drop batter evenly into muffin cups. I use this ice cream scoop for easy scooping and a beautiful round top. If not using the scoop, smooth batter into an even layer, with a domed top (rise) in the center. Optionally, press oats and chocolate chips on top of the muffins.
-* Bake for 24-30 minutes. Mine took 29 minutes for large domed-topped muffins.
-* Allow to cool in muffin pan set on a cooling rack for about 20 minutes. Remove from pan to finish cooling, about 1-2 hours.
-
-
-
----
----
-
-# Banana chocolate chip blender mini muffins
----
----
-### Ingredients
-
-* 2 Eggs
-* 1/3 C Almond Milk
-* 2 T organic Peanut or Almond Butter
-* 3/4 C Gluten-free Old Fashioned Rolled Oats
-* 1 ripe banana
-* 1 t baking soda
-* 1 t pure vanilla extract
-* 1 C baby spinach
-* 1/4 C dairy-free mini chocolate chips
-
-### Instructions
-* Preheat Oven 350, Spray 24 C Mini Muffin Pan w/Coconut oil spray
-* Blend all ingredients except chocolate chips in blender until smooth, fill muffin cups three-fourths full, sprinkle w/chocolate chips
-* Bake 9-12 minutes or until toothpick comes out clean
-
-
----
----
-
-# Vegetable soup
+## Vegetable soup
 ---
 ---
 From [Cookin Caunuck](https://www.cookincanuck.com/instant-pot-vegetable-soup/)
@@ -392,7 +318,7 @@ For a heartier meal, add instant brown rice.
 ---
 ---
 
-# Super Easy Asian Noodles
+## Super Easy Asian Noodles
 ---
 ---
 Adapted from [My Plant Based Family](https://myplantbasedfamily.com/2015/08/16/asian-noodles/)
@@ -412,13 +338,135 @@ Adapted from [My Plant Based Family](https://myplantbasedfamily.com/2015/08/16/a
 * Carefully drain the water out of your pot. I like to use one of these. Then dump in the soy sauce and the SoyNut/Peanut butter. Stir well until it has melted into the noodles and is evenly distributed.
 
 
-# Other muffin recipes
+<!----------------------------------------------------------------------------->
+# Vegan snacks / deserts
+<!----------------------------------------------------------------------------->
+---
+---
+## Banana oatmeal chocolate chip muffins
+
+---
+---
+From [Beaming Baker](https://beamingbaker.com/banana-oatmeal-chocolate-chip-muffins-vegan-gluten-free-dairy-free-refined-sugar-free/)
+
+### Ingredients
+* 3 medium, very ripe bananas (1 cup + 2 tablespoons mashed)
+* ¼ cup melted coconut oil
+* ¼ cup coconut sugar
+* ¼ cup pure maple syrup
+* 2 flax eggs (2 tablespoons ground flax + 6 tablespoons water, whisk together, set for 15 mins)
+* ½ cup unsweetened almond milk, room temperature
+* 1 teaspoon pure vanilla extract
+* Dry Ingredients
+* 1 ¾ cups gluten free oat flour (how to make gluten free oat flour here)
+* 1 ¼ cups gluten free rolled oats
+* 1 ½ teaspoons baking powder
+* 1 teaspoon baking soda
+* 2 teaspoons ground cinnamon
+* ¾ cup vegan chocolate chips
+
+Optional Toppings
+
+* 1 tablespoon gluten free rolled oats
+* 2 tablespoons vegan chocolate chips
+
+### Instructions
+* Preheat the oven to 325°F degrees. Line a 12-cup muffin pan with muffin liners.
+* Peel bananas and add to a large mixing bowl. Using a sturdy whisk or fork, mash bananas until smooth. Add the oil, sugar, maple syrup, flax eggs, milk and vanilla. Whisk until well incorporated.
+* Add oat flour, oats, baking powder, baking soda and cinnamon. Whisk together until just incorporated, making sure no flour patches remain. Fold in chocolate chips.
+* Using a large scoop, scoop and drop batter evenly into muffin cups. I use this ice cream scoop for easy scooping and a beautiful round top. If not using the scoop, smooth batter into an even layer, with a domed top (rise) in the center. Optionally, press oats and chocolate chips on top of the muffins.
+* Bake for 24-30 minutes. Mine took 29 minutes for large domed-topped muffins.
+* Allow to cool in muffin pan set on a cooling rack for about 20 minutes. Remove from pan to finish cooling, about 1-2 hours.
+
+
+<!----------------------------------------------------------------------------->
+---
+---
+
+## Banana chocolate chip blender mini muffins
+---
+---
+### Ingredients
+
+* 2 Eggs
+* 1/3 C Almond Milk
+* 2 T organic Peanut or Almond Butter
+* 3/4 C Gluten-free Old Fashioned Rolled Oats
+* 1 ripe banana
+* 1 t baking soda
+* 1 t pure vanilla extract
+* 1 C baby spinach
+* 1/4 C dairy-free mini chocolate chips
+
+### Instructions
+* Preheat Oven 350, Spray 24 C Mini Muffin Pan w/Coconut oil spray
+* Blend all ingredients except chocolate chips in blender until smooth, fill muffin cups three-fourths full, sprinkle w/chocolate chips
+* Bake 9-12 minutes or until toothpick comes out clean
+
+
+# Vegan substitutes
+<!----------------------------------------------------------------------------->
+---
+---
+
+## Flax seed egg substitute
+---
+---
+From [Minimalist Baker](https://minimalistbaker.com/how-to-make-a-flax-egg/)
+
+### Ingredients
+* 1 Tbsp flaxseed meal (ground raw flaxseed)
+* 2 1/2 Tbsp water
+
+## Instructions
+* Add flaxseed meal and water to a dish and stir.
+* Let rest for 5 minutes to thicken. Add to recipes in place of 1 egg (as original recipe is written).
+
+
+<!----------------------------------------------------------------------------->
+## Vegan meatballs
+---
+---
+From [Minimalist Baker](https://minimalistbaker.com/how-to-make-a-flax-egg/)
+
+### Ingredients
+* 1 tablespoon chia seeds
+* 3 tablespoons water
+* 4 ounces shiitake mushrooms (stemmed), caps chopped
+* 4 ounces cremini mushrooms, trimmed and chopped
+* 1 cup walnuts, toasted (see NOTE)
+* 1/3 cup chopped yellow onion (from 1/4 medium onion)
+* 1/4 cup lightly packed chopped fresh parsley
+* 1 tablespoon balsamic vinegar
+* 2 teaspoons Italian seasoning
+* 2 cloves garlic, chopped
+* 1 teaspoon kosher salt
+* 1/4 teaspoon freshly ground black pepper
+* 1 cup brown rice flour (may substitute white rice flour)
+* 1 tablespoon extra-virgin olive oil
+
+## Instructions
+* Preheat the oven to 375 degrees. Line a rimmed baking sheet with parchment paper.
+*  Make a chia "egg" by stirring together the chia seeds and water in a small bowl. Let it stand and thicken for at least 10 minutes.
+* Combine the shiitakes, creminis, walnuts, onion, parsley, balsamic vinegar, Italian seasoning, garlic, salt and pepper in a food processor. Pulse until all the ingredients are combined and evenly chopped, but not pureed. Add the chia egg and pulse just until incorporated.
+* Transfer to a mixing bowl and fold in the flour, using your hands as needed to make sure the flour is evenly distributed. The mixture will be a little sticky.
+* Take 2 tablespoons of the mixture, shape into a ball and place on the baking sheet. Repeat to make 18 balls of equal size. Lightly brush each ball with oil. Bake (middle rack) for 25 minutes, until firm and browned on the bottom.
+
+NOTE: Toast the walnuts in a small, dry skillet over medium-low heat, until fragrant and lightly browned, shaking the pan to avoid scorching. Cool completely before using.
+
+
+
+<!----------------------------------------------------------------------------->
+
+# Additional links
+
+## Other muffin recipes
 
 * [Vegan chunky apple cinnamon muffins](https://www.averiecooks.com/vegan-chunky-apple-cinnamon-muffins/#)
 * [Basic Vegan blender muffins (desert)](https://passtheplants.com/vegan-no-bowl-blender-muffins/)
 * [Flour based vegan blueberry muffins (desert)](https://www.mydarlingvegan.com/vegan-blueberry-muffins/)
 
-# More recipes to try :
+## Other
 
 [Chickpea Tofu](https://www.deliciouseveryday.com/burmese-chickpea-tofu-recipe/?fbclid=IwAR0R7cbPsNYMKIkL1m2um1PRSDaOYSCbPJu6Dlv3s8JT_t76duL6NHeRqZ4)
 
