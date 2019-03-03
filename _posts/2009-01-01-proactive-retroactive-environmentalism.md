@@ -5,7 +5,7 @@ comments: true
 date: 2009-01-01T00:00:57+00:00
 author: delton137
 layout: post
-permalink: 2009/01/01-proactive-retroactive-environmentalism /
+permalink: 2009/01/01-proactive-retroactive-environmentalism/
 categories:
   - environmentalism
 tags:
