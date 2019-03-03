@@ -414,7 +414,7 @@ rise.
 
 (written by Dan Elton in 2009)  
 
-This telescope is a historic brass refractor bearing the signature of telescope maker John Byrne - 1883.  According to some records found at the library and online,  the RAS had several telescopes donated in the 1940s.( see "Reports of Observations", *Astronomical Journal*, 1954)  One was a 5 1/4" refractor given by Mr. Gabriel R. Solomon '02 around 1942. It is believed that this is the Byrne refractor we have today.  Mr. Solomon was a distinguished graduate, a professional engineer and businessman. As far as John Byrne himself, he started as an apprentice of telescope maker Henry Fitz in 1847 and worked with him until Fitz's death in 1863. He then began making Byrne signed telescopes.  Earlier telescopes were f 15, and the later models were an innovation in being f9 to f10.5. A 5 inch Byrne similar to this one was used by the well know astronomer Edward Barnard to discover several comets.  Also, George Hale's second telescope was a 4" Byrne refractor. Hale went on to found the Yerkes, Mount Wilson, and Palomar observatories. This instrument is currently in a state of disrepair. It is missing its original pier mount and some elements of the focuser. It is hoped that is can be restored into working order. ([https://web.archive.org/web/20120204080012/http://home.europa.com/~telscope/tsus.txt](here is a brief bio on Byrne))
+This telescope is a historic brass refractor bearing the signature of telescope maker John Byrne - 1883.  According to some records found at the library and online,  the RAS had several telescopes donated in the 1940s.( see "Reports of Observations", *Astronomical Journal*, 1954)  One was a 5 1/4" refractor given by Mr. Gabriel R. Solomon '02 around 1942. It is believed that this is the Byrne refractor we have today.  Mr. Solomon was a distinguished graduate, a professional engineer and businessman. As far as John Byrne himself, he started as an apprentice of telescope maker Henry Fitz in 1847 and worked with him until Fitz's death in 1863. He then began making Byrne signed telescopes.  Earlier telescopes were f 15, and the later models were an innovation in being f9 to f10.5. A 5 inch Byrne similar to this one was used by the well know astronomer Edward Barnard to discover several comets.  Also, George Hale's second telescope was a 4" Byrne refractor. Hale went on to found the Yerkes, Mount Wilson, and Palomar observatories. This instrument is currently in a state of disrepair. It is missing its original pier mount and some elements of the focuser. It is hoped that is can be restored into working order. ([here is a brief bio on Byrne](https://web.archive.org/web/20120204080012/http://home.europa.com/~telscope/tsus.txt))
 
 Pictures from 2008-2009 (taken by Michael Cantore):
 
@@ -440,13 +440,13 @@ Pictures from 2008-2009 (taken by Michael Cantore):
 
 # Archives - Mirror Overhaul Project
 
-(Completed Summer 1998) (This was from the old RAS website - not written by Dan Elton)
+(Completed Summer 1998)  
+(This was from the old RAS website and written by Jeffrey LaCombe)
 
 As with any viewing instrument, the quality of the image is determined
 by the quality of the optics. In the summer of 1998 the RAS took the
 primary mirror on the 16" Cassegranian telescope in for servicing. This
-is how we did it. (Thank you Jeffrey LaCombe for putting together the
-original page.)
+is how we did it.
 
 ### Disassembly
 
