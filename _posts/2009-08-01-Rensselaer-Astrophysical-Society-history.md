@@ -20,7 +20,9 @@ August, 2009
 </center>
 
 # The Proudfit Observatory
-![The Proudfit Observatory](../../../../assets/Rensselaer_Astrophysical_Society_history_images/proudfit%20observatory.jpg)
+<figure class="aligncenter" style="width: 550px">
+<img src="../../../../assets/Rensselaer_Astrophysical_Society_history_images/proudfit%20observatory.jpg"/>
+</figure>
 
 The history of astronomy at RPI actually dates back several decades
 before the formation of RAS in 1938. Astronomy had been taught as a core
@@ -279,8 +281,11 @@ the Dudley provided funding, as part of the joint venture. Research
 staff included Dr. Alan S. Meltzer, Dr Pearl R. Lichtenstein, along with
 research associates Mr. Robert L Watters and Dr. Kenneth Mortenson.
 
-![Picture taken by Dan Elton in 2009](../../../../assets/Rensselaer_Astrophysical_Society_history_images/unkown%20trailer%20cropped%20thumb.jpg)
-*Picture taken by Dan Elton in 2009.*
+<figure class="aligncenter">
+<img src="../../../../assets/Rensselaer_Astrophysical_Society_history_images/unkown%20trailer%20cropped%20thumb.jpg" />
+<figcaption>Picture taken by Dan Elton in 2009
+</figcaption>
+</figure>
 
 I found a map of the observing site and decided to go to Grafton to look
 for any remains of the radio telescope. The picture above is a
@@ -332,6 +337,7 @@ the 1970s the Sampson station was abandoned.
 1918-2001 *Bulletin of the American Astronomical Society*, v. 35, no. 5, p. 1460-1461  
 \[2\] "[Reports of Observatories](https://web.archive.org/web/20100211171031/http://articles.adsabs.harvard.edu/full/1957AJ.....62..283./0000309.000.html)" *Astronomical Journal*, Vol. 62, p. 283  
 
+
 # The Hirsch Observatory
 
 In 1980 the General Electric company donated the Boller and Chivens 16"
@@ -366,7 +372,9 @@ the present-day public observing program in 1996. She graduated from RPI
 with a PhD in Multidisciplinary Science in 2001 and went on to become a
 professor of astrophysics and planetary science at Albion College.
 
-![16-inch Telescope](../../../../assets/Rensselaer_Astrophysical_Society_history_images/Milano%20and%20Mack.jpg)
+<figure class="aligncenter" style="width: 500px">
+<img src="../../../../assets/Rensselaer_Astrophysical_Society_history_images/Milano%20and%20Mack.jpg"/>
+</figure>
 
 In 2006 there was a $70,000 refurbishment, in which the control system and
 electronics were re-vamped and the telescope optics collimated. Dr.
@@ -387,10 +395,47 @@ mid-November. The observatory averages around 800-900 visitors per year,
 and with increased publicity and outreach, this number is expected to
 rise.
 
+<figure class="aligncenter" style="width: 500px">
+<img src="../../../../assets/Rensselaer_Astrophysical_Society_history_images/cassidy_circa_2007.jpg" />
+<figcaption>Long time volunteer Johnathan Cassidy has logged countless hours at the observatory educating young people about astronomy and inspiring them to pursue careers in science. He is pictured here in a picture from circa 2006-2008 and has remained active at the observatory through 2019.
+</figcaption>
+</figure>
+
+<figure class="aligncenter" style="width: 400px">
+<img src="../../../../assets/Rensselaer_Astrophysical_Society_history_images/16in RC Night.jpg"/>
+</figure>
+
+
 **References**  
-\[1\] [Not the Rensselaer Handbook : Sliding into
-Troy](https://web.archive.org/web/20100211171031/http://www.unprompted.com/ntrw/Sliding_into_Troy)
-(from NTRW) (original [here](https://web.archive.org/web/20100211171031/http://www.deltos.com/reference/not-handbook/NtRH.html))
+\[1\] [Not the Rensselaer Handbook : Sliding into Troy](https://web.archive.org/web/20100211171031/http://www.unprompted.com/ntrw/Sliding_into_Troy) (from NTRW) (original [here](https://web.archive.org/web/20100211171031/http://www.deltos.com/reference/not-handbook/NtRH.html))
+
+
+# Notes on the 1883 John Byrne Refractor
+
+(written by Dan Elton in 2009)  
+
+This telescope is a historic brass refractor bearing the signature of telescope maker John Byrne - 1883.  According to some records found at the library and online,  the RAS had several telescopes donated in the 1940s.( see "Reports of Observations", *Astronomical Journal*, 1954)  One was a 5 1/4" refractor given by Mr. Gabriel R. Solomon '02 around 1942. It is believed that this is the Byrne refractor we have today.  Mr. Solomon was a distinguished graduate, a professional engineer and businessman. As far as John Byrne himself, he started as an apprentice of telescope maker Henry Fitz in 1847 and worked with him until Fitz's death in 1863. He then began making Byrne signed telescopes.  Earlier telescopes were f 15, and the later models were an innovation in being f9 to f10.5. A 5 inch Byrne similar to this one was used by the well know astronomer Edward Barnard to discover several comets.  Also, George Hale's second telescope was a 4" Byrne refractor. Hale went on to found the Yerkes, Mount Wilson, and Palomar observatories. This instrument is currently in a state of disrepair. It is missing its original pier mount and some elements of the focuser. It is hoped that is can be restored into working order. ([https://web.archive.org/web/20120204080012/http://home.europa.com/~telscope/tsus.txt](here is a brief bio on Byrne))
+
+Pictures from 2008-2009 (taken by Michael Cantore):
+
+<figure class="aligncenter" style="width: 500px">
+<img src="../../../../assets/Rensselaer_Astrophysical_Society_history_images/Byrne 1.jpg" />
+</figure>
+<figure class="aligncenter" style="width: 500px">
+<img src="../../../../assets/Rensselaer_Astrophysical_Society_history_images/Byrne 2.jpg" />
+</figure>
+<figure class="aligncenter" style="width: 500px">
+<img src="../../../../assets/Rensselaer_Astrophysical_Society_history_images/Byrne 3.jpg" />
+</figure>
+<figure class="aligncenter" style="width: 500px">
+<img src="../../../../assets/Rensselaer_Astrophysical_Society_history_images/Byrne 4.jpg" />
+</figure>
+<figure class="aligncenter" style="width: 500px">
+<img src="../../../../assets/Rensselaer_Astrophysical_Society_history_images/Byrne 5.jpg" />
+</figure>
+<figure class="aligncenter" style="width: 500px">
+<img src="../../../../assets/Rensselaer_Astrophysical_Society_history_images/Byrne 6.jpg" />
+</figure>
 
 
 # Archives - Mirror Overhaul Project
