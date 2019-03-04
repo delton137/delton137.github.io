@@ -34,12 +34,12 @@ For publications, see also [Google Scholar](https://scholar.google.com/citations
 **D.C. Elton** and  M.-V Fernández-Serra. "[Polar nanoregions in water &#8211; a study of the dielectric properties of TIP4P/2005,TIP4P/2005f and TTM3F](http://scitation.aip.org/content/aip/journal/jcp/140/12/10.1063/1.4869110)", _J. Chem. Phys._, **140**, 124504 (2014) [[arXiv](http://arxiv.org/abs/1401.5090)]
 <!--- <span style="font-size: 12px;"><br> We present a critical comparison of the dielectric properties of three types of water model used in molecular dynamics &#8211; rigid, flexible, and polarizable. To better understand the dielectric properties of water we make a novel analogy to the physics of polar nanoregions in relaxor ferroelectric materials. We argue that polarizability is essential to accurately reproducing the dipolar ordering of the liquid and how it changes with temperature. </span> --->
 
-J. J. Podesta, M. A. Forman, C. W. Smith, **D. C. Elton**, and Y. Malecot, &#8220;[Accurate Estimation of](http://www.nonlin-processes-geophys.net/16/99/2009/npg-16-99-2009.html) [Third-Order Moments from Turbulence Measurements](http://www.nonlin-processes-geophys.net/16/99/2009/npg-16-99-2009.html)&#8220;, _Nonlin. Proc. Geophys.,_ **16,** 99 (2009) [[arXiv](http://arxiv.org/abs/0901.3499)]
+J. J. Podesta, M. A. Forman, C. W. Smith, **D. C. Elton**, and Y. Malecot, &#8220;[Accurate Estimation of](http://www.nonlin-processes-geophys.net/16/99/2009/npg-16-99-2009.html) [Third-Order Moments from Turbulence Measurements](http://www.nonlin-processes-geophys.net/16/99/2009/npg-16-99-2009.html)&#8220;, _Nonlin. Proc. Geophys.,_ **16,** 99 (2009) [[arXiv](https://arxiv.org/abs/0901.3499)]
 
 ## Peer reviewed conference proceedings
-**D. C. Elton**, D. Turakhia, N. Reddy, Z. Boukouvalas, R. M. Doherty, M. D. Fuge, and P. W. Chung. "Using natural language processing techniques to extract information on the properties and functionalities of energetic materials from large text corpora".  [New Trends in Research of Energetic Materials, 2018 (in prep, abstract submitted)](http://www.ntrem.com/registration/print_paper.cgi?id=102)
-
 G. Kumar, F. G. VanGessel, **D. C. Elton**, and P. W. Chung. "Prediction of Phonon Relaxation Times in α-RDX'' MRS 2019 proceedings (in prep, abstract submitted)
+
+**D. C. Elton**, D. Turakhia, N. Reddy, Z. Boukouvalas, R. M. Doherty, M. D. Fuge, and P. W. Chung. "Using natural language processing techniques to extract information on the properties and functionalities of energetic materials from large text corpora". *Proceedings of the 22nd International Seminar on New Trends in Research of Energetic Materials*, 2019 [[arXiv](https://arxiv.org/abs/1903.00415)]
 
 Z. Boukouvalas, **D. C. Elton**, M. D. Fuge, and P. W. Chung. "Independent Vector Analysis for Data Fusion Prior to Molecular Property Prediction with Machine Learning". Proceedings of the [2018 Neural Information Processing Systems (NeurIPS) workshop on Machine Learning for Molecules and Materials](http://www.quantum-machine.org/workshops/nips2018draft/). [[arXiv](https://arxiv.org/abs/1811.00628)]
 

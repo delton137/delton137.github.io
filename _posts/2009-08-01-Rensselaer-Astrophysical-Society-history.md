@@ -380,7 +380,7 @@ In 2006 there was a $70,000 refurbishment, in which the control system and
 electronics were re-vamped and the telescope optics collimated. Dr.
 Peter Mack from Astronomical Consultants and Equipment (ACE) was
 contracted for the refurbishment. (Mack can be seen with RAS president
-Anthony Milano in the picture to the left.) The dome and telescope were
+Anthony Milano in the picture above.) The dome and telescope were
 automated with the same type of control systems found in all the world's
 major research observatories. The institute considered replacing the
 telescope with a new one, but decided not to, since the current scope is
