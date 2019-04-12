@@ -18,7 +18,9 @@ A final draft of my Ph.D. thesis can be downloaded here: (11 Mb PDF):
 For publications, see also [Google Scholar](https://scholar.google.com/citations?user=KG0pbOYAAAAJ)
 
 ## Peer reviewed journal articles
-**D. C. Elton**, Z. Boukouvalas, M. D. Fuge, and P. W. Chung, "Deep learning for molecular generation - a review of the state of the art" (in prep) [[arXiv](https://arxiv.org/abs/1903.04388)]
+**D. C. Elton**, Z. Boukouvalas, M. D. Fuge, and P. W. Chung, "Deep learning for molecular generation - a review of the state of the art" (under review) [[arXiv](https://arxiv.org/abs/1903.04388)] (2019)
+
+G. Kumar, F. G. VanGessel, **D. C. Elton**, and P. W. Chung. "Phonon Lifetimes in the Molecular Crystal α-RDX" (under review) (2019)
 
 **D. C. Elton**, Z. Boukouvalas, M. S. Butrico, M. D. Fuge, and P. W. Chung, “[Applying machine learning techniques to predict the properties of energetic materials](https://www.nature.com/articles/s41598-018-27344-x)”, *Scientific Reports*, **8**, 9059 (2018).
 
@@ -37,9 +39,7 @@ For publications, see also [Google Scholar](https://scholar.google.com/citations
 J. J. Podesta, M. A. Forman, C. W. Smith, **D. C. Elton**, and Y. Malecot, &#8220;[Accurate Estimation of](http://www.nonlin-processes-geophys.net/16/99/2009/npg-16-99-2009.html) [Third-Order Moments from Turbulence Measurements](http://www.nonlin-processes-geophys.net/16/99/2009/npg-16-99-2009.html)&#8220;, _Nonlin. Proc. Geophys.,_ **16,** 99 (2009) [[arXiv](https://arxiv.org/abs/0901.3499)]
 
 ## Peer reviewed conference proceedings
-G. Kumar, F. G. VanGessel, **D. C. Elton**, and P. W. Chung. "Prediction of Phonon Relaxation Times in α-RDX'' MRS 2019 proceedings (in prep, abstract submitted)
-
-**D. C. Elton**, D. Turakhia, N. Reddy, Z. Boukouvalas, R. M. Doherty, M. D. Fuge, and P. W. Chung. "Using natural language processing techniques to extract information on the properties and functionalities of energetic materials from large text corpora". *Proceedings of the 22nd International Seminar on New Trends in Research of Energetic Materials*, 2019 [[arXiv](https://arxiv.org/abs/1903.00415)]
+**D. C. Elton**, D. Turakhia, N. Reddy, Z. Boukouvalas, R. M. Doherty, M. D. Fuge, and P. W. Chung. "Using natural language processing techniques to extract information on the properties and functionalities of energetic materials from large text corpora". *Proceedings of the 22nd International Seminar on New Trends in Research of Energetic Materials*, 2019 [[arXiv](https://arxiv.org/abs/1903.00415)] (won the 3rd best presentation award at the 2019 NTREM conference)
 
 Z. Boukouvalas, **D. C. Elton**, M. D. Fuge, and P. W. Chung. "Independent Vector Analysis for Data Fusion Prior to Molecular Property Prediction with Machine Learning". Proceedings of the [2018 Neural Information Processing Systems (NeurIPS) workshop on Machine Learning for Molecules and Materials](http://www.quantum-machine.org/workshops/nips2018draft/). [[arXiv](https://arxiv.org/abs/1811.00628)]
 
