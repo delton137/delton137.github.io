@@ -76,6 +76,38 @@ For the Wraps:
 * Prepare wraps: Lay a lettuce leaf in the center of each wrap.  Top with tzatziki sauce and quinoa, wrap, and serve.
 
 
+---
+---
+
+## Lentil soup
+---
+---
+Recipe from Rich Elton. Converted to a vegetarian version by Dan Elton.
+
+### INGREDIENTS
+
+* One 32 oz box of veggie stock
+* One 16 oz can of veggie stock
+* One bag of lentils
+* One 28 oz can of diced tomatoes
+* One 14.5 oz can of diced tomatoes with Jalapenos
+* 3 Tbs sugar of brown sugar
+* 2 or 3 carrots sliced
+* ½ cup chopped celery
+* ½ cup chopped onions
+* 8 oz diced drained tofu (optional)
+* 4-6 oz beyond meat sausages, cooked
+* 1 garlic clove, diced finely
+* Basil to taste
+* ½ Tsp salt or to taste
+
+### INSTRUCTIONS
+
+* Bring the Chicken or Vegetable stock to a boil. Add in rinsed lentils and tomatoes. Bring to a boil, reduce heat and let simmer for ~ 10 - 15 minutes or so. (this is a good time to chop the onions, celery and carrots)
+* Add in chopped onions, celery, and garlic. Bring to a boil, then reduce heat and add carrots. Let simmer for 30 minutes or so, until lentils are fully softened, stirring occasionally.
+* Add in tofu and/or beyond sausages salt, and sugar. Add basil to taste. Can add oregano also, if desired.
+Let simmer another 5 minutes or so. Should be ready to serve.
+
 <!----------------------------------------------------------------------------->
 ---
 ---
