@@ -500,6 +500,8 @@ NOTE: Toast the walnuts in a small, dry skillet over medium-low heat, until frag
 
 ## Other
 
+[Perfect vegan cornbread](https://minimalistbaker.com/perfect-vegan-cornbread/ )
+
 [Chickpea Tofu](https://www.deliciouseveryday.com/burmese-chickpea-tofu-recipe/?fbclid=IwAR0R7cbPsNYMKIkL1m2um1PRSDaOYSCbPJu6Dlv3s8JT_t76duL6NHeRqZ4)
 
 https://www.veganricha.com/2017/03/sticky-ginger-sesame-tofu-veggies.html

@@ -1,6 +1,6 @@
 # Site settings
 title: More is Different
-email: delton@umd.edu
+email: 
 description: Dan Elton's webpage and home of the "More is Different" blog
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://moreisdifferent.com" # the base hostname & protocol for your site
