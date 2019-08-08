@@ -1,26 +1,13 @@
 ---
-id: 201824
-title: Curing chronic loneliness
-date: 2018-02-04T01:47:20+00:00
-author: delton137
-layout: post
-permalink: /2018/02/04/curing-chronic-loneliness
-categories:
-  - data science
-  - machine learning
-  - Python
-tags:
-
-
-
+TO_DO :
+check logs - was I lonely during my senior year of college
 ---
 For a long time, I lived by myself without feeling that lonely. In my senior year of college, for instance, I was a complete closet case. I think I drowned out that loneliness by masturbating to porn and chatting with random people on Omegle.
 
-While I was always quite a bit of a "loner" growing up, it wasn't until my 3rd year of graduate school that my serious struggles with loneliness began.
+While I was always quite a bit of a "loner" growing up, it wasn't until my 2nd year of graduate school that my serious struggles with loneliness began. Since then I am still lonely quite often but in this blog I hope to share some methods for reducing loneliness.
 
-The nadir of my loneliness probably reached it's peak
-
-At some point, the loneliness got into what I think of as "chronic" territory. In this phase, the loneliness of past became a burden which I constantly carried. Random thoughts and things in my environment would elicit painful memories. For instance, when I was going to chipotle I would think about how I've been going to Chipotle by myself for so long, and how I used to sit outside Cabo Fresh as a graduate student all by myself and feel lonely and sad. It was difficult to go running, for fear it would trigger memories of loneliness.
+## Chronic loneliness and depression
+At some point, the loneliness got into what I think of as "chronic" territory. In this phase, the loneliness of past became a burden which I constantly carried. Random thoughts and things in my environment would elicit painful memories. For instance, when I was going to chipotle I would think about how I've been going to Chipotle by myself for so long, and how I used to sit outside Cabo Fresh as a graduate student all by myself and feel lonely and sad. It was difficult to go running, because it would trigger memories of loneliness.
 
 Another example is thinking of coffee and then thinking of the coffee they gave us at the graduate school orientation, and then thinking about how I used to get angry because the building at Stony Brook sucked so much.
 
@@ -36,7 +23,10 @@ https://www.ncbi.nlm.nih.gov/pubmed/16952717
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3874845/pdf/nihms538929.pdf
 https://www.psychologytoday.com/blog/the-athletes-way/201602/loneliness-stems-neural-roots-in-the-back-your-brain
 
+https://www.sciencedaily.com/releases/2011/10/111025091636.htm
 
+Cardiovascular risk
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5831910/
 
 optigenetics dopamine cells in the dorsal raphe
 https://www.ncbi.nlm.nih.gov/pubmed/26871628
@@ -131,6 +121,15 @@ How long does it take to get close with someone? It really depends on the person
 The second failure mode is that differences can become more apparent when someone emerses themselves in broader society. This is worsened by the fact that most cities in the United States are now multicultural. While it is great that vastly different cultures can live side by side today (as opposed to the historical norm of constantly fighting each other), an unfortunate side effect of this is that during mindfulness you will notice how different many people are from you. This excacerbates feelings of loneliness and social disconnection. That's why its important to nudge the awareness-enhancing effect of mindfulness so that you become more aware of similarities, rather than differences. The important point here is to acknowledge the differences. Refusal acknowledge differences currently leads to a lot of weird pathologies in our public discourse, including political correctness.
 
 Repeat this mantra over and over : "We are different, but we are also all the same". acknowledge differences, but refocus your attention on our common humanity.
+
+Dorsal ralphe neurons represent loneliness
+https://www.ncbi.nlm.nih.gov/pubmed/26871628
+
+
+# Loneliness
+bad for the heart:
+
+https://www.sciencedaily.com/releases/2018/06/180609124652.htm
 
 # Postscript: my struggle.
 So let me go through my struggle. If you're not interested in this you can skip ahead.

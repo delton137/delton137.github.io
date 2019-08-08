@@ -200,7 +200,7 @@ While overall taking nicotine on a regular basis has been helpful for me, one sh
     </p>
 
   * <p class="western">
-      <span style="font-family: 'Times New Roman', serif;">One s</span><span style="font-family: 'Times New Roman', serif;">tudy suggests nicotine reduces HDL-C, a type of bad cholesterol </span><span style="font-family: 'Times New Roman', serif;">[<a href="https://www.gwern.net/docs/nicotine/2000-moffatt.pdfhttps://www.gwern.net/docs/nicotine/2000-moffatt.pdf">ref</a>]</span><span style="font-family: 'Times New Roman', serif;">. </span><span style="font-family: 'Times New Roman', serif;">It may also decrease the good type of cholesterol, LDL.[<a href="http://www.livestrong.com/article/99168-cholesterol-nicotine/">ref</a>]</span>
+      <span style="font-family: 'Times New Roman', serif;">One </span><span style="font-family: 'Times New Roman', serif;">study suggests nicotine reduces HDL-C, a type of good cholesterol </span><span style="font-family: 'Times New Roman', serif;">[<a href="https://www.gwern.net/docs/nicotine/2000-moffatt.pdfhttps://www.gwern.net/docs/nicotine/2000-moffatt.pdf">ref</a>]</span><span style="font-family: 'Times New Roman', serif;">. </span><span style="font-family: 'Times New Roman', serif;">[<a href="http://www.livestrong.com/article/99168-cholesterol-nicotine/">ref</a>]</span>
     </p>
 
   * <p class="western">
@@ -217,7 +217,7 @@ While overall taking nicotine on a regular basis has been helpful for me, one sh
 
     update (12/17): preliminary research ([*Science Daily*](https://www.sciencedaily.com/releases/2016/09/160901124842.htm), [journal article](http://www.jleukbio.org/content/100/5/1105)) has discovered a mechanism whereby nicotine can increase inflammation through the production of more neutrophil extracellular traps (NETs). In small quantities, NETs can help protect the body from invaders like viruses, but in larger quantities they end up harming the body and increase inflammation. This work is a reason to keep nicotine consumption low (use a minimal viable dose and perhaps even avoid long term use)
 
-    update(9/18): there is also research [Abrous, et al, *Journal of Neuroscience*, 2002](http://www.jneurosci.org/content/22/9/3656)) showing that nicotine administration in rats can lower the production of new neurons in the hippocampus. One caveat to this work is that the amounts of nicotine in the rats (in micrograms/kg) are very high (10x the levels from 2mg/day of nicotine gum). 
+    update(9/18): there is also research [Abrous, et al, *Journal of Neuroscience*, 2002](http://www.jneurosci.org/content/22/9/3656)) showing that nicotine administration in rats can lower the production of new neurons in the hippocampus. One caveat to this work is that the amounts of nicotine in the rats (in micrograms/kg) are very high (10x the levels from 2mg/day of nicotine gum).
 
 # Further reading (and sources with lots more references)
 
