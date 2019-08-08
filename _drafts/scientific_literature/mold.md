@@ -1,6 +1,6 @@
 
 
-85. Environmental mold, brain inflammation, cognitive deficits, and increased anxiety and fear
+Environmental mold, brain inflammation, cognitive deficits, and increased anxiety and fear
 https://www.sciencedirect.com/science/article/pii/S0889159114002700
 
 Satratoxin G from the Black Mold Stachybotrys chartarum Evokes Olfactory Sensory Neuron Loss and Inflammation in the Murine Nose and Brain

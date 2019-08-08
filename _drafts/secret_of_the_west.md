@@ -1,3 +1,5 @@
 
 
 socrates - questioning
+
+stoics

@@ -1,6 +1,6 @@
 # Site settings
 title: More is Different
-email: 
+email:
 description: Dan Elton's webpage and home of the "More is Different" blog
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://moreisdifferent.com" # the base hostname & protocol for your site
@@ -22,7 +22,7 @@ production_url : http://moreisdifferent.com
 
 # Other options
 permalink: blog/:year/:month/:day/clea:title/
-jobtitle: "Postdoctoral Researcher"
+jobtitle: "Staff Scientist"
 excerpt_separator: "<!--more-->"
 
 # SEO stuff

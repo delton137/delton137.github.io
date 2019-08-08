@@ -1,6 +1,6 @@
 The computer revolution has changed the way many of us think about the world. We often talk of "cyberspace" and virtual worlds such as World of Warcraft and Second Life. The philosopher Nick Bolstrom has given his famous "simulation argument"
 
-The idea that reality may actually  be a simulation is actually as old as Plato's allegory of the cave.
+The idea that reality may actually be a simulation is actually as old as Plato's allegory of the cave.
 
 I wish to address a very specific notice that seems to be popular among computer scientists - the idea that the universe is a piece of software running on a Turing machine.
 
@@ -28,7 +28,7 @@ I agree with Penrose that computational outlooks are probably too limited to giv
 Duestch’s arguments are compelling, however he never gives relates the ideas to the mind, but only assumes that the mind can result from Turing machine activity. In addition, he neglects to give a satisfactory explanation of where the quantum computers ­­­­­-­that run the universes would come from. Some such as David Deutsch claim that there is certain elegance in a universe with laws such that a simulation machine can be constructed to simulate the universe. This is allowed by the Turing principal, that any Turing machine can simulate any other Turing machine. However, to me this seems to be threatening an infinite regress, an infinite causal chain of quantum computer simulating quantum computer, stretching back forever to no end. Others have presented the hypothesis that vastly more intelligent beings would have would have created the quantum computers. Still, I would ask, beyond the technical difficulties, why such an elaborate explanation is necessary and furthermore, is it useful.
 
 This is science
-The "turing machine simulation" view of the universe is falsifiable. It would be falsified if we could develop a new type of computer called a hypercomputer which can solve problems which are uncomputable for a Turing machine. As we have seen, Penrose believes the mind is very likely a hypercomputer. Deutsch was the first to purpose a general quantum computer in a 1985 paper. Quantum computers often perform the same operations as Turing machine but can be set up to perform an infinite number of operations at once.
+The "turing machine simulation" view of the universe is falsifiable. It would be falsified if we could develop a new type of computer called a hypercomputer which can solve problems which are uncomputable for a Turing machine. As we have seen, Penrose believes the mind is very likely a hypercomputer. Deutsch was the first to propose a general quantum computer in a 1985 paper. Quantum computers often perform the same operations as Turing machine but can be set up to perform an infinite number of operations at once.
 
 Bibliography
 
