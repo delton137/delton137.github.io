@@ -1,3 +1,6 @@
+
+
+
 The computer revolution has changed the way many of us think about the world. We often talk of "cyberspace" and virtual worlds such as World of Warcraft and Second Life. The philosopher Nick Bolstrom has given his famous "simulation argument"
 
 The idea that reality may actually be a simulation is actually as old as Plato's allegory of the cave.
@@ -6,14 +9,14 @@ I wish to address a very specific notice that seems to be popular among computer
 
 A direct consequence of this view is that everything in the universe must come in discrete units.
 
-The Church-Turing thesis 
+# The Church-Turing thesis 
 The go to theorem for proving this possibility is the Church-Turing thesis, which states that any computation could be carried out by a Turing machine. The hypothesis has not been completely proven, but various methods of formalizing it mathematically have shown it to be true, and it is generally accepted as a working definition for a meaningful computation that it can be completed on a Turing machine. But wait, isn't their clearly circularity here?
 
 Fredkin believes we will find that everything to discrete or discontinuous in physics, including space and time, which would be broken into cells, analogous to pixels on a computer screen. Fredkin notes a general trend in the history of physics where things which once appeared continuous are later understood to be discontinuous. First, matter was shown to be discontinuous with the advent of the atomic theory. Next, Millikan showed that charge was discrete and then in 1905 Einstein showed that light comes in discrete packets. Finally quantum theory showed that angular momentum must come in finite multiples of h/2.
 
 One the one hand, quantum information theory suggests that information regarding the history of systems is preserved, as it would be in the reversible deterministic systems Fredkin describes. Also, at very small scales, quantum theory predicts that at some extremely small scale, space and time no longer become measurable quantities. The smallest meaningful units of distance and time are at this threshold for this indeterminacy. This is suggestive of a digital view of space and time, but Fredkin says he believes the size of the smallest units of space and time would probably be several orders of magnitude above the Planck scale.
 
-Feynman's objection
+# sFeynman's objection
 On the other hand, when faced with quantum theory Fredkin has to explain how the observed indeterministic nature is actually being produced by a deterministic computational system. To do this, Fredkin gives a type of hidden variables interpretation. In particular, he utilizes relatively finings regarding cellular automata: discrete systems of cells which evolve over time according to simple rules. Surprisingly, these systems can display complex, dynamic behavior, even appearing completely random. In this way, the randomness of quantum mechanics may only be due to our lack of understanding of the underlying bits. Finally, Fredkin also discusses the computational nature of the human mind, the source of reasoning and the soul, which he defines as the source of a person’s identity. In his outlook, the mind is also a computer, and the soul is fundamentally informational in nature. He even estimates the amount of memory necessary to create and sustain a human mind and soul to be around 1Gb of RAM, and 64 Gb of non-volatile storage. The processing architecture, however, would have to be very sophisticated to carry out higher order reasoning, sensory processing, and other functions that the brain performs.
 
 Perhaps surprisingly, Fredkins claims his hidden variables theory is supported by the Bell inequality experiments, which are often pointed to as empirically ruling hidden variables theories, or at least local hidden variables theories. The Bell inequality experiments were used to test the EPR paradox. A basic example of the paradox deals with a particle of spin zero which decays into two new particles, which leave in opposite directions. Due to conservation of momentum their spins must sum to zero. However, under traditional quantum theory, the particles will be in an indeterminate superposition of both states, until measured. When one is measured, say to be +1, then the other must “collapse” into the -1 state. Einstein is famous for calling this “a spooky action at a distance”, and found it to be an unsettling aspect of the theory. Einstein guessed that the spin must be determined in some way once the particles fragment. However, the further experiments showed that there is a greater degree of statistical variance and “co-operation” between photons than predicted by Einstein’s theory. The co-operation seems to be able to occur while the particles are any distance apart, and occurs instantly, seemingly in contradiction to the law that nothing can travel than the speed of light, although technically it can be argued that no information is exchanged so no violation occurs. Fredkin’s theory, transcends space and time, because everything would be linked to the computer system. Fredkin does mention this non-locality, claiming that it shows that things are connected behind the scenes, such as in a computer system.
@@ -30,7 +33,7 @@ Duestch’s arguments are compelling, however he never gives relates the ideas t
 This is science
 The "turing machine simulation" view of the universe is falsifiable. It would be falsified if we could develop a new type of computer called a hypercomputer which can solve problems which are uncomputable for a Turing machine. As we have seen, Penrose believes the mind is very likely a hypercomputer. Deutsch was the first to propose a general quantum computer in a 1985 paper. Quantum computers often perform the same operations as Turing machine but can be set up to perform an infinite number of operations at once.
 
-Bibliography
+# Bibliography
 
 Deutsch, David. (1997). The Fabric of Reality. New York, NY: The Penguin Press.
 
