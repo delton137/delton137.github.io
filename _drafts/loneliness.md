@@ -1,10 +1,13 @@
----
+218jn316---
 TO_DO :
 check logs - was I lonely during my senior year of college
 ---
 For a long time, I lived by myself without feeling that lonely. In my senior year of college, for instance, I was a complete closet case. I think I drowned out that loneliness by masturbating to porn and chatting with random people on Omegle.
 
 While I was always quite a bit of a "loner" growing up, it wasn't until my 2nd year of graduate school that my serious struggles with loneliness began. Since then I am still lonely quite often but in this blog I hope to share some methods for reducing loneliness.
+
+For loniliness article - want to maintain minimal social connections .. also, cities are bad
+
 
 ## Chronic loneliness and depression
 At some point, the loneliness got into what I think of as "chronic" territory. In this phase, the loneliness of past became a burden which I constantly carried. Random thoughts and things in my environment would elicit painful memories. For instance, when I was going to chipotle I would think about how I've been going to Chipotle by myself for so long, and how I used to sit outside Cabo Fresh as a graduate student all by myself and feel lonely and sad. It was difficult to go running, because it would trigger memories of loneliness.

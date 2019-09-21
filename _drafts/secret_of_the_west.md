@@ -1,5 +1,0 @@
-
-
-socrates - questioning
-
-stoics
