@@ -1,16 +1,10 @@
-218jn316---
-TO_DO :
-check logs - was I lonely during my senior year of college
----
+
 For a long time, I lived by myself without feeling that lonely. In my senior year of college, for instance, I was a complete closet case. I think I drowned out that loneliness by masturbating to porn and chatting with random people on Omegle.
 
 While I was always quite a bit of a "loner" growing up, it wasn't until my 2nd year of graduate school that my serious struggles with loneliness began. Since then I am still lonely quite often but in this blog I hope to share some methods for reducing loneliness.
 
-For loniliness article - want to maintain minimal social connections .. also, cities are bad
-
-
 ## Chronic loneliness and depression
-At some point, the loneliness got into what I think of as "chronic" territory. In this phase, the loneliness of past became a burden which I constantly carried. Random thoughts and things in my environment would elicit painful memories. For instance, when I was going to chipotle I would think about how I've been going to Chipotle by myself for so long, and how I used to sit outside Cabo Fresh as a graduate student all by myself and feel lonely and sad. It was difficult to go running, because it would trigger memories of loneliness.
+At some point, the loneliness got into what I think of as "chronic" territory. In this phase, the loneliness of past became a burden which I constantly carried. Random thoughts and things in my environment would elicit painful memories. For instance, whenever I went to a Chipotle I would think about how I've been going to Chipotle by myself for so long, and how I used to sit outside a Chipotle-like eatery (Cabo Fresh) as a graduate student all by myself and feel lonely and sad. It was even difficult to go running, because it would trigger memories of loneliness.
 
 Another example is thinking of coffee and then thinking of the coffee they gave us at the graduate school orientation, and then thinking about how I used to get angry because the building at Stony Brook sucked so much.
 
@@ -42,7 +36,6 @@ lonliness sensivitiy is hereditable - about 50% can be tied to their genes.
 
 https://www.psychologytoday.com/us/articles/201803/cure-disconnection
 
-
 other study
 https://www.sciencedirect.com/science/article/pii/S0092656606000055
 
@@ -56,13 +49,8 @@ News articles on skin hunger:
 https://broadly.vice.com/en_us/article/d3gzba/the-life-of-the-skin-hungry-can-you-go-crazy-from-a-lack-of-touch
 
 
-# Social Connection
-Caitlin Krause [says](https://pinkpangea.com/2016/10/caitlinkrause/)
-"I think being in environments that are filled with different languages and backgrounds makes me even more aware of the similarities and human connections. "
-
-This sounds like a paradox. I don't believe everyone responds the way Caitlin does. By being around people who are very different, we have a choice - we hunker down and become lonely, or we open ourselves up to being vulnerable by searching for commonalities.
-
-Mirror neurons
+# Social Connection & Healing Our Broken Society
+Caitlin Krause [says](https://pinkpangea.com/2016/10/caitlinkrause/) "I think being in environments that are filled with different languages and backgrounds makes me even more aware of the similarities and human connections".  This sounds like a paradox. I don't believe everyone responds the way Caitlin does. By being around people who are very different, we have a choice - we hunker down and become lonely, or we open ourselves up to being vulnerable by searching for commonalities.
 
 
 This article is about how to reduce loneliness. Most articles on the subject start by drawing the distinction between social isolation and loneliness. Social isolation is not having many people physically around or in close contact (ie. via electronic devices) whereas loneliness is a feeling or perception of being disconnected from other people. Loneliness is a very unpleasant feeling which strikes us at our core and can lead to physical effects such as elevated stress levels, chest pain, and tension. Declared that loneliness is the public health crisis of our time.
@@ -94,9 +82,9 @@ After implementing palliative measures, you should be functional enough to tackl
 
 There are many studies backing this up:
 
-Touch is vital, and touch deprevation is a real thing. Dance plays a very important social function in this regard, by providing a venue where it is socially acceptable to touch strangers. The joy of holding hands, of a warm embrace, of being in temporal and emotional sync with another human being can all be experienced through dance.
+Touch is vital, and touch deprivation is a real thing. Dance plays a very important social function in this regard, by providing a venue where it is socially acceptable to touch strangers. The joy of holding hands, of a warm embrace, of being in temporal and emotional sync with another human being can all be experienced through dance.
 
- Close connections are rare in life, and should be treasured.
+Close connections are rare in life, and should be treasured.
 
 Feeling needed
 
@@ -115,11 +103,9 @@ Practices like meditation, while difficult and time consuming, can help reduce s
 
 How long does it take to get close with someone? It really depends on the person! However, typically it takes
 
-# Loneliness mediation methods
-
 ## Directed mindfulness: repeat this mantra
 
-* Place yourself in public places -- this advice is repeated all over the interwebs. It sounds like advice by someone who has no experience with loneliness. There are common failure modes to this advice which completely backfire. The biggest for me had to do with public displays of affection (PDAs). PDAs, in my experience, can exacerbate loneliness, which is why if you are in a relationship you may not want think twice about PDAs. Nobody likes to be reminded of what you don't have. Furthermore, the cultural atmosphere of the environment can also ex
+Place yourself in public places -- this advice is repeated all over the interwebs. It sounds like advice by someone who has no experience with loneliness. There are common failure modes to this advice which completely backfire. The biggest for me had to do with public displays of affection (PDAs). PDAs, in my experience, can exacerbate loneliness, which is why if you are in a relationship you may not want think twice about PDAs. Nobody likes to be reminded of what you don't have. Furthermore, the cultural atmosphere of the environment can also ex
 
 The second failure mode is that differences can become more apparent when someone emerses themselves in broader society. This is worsened by the fact that most cities in the United States are now multicultural. While it is great that vastly different cultures can live side by side today (as opposed to the historical norm of constantly fighting each other), an unfortunate side effect of this is that during mindfulness you will notice how different many people are from you. This excacerbates feelings of loneliness and social disconnection. That's why its important to nudge the awareness-enhancing effect of mindfulness so that you become more aware of similarities, rather than differences. The important point here is to acknowledge the differences. Refusal acknowledge differences currently leads to a lot of weird pathologies in our public discourse, including political correctness.
 
