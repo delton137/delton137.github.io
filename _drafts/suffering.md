@@ -25,3 +25,10 @@ Consider child birth, for instance. By all accounts, it is very painful and unpl
 ## The asymmetry
 
 Jeff McMahan has introduced "the assymmetry" - we consider it wrong to create suffering but OK to fail to create happiness.
+
+
+One of the things about mental health is that there are so many levels of suffering.
+
+For instance the first time I was depressed was in my senior year of college. There was a girl I had fallen in love with and one of my friends started dating her. At the same time I was struggling in the math class advanced analysis. After bawling my eyes out for a few days  (literally) I went to a therapist and he told me 1. it's natural for me to feel sad given that I was in love, and that the sadness of lost / unrequited love will go away and 2. drop the analysis class.
+
+Then I suffered for from low grade depression in graduate school and later as a postdoc. In the spring of 2018 I had a lot of anhedonia and in summer of 2018 I was quite depressed. However in retrospect those depressions don't feel so bad compared to what hit me in the spring of 2019.
