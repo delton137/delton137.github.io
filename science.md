@@ -18,7 +18,7 @@ A final draft of my Ph.D. thesis can be downloaded here: (11 Mb PDF):
 For publications, see also [Google Scholar](https://scholar.google.com/citations?user=KG0pbOYAAAAJ)
 
 ## Peer reviewed journal articles
-**D. C. Elton**, Z. Boukouvalas, M. D. Fuge, and P. W. Chung, "[Deep learning for molecular design - a review of the state of the art](https://pubs.rsc.org/en/Content/ArticleLanding/2019/ME/C9ME00039A#!divAbstract)", *Molecular Systems Design & Engineering*, **4** (2019) [[full pdf](http://www.moreisdifferent.com/assets/Elton_MSDE_deep_learning_molecular_generation_article_ASAP.pdf)]
+**D. C. Elton**, Z. Boukouvalas, M. D. Fuge, and P. W. Chung, "[Deep learning for molecular design - a review of the state of the art](https://pubs.rsc.org/en/Content/ArticleLanding/2019/ME/C9ME00039A#!divAbstract)", *Molecular Systems Design & Engineering*, **4** (2019) [[full pdf](http://www.moreisdifferent.com/assets/Elton_MSDE_review_final_published.pdf)]
 
 G. Kumar, F. G. VanGessel, **D. C. Elton**, and P. W. Chung. "[Phonon Lifetimes and Thermal Conductivity of the Molecular Crystal α-RDX](https://www.cambridge.org/core/journals/mrs-advances/article/phonon-lifetimes-and-thermal-conductivity-of-the-molecular-crystal-rdx/14B1FC4424D8C4A659589DC535DBB5A7)", *MRS Advances*, (2019) [[arXiv](https://arxiv.org/abs/1904.12038)]
 
