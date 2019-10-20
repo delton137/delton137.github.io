@@ -1,7 +1,8 @@
 ---
 id: 1239
 title: Does hot water freeze faster than cold? Explaining the Mpemba effect
-comments: true
+comments: false
+disquscomments: true
 date: 2013-04-20T02:38:47+00:00
 author: delton137
 layout: post

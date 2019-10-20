@@ -1,7 +1,8 @@
 ---
 id: 1774
 title: The chance that a child will have a severe reaction to the MMR vaccine is less than the chance they will die in a 200 mile car ride
-comments: true
+comments: false
+disquscomments: true
 date: 2015-05-05T02:47:13+00:00
 author: delton137
 layout: post

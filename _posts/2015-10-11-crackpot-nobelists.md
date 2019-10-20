@@ -1,7 +1,7 @@
 ---
 id: 2074
 title: Crackpot Nobelists
-comments: true
+disquscomments: true
 date: 2015-10-11T23:29:55+00:00
 author: delton137
 layout: post

@@ -1,7 +1,7 @@
 ---
 id: 3265
 title: The AI control problem is more pressing than the consciousness question
-comments: true
+disquscomments: true
 date: 2016-10-23T20:48:08+00:00
 author: delton137
 layout: post

@@ -1,7 +1,8 @@
 ---
 id: 1684
 title: '&#8220;Cloud Atlas&#8221; by David Mitchel'
-comments: true
+comments: false
+disquscomments: true
 date: 2015-01-24T23:54:23+00:00
 author: delton137
 layout: post

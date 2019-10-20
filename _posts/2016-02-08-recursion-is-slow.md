@@ -1,7 +1,7 @@
 ---
 id: 3192
 title: Recursion is slow
-comments: true
+disquscomments: true
 date: 2016-02-08T02:56:46+00:00
 author: delton137
 layout: post

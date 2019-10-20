@@ -1,7 +1,7 @@
 ---
 id: 2086
 title: Explaining the uncertainty principle correctly
-comments: true
+disquscomments: true
 date: 2015-09-17T00:22:36+00:00
 author: delton137
 layout: post

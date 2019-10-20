@@ -1,7 +1,7 @@
 ---
 id: 2081
 title: Exclusion zone water
-comments: true
+disquscomments: true
 date: 2015-11-19T02:22:37+00:00
 author: delton137
 layout: post
