@@ -1,7 +1,8 @@
 ---
 id: 1210
 title: On writing well enough
-comments: true
+comments: false
+disquscomments: true
 date: 2013-02-03T20:55:24+00:00
 author: delton137
 layout: post
@@ -40,7 +41,7 @@ The first point is that if you carefully investigate the idea that words don’t
 
 The second, and more important point is that practically speaking, although the meaning is in the semantics (relations) the syntax itself is extremely important. You may understand perfectly how something works but that knowledge won’t be very useful if you can’t communicate it to someone else. I think this is an area where physicists can improve a lot, by standardizing the words we use and also our mathematical syntax. We can also improve a lot in our ability to communicate ideas to members of other disciplines (even within physics) and to the public at large.
 
-# Developing from slow crystallization to rapid realization 
+# Developing from slow crystallization to rapid realization
 
 Now, getting on with my realization, let me briefly discuss what I hope to improve. The first thing is I would like is for my writing to be free from grammar and spelling errors and easily understandable by the intended audience. Ideally I would like to be able write something without having to proofread it a dozen times to remove all the errors. Right now, creating a good piece of writing takes me a lot of time and a lot of proofreading, which I am terribly inefficient at.
 

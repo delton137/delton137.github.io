@@ -1,7 +1,7 @@
 ---
 id: 10001
 title: Geoffrey Hinton on what's wrong with CNNs
-comments: true
+disquscomments: true
 author: Dan Elton
 layout: post
 permalink: /2017/09/hinton-whats-wrong-with-CNNs
@@ -41,7 +41,7 @@ Very roughly speaking, the square and diamond look like very different shapes, b
 
 Taking the concept of a capsule further and speaking very hypothetically, Hinton proposes that capsules may be related to cortical minicolumns. Capsules may encode information such as orientation, scale, velocity, and color. Like neurons in the output layer of a CNN, a capsule outputs a probability of whether an entity is present, but additionally has pose metadata attached to it. This is very useful, because it can allow the brain to figure out if two objects, such as mouth and a nose, are subcomponents of an underlying object (a face). According to Hinton, the brain may have a fairly high dimensional "pose space", with 20 or so dimensions. Hinton suggests it is easy to determine non-coincidental poses in high dimensions. Hinton says that computer vision should be like inverse graphics. So, while a graphics engine multiplies a rotation matrix times a vector to get the appearance of an object in a particular pose relative to the viewer, a vision system should take appearance and back out the matrix that gives that pose.
 
-Toward the end of the lecture, Hinton shows a system that combines these concepts. Hinton's system does about as well as a CNN in terms of classification accuracy. However, his system is much slower because it doesn't not have the nice property of corresponding to a sequence of tensor operations (matrix multiplies) that CNNs have. Hintons code was written in Matlab and not optimized for speed, so future implementations, especially utilizing GPUs and other parallel hardware, could make them quite competitive with CNNs. 
+Toward the end of the lecture, Hinton shows a system that combines these concepts. Hinton's system does about as well as a CNN in terms of classification accuracy. However, his system is much slower because it doesn't not have the nice property of corresponding to a sequence of tensor operations (matrix multiplies) that CNNs have. Hintons code was written in Matlab and not optimized for speed, so future implementations, especially utilizing GPUs and other parallel hardware, could make them quite competitive with CNNs.
 
 # More information
 * [unpublished research paper from circa 2014: *Transforming Auto-encoders*](http://www.cs.toronto.edu/~fritz/absps/transauto6.pdf)

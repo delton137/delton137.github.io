@@ -1,7 +1,8 @@
 ---
 id: 1344
 title: A misconception about microwaves
-comments: true
+comments: false
+disquscomments: true
 date: 2013-07-14T00:30:55+00:00
 author: delton137
 layout: post

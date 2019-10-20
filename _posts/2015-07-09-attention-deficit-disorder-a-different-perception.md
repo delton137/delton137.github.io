@@ -1,7 +1,7 @@
 ---
 id: 1823
 title: 'Attention Deficit Disorder: A Different Perception'
-comments: true
+disquscomments: true
 date: 2015-07-09T04:46:52+00:00
 author: delton137
 layout: post

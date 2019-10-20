@@ -1,7 +1,8 @@
 ---
 id: 1516
 title: 'Entropy : part I'
-comments: true
+comments: false
+disquscomments: true
 date: 2014-05-23T04:48:13+00:00
 author: delton137
 layout: post

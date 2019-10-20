@@ -1,7 +1,7 @@
 ---
 id: 2850
 title: '&#8220;Accelerando&#8221; by Charles Stross'
-comments: true
+disquscomments: true
 date: 2016-01-05T20:17:49+00:00
 author: delton137
 layout: post

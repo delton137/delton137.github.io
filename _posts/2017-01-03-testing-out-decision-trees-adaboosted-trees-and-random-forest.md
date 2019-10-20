@@ -1,7 +1,7 @@
 ---
 id: 3329
 title: Testing out decision trees, AdaBoosted trees, and random forest
-comments: true
+disquscomments: true
 date: 2017-01-03T01:38:23+00:00
 author: delton137
 layout: post

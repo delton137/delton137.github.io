@@ -1,7 +1,7 @@
 ---
 id: 2321
 title: More counterintuitive Bayesian reasoning problems
-comments: true
+disquscomments: true
 date: 2015-11-23T05:53:22+00:00
 author: delton137
 layout: post

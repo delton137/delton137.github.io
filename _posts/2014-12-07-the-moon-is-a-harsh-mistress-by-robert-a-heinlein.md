@@ -1,7 +1,8 @@
 ---
 id: 1638
 title: '&#8220;The Moon is a Harsh Mistress&#8221;  by Robert A. Heinlein'
-comments: true
+comments: false
+disquscomments: true
 date: 2014-12-07T07:10:18+00:00
 author: delton137
 layout: post

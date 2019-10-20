@@ -1,7 +1,7 @@
 ---
 id: 10000
 title: DIY Drug Discovery - using molecular fingerprints and machine learning for solubility prediction
-comments: true
+disquscomments: true
 author: delton137
 layout: post
 permalink: /2017/9/21/DIY-Drug-Discovery-using-molecular-fingerprints-and-machine-learning-for-solubility-prediction/

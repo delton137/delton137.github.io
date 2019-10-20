@@ -1,7 +1,7 @@
 ---
 id: 3127
 title: An introduction to the water structure problem
-comments: true
+disquscomments: true
 date: 2016-01-21T02:43:50+00:00
 author: delton137
 layout: post

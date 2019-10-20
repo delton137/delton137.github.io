@@ -1,7 +1,7 @@
 ---
 id: 10004
 title: Vegan & vegetarian recipes collection
-comments: true
+disquscomments: true
 author: Dan Elton
 layout: post
 permalink: /2018/11/03/vegan-and-vegetarian-recipes-collection.html

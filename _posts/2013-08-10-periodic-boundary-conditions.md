@@ -1,7 +1,8 @@
 ---
 id: 1399
 title: Periodic Boundary Conditions
-comments: true
+comments: false
+disquscomments: true
 date: 2013-08-10T04:20:15+00:00
 author: delton137
 layout: post

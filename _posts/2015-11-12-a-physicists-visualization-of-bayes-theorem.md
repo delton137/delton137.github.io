@@ -1,7 +1,7 @@
 ---
 id: 2245
 title: 'A physicist&#8217;s visualization of Bayes&#8217; theorem'
-comments: true
+disquscomments: true
 date: 2015-11-12T06:41:49+00:00
 author: delton137
 layout: post

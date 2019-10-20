@@ -1,7 +1,7 @@
 ---
 id: 3404
 title: Using nicotine as a cognitive enhancer
-comments: true
+disquscomments: true
 date: 2017-06-25T18:05:54+00:00
 author: delton137
 layout: post
