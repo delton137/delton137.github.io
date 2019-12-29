@@ -1,6 +1,6 @@
-    ---
+---
 id: 2143
-title: 'Moore&#8217;s law &#8211; Kurzweil vs. Thiel'
+title: 'Moore's law &#8211; Kurzweil vs. Thiel'
 disquscomments: true
 date: 2015-10-19T05:08:14+00:00
 author: delton137
@@ -37,7 +37,7 @@ Most place the start of Moore&#8217;s law in the year 1965, when he published hi
 
 [<img class="size-full wp-image-2145 aligncenter" src="http://www.moreisdifferent.com/wp-content/uploads/2015/10/chart03.jpg" alt="" width="375" height="295" srcset="http://www.moreisdifferent.com/wp-content/uploads/2015/10/chart03.jpg 375w, http://www.moreisdifferent.com/wp-content/uploads/2015/10/chart03-300x236.jpg 300w" sizes="(max-width: 375px) 100vw, 375px" />](http://www.moreisdifferent.com/wp-content/uploads/2015/10/chart03.jpg)
 
-# Moore&#8217;s law is special
+# Moore'&#8217;'s law is special
 
 Most technological developments follow a [&#8220;sideways S&#8221; shaped curve](https://en.wikipedia.org/wiki/Sigmoid_function) &#8211; they start flat, grow exponentially for a time, and then level off when some natural barrier is reached. There is a long history of people prematurely predicting the end of Moore&#8217;s law, or in other words, predicting when the curve will finally become a sideways S.  For fun, I searched through Google&#8217;s archives for articles declaring that the end of Moore&#8217;s law was right around the corner:
 
