@@ -1,6 +1,6 @@
 ---
 id: 2143
-title: 'Moore's law &#8211; Kurzweil vs. Thiel'
+title: Moore's law &#8211; Kurzweil vs. Thiel
 disquscomments: true
 date: 2015-10-19T05:08:14+00:00
 author: delton137
@@ -29,6 +29,7 @@ tags:
   - singularity
   - technology
 ---
+
 Everyone knows what **Moore&#8217;s law** is &#8211; processors become cheaper, exponentially. There are a multitude of more precise formulations. Moore&#8217;s original formulation was very precise &#8211; it stated that the density of transistors achievable with the lowest cost transistor doubles every two years. A few years later he revised the doubling time to every 18 months. Personally, I prefer Ray Kurzweil&#8217;s formulation &#8211; the computational power (measured in calculations per second) available for $1000 doubles every ~2 years. The two versions are nearly identical, but using calculations per second per $1000 also takes into account how well the transistors are used (layout) and driven (clockspeed).
 
 <!--more-->
