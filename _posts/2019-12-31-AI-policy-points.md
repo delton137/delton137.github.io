@@ -1,10 +1,10 @@
 ---
-id: 10006
+id: 10009
 title: Draft AI Policy Points
 disquscomments: true
 author: Dan Elton
 layout: post
-permalink: /2019/12/31/ai-policy-points.html
+permalink: /2019/12/31/AI-policy-points.html
 categories:
   - artificial intelligence
 tags:
@@ -13,8 +13,7 @@ tags:
   - policy
 ---
 
-This is a draft!! 
-
+This is a draft!!
 
 # Problem 1  - mass unemployment from automation &amp; AI
 
