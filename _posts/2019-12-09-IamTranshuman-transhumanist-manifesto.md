@@ -1,0 +1,30 @@
+---
+id: 10009
+title: Draft AI Policy Points
+disquscomments: true
+author: Dan Elton
+layout: post
+permalink: /2019/12/09/IamTranshuman-transhumanist-manifesto.html
+categories:
+  - transhumanism
+tags:
+  - transhumanist party
+---
+
+*This "manifesto" was published [online](https://iamtranshuman.org/2019/12/11/dan-elton/) as part of the #IamTranshuman campaign, a campaign to help mainstream transhumanism and rehabilitate the term.*
+
+For a long time, I was primarily interested in science and figuring out how the world works. A few years ago, however, I started to become more aware of the vast amounts of suffering occurring in our world, both in humans and in other organisms. At the same time, I also started to become more aware of our limitations as a species. I have come to believe that transhumanism must be part of the solution to the problem of suffering.
+
+In a sense, we are already all transhumanists, since we all use technology to enhance our capabilities. While certainly better than other planets, the Earth is not a very hospitable place for humans, contrary to what you may have heard. Even in our homeland of Subsaharan Africa, disease and natural disasters are the norms. The only reason we have been able to survive in many different parts of the world is that we developed technology to do so. We all need technology just to survive.
+
+The modern transhumanist movement recognizes the importance and centrality of technological progress to improving the human condition and advocates that we should develop technologies to enhance our minds and bodies. I believe we have an ethical obligation to do this – to heal the sick and to create minds and bodies that are less prone to suffering and decay. I believe one of the lowest hanging fruits when it comes to upgrading ourselves is to use biotechnology to reverse the damage of aging, preventing the great suffering that most humans encounter towards the end of life due to aging and age-related illness. For too long we have told ourselves this suffering is a “fact of life” and too many of us are guilty of turning our eyes away from the suffering of the elderly. In the midst of the world’s “pro-aging trance”, transhumanists are shining a vital light on what is possible. The possibility of making a significant dent in the problem of aging in our lifetime should be clear now to anyone who studies recent scientific results in animal and human trials, from researchers such as Aubrey de Gray and David Sinclair.
+
+Besides reducing the suffering from aging, I believe a better understanding of the human brain will allow us to cure the horrific and unique sufferings of mental illness. Someday we may even elect to remove suffering from our neurology entirely, through implants or genetic alterations, replacing the pleasure-plain axis with “gradients of bliss”, as David Pierce advocates.
+
+Humans are, as David Deutsch explains so eloquently, the most important and consequential entities that we know of in the universe. Currently, there are great swaths of the universe full of stars pouring energy out into cold, empty space. The billions of stars and empty worlds outside our own are our “cosmic endowment”. A transhumanist future is sure to be immense and grand, as transhumanist technologies will make it easier to spread the special light of human consciousness out into the universe. To survive better in space, it makes sense to upgrade our bodies to survive in the environments of other planets and possibly even the vacuum of space itself. There is already some work on gene editing which shows progress towards this end.
+
+It is possible to enhance our brains so that we less prone to cognitive biases and more compassionate and ethical. It is also likely the case that we will need to enhance ourselves in order to achieve certain types of scientific understanding – there are likely properties of complex systems, for instance, that the human brain doesn’t have the bandwidth or memory to understand. More speculatively, it is possible that our brains suffer from  “cognitive closure”, or inability to grasp certain concepts, just as a dog cannot understand concepts in vector calculus. Transhumanists take to heart David Deutsch’s maxim – “everything that is not forbidden by laws of nature is achievable, given the right knowledge.” There is nothing inconsistent between the transhumanist aspirations I’ve alluded to and the laws of physics. With our brains and computers, all we need is the will to discover and create the necessary knowledge.
+
+It was great thinkers of the Enlightenment that laid the foundations for transhumanism, by discovering both the possibility and desirability of progress and set up a culture based on criticism and the free exchange of ideas in order to ensure progress continues. The discoveries and cultural traditions of the Enlightenment live on, but it is also the case that we live in a culture that is increasingly pessimistic about technology, and that increasingly rejects the very notion of progress. While most of these ideas are deeply confused and wrong, some concerns are warranted, for instance, there are serious existential risks posed by advanced technologies such as gene editing and superintelligent AI, which could wipe out the human race and cut off all future progress. Fortunately, the modern transhumanist movement is acutely aware of existential risks. I believe that technology must be part of the solution to existential risks and that trying to halt the advance of technology entirely is not only futile but counterproductive to the overall goal of existential x-risk reduction. Instead, we must be proactionary – developing specific technologies that help prevent the worst outcomes. While problems are inevitable, it does not follow that progress is not real.
+
+I am indebted to many great transhumanist thinkers for educating me about transhumanism and the transhumanist imperative and would like to give particular acknowledgement to the writings of Ray Kurzweil, Eliezer Yudkowsky, David Deutsch, Anders Sandberg, and Nick Bostrom. They are the reason behind why #IAmTranshuman.
