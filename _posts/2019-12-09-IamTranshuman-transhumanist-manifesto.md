@@ -1,6 +1,6 @@
 ---
 id: 10009
-title: Draft AI Policy Points
+title: My \#IamTranshuman manifesto
 disquscomments: true
 author: Dan Elton
 layout: post
