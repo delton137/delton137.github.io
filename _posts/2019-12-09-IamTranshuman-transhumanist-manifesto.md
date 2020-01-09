@@ -1,6 +1,6 @@
 ---
 id: 10009
-title: My #IamTranshuman manifesto
+title: My IamTranshuman manifesto
 disquscomments: true
 author: Dan Elton
 layout: post
