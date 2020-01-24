@@ -21,7 +21,7 @@ These are some notes on how to move beyond just using git locally for version co
 
 It is useful to associate the `remoteserver` hostname with its IP address on your local machine, so you don’t have to keep looking it up. Do this by editing `/etc/hosts` and enter this line:
 
-`128.231.191.101 remoteserver`
+`<ip-address> remoteserver`
 
 It is also useful to set up an SSH key. This will prevent you from having to enter your username and password each time you clone/push/pull to the repository. This is done by entering:
 
@@ -29,7 +29,7 @@ It is also useful to set up an SSH key. This will prevent you from having to ent
 
 After issuing this command, you will be asked to enter a password to encrypt your SSH key. While you can go with no encryption by simply entering nothing and hitting enter this is not recommended for security reasons. After you set up your password will only need to enter this password once, the first time it is needed after you log into your machine. Finally, enter:
 
-`ssh-copy-id delton@bezier2`
+`ssh-copy-id delton@remoteserver`
 
 ## Creating a new code repo on the remote server
 
@@ -49,7 +49,7 @@ Move to that directory and create an empty git repository.
 
 `git --bare init --shared`
 
-**Notes**: The “.git” extension on the folder name is a useful convention. The `--bare` option creates a “bare” folder which is equivalent to the .git folder you may be familiar with. In such a repository, the source files are in a compressed form and not directly visible. You should never try to put source files directly into such a folder. The `--shared` option lets git know that all files in this directory should be shared among the “git" group. If the git group doesn't yet exist, you can create it with `sudo groupadd git`. If you are not in the git group you can add your username with `sudo usermod -a -G git <myusername>`. 
+**Notes**: The “.git” extension on the folder name is a useful convention. The `--bare` option creates a “bare” folder which is equivalent to the .git folder you may be familiar with. In such a repository, the source files are in a compressed form and not directly visible. You should never try to put source files directly into such a folder. The `--shared` option lets git know that all files in this directory should be shared among the “git" group. If the git group doesn't yet exist, you can create it with `sudo groupadd git`. If you are not in the git group you can add your username with `sudo usermod -a -G git <myusername>`.
 
 ## Cloning a repo from the remote server
 
