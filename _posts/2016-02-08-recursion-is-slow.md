@@ -175,7 +175,7 @@ plot_scaling(functs_to_test)
 
 We obtain
 
-<img class="wp-image-3208 aligncenter" src="http://www.moreisdifferent.com/wp-content/uploads/2016/02/fib_tests-300x223.png" alt="fib_tests" width="476" height="354" srcset="http://www.moreisdifferent.com/wp-content/uploads/2016/02/fib_tests-300x223.png 300w, http://www.moreisdifferent.com/wp-content/uploads/2016/02/fib_tests-768x570.png 768w, http://www.moreisdifferent.com/wp-content/uploads/2016/02/fib_tests.png 892w" sizes="(max-width: 476px) 100vw, 476px" />
+<img  class="aligncenter" src="http://www.moreisdifferent.com/wp-content/uploads/2016/02/fib_tests-300x223.png" alt="fib_tests" width="476" height="354" srcset="http://www.moreisdifferent.com/wp-content/uploads/2016/02/fib_tests-300x223.png 300w, http://www.moreisdifferent.com/wp-content/uploads/2016/02/fib_tests-768x570.png 768w, http://www.moreisdifferent.com/wp-content/uploads/2016/02/fib_tests.png 892w" sizes="(max-width: 476px) 100vw, 476px" />
 
 As expected, the pure recursive method scales as exp(N). The memoized method linearly but uses significant memory [log(N)]. The iterative method has the same scaling but is almost 100x faster!
 
@@ -221,11 +221,11 @@ Now let&#8217;s test them:
 
 <pre class="brush: python; collapse: false; title: ; wrap-lines: true; notranslate" title="">functs_to_test = [rec_count, rec_count_memoized, iter_count_ways]
 plot_scaling(functs_to_test)
-</pre><figure id="attachment_3209" class="thumbnail wp-caption aligncenter style="width: 406px">
+</pre> c
 
-<img class="wp-image-3209" src="http://www.moreisdifferent.com/wp-content/uploads/2016/02/coins_problem_tests-300x225.png" alt="coins_problem_tests" width="396" height="297" srcset="http://www.moreisdifferent.com/wp-content/uploads/2016/02/coins_problem_tests-300x225.png 300w, http://www.moreisdifferent.com/wp-content/uploads/2016/02/coins_problem_tests-768x576.png 768w, http://www.moreisdifferent.com/wp-content/uploads/2016/02/coins_problem_tests.png 800w" sizes="(max-width: 396px) 100vw, 396px" /><figcaption class="caption wp-caption-text">Speeds and scaling for coins problem.</figcaption></figure>
+<img  class="aligncenter" src="http://www.moreisdifferent.com/wp-content/uploads/2016/02/coins_problem_tests-300x225.png" alt="coins_problem_tests" width="396" height="297" srcset="http://www.moreisdifferent.com/wp-content/uploads/2016/02/coins_problem_tests-300x225.png 300w, http://www.moreisdifferent.com/wp-content/uploads/2016/02/coins_problem_tests-768x576.png 768w, http://www.moreisdifferent.com/wp-content/uploads/2016/02/coins_problem_tests.png 800w" sizes="(max-width: 396px) 100vw, 396px" /><figcaption class="caption wp-caption-text">Speeds and scaling for coins problem.</figcaption></figure>
 
-Now I should note that in these tests I am resetting the memoization cache for each new test N. If you don&#8217;t reset the cache and reuses it for each successive test, somewhat surprisingly one obtains only a slight speedup:<img class=" wp-image-3211 aligncenter" src="http://www.moreisdifferent.com/wp-content/uploads/2016/02/coins_problem_tests_cache-300x225.png" alt="coins_problem_tests_cache" width="419" height="314" srcset="http://www.moreisdifferent.com/wp-content/uploads/2016/02/coins_problem_tests_cache-300x225.png 300w, http://www.moreisdifferent.com/wp-content/uploads/2016/02/coins_problem_tests_cache-768x576.png 768w, http://www.moreisdifferent.com/wp-content/uploads/2016/02/coins_problem_tests_cache.png 800w" sizes="(max-width: 419px) 100vw, 419px" />
+Now I should note that in these tests I am resetting the memoization cache for each new test N. If you don&#8217;t reset the cache and reuses it for each successive test, somewhat surprisingly one obtains only a slight speedup:<img class="aligncenter" src="http://www.moreisdifferent.com/wp-content/uploads/2016/02/coins_problem_tests_cache-300x225.png" alt="coins_problem_tests_cache" width="419" height="314" srcset="http://www.moreisdifferent.com/wp-content/uploads/2016/02/coins_problem_tests_cache-300x225.png 300w, http://www.moreisdifferent.com/wp-content/uploads/2016/02/coins_problem_tests_cache-768x576.png 768w, http://www.moreisdifferent.com/wp-content/uploads/2016/02/coins_problem_tests_cache.png 800w" sizes="(max-width: 419px) 100vw, 419px" />
 
 I thought this may be due to the fact that the test points are logarithmically spaced, but it appears not.
 

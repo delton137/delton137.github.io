@@ -93,7 +93,7 @@ accuracy decreases going from 10 to 100 splits, while the training data accuracy
 
 That is why people use boosted ensembles of trees. An ensemble is a weighted sum of models. In ensembles, many simple models can be combined to create a more complex one. The real utility of ensembles comes from how they are trained though, using boosting methods ([wikipedia](https://en.wikipedia.org/wiki/Boosting_(machine_learning))), which are a set of different techniques for training ensembles while preventing (or more technically delaying) overfitting.
 
-#AdaBoost
+# AdaBoost
 
 (max depth of base estimators = 2) 
 
