@@ -13,7 +13,7 @@ tags:
   - policy
 ---
 
-This is a draft!!
+This is a **draft** of policy points I put together for Johannon Ben Zion, the [US Transhumanist Party](https://en.wikipedia.org/wiki/Transhumanist_Party)'s nominee for president in 2020. I am serving as AI Policy Adviser for Ben Zion. (I also serve as [director of scholarship](http://transhumanist-party.org/leadership/#DirectorOfScholarship) at the US Tranhumanist Party.) Ben Zion's campaign website is [http://benzion2020.com/](benzion2020.com). 
 
 # Problem 1  - mass unemployment from automation &amp; AI
 
