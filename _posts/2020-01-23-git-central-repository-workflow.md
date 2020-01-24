@@ -15,7 +15,7 @@ tags:
 ---
 
 
-These are some notes on how to move beyond just using git locally for version control. Let's assume you want to create a remote repository on a server named `remoteserver` to archive your code or so that multiple people can push/pull to a central repository on that server.
+These are some notes on how to move beyond just using git locally for version control. Let's assume you want to create a remote repository on a (linux) server named `remoteserver` to archive your code or so that multiple people can push/pull to a central repository on that server.
 
 ## (optional) setting up a hostname and an SSH key on your local machine
 
