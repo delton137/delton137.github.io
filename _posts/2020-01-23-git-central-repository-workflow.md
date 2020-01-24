@@ -119,7 +119,7 @@ if you want you can change it by modifying that file directly.
 ## What to do if your work falls behind others
 
 It’s possible that when you use `git push` it will return an error
-because other have made changes to the remote repository, so your
+because others have made changes to the remote repository, so your
 version is behind. You can fix this by running
 
 `git pull --rebase origin master`
