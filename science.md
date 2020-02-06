@@ -40,9 +40,11 @@ J. J. Podesta, M. A. Forman, C. W. Smith, **D. C. Elton**, and Y. Malecot, &#822
 
 ## Peer reviewed conference proceedings
 
+Y. Zhu, **D. C. Elton**, S. Lee, P. J. Pickhardt, R. M. Summers. "Image Translation by Latent Union of Subspaces for Cross-Domain Plaque Detection". (under review)
+
 **D. C. Elton**, Y. Zhu, Y. Tang, R. M. Summers. "Improving the Transferability of 3D Segmentation Models Using Cycle Consistent Adversarial Networks" (under review)
 
-**D. C. Elton**, V. Sandfort, P. J. Pickhardt, and R. M. Summers. "Accurately identifying vertebral levels in large datasets". [Forthcoming in SPIE: Medical Imaging 2020](https://spie.org/MI/conferencedetails/computer-aided-diagnosis#2551247).
+**D. C. Elton**, V. Sandfort, P. J. Pickhardt, and R. M. Summers. "Accurately identifying vertebral levels in large datasets". [Forthcoming in SPIE: Medical Imaging 2020](https://spie.org/MI/conferencedetails/computer-aided-diagnosis#2551247).[[arXiv](https://arxiv.org/abs/2001.10503)]
 
 **D. C. Elton**, D. Turakhia, N. Reddy, Z. Boukouvalas, R. M. Doherty, M. D. Fuge, and P. W. Chung. "Using natural language processing techniques to extract information on the properties and functionalities of energetic materials from large text corpora". *Proceedings of the 22nd International Seminar on New Trends in Research of Energetic Materials*, 2019 [[arXiv](https://arxiv.org/abs/1903.00415)] (won the 3rd best presentation award at the 2019 NTREM conference)
 
