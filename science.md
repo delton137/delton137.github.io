@@ -40,7 +40,7 @@ J. J. Podesta, M. A. Forman, C. W. Smith, **D. C. Elton**, and Y. Malecot, &#822
 
 ## Peer reviewed conference proceedings
 
-**D. C. Elton**. "Self-explainability as an alternative to interpretability for judging the trustworthiness of artificial intelligences" (in prep)  [arXiv](https://arxiv.org/abs/2002.05149)
+**D. C. Elton**. "Self-explainability as an alternative to interpretability for judging the trustworthiness of artificial intelligences" (in prep)  [[arXiv](https://arxiv.org/abs/2002.05149)]
 
 Z. Boukouvalas, M. Puerto, **D. C. Elton**, P. W. Chung, M. D. Fuge. "Independent Vector Analysis for Molecular Data Fusion: Application to Property Prediction and Molecular Knowledge Discovery". (in prep)
 
