@@ -40,13 +40,13 @@ J. J. Podesta, M. A. Forman, C. W. Smith, **D. C. Elton**, and Y. Malecot, &#822
 
 ## Peer reviewed conference proceedings
 
-**D. C. Elton**. "Self-explainability as an alternative to interpretability for judging the trustworthiness of artificial intelligences" (in prep)
+**D. C. Elton**. "Self-explainability as an alternative to interpretability for judging the trustworthiness of artificial intelligences" (in prep)  [arXiv](https://arxiv.org/abs/2002.05149)
 
 Z. Boukouvalas, M. Puerto, **D. C. Elton**, P. W. Chung, M. D. Fuge. "Independent Vector Analysis for Molecular Data Fusion: Application to Property Prediction and Molecular Knowledge Discovery". (in prep)
 
 Y. Zhu, **D. C. Elton**, S. Lee, P. J. Pickhardt, R. M. Summers. "Image Translation by Latent Union of Subspaces for Cross-Domain Plaque Detection". (under review)
 
-**D. C. Elton**, Y. Zhu, Y. Tang, R. M. Summers. "Improving the Transferability of 3D Segmentation Models Using Cycle Consistent Adversarial Networks" (under review)
+**D. C. Elton**, Y. Zhu, Y. Tang, R. M. Summers. "Improving the Transferability of 3D Segmentation Models Using Cycle Consistent Adversarial Networks" (in prep)
 
 **D. C. Elton**, V. Sandfort, P. J. Pickhardt, and R. M. Summers. "Accurately identifying vertebral levels in large datasets". [Forthcoming in SPIE: Medical Imaging 2020](https://spie.org/MI/conferencedetails/computer-aided-diagnosis#2551247).[[arXiv](https://arxiv.org/abs/2001.10503)]
 
