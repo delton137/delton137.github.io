@@ -40,9 +40,9 @@ J. J. Podesta, M. A. Forman, C. W. Smith, **D. C. Elton**, and Y. Malecot, &#822
 
 ## Peer reviewed conference proceedings
 
-**D. C. Elton**. "Self-explaining AI as an alternative to interpretable AI" (in prep)  [[arXiv](https://arxiv.org/abs/2002.05149)]
+**D. C. Elton**. "Self-explaining AI as an alternative to interpretable AI" (under review)  [[arXiv](https://arxiv.org/abs/2002.05149)]
 
-Z. Boukouvalas, M. Puerto, **D. C. Elton**, P. W. Chung, M. D. Fuge. "Independent Vector Analysis for Molecular Data Fusion: Application to Property Prediction and Molecular Knowledge Discovery". (in prep)
+Z. Boukouvalas, M. Puerto, **D. C. Elton**, P. W. Chung, M. D. Fuge. "Independent Vector Analysis for Molecular Data Fusion: Application to Property Prediction and Molecular Knowledge Discovery". (under review)
 
 Y. Zhu, **D. C. Elton**, S. Lee, P. J. Pickhardt, R. M. Summers. "Image Translation by Latent Union of Subspaces for Cross-Domain Plaque Detection". (under review)
 
@@ -77,6 +77,21 @@ feedback on these is always appreciated.
 * [Maxwell&#8217;s equations in different conventions](http://www.moreisdifferent.com/wp-content/uploads/2015/07/maxwells-equations-dan-elton.pdf) (2011)
 * [Some errata for _Geometry, Topology, & Physics_ by M. Nakahara](http://www.moreisdifferent.com/wp-content/uploads/2015/08/Nakahara_Errata.pdf) (2011)
 * [Equations for the Physics GRE](http://www.moreisdifferent.com/assets/science_notes/physics_GRE_equations.pdf) (2010)
+
+## Select conference abstracts
+P. W. Chung, M. D. Fuge, I. Michel-Tyler, Z. Boukouvalas, R. Doherty, **D. C. Elton**, R. Gunderson, and L. Elmasry, “Natural Language Processing and Machine Learning of Text-Based Energetics: Open Literature and Data Sources”. *67th JANNAF Propulsion Meeting*, Pittsburgh, PA. (2020)
+
+G. Kumar, F. VanGessel, P. W. Chung, **D. C. Elton**. "[Phonon Lifetimes in the Molecular Crystal α-RDX](https://mrsspring2019.zerista.com/event/member/558754)". *MRS Spring Meeting* (2019)
+
+**D. C. Elton**, M. Fritz, J. Soler, M.-V. Fernandez-Serra. "[Accurate path integral molecular dynamics simulation of ab-initio water at near-zero added cost](https://ui.adsabs.harvard.edu/abs/2016APS..MARK47001E/abstract)". *APS March Meeting* (2016)
+
+**D. C. Elton**, M.-V. Fernandez-Serra. "[Exploring the nonlocal dielectric susceptibility of liquid water in the terahertz regime-propagating modes, Debye relaxation and overscreening](https://ui.adsabs.harvard.edu/abs/2015APS..MARD26003E/abstract)". *APS March Meeting*, (2015)
+
+**D. C. Elton**, M.-V. Fernandez-Serra. "[Polar nanoregions in water - a study of the dielectric properties of TIP4P/2005, TIP4P2005f and TTM3F](http://meetings.aps.org/link/BAPS.2014.MAR.Q3.8)". *APS March Meeting*, (2014)
+
+L. Pedroza, **D. C. Elton**, M.-V. Fernandez-Serra. "[Connexions between density and dielectric properties of water](https://meetings.aps.org/Meeting/MAR13/Session/T42.7)". *APS March Meeting*, (2013)
+
+C. W. Smith, M. A. Forman, J. J. Podesta, B. J. Vasquez, W. H. Matthaeus, J. A. Tessein, J. E. Stawarz, B. T. MacBride, J. E. Borovsky, **D.C. Elton**. "[Turbulent Cascade Dynamics in the Interplanetary Plasma](https://ui.adsabs.harvard.edu/abs/2008AGUFMNG43B..03S/abstract)" *AGU Fall Meeting*, (2008)
 
 
 <!-- [Optical Pumping of Rubidium Vapor](http://www.moreisdifferent.com/wp-content/uploads/2015/07/lab1_optical_pumping_dan_elton.pdf)
