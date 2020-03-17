@@ -74,7 +74,7 @@ feedback on these is always appreciated.
 * [Maxwell&#8217;s equations in different conventions](http://www.moreisdifferent.com/wp-content/uploads/2015/07/maxwells-equations-dan-elton.pdf) (2011)
 * [Some errata for _Geometry, Topology, & Physics_ by M. Nakahara](http://www.moreisdifferent.com/wp-content/uploads/2015/08/Nakahara_Errata.pdf) (2011)
 * [Equations for the Physics GRE](http://www.moreisdifferent.com/assets/science_notes/physics_GRE_equations.pdf) (2010)
-
+<!--
 ## Select conference abstracts
 P. W. Chung, M. D. Fuge, I. Michel-Tyler, Z. Boukouvalas, R. Doherty, **D. C. Elton**, R. Gunderson, and L. Elmasry, “Natural Language Processing and Machine Learning of Text-Based Energetics: Open Literature and Data Sources”. *67th JANNAF Propulsion Meeting*, Pittsburgh, PA. (2020)
 
@@ -91,6 +91,6 @@ L. Pedroza, **D. C. Elton**, M.-V. Fernandez-Serra. "[Connexions between density
 C. W. Smith, M. A. Forman, J. J. Podesta, B. J. Vasquez, W. H. Matthaeus, J. A. Tessein, J. E. Stawarz, B. T. MacBride, J. E. Borovsky, **D.C. Elton**. "[Turbulent Cascade Dynamics in the Interplanetary Plasma](https://ui.adsabs.harvard.edu/abs/2008AGUFMNG43B..03S/abstract)" *AGU Fall Meeting*, (2008)
 
 
-<!-- [Optical Pumping of Rubidium Vapor](http://www.moreisdifferent.com/wp-content/uploads/2015/07/lab1_optical_pumping_dan_elton.pdf)
+ [Optical Pumping of Rubidium Vapor](http://www.moreisdifferent.com/wp-content/uploads/2015/07/lab1_optical_pumping_dan_elton.pdf)
 [The Lifetime of Carbon-11](http://www.moreisdifferent.com/wp-content/uploads/2015/07/lab2_c11_lifetime_dan_elton.pdf)
 [Hall effect measurements of the carrier density and mobility of a 3D electron gas in a GaAs/AlGaAs heterostructure](http://www.moreisdifferent.com/wp-content/uploads/2015/07/lab3_hall_effect_dan_elton.pdf) -->
