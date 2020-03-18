@@ -74,8 +74,9 @@ feedback on these is always appreciated.
 * [Maxwell&#8217;s equations in different conventions](http://www.moreisdifferent.com/wp-content/uploads/2015/07/maxwells-equations-dan-elton.pdf) (2011)
 * [Some errata for _Geometry, Topology, & Physics_ by M. Nakahara](http://www.moreisdifferent.com/wp-content/uploads/2015/08/Nakahara_Errata.pdf) (2011)
 * [Equations for the Physics GRE](http://www.moreisdifferent.com/assets/science_notes/physics_GRE_equations.pdf) (2010)
-<!--
-## Select conference abstracts
+
+
+<!-- ## Select conference abstracts
 P. W. Chung, M. D. Fuge, I. Michel-Tyler, Z. Boukouvalas, R. Doherty, **D. C. Elton**, R. Gunderson, and L. Elmasry, “Natural Language Processing and Machine Learning of Text-Based Energetics: Open Literature and Data Sources”. *67th JANNAF Propulsion Meeting*, Pittsburgh, PA. (2020)
 
 G. Kumar, F. VanGessel, P. W. Chung, **D. C. Elton**. "[Phonon Lifetimes in the Molecular Crystal α-RDX](https://mrsspring2019.zerista.com/event/member/558754)". *MRS Spring Meeting* (2019)
