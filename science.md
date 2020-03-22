@@ -45,9 +45,9 @@ Y. Zhu, **D. C. Elton**, S. Lee, P. J. Pickhardt, R. M. Summers. "Image Translat
 
 **D. C. Elton**, Y. Zhu, Y. Tang, R. M. Summers. "Improving the Transferability of 3D Segmentation Models Using Cycle Consistent Adversarial Networks" (in prep)
 
-**D. C. Elton**, V. Sandfort, P. J. Pickhardt, and R. M. Summers. "Accurately identifying vertebral levels in large datasets". [Forthcoming in SPIE: Medical Imaging 2020](https://spie.org/MI/conferencedetails/computer-aided-diagnosis#2551247).[[arXiv](https://arxiv.org/abs/2001.10503)]
+**D. C. Elton**, V. Sandfort, P. J. Pickhardt, and R. M. Summers. "[Accurately identifying vertebral levels in large datasets](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11314/113140O/Accurately-identifying-vertebral-levels-in-large-datasets/10.1117/12.2551247.full?SSO=1)". SPIE: Medical Imaging 2020: Computer-Aided Diagnosis 113140O, 2020. [[arXiv](https://arxiv.org/abs/2001.10503)]
 
-**D. C. Elton**, D. Turakhia, N. Reddy, Z. Boukouvalas, R. M. Doherty, M. D. Fuge, and P. W. Chung. "Using natural language processing techniques to extract information on the properties and functionalities of energetic materials from large text corpora". *Proceedings of the 22nd International Seminar on New Trends in Research of Energetic Materials*, 2019 [[arXiv](https://arxiv.org/abs/1903.00415)] (won the 3rd best presentation award at the 2019 NTREM conference)
+**D. C. Elton**, D. Turakhia, N. Reddy, Z. Boukouvalas, R. M. Doherty, M. D. Fuge, and P. W. Chung. "Using natural language processing techniques to extract information on the properties and functionalities of energetic materials from large text corpora". *Proceedings of the 22nd International Seminar on New Trends in Research of Energetic Materials*, 2019. [[arXiv](https://arxiv.org/abs/1903.00415)] (won the 3rd best presentation award at the 2019 NTREM conference)
 
 Z. Boukouvalas, **D. C. Elton**, M. D. Fuge, and P. W. Chung. "Independent Vector Analysis for Data Fusion Prior to Molecular Property Prediction with Machine Learning". Proceedings of the [2018 Neural Information Processing Systems (NeurIPS) workshop on Machine Learning for Molecules and Materials](http://www.quantum-machine.org/workshops/nips2018draft/). [[arXiv](https://arxiv.org/abs/1811.00628)]
 
