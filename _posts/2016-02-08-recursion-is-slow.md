@@ -55,7 +55,7 @@ def plot_scaling(functs_to_test,num_tests=20,max_value = 1000,max_time  = .1):
 			#f.cache = {}
 
 			#if runtime is becoming too long, bail out of the test
-			if (float(times[i]) gt; max_time):
+			if (float(times[i]) > max_time):
 				break 	
 
 		plt.loglog(nvalues, times, "-", label=f.__name__)
@@ -70,7 +70,7 @@ Now let&#8217;s compare some ways of calculating the Fibonacci sequence. First w
 {% highlight python %}
 #--- normal recursive Fibonacci number calculator -------------
 def recursive_fib(n):
-  if n lt; 2:
+  if n < 2:
     return 1
   else:
     return recursive_fib(n-1) + recursive_fib(n-2)
@@ -110,14 +110,14 @@ class memoized(object):
       return self.func.__doc__
    def __get__(self, obj, objtype):
       '''Support instance methods.'''
-      return functools.partial(self.__call__, obj)lt;/pregt;lt;pregt;
+      return functools.partial(self.__call__, obj)</pre><pre>
 {% endhighlight %}
 
 {% highlight python %}
 #--- memoized recursive Fibonacci number calculator -------------
 @memoized
 def memoized_recursive_fib(n):
-  if n lt; 2:
+  if n < 2:
     return 1
   else:
     return memoized_recursive_fib(n-1) + memoized_recursive_fib(n-2)
@@ -128,7 +128,7 @@ Next we have simple iteration:
 {% highlight python %}
 #--- simple iteration -------------------------------------------
 def iter_fib(n):
-	if n lt; 2:
+	if n < 2:
 		return 1
 	rnm1 = 2
 	rnm2 = 1
@@ -145,7 +145,7 @@ Next we have matrix representation:
 #--- iteration using matrix multiplication ----------------------
 M = matrix([[1, 1], [1, 0]])
 def matrix_iter_fib(n):
-  if n lt; 2:
+  if n < 2:
     return 1
   MProd = M.copy()
   for i in xrange(n-2):
@@ -191,9 +191,9 @@ Now let&#8217;s do another very common recursive problem &#8211; the &#8216;maki
 def rec_count(remainder):
      if remainder == 0:
           return 1.0
-     if remainder gt; 0:
+     if remainder > 0:
           pass
-     if remainder lt; 0:
+     if remainder < 0:
           return 0
      return sum(rec_count(remainder - coins) for coins in coins)
 {% endhighlight %}
@@ -212,7 +212,7 @@ def iter_count_ways(N):
      #build up each row
      for j in range(1,N+1):
           for coin in coins:nbsp;     
-               if ((j - coin) gt;= 0):     
+               if ((j - coin) >= 0):     
                     ways[j] += ways[j - coin]
      return ways[N]
      {% endhighlight %}
@@ -223,7 +223,7 @@ Now let&#8217;s test them:
 plot_scaling(functs_to_test)
 </pre> c
 
-<img  class="aligncenter" src="http://www.moreisdifferent.com/wp-content/uploads/2016/02/coins_problem_tests-300x225.png" alt="coins_problem_tests" width="396" height="297" srcset="http://www.moreisdifferent.com/wp-content/uploads/2016/02/coins_problem_tests-300x225.png 300w, http://www.moreisdifferent.com/wp-content/uploads/2016/02/coins_problem_tests-768x576.png 768w, http://www.moreisdifferent.com/wp-content/uploads/2016/02/coins_problem_tests.png 800w" sizes="(max-width: 396px) 100vw, 396px" /><figcaption class="caption wp-caption-text">Speeds and scaling for coins problem.</figcaption></figure>
+<img  class="aligncenter" src="http://www.moreisdifferent.com/wp-content/uploads/2016/02/coins_problem_tests-300x225.png" alt="coins_problem_tests" width="396" height="297" srcset="http://www.moreisdifferent.com/wp-content/uploads/2016/02/coins_problem_tests-300x225.png 300w, http://www.moreisdifferent.com/wp-content/uploads/2016/02/coins_problem_tests-768x576.png 768w, http://www.moreisdifferent.com/wp-content/uploads/2016/02/coins_problem_tests.png 800w" sizes="(max-width: 396px) 100vw, 396px" /><figcaption>Speeds and scaling for coins problem.</figcaption></figure>
 
 Now I should note that in these tests I am resetting the memoization cache for each new test N. If you don&#8217;t reset the cache and reuses it for each successive test, somewhat surprisingly one obtains only a slight speedup:<img class="aligncenter" src="http://www.moreisdifferent.com/wp-content/uploads/2016/02/coins_problem_tests_cache-300x225.png" alt="coins_problem_tests_cache" width="419" height="314" srcset="http://www.moreisdifferent.com/wp-content/uploads/2016/02/coins_problem_tests_cache-300x225.png 300w, http://www.moreisdifferent.com/wp-content/uploads/2016/02/coins_problem_tests_cache-768x576.png 768w, http://www.moreisdifferent.com/wp-content/uploads/2016/02/coins_problem_tests_cache.png 800w" sizes="(max-width: 419px) 100vw, 419px" />
 
@@ -242,13 +242,13 @@ def iter_count_ways_memoized(N):
      global wayscache
      global maxcached
 
-     if (N lt; maxcached):
+     if (N < maxcached):
           return wayscache[N]
      else:
           for j in range(maxcached,N+1):
                wayscache[j] = 0
                for coin in coins:          
-                    if ((j - coin) gt;= 0):      
+                    if ((j - coin) >= 0):      
                          wayscache[j] += wayscache[j - coin]
           maxcached=N
      return wayscache[N]
