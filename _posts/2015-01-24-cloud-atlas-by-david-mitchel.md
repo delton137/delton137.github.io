@@ -32,9 +32,11 @@ tags:
   - books
   - sifi
 ---
-**_[<img class=" size-medium wp-image-1686 alignright" src="http://www.moreisdifferent.com/wp-content/uploads/2015/01/cloud_200x300-301cd8c005594716ef4a7196ada6890867f72474-s6-c30.jpg?w=200" alt="cloud_200x300-301cd8c005594716ef4a7196ada6890867f72474-s6-c30" width="200" height="300" srcset="http://www.moreisdifferent.com/wp-content/uploads/2015/01/cloud_200x300-301cd8c005594716ef4a7196ada6890867f72474-s6-c30.jpg 948w, http://www.moreisdifferent.com/wp-content/uploads/2015/01/cloud_200x300-301cd8c005594716ef4a7196ada6890867f72474-s6-c30-200x300.jpg 200w, http://www.moreisdifferent.com/wp-content/uploads/2015/01/cloud_200x300-301cd8c005594716ef4a7196ada6890867f72474-s6-c30-768x1152.jpg 768w, http://www.moreisdifferent.com/wp-content/uploads/2015/01/cloud_200x300-301cd8c005594716ef4a7196ada6890867f72474-s6-c30-683x1024.jpg 683w" sizes="(max-width: 200px) 100vw, 200px" />](http://www.moreisdifferent.com/wp-content/uploads/2015/01/cloud_200x300-301cd8c005594716ef4a7196ada6890867f72474-s6-c30.jpg)Cloud Atlas
+[<img class=" size-medium wp-image-1686 alignright" src="http://www.moreisdifferent.com/wp-content/uploads/2015/01/cloud_200x300-301cd8c005594716ef4a7196ada6890867f72474-s6-c30.jpg?w=200" alt="cloud_200x300-301cd8c005594716ef4a7196ada6890867f72474-s6-c30" width="200" height="300" srcset="http://www.moreisdifferent.com/wp-content/uploads/2015/01/cloud_200x300-301cd8c005594716ef4a7196ada6890867f72474-s6-c30.jpg 948w, http://www.moreisdifferent.com/wp-content/uploads/2015/01/cloud_200x300-301cd8c005594716ef4a7196ada6890867f72474-s6-c30-200x300.jpg 200w, http://www.moreisdifferent.com/wp-content/uploads/2015/01/cloud_200x300-301cd8c005594716ef4a7196ada6890867f72474-s6-c30-768x1152.jpg 768w, http://www.moreisdifferent.com/wp-content/uploads/2015/01/cloud_200x300-301cd8c005594716ef4a7196ada6890867f72474-s6-c30-683x1024.jpg 683w" sizes="(max-width: 200px) 100vw, 200px" />](http://www.moreisdifferent.com/wp-content/uploads/2015/01/cloud_200x300-301cd8c005594716ef4a7196ada6890867f72474-s6-c30.jpg)
 
-_** by David Mitchell
+**_Cloud Atlas_**
+
+by David Mitchell
 
 2004, 509 pgs
 
