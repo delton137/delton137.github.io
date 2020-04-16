@@ -41,7 +41,7 @@ J. J. Podesta, M. A. Forman, C. W. Smith, **D. C. Elton**, and Y. Malecot, &#822
 
 Z. Boukouvalas, M. Puerto, **D. C. Elton**, P. W. Chung, M. D. Fuge. "Independent Vector Analysis for Molecular Data Fusion: Application to Property Prediction and Molecular Knowledge Discovery". (under review)
 
-Y. Zhu, **D. C. Elton**, S. Lee, P. J. Pickhardt, R. M. Summers. "Image Translation by Latent Union of Subspaces for Cross-Domain Plaque Detection". (under review)
+Y. Zhu, **D. C. Elton**, S. Lee, P. J. Pickhardt, R. M. Summers. "[Image Translation by Latent Union of Subspaces for Cross-Domain Plaque Detection](https://openreview.net/forum?id=qJxBTPyVYA)". To appear in the proceedings of the 2020 Medical Imaging with Deep Learning conference.
 
 **D. C. Elton**, Y. Zhu, Y. Tang, R. M. Summers. "Improving the Transferability of 3D Segmentation Models Using Cycle Consistent Adversarial Networks" (in prep)
 
