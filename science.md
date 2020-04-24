@@ -37,15 +37,15 @@ J. J. Podesta, M. A. Forman, C. W. Smith, **D. C. Elton**, and Y. Malecot, &#822
 
 ## Peer reviewed conference proceedings
 
-**D. C. Elton**. "Self-explaining AI as an alternative to interpretable AI" (under review) [latest PDF](http://moreisdifferent.com/assets/Daniel_Elton_self_explainability_3-20-20.pdf)  [[arXiv](https://arxiv.org/abs/2002.05149)]
+**D. C. Elton**. "Self-explaining AI as an alternative to interpretable AI".  To appear in: *Proceedings of the 13th Annual Conference on Artificial General Intelligence (AGI-2020)*. [latest PDF](http://moreisdifferent.com/assets/Daniel_Elton_self_explainability_3-20-20.pdf)  [[arXiv](https://arxiv.org/abs/2002.05149)]
 
 Z. Boukouvalas, M. Puerto, **D. C. Elton**, P. W. Chung, M. D. Fuge. "Independent Vector Analysis for Molecular Data Fusion: Application to Property Prediction and Molecular Knowledge Discovery". (under review)
 
-Y. Zhu, **D. C. Elton**, S. Lee, P. J. Pickhardt, R. M. Summers. "[Image Translation by Latent Union of Subspaces for Cross-Domain Plaque Detection](https://openreview.net/forum?id=qJxBTPyVYA)". To appear in the proceedings of the 2020 Medical Imaging with Deep Learning conference.
-
 **D. C. Elton**, Y. Zhu, Y. Tang, R. M. Summers. "Improving the Transferability of 3D Segmentation Models Using Cycle Consistent Adversarial Networks" (in prep)
 
-**D. C. Elton**, V. Sandfort, P. J. Pickhardt, and R. M. Summers. "[Accurately identifying vertebral levels in large datasets](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11314/113140O/Accurately-identifying-vertebral-levels-in-large-datasets/10.1117/12.2551247.full?SSO=1)". SPIE: Medical Imaging 2020: Computer-Aided Diagnosis 113140O, 2020. [[arXiv](https://arxiv.org/abs/2001.10503)]
+Y. Zhu, **D. C. Elton**, S. Lee, P. J. Pickhardt, R. M. Summers. "[Image Translation by Latent Union of Subspaces for Cross-Domain Plaque Detection](https://openreview.net/forum?id=qJxBTPyVYA)". To appear in: *Proceedings of the 2020 Medical Imaging with Deep Learning (MIDL) Conference*.
+
+**D. C. Elton**, V. Sandfort, P. J. Pickhardt, and R. M. Summers. "[Accurately identifying vertebral levels in large datasets](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11314/113140O/Accurately-identifying-vertebral-levels-in-large-datasets/10.1117/12.2551247.full?SSO=1)". *SPIE: Medical Imaging 2020: Computer-Aided Diagnosis* 113140O, 2020. [[arXiv](https://arxiv.org/abs/2001.10503)]
 
 **D. C. Elton**, D. Turakhia, N. Reddy, Z. Boukouvalas, R. M. Doherty, M. D. Fuge, and P. W. Chung. "Using natural language processing techniques to extract information on the properties and functionalities of energetic materials from large text corpora". *Proceedings of the 22nd International Seminar on New Trends in Research of Energetic Materials*, 2019. [[arXiv](https://arxiv.org/abs/1903.00415)] (won the 3rd best presentation award at the 2019 NTREM conference)
 
