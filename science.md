@@ -37,7 +37,7 @@ J. J. Podesta, M. A. Forman, C. W. Smith, **D. C. Elton**, and Y. Malecot, &#822
 
 ## Peer reviewed conference proceedings
 
-**D. C. Elton**. "Self-explaining AI as an alternative to interpretable AI".  To appear in: *Proceedings of the 13th Annual Conference on Artificial General Intelligence (AGI-2020)*. [latest PDF](http://moreisdifferent.com/assets/Daniel_Elton_self_explainability_3-20-20.pdf)  [[arXiv](https://arxiv.org/abs/2002.05149)]
+**D. C. Elton**. "Self-explaining AI as an alternative to interpretable AI". To appear in: *Proceedings of the 13th Annual Conference on Artificial General Intelligence (AGI-2020)*. [[arXiv](https://arxiv.org/abs/2002.05149)]
 
 Z. Boukouvalas, M. Puerto, **D. C. Elton**, P. W. Chung, M. D. Fuge. "Independent Vector Analysis for Molecular Data Fusion: Application to Property Prediction and Molecular Knowledge Discovery". (under review)
 
