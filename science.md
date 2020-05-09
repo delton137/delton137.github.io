@@ -15,6 +15,8 @@ A final draft of my Ph.D. thesis can be downloaded here: (11 Mb PDF):
 For publications, see also [Google Scholar](https://scholar.google.com/citations?user=KG0pbOYAAAAJ)
 
 ## Peer reviewed journal articles
+**D. C. Elton**, P. D. Spencer, J. D. Riches, E. D. Williams. "Exclusion zone phenomena in water - a critical review of experimental findings and theories" (under review) [[arXiv](https://arxiv.org/abs/1909.06822)]
+
 **D. C. Elton**, Z. Boukouvalas, M. D. Fuge, and P. W. Chung, "[Deep learning for molecular design - a review of the state of the art](https://pubs.rsc.org/en/Content/ArticleLanding/2019/ME/C9ME00039A#!divAbstract)", *Molecular Systems Design & Engineering*, **4** (2019) [[full pdf](http://www.moreisdifferent.com/assets/Elton_MSDE_review_final_published.pdf)]
 
 G. Kumar, F. G. VanGessel, **D. C. Elton**, and P. W. Chung. "[Phonon Lifetimes and Thermal Conductivity of the Molecular Crystal α-RDX](https://www.cambridge.org/core/journals/mrs-advances/article/phonon-lifetimes-and-thermal-conductivity-of-the-molecular-crystal-rdx/14B1FC4424D8C4A659589DC535DBB5A7)", *MRS Advances*, (2019) [[arXiv](https://arxiv.org/abs/1904.12038)]
@@ -56,9 +58,6 @@ B. C. Barnes, **D. C. Elton**, Z. Boukouvalas, D. E. Taylor, W. D. Mattson, M. D
 F. G. VanGessel, G. Kumar, **D. C. Elton**, and P. W. Chung, “A Phonon Boltzmann Study of Microscale Thermal Transport in α-RDX Cook-Off", Proceedings of the 16th International Detonation Symposium, Cambridge MD, USA, July 2018. [[arXiv](https://arxiv.org/abs/1808.08295)]
 
 M. A. Forman, C. W. Smith, B. J. Vasquez, B. T. MacBride, J. E. Stawarz, J. J. Podesta, **D. C. Elton**, U. Y. Malecot, and Y. Gagne. "[Using Third‐Order Moments of Fluctuations in V and B to Determine Turbulent Heating Rates in the Solar Wind](https://aip.scitation.org/doi/abs/10.1063/1.3395830)", *AIP Conference Proceedings* **1216**, 12th International Solar Wind Conference, 176 (2010)
-
-## Preprints
-**D. C. Elton** "Compelling alternative theories for exclusion zone phenomena in water and other liquids" (2019) [[arXiv](https://arxiv.org/abs/1909.06822)]
 
 ## Science notes
 
