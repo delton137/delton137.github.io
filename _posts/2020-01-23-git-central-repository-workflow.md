@@ -101,7 +101,7 @@ formally linking your master branch to the remote repository and
 telling git you want to merge changes into your master branch. This can
 be done by entering:
 
-`remote add origin ssh://remoteserver/home/gitrepos/myrepo.git`\\
+`git remote add origin ssh://remoteserver/home/gitrepos/myrepo.git`\\
 `git config branch.master.remote origin`\\
 `git config branch.master.merge refs/heads/master`
 
