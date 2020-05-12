@@ -15,7 +15,7 @@ A final draft of my Ph.D. thesis can be downloaded here: (11 Mb PDF):
 For publications, see also [Google Scholar](https://scholar.google.com/citations?user=KG0pbOYAAAAJ)
 
 ## Peer reviewed journal articles
-**D. C. Elton**, P. D. Spencer, J. D. Riches, E. D. Williams. "Exclusion zone phenomena in water - a critical review of experimental findings and theories" (under review) [[arXiv](https://arxiv.org/abs/1909.06822)]
+**D. C. Elton**, P. D. Spencer, J. D. Riches, E. D. Williams. "Exclusion zone phenomena in water - a critical review of experimental findings and theories" (under review) [[arXiv](https://arxiv.org/abs/1909.06822)] (2020)
 
 **D. C. Elton**, Z. Boukouvalas, M. D. Fuge, and P. W. Chung, "[Deep learning for molecular design - a review of the state of the art](https://pubs.rsc.org/en/Content/ArticleLanding/2019/ME/C9ME00039A#!divAbstract)", *Molecular Systems Design & Engineering*, **4** (2019) [[full pdf](http://www.moreisdifferent.com/assets/Elton_MSDE_review_final_published.pdf)]
 
