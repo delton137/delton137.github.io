@@ -19,7 +19,7 @@ For publications, see also [Google Scholar](https://scholar.google.com/citations
 
 **D. C. Elton**, Z. Boukouvalas, M. D. Fuge, and P. W. Chung, "[Deep learning for molecular design - a review of the state of the art](https://pubs.rsc.org/en/Content/ArticleLanding/2019/ME/C9ME00039A#!divAbstract)", *Molecular Systems Design & Engineering*, **4** (2019) [[full pdf](http://www.moreisdifferent.com/assets/Elton_MSDE_review_final_published.pdf)]
 
-G. Kumar, F. G. VanGessel, **D. C. Elton**, and P. W. Chung. "[Phonon Lifetimes and Thermal Conductivity of the Molecular Crystal α-RDX](https://www.cambridge.org/core/journals/mrs-advances/article/phonon-lifetimes-and-thermal-conductivity-of-the-molecular-crystal-rdx/14B1FC4424D8C4A659589DC535DBB5A7)", *MRS Advances*, (2019) [[arXiv](https://arxiv.org/abs/1904.12038)]
+G. Kumar, F. G. VanGessel, **D. C. Elton**, and P. W. Chung. "[Phonon Lifetimes and Thermal Conductivity of the Molecular Crystal α-RDX](https://www.cambridge.org/core/journals/mrs-advances/article/phonon-lifetimes-and-thermal-conductivity-of-the-molecular-crystal-rdx/14B1FC4424D8C4A659589DC535DBB5A7)", *MRS Advances*, **4**, 2191 (2019) [[arXiv](https://arxiv.org/abs/1904.12038)]
 
 **D. C. Elton**, Z. Boukouvalas, M. S. Butrico, M. D. Fuge, and P. W. Chung, “[Applying machine learning techniques to predict the properties of energetic materials](https://www.nature.com/articles/s41598-018-27344-x)”, *Scientific Reports*, **8**, 9059 (2018).
 
@@ -38,6 +38,9 @@ G. Kumar, F. G. VanGessel, **D. C. Elton**, and P. W. Chung. "[Phonon Lifetimes 
 J. J. Podesta, M. A. Forman, C. W. Smith, **D. C. Elton**, and Y. Malecot, &#8220;[Accurate Estimation of](http://www.nonlin-processes-geophys.net/16/99/2009/npg-16-99-2009.html) [Third-Order Moments from Turbulence Measurements](http://www.nonlin-processes-geophys.net/16/99/2009/npg-16-99-2009.html)&#8220;, _Nonlin. Proc. Geophys.,_ **16,** 99 (2009) [[arXiv](https://arxiv.org/abs/0901.3499)]
 
 ## Peer reviewed conference proceedings
+S. Y. Shin, S. Lee, **D. C. Elton**, J. Gulley, R. M. Summers. "Deep Small Bowel Segmentation with Cylindrical Topological Constraints" (under review)
+
+Y. Zhu, Y. Tang, Y. Tang, **D. C. Elton**, S. Lee, P. J. Pickhardt, R. M. Summers. "Cross-Domain Image Translation by Shared Latent Gaussian Mixture Model". (under review)
 
 **D. C. Elton**. "Self-explaining AI as an alternative to interpretable AI". To appear in: *Proceedings of the 13th Annual Conference on Artificial General Intelligence (AGI-2020)*. [[arXiv](https://arxiv.org/abs/2002.05149)]
 
@@ -74,8 +77,8 @@ feedback on these is always appreciated.
 * [Some errata for _Geometry, Topology, & Physics_ by M. Nakahara](http://www.moreisdifferent.com/wp-content/uploads/2015/08/Nakahara_Errata.pdf) (2011)
 * [Equations for the Physics GRE](http://www.moreisdifferent.com/assets/science_notes/physics_GRE_equations.pdf) (2010)
 
-
-<!-- ## Select conference abstracts
+<!--
+## Select conference abstracts
 P. W. Chung, M. D. Fuge, I. Michel-Tyler, Z. Boukouvalas, R. Doherty, **D. C. Elton**, R. Gunderson, and L. Elmasry, “Natural Language Processing and Machine Learning of Text-Based Energetics: Open Literature and Data Sources”. *67th JANNAF Propulsion Meeting*, Pittsburgh, PA. (2020)
 
 G. Kumar, F. VanGessel, P. W. Chung, **D. C. Elton**. "[Phonon Lifetimes in the Molecular Crystal α-RDX](https://mrsspring2019.zerista.com/event/member/558754)". *MRS Spring Meeting* (2019)
