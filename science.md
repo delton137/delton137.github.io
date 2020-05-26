@@ -48,7 +48,7 @@ Z. Boukouvalas, M. Puerto, **D. C. Elton**, P. W. Chung, M. D. Fuge. "Independen
 
 **D. C. Elton**, Y. Zhu, Y. Tang, R. M. Summers. "Improving the Transferability of 3D Segmentation Models Using Cycle Consistent Adversarial Networks" (in prep)
 
-Y. Zhu, **D. C. Elton**, S. Lee, P. J. Pickhardt, R. M. Summers. "[Image Translation by Latent Union of Subspaces for Cross-Domain Plaque Detection](https://openreview.net/forum?id=qJxBTPyVYA)". To appear in: *Proceedings of the 2020 Medical Imaging with Deep Learning (MIDL) Conference*.
+Y. Zhu, **D. C. Elton**, S. Lee, P. J. Pickhardt, R. M. Summers. "Image Translation by Latent Union of Subspaces for Cross-Domain Plaque Detection". To appear in: *Proceedings of the 2020 Medical Imaging with Deep Learning (MIDL) Conference*. [[arXiv](https://arxiv.org/abs/2005.11384)]
 
 **D. C. Elton**, V. Sandfort, P. J. Pickhardt, and R. M. Summers. "[Accurately identifying vertebral levels in large datasets](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11314/113140O/Accurately-identifying-vertebral-levels-in-large-datasets/10.1117/12.2551247.full?SSO=1)". *SPIE: Medical Imaging 2020: Computer-Aided Diagnosis* 113140O, 2020. [[arXiv](https://arxiv.org/abs/2001.10503)]
 
