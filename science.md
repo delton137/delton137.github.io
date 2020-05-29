@@ -42,11 +42,11 @@ S. Y. Shin, S. Lee, **D. C. Elton**, J. Gulley, R. M. Summers. "Deep Small Bowel
 
 Y. Zhu, Y. Tang, Y. Tang, **D. C. Elton**, S. Lee, P. J. Pickhardt, R. M. Summers. "Cross-Domain Image Translation by Shared Latent Gaussian Mixture Model". (under review)
 
+**D. C. Elton**, Y. Zhu, Y. Tang, R. M. Summers. "Improving the Transferability of 3D Segmentation Models Using Cycle Consistent Adversarial Networks" (in prep)
+
 **D. C. Elton**. "Self-explaining AI as an alternative to interpretable AI". To appear in: *Proceedings of the 13th Annual Conference on Artificial General Intelligence (AGI-2020)*. [[arXiv](https://arxiv.org/abs/2002.05149)]
 
-Z. Boukouvalas, M. Puerto, **D. C. Elton**, P. W. Chung, M. D. Fuge. "Independent Vector Analysis for Molecular Data Fusion: Application to Property Prediction and Molecular Knowledge Discovery". (under review)
-
-**D. C. Elton**, Y. Zhu, Y. Tang, R. M. Summers. "Improving the Transferability of 3D Segmentation Models Using Cycle Consistent Adversarial Networks" (in prep)
+Z. Boukouvalas, M. Puerto, **D. C. Elton**, P. W. Chung, M. D. Fuge. "Independent Vector Analysis for Molecular Data Fusion: Application to Property Prediction and Molecular Knowledge Discovery". to appear in *Prooceedings of the 28th European Signal Processing Conference (EUSIPCO 2020)*
 
 Y. Zhu, **D. C. Elton**, S. Lee, P. J. Pickhardt, R. M. Summers. "Image Translation by Latent Union of Subspaces for Cross-Domain Plaque Detection". To appear in: *Proceedings of the 2020 Medical Imaging with Deep Learning (MIDL) Conference*. [[arXiv](https://arxiv.org/abs/2005.11384)]
 
