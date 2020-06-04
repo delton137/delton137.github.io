@@ -41,6 +41,7 @@ G. Kumar, F. G. VanGessel, **D. C. Elton**, and P. W. Chung. "[Phonon Lifetimes 
 
 J. J. Podesta, M. A. Forman, C. W. Smith, **D. C. Elton**, and Y. Malecot, &#8220;[Accurate Estimation of](http://www.nonlin-processes-geophys.net/16/99/2009/npg-16-99-2009.html) [Third-Order Moments from Turbulence Measurements](http://www.nonlin-processes-geophys.net/16/99/2009/npg-16-99-2009.html)&#8220;, _Nonlin. Proc. Geophys.,_ **16,** 99 (2009) [[arXiv](https://arxiv.org/abs/0901.3499)]
 
+<!-------------------------------------------------------------------------------------------------------------->
 ## Peer reviewed conference proceedings
 S. Y. Shin, S. Lee, **D. C. Elton**, J. Gulley, R. M. Summers. "Deep Small Bowel Segmentation with Cylindrical Topological Constraints" (under review)
 
@@ -50,7 +51,7 @@ Y. Zhu, Y. Tang, Y. Tang, **D. C. Elton**, S. Lee, P. J. Pickhardt, R. M. Summer
 
 **D. C. Elton**. "Self-explaining AI as an alternative to interpretable AI". To appear in: *Proceedings of the 13th Annual Conference on Artificial General Intelligence (AGI-2020)*. [[arXiv](https://arxiv.org/abs/2002.05149)]
 
-Z. Boukouvalas, M. Puerto, **D. C. Elton**, P. W. Chung, M. D. Fuge. "Independent Vector Analysis for Molecular Data Fusion: Application to Property Prediction and Molecular Knowledge Discovery". to appear in *Prooceedings of the 28th European Signal Processing Conference (EUSIPCO 2020)*
+Z. Boukouvalas, M. Puerto, **D. C. Elton**, P. W. Chung, M. D. Fuge. "Independent Vector Analysis for Molecular Data Fusion: Application to Property Prediction and Molecular Knowledge Discovery". to appear in *Proceedings of the 28th European Signal Processing Conference (EUSIPCO 2020)*
 
 Y. Zhu, **D. C. Elton**, S. Lee, P. J. Pickhardt, R. M. Summers. "Image Translation by Latent Union of Subspaces for Cross-Domain Plaque Detection". To appear in: *Proceedings of the 2020 Medical Imaging with Deep Learning (MIDL) Conference*. [[arXiv](https://arxiv.org/abs/2005.11384)]
 
