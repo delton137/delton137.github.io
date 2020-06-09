@@ -1,7 +1,7 @@
 ---
 id: 10002
 title: Resources for learning data science and machine learning
-disquscomments: true
+facebookcomments: true
 author: delton137
 layout: post
 permalink: /2017/11/21/resources-for-learning-machine-learning

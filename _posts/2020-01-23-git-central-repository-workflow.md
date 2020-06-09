@@ -1,7 +1,7 @@
 ---
 id: 10011
 title: Basic workflow for creating and using a remote git repository for backup and collaboration
-disquscomments: true
+facebookcomments: true
 author: Dan Elton
 layout: post
 permalink: /2020/01/23/git-central-repository-workflow.html

@@ -1,7 +1,7 @@
 ---
 id: 10003
 title: Motivations for studying how to interpret molecular machine learning models
-disquscomments: true
+facebookcomments: true
 author: Dan Elton
 layout: post
 permalink: /2018/03/23/reasons-for-interpreting-molecular-machine-learning.html

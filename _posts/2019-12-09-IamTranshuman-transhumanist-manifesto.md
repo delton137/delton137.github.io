@@ -1,7 +1,7 @@
 ---
 id: 10009
 title: My IamTranshuman manifesto
-disquscomments: true
+facebookcomments: true
 author: Dan Elton
 layout: post
 permalink: /2019/12/09/IamTranshuman-transhumanist-manifesto.html

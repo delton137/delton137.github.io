@@ -1,8 +1,7 @@
 ---
 id: 9000
 title: Capitalism - an outline
-comments: false
-disquscomments: true
+facebookcomments: true
 author: delton137
 layout: post
 permalink: /2015/02/01/capitalism-an-outline

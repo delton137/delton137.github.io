@@ -1,8 +1,7 @@
 ---
 id: 1644
 title: '&#8220;Halting State&#8221; by Charles Stross'
-comments: false
-disquscomments: true
+facebookcomments: true
 date: 2014-12-13T00:36:45+00:00
 author: delton137
 layout: post

@@ -1,7 +1,7 @@
 ---
 id: 10001
 title: Some thoughts on Zoltan Istvan's presidential campaign
-disquscomments: true
+facebookcomments: true
 author: delton137
 layout: post
 permalink: /2016/1/14/thoughts-on-Zoltan-Istvans-campaign/
