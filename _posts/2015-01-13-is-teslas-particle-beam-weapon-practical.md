@@ -1,8 +1,7 @@
 ---
 id: 1666
 title: 'Is Tesla&#8217;s particle beam weapon practical?'
-comments: false
-disquscomments: true
+facebookcomments: true
 date: 2015-01-13T06:43:44+00:00
 author: delton137
 layout: post

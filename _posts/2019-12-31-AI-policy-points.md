@@ -1,8 +1,7 @@
 ---
 id: 10009
 title: Draft AI Policy Points
-disquscomments: true
-facebookcomments: false
+facebookcomments: true
 author: Dan Elton
 layout: post
 permalink: /2019/12/31/AI-policy-points.html

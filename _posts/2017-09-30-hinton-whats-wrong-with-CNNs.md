@@ -1,7 +1,7 @@
 ---
 id: 10001
 title: Geoffrey Hinton on what's wrong with CNNs
-disquscomments: true
+facebookcomments: true
 author: Dan Elton
 layout: post
 permalink: /2017/09/hinton-whats-wrong-with-CNNs

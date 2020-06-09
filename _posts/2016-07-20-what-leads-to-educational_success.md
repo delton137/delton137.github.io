@@ -1,7 +1,7 @@
 ---
 id: 1824
 title: 'What leads to achievement?'
-disquscomments: true
+facebookcomments: true
 date: 2016-07-20T04:46:52+00:00
 author: delton137
 layout: post

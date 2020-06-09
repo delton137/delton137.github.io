@@ -1,7 +1,7 @@
 ---
 id: 1785
 title: Why do we see the frequencies we do?
-disquscomments: true
+facebookcomments: true
 date: 2015-05-22T23:47:42+00:00
 author: delton137
 layout: post

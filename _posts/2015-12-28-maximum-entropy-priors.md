@@ -1,6 +1,6 @@
 ---
 author: delton137
-disquscomments: true
+facebookcomments: true
 date: 2015-12-28 22:19:45+00:00
 layout: post
 link: http://www.moreisdifferent.com/2015/12/28/maximum-entropy-priors/
