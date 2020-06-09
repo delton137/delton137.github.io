@@ -2,6 +2,7 @@
 id: 10009
 title: Draft AI Policy Points
 disquscomments: true
+facebookcomments: false
 author: Dan Elton
 layout: post
 permalink: /2019/12/31/AI-policy-points.html
@@ -13,7 +14,7 @@ tags:
   - policy
 ---
 
-This is a **draft** of policy points I put together for Johannon Ben Zion, the [US Transhumanist Party](https://en.wikipedia.org/wiki/Transhumanist_Party)'s nominee for president in 2020. I am serving as AI Policy Adviser for Ben Zion. (I also serve as [director of scholarship](http://transhumanist-party.org/leadership/#DirectorOfScholarship) at the US Tranhumanist Party.) Ben Zion's campaign website is [http://benzion2020.com/](benzion2020.com). 
+This is a **draft** of policy points I put together for Johannon Ben Zion, the [US Transhumanist Party](https://en.wikipedia.org/wiki/Transhumanist_Party)'s nominee for president in 2020.   (I also serve as [director of scholarship](http://transhumanist-party.org/leadership/#DirectorOfScholarship) at the US Tranhumanist Party.)
 
 # Problem 1  - mass unemployment from automation &amp; AI
 
