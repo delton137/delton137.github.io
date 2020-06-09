@@ -15,7 +15,8 @@ layout: default
   <a href="/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>&nbsp;
   {% endfor %}
 {% endif %}
-{% if page.comments %} • <a href="http://moreisdifferent.com{{ page.url }}#disqus_thread">0 Comments</a>{% endif %}
+<!--
+{% if page.comments %}{% endif %} // • <a href="http://moreisdifferent.com{{ page.url }}#disqus_thread">0 Comments</a>-->
 </p>
   </header>
 
@@ -27,6 +28,7 @@ layout: default
 
 {% include disqus.html %}
 
+<!--
 {% if page.comments %}
 <div
     class="just-comments"
@@ -34,8 +36,8 @@ layout: default
     data-apikey="436d3475-89ad-45ec-b289-ffab043a6678">
 </div>
 {% endif %}
-
-{% if page.facebookcomments %}
+-->
+{% if page.facebookcomments or  page.comments  %}
 
 <body>
    <div id="fb-root"></div>

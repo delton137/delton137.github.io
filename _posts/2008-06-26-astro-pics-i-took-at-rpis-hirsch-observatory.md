@@ -1,7 +1,7 @@
 ---
 id: 1945
 title: 'Astro pics I took at RPI&#8217;s Hirsch Observatory'
-comments: true
+facebookcomments: true
 date: 2008-06-26T00:00:31+00:00
 author: delton137
 layout: post
