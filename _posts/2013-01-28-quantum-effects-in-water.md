@@ -1,8 +1,7 @@
 ---
 id: 1168
 title: Quantum effects in water
-comments: false
-disquscomments: true
+comments: true
 date: 2013-01-28T00:21:53+00:00
 author: delton137
 layout: post

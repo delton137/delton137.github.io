@@ -1,8 +1,7 @@
 ---
 id: 3161
 title: Building a Kernel for 3D Shape Recognition Using Neural Networks
-comments: false
-disquscomments: true
+comments:  true
 date: 2010-08-25T04:12:32+00:00
 author: delton137
 layout: post

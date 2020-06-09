@@ -1,7 +1,7 @@
 ---
 id: 1897
 title: My Philosophy of Music
-comments: true
+facebookcomments: true
 date: 2008-05-31T00:00:57+00:00
 author: delton137
 layout: post

@@ -1,7 +1,7 @@
 ---
 id: 1906
 title: 'Energy drink ingredients &#8211;  do they work? A science-based review'
-comments: false
+comments: true
 date: 2010-07-01T00:00:37+00:00
 author: delton137
 layout: post

@@ -1,8 +1,7 @@
 ---
 id: 1219
 title: The human brain is amazing
-comments: false
-disquscomments: true
+comments: true
 date: 2013-02-15T04:33:59+00:00
 author: delton137
 layout: post

@@ -1,8 +1,7 @@
 ---
 id: 1244
 title: What the heck is in this stuff ??
-comments: false
-disquscomments: true
+comments: true
 date: 2013-03-02T04:16:05+00:00
 author: delton137
 layout: post
