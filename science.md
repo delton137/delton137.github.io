@@ -15,9 +15,9 @@ A final draft of my Ph.D. thesis can be downloaded here: (11 Mb PDF):
 For publications, see also [Google Scholar](https://scholar.google.com/citations?user=KG0pbOYAAAAJ)
 
 ## Peer reviewed journal articles
-P. J. Pickhardt, **D. C. Elton**, P. M. Graffy, S. J. Lee, J. Liu, V. Sandfort, R. M. Summers. "Fully-automated CT Imaging Biomarkers of Bone, Muscle, and Fat: Correcting for the Effect of Intravenous Contrast" (in prep)
+P. J. Pickhardt, **D. C. Elton**, P. M. Graffy, S. J. Lee, J. Liu, V. Sandfort, R. M. Summers. "Fully-automated CT Imaging Biomarkers of Bone, Muscle, and Fat: Correcting for the Effect of Intravenous Contrast" (under review)
 
-R. M. Summers, **D. C. Elton**, Y. Zhu, J. Liu, M. Bagheri, N. N. Mehta, P. A. Pinto, W. M. Linehan, A. A. Perez, P. M. Graffy, S. O’Connor, P. J. Pickhardt. "Atherosclerotic Plaque Burden on Abdominal CT: Automated Assessment with Deep Learning". (in prep)
+R. M. Summers, **D. C. Elton**, S. Lee, Y. Zhu, J. Liu, M. Bagheri, V. Sanfort, P. C. Grayson, N. N. Mehta, P. A. Pinto, W. M. Linehan, A. A. Perez, P. M. Graffy, S. O’Connor, P. J. Pickhardt. "Atherosclerotic Plaque Burden on Abdominal CT: Automated Assessment with Deep Learning". (in prep)
 
 **D. C. Elton**, P. D. Spencer, J. D. Riches, E. D. Williams. "Exclusion zone phenomena in water - a critical review of experimental findings and theories" (under review) [[arXiv](https://arxiv.org/abs/1909.06822)] (2020)
 
