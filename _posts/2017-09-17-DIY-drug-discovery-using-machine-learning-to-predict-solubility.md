@@ -49,7 +49,6 @@ Traditionally drug design has been done through a trial and error approach. A pr
 It would be very helpful if machine learning could be used to screen molecules.
 
 
-
 # Basic concepts of fingerprinting
 *For more info an in easy to read format, see the [http://www.daylight.com/dayhtml/doc/theory/theory.finger.html](Daylight Information Systems page on fingerprinting).*
 
@@ -238,7 +237,6 @@ The following code compares the fingerprints we have created, using 20 fold http
 
 
 <span class="n">test_fingerprints</span><span class="p">(</span><span class="n">fp_list</span><span class="p">,</span> <span class="n">Ridge</span><span class="p">(</span><span class="n">alpha</span><span class="o">=</span><span class="mf">1e-9</span><span class="p">),</span> <span class="n">y</span><span class="p">,</span> <span class="n">verbose</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
-
 
 
 </pre></div>
@@ -1930,7 +1928,7 @@ YII=
 
 Unfortunately, we the error shooting up as the fingerprint length increases, which is not the expected behaviour. This is likely due to the fact that we are not tuning the regularization parameter alpha in the ridge regression -- we are just using the default value. The value of alpha is either set too high or too low. One solution would be to run a grid search or other hyperparamter optimization for each size we want to test. However, this is computationally expensive. An easier solution is to use [Bayesian Ridge Regression](http://scikit-learn.org/stable/auto_examples/linear_model/plot_bayesian_ridge.html) in scikit-learn:
 <figure>
-<img src="/assets/DIY_drug_discovery_lasso_fingerprints.png" alt="fingerprint accuracy"  style="width: 550px;"/>
+<img src="/assets/DIY_drug_discovery/DIY_drug_discovery_lasso_fingerprints.png" alt="fingerprint accuracy"  style="width: 550px;"/>
 </figure>
 
 <p> Now we see expected behaviour -- fingerprint performance increases as the length is increased, and eventually converges around 2000 bits. Note that the Estate has a fixed length of 80 and is more like a descriptor set rather than a fingerprint. Another point is that Lasso regression (L1 regularization) generally does slightly better than Ridge regression with fingerprints, since fingerprints can have elements which are always zero or almost always zero. [L1 regularization introduces a penalty term which has a gradient that forces coefficients corresponding to variables with no predictive power to be precisely zero, whereas L2 has trouble getting coefficients to be precisely zero.]
@@ -2116,6 +2114,8 @@ Next we do grid searches to tune the hyperparameters of the KernelRidge, Ridge, 
 </div>
 </div>
 </div>
+</div>
+
 
 # Testing out different machine learning models
 
@@ -2212,8 +2212,6 @@ Next we do grid searches to tune the hyperparameters of the KernelRidge, Ridge, 
 
 <div class="output_area">
 <div class="prompt"></div>
-
-
 
 <div class="output_text output_subarea ">
 </div>
@@ -7900,12 +7898,24 @@ iIhIhVHhLyIiUmFU+IuIiFSY/w+5ub35cwL7GwAAAABJRU5ErkJggg==
 
 The output is formatted in LaTeX so a nice table can be produced, which ends up looking like this:
 <figure>
-<img src="/assets/DIY_drug_discovery_model_table.png" alt="latex output"  style="width: 550px;"/>
+<img src="/assets/DIY_drug_discovery/DIY_drug_discovery_model_table.png" alt="latex output"  style="width: 550px;"/>
 </figure>
 
 # Conclusion
 
-
-The best performing model in this case was support vector regression, followed closely by Random Forrest and Kernel Ridge Regression. In general, I find that KRR and random forrest are usually the best performing models, and this is the first time SVR has won out. However, in molecular machine learning, the model that is used is really not the limiting factor, provided one does their due diligence and explores several classes of models and optimizes their hyperparameters. The component which really determines success is the featurization technique used. The machine learning model can be thought of an black box machine that extracts the nonlinear dependance of Y on X. As long as the black box is large enough and very well tuned and regularized, we don't have to worry about it much. What we need to worry about more is creating the right X from our molecule data so that the black box can do its job. Traditionally, human created fingerprints and descriptors have been used, which are based on physics and chemical intuition about what molecular features are important. In the future ML can also be applied to fingerprint design -- this will be discussed in a future post.
+The best performing model in this case was support vector regression, followed closely by Random Forrest and Kernel Ridge Regression. In general, I find that KRR and random forest are usually the best performing models, and this is the first time SVR has won out. However, in molecular machine learning, the model that is used is really not the limiting factor, provided one does their due diligence and explores several classes of models and optimizes their hyperparameters. The component which really determines success is the featurization technique used. The machine learning model can be thought of an black box machine that extracts the nonlinear dependence of Y on X. As long as the black box is large enough and very well tuned and regularized, we don't have to worry about it much. What we need to worry about more is creating the right X from our molecule data so that the black box can do its job. Traditionally, human created fingerprints and descriptors have been used, which are based on physics and chemical intuition about what molecular features are important. In the future ML can also be applied to fingerprint design -- this will be discussed in a future post.
 
 Another thing we observe is the large difference between the test and CV errors. The test error is for a particular train-test split, and appears to have high variance. The CV error is averaged over all test-train splits. The percentage error depends highly on whether one is working with a very soluble or insoluble molecule.  For some applications the error profile of this model may be acceptable, in others it may be too crude. The error is definitely larger than a different application I applied this same code to, which was predicting decomposition energy. In that case I obtained average errors on the order of ~20% or less.
+
+# Addendum : solubility datasets
+It was requested that I include the solubility datasets. Here they are, along with the original papers:\\
+
+[Delaney_paper.pdf](/assets/DIY_drug_discovery/Delaney_paper.pdf)<br>
+[delaney_solubility_data_1129_mols.csv](/assets/DIY_drug_discovery/delaney_solubility_data_1129_mols.csv)\\
+[description_of_Huuskonen_molecules.pdf](/assets/DIY_drug_discovery/description_of_Huuskonen_molecules.pdf)\\
+[Huuskonen_paper.pdf](/assets/DIY_drug_discovery/Huuskonen_paper.pdf)\\
+[Huuskonen_README.md](/assets/DIY_drug_discovery/Huuskonen_README.md)\\
+[Huuskonen_solubility_data_1311_mols.csv](/assets/DIY_drug_discovery/Huuskonen_solubility_data_1311_mols.csv)\\
+[solubility_combined_2291_mols.csv](/assets/DIY_drug_discovery/solubility_combined_2291_mols.csv)\\
+<br>
+If you use any of these data, please cite the original papers.

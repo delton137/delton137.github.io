@@ -43,13 +43,15 @@ J. J. Podesta, M. A. Forman, C. W. Smith, **D. C. Elton**, and Y. Malecot, &#822
 
 <!-------------------------------------------------------------------------------------------------------------->
 ## Peer reviewed conference proceedings
-S. Y. Shin, S. Lee, **D. C. Elton**, J. Gulley, R. M. Summers. "Deep Small Bowel Segmentation with Cylindrical Topological Constraints" (under review)
 
-Y. Zhu, Y. Tang, Y. Tang, **D. C. Elton**, S. Lee, P. J. Pickhardt, R. M. Summers. "Cross-Domain Image Translation by Shared Latent Gaussian Mixture Model". (under review)
+
+S. Y. Shin, S. Lee, **D. C. Elton**, J. Gulley, R. M. Summers. "Deep Small Bowel Segmentation with Cylindrical Topological Constraints". To appear in *Medical Image Computing and Computer Assisted Intervention (MICCAI) 2020*
+
+Y. Zhu, Y. Tang, Y. Tang, **D. C. Elton**, S. Lee, P. J. Pickhardt, R. M. Summers. "Cross-Domain Image Translation by Shared Latent Gaussian Mixture Model". To appear in *Medical Image Computing and Computer Assisted Intervention (MICCAI) 2020*
 
 **D. C. Elton**, Y. Zhu, Y. Tang, R. M. Summers. "Improving the Transferability of 3D Segmentation Models Using Cycle Consistent Adversarial Networks" (in prep)
 
-**D. C. Elton**. "Self-explaining AI as an alternative to interpretable AI". To appear in: *Proceedings of the 13th Annual Conference on Artificial General Intelligence (AGI-2020)*. [[arXiv](https://arxiv.org/abs/2002.05149)] [PDF](/assets/self-explaining-AI-6-17-20.pdf)
+**D. C. Elton**. "Self-explaining AI as an alternative to interpretable AI". To appear in: *Proceedings of the 13th Annual Conference on Artificial General Intelligence (AGI-2020)*. [[arXiv](https://arxiv.org/abs/2002.05149)] [PDF](/assets/self-explaining-AI-6-17-20.pdf) (Won the 2020 Kurzweil Prize for Best AGI Idea)
 
 Z. Boukouvalas, M. Puerto, **D. C. Elton**, P. W. Chung, M. D. Fuge. "Independent Vector Analysis for Molecular Data Fusion: Application to Property Prediction and Molecular Knowledge Discovery". to appear in *Proceedings of the 28th European Signal Processing Conference (EUSIPCO 2020)*
 
