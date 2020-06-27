@@ -46,8 +46,7 @@ Apart from whether a molecule can physically exist and be synthesized, there are
 
 Traditionally drug design has been done through a trial and error approach. A professor once described it to me as "trying to build an airplane by attaching the wings in at random orientations, and then seeing if it flies." Just as computer simulations are used to design highly aerodynamic airplanes, so that less actual physical assembly and testing needs to be done, physics based simulation holds the promise of being able to design and optimize drug molecules before they are actually syntheized.
 
-It would be very helpful if machine learning could be used to screen molecules.
-
+However quantum simulations are extremely computationally intensive and approximate methods often are not accurate enough, so would be very helpful if machine learning could be used to screen molecules instead.
 
 # Basic concepts of fingerprinting
 *For more info an in easy to read format, see the [http://www.daylight.com/dayhtml/doc/theory/theory.finger.html](Daylight Information Systems page on fingerprinting).*
@@ -203,7 +202,7 @@ Next we make a bunch of different fingerprints. To do this, I have created a fin
 </div>
 </div>
 
-The following code compares the fingerprints we have created, using 20 fold https://en.wikipedia.org/wiki/Cross-validation) and a ridge regression model.
+The following code compares the fingerprints we have created, using 20 fold [cross validation](https://en.wikipedia.org/wiki/Cross-validation) and a ridge regression model.
 
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
@@ -1926,7 +1925,7 @@ YII=
 </div>
 </div>
 
-Unfortunately, we the error shooting up as the fingerprint length increases, which is not the expected behaviour. This is likely due to the fact that we are not tuning the regularization parameter alpha in the ridge regression -- we are just using the default value. The value of alpha is either set too high or too low. One solution would be to run a grid search or other hyperparamter optimization for each size we want to test. However, this is computationally expensive. An easier solution is to use [Bayesian Ridge Regression](http://scikit-learn.org/stable/auto_examples/linear_model/plot_bayesian_ridge.html) in scikit-learn:
+Unfortunately, we the error shooting up as the fingerprint length increases, which is not the expected behaviour. This is likely due to the fact that we are not tuning the regularization parameter alpha in the ridge regression -- we are just using the default value. The value of alpha is either set too high or too low. One solution would be to run a grid search or other hyperparamter optimization for each size we want to test. However, this is computationally expensive. An easier solution is to use Bayesian Ridge Regression in scikit-learn:
 <figure>
 <img src="/assets/DIY_drug_discovery/DIY_drug_discovery_lasso_fingerprints.png" alt="fingerprint accuracy"  style="width: 550px;"/>
 </figure>
