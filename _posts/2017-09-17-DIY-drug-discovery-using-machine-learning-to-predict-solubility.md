@@ -32,7 +32,7 @@ The set of all possible molecules, which is known as chemical space, is incredib
 
 * **synthesizability** - the molecule most be synthesizable. For instance molecules with more than three carbon rings or allenes (C=C=C) are exceedingly difficult to synthesize.  
 
-These basic physical constraints limit the chemical space significantly, especially if one is interested in . For instance the authors of GBD note "The vast majority of fused small ring systems are high strained and reactive. 96.7% of molecules with carbon are removed by this constraint. However, even after applying 29 filters, the GBD database still contains 10^11 molecules. This is a large number, but tractable in the sense that it could be stored on the very latest computer hardware. (storing the database in SMILES format would consume about 63 terabytes. The entire database is not available for public consumption, only a subset of 50 million compounds is downloadable). Keep in mind that this number was obtained after applying many constraints - the number of organic molecules of drug like size with normal atoms (CNOH + halogens) and up to 4 rings has been estimated to be around 10^60!
+These basic physical constraints reduce the size of the chemical space significantly. For instance the authors of GBD note "The vast majority of fused small ring systems are high strained and reactive. 96.7% of molecules with carbon are removed by this constraint. However, even after applying 29 filters, the GBD database still contains 10^11 molecules. This is a large number, but tractable in the sense that it could be stored on the very latest computer hardware. (storing the database in SMILES format would consume about 63 terabytes. The entire database is not available for public consumption, only a subset of 50 million compounds is downloadable). Keep in mind that this number was obtained after applying many constraints - the number of organic molecules of drug like size with normal atoms (CNOH + halogens) and up to 4 rings has been estimated to be around 10^60!
 
 Apart from whether a molecule can physically exist and be synthesized, there are further constraints when it comes to making a drug:
 
@@ -1959,7 +1959,7 @@ In what follows, I use the Estate fingerprint, as I was comparing Estate with so
 </div>
 </div>
 
-Next we do grid searches to tune the hyperparameters of the KernelRidge, Ridge, GaussianProcessRegressor, and RandomForestRegressor models in sci-kit-learn:
+Next we do grid searches to tune the hyperparameters of the KernelRidge, Ridge, GaussianProcessRegressor, and RandomForestRegressor models in scikit-learn:
 
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
@@ -2144,7 +2144,7 @@ Next we do grid searches to tune the hyperparameters of the KernelRidge, Ridge, 
 <span class="sd">            x: training data features, numpy array or Pandas dataframe</span>
 <span class="sd">            y: training data labels, numpy array or Pandas dataframe</span>
 <span class="sd">            model_dict: a dictionary of the form {name : model()}, where &#39;name&#39; is a string</span>
-<span class="sd">                        and &#39;model()&#39; is a sci-kit-learn model object. </span>
+<span class="sd">                        and &#39;model()&#39; is a scikit-learn model object. </span>
 <span class="sd">    &#39;&#39;&#39;</span>
 
     <span class="n">mean_scores</span> <span class="o">=</span> <span class="p">{}</span>
@@ -7908,7 +7908,7 @@ The best performing model in this case was support vector regression, followed c
 Another thing we observe is the large difference between the test and CV errors. The test error is for a particular train-test split, and appears to have high variance. The CV error is averaged over all test-train splits. The percentage error depends highly on whether one is working with a very soluble or insoluble molecule.  For some applications the error profile of this model may be acceptable, in others it may be too crude. The error is definitely larger than a different application I applied this same code to, which was predicting decomposition energy. In that case I obtained average errors on the order of ~20% or less.
 
 # Addendum : solubility datasets
-It was requested that I include the solubility datasets. Here they are, along with the original papers:\\
+It was requested that I include the solubility datasets. Here they are, along with the original papers:<br>
 
 [Delaney_paper.pdf](/assets/DIY_drug_discovery/Delaney_paper.pdf)<br>
 [delaney_solubility_data_1129_mols.csv](/assets/DIY_drug_discovery/delaney_solubility_data_1129_mols.csv)\\
