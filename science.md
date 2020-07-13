@@ -19,7 +19,7 @@ P. J. Pickhardt, **D. C. Elton**, P. M. Graffy, S. J. Lee, J. Liu, V. Sandfort, 
 
 R. M. Summers, **D. C. Elton**, S. Lee, Y. Zhu, J. Liu, M. Bagheri, V. Sanfort, P. C. Grayson, N. N. Mehta, P. A. Pinto, W. M. Linehan, A. A. Perez, P. M. Graffy, S. O’Connor, P. J. Pickhardt. "Atherosclerotic Plaque Burden on Abdominal CT: Automated Assessment with Deep Learning". (in prep)
 
-**D. C. Elton**, P. D. Spencer, J. D. Riches, E. D. Williams. "Exclusion zone phenomena in water - a critical review of experimental findings and theories" (under review) [[arXiv](https://arxiv.org/abs/1909.06822)] (2020)
+**D. C. Elton**, P. D. Spencer, J. D. Riches, E. D. Williams. "Exclusion zone phenomena in water - a critical review of experimental findings and theories" to appear in *International Journal of Molecular Sciences* [[arXiv](https://arxiv.org/abs/1909.06822)] (2020)
 
 **D. C. Elton**, Z. Boukouvalas, M. D. Fuge, and P. W. Chung, "[Deep learning for molecular design - a review of the state of the art](https://pubs.rsc.org/en/Content/ArticleLanding/2019/ME/C9ME00039A#!divAbstract)", *Molecular Systems Design & Engineering*, **4** (2019) [[full pdf](http://www.moreisdifferent.com/assets/Elton_MSDE_review_final_published.pdf)]
 
