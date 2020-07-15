@@ -47,11 +47,11 @@ J. J. Podesta, M. A. Forman, C. W. Smith, **D. C. Elton**, and Y. Malecot, &#822
 
 S. Y. Shin, S. Lee, **D. C. Elton**, J. Gulley, R. M. Summers. "Deep Small Bowel Segmentation with Cylindrical Topological Constraints". To appear in *Medical Image Computing and Computer Assisted Intervention (MICCAI) 2020*
 
-Y. Zhu, Y. Tang, Y. Tang, **D. C. Elton**, S. Lee, P. J. Pickhardt, R. M. Summers. "Cross-Domain Image Translation by Shared Latent Gaussian Mixture Model". To appear in *Medical Image Computing and Computer Assisted Intervention (MICCAI) 2020*
+Y. Zhu, Y. Tang, Y. Tang, **D. C. Elton**, S. Lee, P. J. Pickhardt, R. M. Summers. "Cross-Domain Medical Image Translation by Shared Latent Gaussian Mixture Model". To appear in *Medical Image Computing and Computer Assisted Intervention (MICCAI) 2020* [[arXiv](http://arxiv.org/abs/2007.07230)]
 
 **D. C. Elton**, Y. Zhu, Y. Tang, R. M. Summers. "Improving the Transferability of 3D Segmentation Models Using Cycle Consistent Adversarial Networks" (in prep)
 
-**D. C. Elton**. "Self-explaining AI as an alternative to interpretable AI". To appear in: *Proceedings of the 13th Annual Conference on Artificial General Intelligence (AGI-2020)*. [[arXiv](https://arxiv.org/abs/2002.05149)] [PDF](/assets/self-explaining-AI-6-17-20.pdf) (Won the 2020 Kurzweil Prize for Best AGI Idea)
+**D. C. Elton**. "[Self-explaining AI as an alternative to interpretable AI](https://link.springer.com/chapter/10.1007%2F978-3-030-52152-3_10)". *Proceedings of the 13th Annual Conference on Artificial General Intelligence (AGI-2020)*, pg 95 . [[arXiv](https://arxiv.org/abs/2002.05149)] [PDF](/assets/self-explaining-AI-6-17-20.pdf) (Won the 2020 Kurzweil Prize for Best AGI Idea)
 
 Z. Boukouvalas, M. Puerto, **D. C. Elton**, P. W. Chung, M. D. Fuge. "Independent Vector Analysis for Molecular Data Fusion: Application to Property Prediction and Molecular Knowledge Discovery". to appear in *Proceedings of the 28th European Signal Processing Conference (EUSIPCO 2020)*
 
@@ -61,7 +61,7 @@ Y. Zhu, **D. C. Elton**, S. Lee, P. J. Pickhardt, R. M. Summers. "Image Translat
 
 **D. C. Elton**, D. Turakhia, N. Reddy, Z. Boukouvalas, R. M. Doherty, M. D. Fuge, and P. W. Chung. "Using natural language processing techniques to extract information on the properties and functionalities of energetic materials from large text corpora". *Proceedings of the 22nd International Seminar on New Trends in Research of Energetic Materials*, 2019. [[arXiv](https://arxiv.org/abs/1903.00415)] (won the 3rd best presentation award at the 2019 NTREM conference)
 
-Z. Boukouvalas, **D. C. Elton**, M. D. Fuge, and P. W. Chung. "Independent Vector Analysis for Data Fusion Prior to Molecular Property Prediction with Machine Learning". Proceedings of the [2018 Neural Information Processing Systems (NeurIPS) workshop on Machine Learning for Molecules and Materials](http://www.quantum-machine.org/workshops/nips2018draft/). [[arXiv](https://arxiv.org/abs/1811.00628)]
+Z. Boukouvalas, **D. C. Elton**, M. D. Fuge, and P. W. Chung. "Independent Vector Analysis for Data Fusion Prior to Molecular Property Prediction with Machine Learning". *Proceedings of the [2018 Neural Information Processing Systems (NeurIPS) workshop on Machine Learning for Molecules and Materials](http://www.quantum-machine.org/workshops/nips2018draft/)*. [[arXiv](https://arxiv.org/abs/1811.00628)]
 
 B. C. Barnes, **D. C. Elton**, Z. Boukouvalas, D. E. Taylor, W. D. Mattson, M. D. Fuge, and P.W. Chung, “Machine Learning of Energetic Material Properties”, Proceedings of the 16th International Detonation Symposium, Cambridge MD, USA, July 2018, [[arXiv](https://arxiv.org/abs/1807.06156)]
 
