@@ -15,11 +15,13 @@ A final draft of my Ph.D. thesis can be downloaded here: (11 Mb PDF):
 For publications, see also [Google Scholar](https://scholar.google.com/citations?user=KG0pbOYAAAAJ)
 
 ## Peer reviewed journal articles
+R. M. Summers, V. Sandfort,  **D. C. Elton**, P. J. Pickhardt. "Automated Deep Learning Liver Fat Quantification on Contrast-enhanced CT" (in prep)
+
 P. J. Pickhardt, **D. C. Elton**, P. M. Graffy, S. J. Lee, J. Liu, V. Sandfort, R. M. Summers. "Fully-automated CT Imaging Biomarkers of Bone, Muscle, and Fat: Correcting for the Effect of Intravenous Contrast" (under review)
 
 R. M. Summers, **D. C. Elton**, S. Lee, Y. Zhu, J. Liu, M. Bagheri, V. Sanfort, P. C. Grayson, N. N. Mehta, P. A. Pinto, W. M. Linehan, A. A. Perez, P. M. Graffy, S. O’Connor, P. J. Pickhardt. "Atherosclerotic Plaque Burden on Abdominal CT: Automated Assessment with Deep Learning". (in prep)
 
-**D. C. Elton**, P. D. Spencer, J. D. Riches, E. D. Williams. "Exclusion zone phenomena in water - a critical review of experimental findings and theories" to appear in *International Journal of Molecular Sciences* [[arXiv](https://arxiv.org/abs/1909.06822)] (2020)
+**D. C. Elton**, P. D. Spencer, J. D. Riches, E. D. Williams. "[Exclusion zone phenomena in water - a critical review of experimental findings and theories](https://www.mdpi.com/1422-0067/21/14/5041)"  *International Journal of Molecular Sciences*, **21** (14), 5041 (2020) [[arXiv](https://arxiv.org/abs/1909.06822)]
 
 **D. C. Elton**, Z. Boukouvalas, M. D. Fuge, and P. W. Chung, "[Deep learning for molecular design - a review of the state of the art](https://pubs.rsc.org/en/Content/ArticleLanding/2019/ME/C9ME00039A#!divAbstract)", *Molecular Systems Design & Engineering*, **4** (2019) [[full pdf](http://www.moreisdifferent.com/assets/Elton_MSDE_review_final_published.pdf)]
 
@@ -43,7 +45,7 @@ J. J. Podesta, M. A. Forman, C. W. Smith, **D. C. Elton**, and Y. Malecot, &#822
 
 <!-------------------------------------------------------------------------------------------------------------->
 ## Peer reviewed conference proceedings
-
+Y. Peng, S. Lee, **D. C. Elton**, Y. Zhu, T. Shen, R. M. Summers. "Automatic recognition of lymph nodes from clinical text". (in prep)
 
 S. Y. Shin, S. Lee, **D. C. Elton**, J. Gulley, R. M. Summers. "Deep Small Bowel Segmentation with Cylindrical Topological Constraints". To appear in *Medical Image Computing and Computer Assisted Intervention (MICCAI) 2020*
 
@@ -51,7 +53,7 @@ Y. Zhu, Y. Tang, Y. Tang, **D. C. Elton**, S. Lee, P. J. Pickhardt, R. M. Summer
 
 **D. C. Elton**, Y. Zhu, Y. Tang, R. M. Summers. "Improving the Transferability of 3D Segmentation Models Using Cycle Consistent Adversarial Networks" (in prep)
 
-**D. C. Elton**. "[Self-explaining AI as an alternative to interpretable AI](https://link.springer.com/chapter/10.1007%2F978-3-030-52152-3_10)". *Proceedings of the 13th Annual Conference on Artificial General Intelligence (AGI-2020)*, pg 95 . [[arXiv](https://arxiv.org/abs/2002.05149)] [PDF](/assets/self-explaining-AI-6-17-20.pdf) (Won the 2020 Kurzweil Prize for Best AGI Idea)
+**D. C. Elton**. "[Self-explaining AI as an alternative to interpretable AI](https://link.springer.com/chapter/10.1007%2F978-3-030-52152-3_10)". *Proceedings of the 13th Annual Conference on Artificial General Intelligence (AGI-2020)*, pg 95. [[arXiv](https://arxiv.org/abs/2002.05149)] (Won the 2020 Kurzweil Prize for Best AGI Idea)
 
 Z. Boukouvalas, M. Puerto, **D. C. Elton**, P. W. Chung, M. D. Fuge. "Independent Vector Analysis for Molecular Data Fusion: Application to Property Prediction and Molecular Knowledge Discovery". to appear in *Proceedings of the 28th European Signal Processing Conference (EUSIPCO 2020)*
 
