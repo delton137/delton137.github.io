@@ -15,7 +15,7 @@ A final draft of my Ph.D. thesis can be downloaded here: (11 Mb PDF):
 For publications, see also [Google Scholar](https://scholar.google.com/citations?user=KG0pbOYAAAAJ)
 
 ## Peer reviewed journal articles
-R. M. Summers, V. Sandfort,  **D. C. Elton**, P. J. Pickhardt. "Automated Deep Learning Liver Fat Quantification on Contrast-enhanced CT" (in prep)
+P. J. Pickhardt, G. Blake, P. M. Graffy, V. Sandfort, **D. C. Elton**,  A. A. Perez, R. M. Summers. "Automated Deep Learning Liver Fat Quantification on Contrast-enhanced CT: Direct correlation with the unenhanced reference standard in over 1200 healthy adults". (under review)
 
 P. J. Pickhardt, **D. C. Elton**, P. M. Graffy, S. J. Lee, J. Liu, V. Sandfort, R. M. Summers. "Fully-automated CT Imaging Biomarkers of Bone, Muscle, and Fat: Correcting for the Effect of Intravenous Contrast" (under review)
 
@@ -45,7 +45,7 @@ J. J. Podesta, M. A. Forman, C. W. Smith, **D. C. Elton**, and Y. Malecot, &#822
 
 <!-------------------------------------------------------------------------------------------------------------->
 ## Peer reviewed conference proceedings
-Y. Peng, S. Lee, **D. C. Elton**, Y. Zhu, T. Shen, R. M. Summers. "Automatic recognition of lymph nodes from clinical text". (in prep)
+Y. Peng, S. Lee, **D. C. Elton**, T. Shen, Y. Tang, Q. Chen,  S. Wang, Y. Zhu, R. M. Summers, Z. Lu. "Automatic recognition of lymph nodes from clinical text". (in prep)
 
 S. Y. Shin, S. Lee, **D. C. Elton**, J. Gulley, R. M. Summers. "Deep Small Bowel Segmentation with Cylindrical Topological Constraints". To appear in *Medical Image Computing and Computer Assisted Intervention (MICCAI) 2020*
 
