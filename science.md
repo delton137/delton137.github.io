@@ -15,6 +15,9 @@ A final draft of my Ph.D. thesis can be downloaded here: (11 Mb PDF):
 For publications, see also [Google Scholar](https://scholar.google.com/citations?user=KG0pbOYAAAAJ)
 
 ## Peer reviewed journal articles
+
+S. Lee, **D. C. Elton**, J. L. Gulley, P. J. Pickhardt, R. M. Summers. "Association of atherosclerotic plaque with prostate cancer: A case-control study" (in prep)
+
 P. J. Pickhardt, G. Blake, P. M. Graffy, V. Sandfort, **D. C. Elton**,  A. A. Perez, R. M. Summers. "Automated Deep Learning Liver Fat Quantification on Contrast-enhanced CT: Direct correlation with the unenhanced reference standard in over 1200 healthy adults". (under review)
 
 P. J. Pickhardt, **D. C. Elton**, P. M. Graffy, S. J. Lee, J. Liu, V. Sandfort, R. M. Summers. "Fully-automated CT Imaging Biomarkers of Bone, Muscle, and Fat: Correcting for the Effect of Intravenous Contrast" (under review)
