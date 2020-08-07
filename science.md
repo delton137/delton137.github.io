@@ -48,9 +48,9 @@ J. J. Podesta, M. A. Forman, C. W. Smith, **D. C. Elton**, and Y. Malecot, &#822
 
 <!-------------------------------------------------------------------------------------------------------------->
 ## Peer reviewed conference proceedings
-Y. Peng, S. Lee, **D. C. Elton**, T. Shen, Y. Tang, Q. Chen,  S. Wang, Y. Zhu, R. M. Summers, Z. Lu. "Automatic recognition of lymph nodes from clinical text". (in prep)
+Y. Peng, S. Lee, **D. C. Elton**, T. Shen, Y. Tang, Q. Chen, S. Wang, Y. Zhu, R. M. Summers, Z. Lu. "Automatic Recognition of Lymph Nodes from Clinical Text". (in prep)
 
-S. Y. Shin, S. Lee, **D. C. Elton**, J. Gulley, R. M. Summers. "Deep Small Bowel Segmentation with Cylindrical Topological Constraints". To appear in *Medical Image Computing and Computer Assisted Intervention (MICCAI) 2020*
+S. Y. Shin, S. Lee, **D. C. Elton**, J. Gulley, R. M. Summers. "Deep Small Bowel Segmentation with Cylindrical Topological Constraints". To appear in *Medical Image Computing and Computer Assisted Intervention (MICCAI) 2020*. [[arxiv](https://arxiv.org/abs/2007.08674)]
 
 Y. Zhu, Y. Tang, Y. Tang, **D. C. Elton**, S. Lee, P. J. Pickhardt, R. M. Summers. "Cross-Domain Medical Image Translation by Shared Latent Gaussian Mixture Model". To appear in *Medical Image Computing and Computer Assisted Intervention (MICCAI) 2020* [[arXiv](http://arxiv.org/abs/2007.07230)]
 
