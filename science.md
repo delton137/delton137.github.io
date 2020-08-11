@@ -74,6 +74,10 @@ F. G. VanGessel, G. Kumar, **D. C. Elton**, and P. W. Chung, “A Phonon Boltzma
 
 M. A. Forman, C. W. Smith, B. J. Vasquez, B. T. MacBride, J. E. Stawarz, J. J. Podesta, **D. C. Elton**, U. Y. Malecot, and Y. Gagne. "[Using Third‐Order Moments of Fluctuations in V and B to Determine Turbulent Heating Rates in the Solar Wind](https://aip.scitation.org/doi/abs/10.1063/1.3395830)", *AIP Conference Proceedings* **1216**, 12th International Solar Wind Conference, 176 (2010)
 
+## Preprints
+C. S. Greene, **D. C. Elton**, A. J. Titus, A. Gitter, D. S. Himmelstein, B. C. Christensen, J. J. Levy, et al. "[Opportunities and obstacles for deep learning in
+biology and medicine: Version 2.0](https://greenelab.github.io/deep-review/manuscript.pdf)" (in prep) (2020)
+
 ## Science notes
 
 feedback on these is always appreciated.
