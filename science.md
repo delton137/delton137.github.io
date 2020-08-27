@@ -20,7 +20,7 @@ S. Lee, **D. C. Elton**, J. L. Gulley, P. J. Pickhardt, W. L. Dahut, R. A. Madan
 
 P. J. Pickhardt, P. M. Graffy, A. A. Perez, M. G. Lubner, **D. C. Elton**, R. M. Summers. "Opportunistic Screening at Abdominal CT using Automated Biomarkers: Adding Value Beyond the Clinical Indication" (under review)
 
-P. J. Pickhardt, G. Blake, P. M. Graffy, V. Sandfort, **D. C. Elton**,  A. A. Perez, R. M. Summers. "Automated Deep Learning Liver Fat Quantification on Contrast-enhanced CT: Direct correlation with the unenhanced reference standard in over 1200 healthy adults". (under review)
+P. J. Pickhardt, G. Blake, P. M. Graffy, V. Sandfort, **D. C. Elton**,  A. A. Perez, R. M. Summers. "Liver Steatosis Categorization on Contrast-Enhanced CT Using a Fully-Automated Deep Learning Volumetric Segmentation Tool: Evaluation in 1,204 Heathy Adults Using Unenhanced CT as Reference Standard". (to appear in *American Journal of Roentgenology*) (2020)
 
 P. J. Pickhardt, **D. C. Elton**, P. M. Graffy, S. J. Lee, J. Liu, V. Sandfort, R. M. Summers. "Fully-automated CT Imaging Biomarkers of Bone, Muscle, and Fat: Correcting for the Effect of Intravenous Contrast" (under review)
 
@@ -77,8 +77,11 @@ F. G. VanGessel, G. Kumar, **D. C. Elton**, and P. W. Chung, “A Phonon Boltzma
 M. A. Forman, C. W. Smith, B. J. Vasquez, B. T. MacBride, J. E. Stawarz, J. J. Podesta, **D. C. Elton**, U. Y. Malecot, and Y. Gagne. "[Using Third‐Order Moments of Fluctuations in V and B to Determine Turbulent Heating Rates in the Solar Wind](https://aip.scitation.org/doi/abs/10.1063/1.3395830)", *AIP Conference Proceedings* **1216**, 12th International Solar Wind Conference, 176 (2010)
 
 ## Preprints
+<!-- **D. C. Elton**. "[Applying Deutsch’s concept of good explanations to artificial intelligence and neuroscience - an initial exploration](http://www.moreisdifferent.com/assets/hard_to_vary_explanations_AI_8_18_20.pdf)" (under review) (2020)-->
+
 C. S. Greene, **D. C. Elton**, A. J. Titus, A. Gitter, D. S. Himmelstein, B. C. Christensen, J. J. Levy, et al. "[Opportunities and obstacles for deep learning in
 biology and medicine: Version 2.0](https://greenelab.github.io/deep-review/manuscript.pdf)" (in prep) (2020)
+
 
 ## Science notes
 
