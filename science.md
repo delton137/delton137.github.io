@@ -20,11 +20,11 @@ S. Lee, **D. C. Elton**, J. L. Gulley, P. J. Pickhardt, W. L. Dahut, R. A. Madan
 
 P. J. Pickhardt, P. M. Graffy, A. A. Perez, M. G. Lubner, **D. C. Elton**, R. M. Summers. "Opportunistic Screening at Abdominal CT using Automated Biomarkers: Adding Value Beyond the Clinical Indication" (under review)
 
-P. J. Pickhardt, G. Blake, P. M. Graffy, V. Sandfort, **D. C. Elton**,  A. A. Perez, R. M. Summers. "Liver Steatosis Categorization on Contrast-Enhanced CT Using a Fully-Automated Deep Learning Volumetric Segmentation Tool: Evaluation in 1,204 Heathy Adults Using Unenhanced CT as Reference Standard". (to appear in *American Journal of Roentgenology*) (2020)
+P. J. Pickhardt, G. Blake, P. M. Graffy, V. Sandfort, **D. C. Elton**,  A. A. Perez, R. M. Summers. "Liver Steatosis Categorization on Contrast-Enhanced CT Using a Fully-Automated Deep Learning Volumetric Segmentation Tool: Evaluation in 1,204 Heathy Adults Using Unenhanced CT as Reference Standard". to appear in *American Journal of Roentgenology*. (2020)
 
 P. J. Pickhardt, **D. C. Elton**, P. M. Graffy, S. J. Lee, J. Liu, V. Sandfort, R. M. Summers. "Fully-automated CT Imaging Biomarkers of Bone, Muscle, and Fat: Correcting for the Effect of Intravenous Contrast" (under review)
 
-R. M. Summers, **D. C. Elton**, S. Lee, Y. Zhu, J. Liu, M. Bagheri, V. Sanfort, P. C. Grayson, N. N. Mehta, P. A. Pinto, W. M. Linehan, A. A. Perez, P. M. Graffy, S. O’Connor, P. J. Pickhardt. "Atherosclerotic Plaque Burden on Abdominal CT: Automated Assessment with Deep Learning on Noncontrast and Contrast-enhanced Scans". to appear in **Academic Radiology** (2020)
+R. M. Summers, **D. C. Elton**, S. Lee, Y. Zhu, J. Liu, M. Bagheri, V. Sanfort, P. C. Grayson, N. N. Mehta, P. A. Pinto, W. M. Linehan, A. A. Perez, P. M. Graffy, S. O’Connor, P. J. Pickhardt. "Atherosclerotic Plaque Burden on Abdominal CT: Automated Assessment with Deep Learning on Noncontrast and Contrast-enhanced Scans". to appear in *Academic Radiology* (2020)
 
 **D. C. Elton**, P. D. Spencer, J. D. Riches, E. D. Williams. "[Exclusion zone phenomena in water - a critical review of experimental findings and theories](https://www.mdpi.com/1422-0067/21/14/5041)"  *International Journal of Molecular Sciences*, **21** (14), 5041 (2020) [[arXiv](https://arxiv.org/abs/1909.06822)]
 
