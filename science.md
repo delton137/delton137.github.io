@@ -15,8 +15,6 @@ A final draft of my Ph.D. thesis can be downloaded here: (11 Mb PDF):
 For publications, see also [Google Scholar](https://scholar.google.com/citations?user=KG0pbOYAAAAJ)
 
 ## Peer reviewed journal articles
-**D. C. Elton**. "Applying Deutsch's concept of good explanations to artificial intelligence and neuroscience - an initial exploration". (under review)
-
 S. Lee, **D. C. Elton**, J. L. Gulley, P. J. Pickhardt, W. L. Dahut, R. A. Madan, P. A. Pinto, D. E. Citrin, R. M. Summers. "Association of Abdominal Calcified Atherosclerotic Plaque with Prostate Cancer: A Case-Control Study" (under review)
 
 P. J. Pickhardt, P. M. Graffy, A. A. Perez, M. G. Lubner, **D. C. Elton**, R. M. Summers. "Opportunistic Screening at Abdominal CT using Automated Biomarkers: Adding Value Beyond the Clinical Indication"  to appear in *Radiographics*. (2020)
@@ -51,6 +49,10 @@ J. J. Podesta, M. A. Forman, C. W. Smith, **D. C. Elton**, and Y. Malecot, &#822
 
 <!-------------------------------------------------------------------------------------------------------------->
 ## Peer reviewed conference proceedings
+S. Wang, Y. Zhu, S. Lee, **D. C. Elton**, T. Shen, Y. Tang, Y. Peng, Z. Lu, R. M. Summers. "Global-Local Attention Network with Multi-task Uncertainty Loss for Abnormal Lymph Node Detection in MR Images"
+
+**D. C. Elton**. "Applying Deutsch's concept of good explanations to artificial intelligence and neuroscience - an initial exploration". (under review)
+
 Y. Peng, S. Lee, **D. C. Elton**, T. Shen, Y. Tang, Q. Chen, S. Wang, Y. Zhu, R. M. Summers, Z. Lu. "Automatic Recognition of Lymph Nodes from Clinical Text". (in prep)
 
 S. Y. Shin, S. Lee, **D. C. Elton**, J. Gulley, R. M. Summers. "Deep Small Bowel Segmentation with Cylindrical Topological Constraints". To appear in *Medical Image Computing and Computer Assisted Intervention (MICCAI) 2020*. [[arxiv](https://arxiv.org/abs/2007.08674)]
