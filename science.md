@@ -51,7 +51,7 @@ J. J. Podesta, M. A. Forman, C. W. Smith, **D. C. Elton**, and Y. Malecot, &#822
 ## Peer reviewed conference proceedings
 <!-- S. Wang, Y. Zhu, S. Lee, **D. C. Elton**, T. Shen, Y. Tang, Y. Peng, Z. Lu, R. M. Summers. "Global-Local Attention Network with Multi-task Uncertainty Loss for Abnormal Lymph Node Detection in MR Images"-->
 
-**D. C. Elton**. "Applying Deutsch's concept of good explanations to artificial intelligence and neuroscience - an initial exploration". (under review)
+**D. C. Elton**. "Applying Deutsch's concept of good explanations to artificial intelligence and neuroscience - an initial exploration". (under review) [[draft](http://www.moreisdifferent.com/assets/Daniel_Elton_hard_to_vary_explanations_AI_9_4_20.pdf)]
 
 Y. Peng, S. Lee, **D. C. Elton**, T. Shen, Y. Tang, Q. Chen, S. Wang, Y. Zhu, R. M. Summers, Z. Lu. "Automatic Recognition of Lymph Nodes from Clinical Text". (in prep)
 
@@ -80,8 +80,6 @@ F. G. VanGessel, G. Kumar, **D. C. Elton**, and P. W. Chung, “A Phonon Boltzma
 M. A. Forman, C. W. Smith, B. J. Vasquez, B. T. MacBride, J. E. Stawarz, J. J. Podesta, **D. C. Elton**, U. Y. Malecot, and Y. Gagne. "[Using Third‐Order Moments of Fluctuations in V and B to Determine Turbulent Heating Rates in the Solar Wind](https://aip.scitation.org/doi/abs/10.1063/1.3395830)", *AIP Conference Proceedings* **1216**, 12th International Solar Wind Conference, 176 (2010)
 
 ## Preprints
-<!-- **D. C. Elton**. "[Applying Deutsch’s concept of good explanations to artificial intelligence and neuroscience - an initial exploration](http://www.moreisdifferent.com/assets/hard_to_vary_explanations_AI_8_18_20.pdf)" (under review) (2020)-->
-
 C. S. Greene, **D. C. Elton**, A. J. Titus, A. Gitter, D. S. Himmelstein, B. C. Christensen, J. J. Levy, et al. "[Opportunities and obstacles for deep learning in
 biology and medicine: Version 2.0](https://greenelab.github.io/deep-review/manuscript.pdf)" (in prep) (2020)
 
