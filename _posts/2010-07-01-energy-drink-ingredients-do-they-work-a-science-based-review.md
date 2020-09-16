@@ -61,17 +61,17 @@ Many energy drinks claim to enhance all five metrics. But of course, advertisers
 
 # Caffeine&#8211; Benefits&#8211; (100-400mg/ day)
 
-&#8211;  Decreased risk in developing Parkinson&#8217;s.[1] ****and slows/reverses development of Alzheimer&#8217;s[[link](http://www.physorg.com/news193317154.html)][[link2](http://www.physorg.com/news151225794.html)][[link3](http://www.physorg.com/news151225794.html)]
+&#8211;  Decreased risk in developing Parkinson&#8217;s.[1] and slows/reverses development of Alzheimer&#8217;s[[link](http://www.physorg.com/news193317154.html)][[link2](http://www.physorg.com/news151225794.html)][[link3](http://www.physorg.com/news151225794.html)]
 
 &#8211; General neuroprotective effects.[[link](http://www.neurology.org/cgi/content/abstract/69/6/536)]
 
-&#8211; Increased attention :  &#8220;the information processing system seems more sensitive to relevant stimulus characteristics after caffeine.&#8221;[1]
+&#8211; Increased attention :  &#8220;the information processing system seems more sensitive to relevant stimulus characteristics after caffeine.&#8221[1]
 
 &#8211; Improved motor response:
 
-&#8220;Rees, Allen, and Lader (1999) found improvements in psychomotor performance in human subjects after a moderate dose of caffeine.&#8221;[1]     &#8220;..is supported in several investigations illustrating that caffeine reduced the time required to execute a response (e.g., Jacobson & Edgley, 1987; Smith, Tong, & Leigh, 1977). However, the effects of caffeine on motor performance are not always beneficial; negative or no effects are reported, as well (see B€attig, 1985; Fredholm et al., 1999; Van der Stelt & Snel, 1998).&#8221;[1]
+&#8220;Rees, Allen, and Lader (1999) found improvements in psychomotor performance in human subjects after a moderate dose of caffeine.&#8221[1]     &#8220;..is supported in several investigations illustrating that caffeine reduced the time required to execute a response (e.g., Jacobson & Edgley, 1987; Smith, Tong, & Leigh, 1977). However, the effects of caffeine on motor performance are not always beneficial; negative or no effects are reported, as well (see B€attig, 1985; Fredholm et al., 1999; Van der Stelt & Snel, 1998).&#8221[1]
 
-&#8211; Increased preference for left hemisphere :  &#8220;A relative dominance of left compared to right frontal activation has been linked to activity in the mesocorticolimbic dopaminergic system mediating approach motivation (Davidson, 1999). This dopaminergic system projects more densely to left than right frontal cortex.&#8221;[1]**
+&#8211; Increased preference for left hemisphere :  &#8220;A relative dominance of left compared to right frontal activation has been linked to activity in the mesocorticolimbic dopaminergic system mediating approach motivation (Davidson, 1999). This dopaminergic system projects more densely to left than right frontal cortex.&#8221[1]
 
 &#8211; Increased growth of dendric spines (may aid memory formation) [[link](http://news.bbc.co.uk/2/hi/science/nature/472473.stm)]
 
@@ -101,7 +101,7 @@ Many energy drinks claim to enhance all five metrics. But of course, advertisers
 
 &#8211; Panel of experts concludes moderate coffee drinking decreases many risks.[[link](http://www.physorg.com/news97157504.html)]
 
-&#8211; Helps treat asthma and improves lung function.[[link](http://www.ncbi.nlm.nih.gov/pubmed/11687099)]****
+&#8211; Helps treat asthma and improves lung function.[[link](http://www.ncbi.nlm.nih.gov/pubmed/11687099)]
 
 ## Caffeine&#8211;Detriments
 
@@ -123,19 +123,19 @@ Many energy drinks claim to enhance all five metrics. But of course, advertisers
 
 &#8211; At least one study shows caffeine to be a moderate risk factor for &#8220;chronic daily headache onset&#8221;.[[link](http://www.ncbi.nlm.nih.gov/pubmed/15596744?dopt=Abstract&holding=f1000,f1000m,isrctn)]
 
-&#8212;_very slight addiction_. Caffeine consumption is described as &#8220;self-limiting&#8221; &#8212; there are diminishing returns on continuing to consume caffeine. People do not usually increase their consumption of caffeine gradually over time.  Experiments with rats show that only very high doses of caffeine are able to activate &#8220;reward circuits&#8221;. Thus, caffeine has very little addictive properties.[1]**
+&#8212;_very slight addiction_. Caffeine consumption is described as &#8220;self-limiting&#8221; &#8212; there are diminishing returns on continuing to consume caffeine. People do not usually increase their consumption of caffeine gradually over time.  Experiments with rats show that only very high doses of caffeine are able to activate &#8220;reward circuits&#8221;. Thus, caffeine has very little addictive properties.[1]
 
 ## Withdrawal symptoms
- caffeine withdrawal is often characterized by a headache, fatigue, feeling less alert, less energetic and experiencing difficulty concentrating.**&#8221; [[link](http://www.physorg.com/news160416875.html)]
+ caffeine withdrawal is often characterized by a headache, fatigue, feeling less alert, less energetic and experiencing difficulty concentrating.&#8221; [[link](http://www.physorg.com/news160416875.html)]
 
-&#8211; According to an article on CNN, experts estimate 40-45% of people &#8220;will experience headaches and other symptoms from caffeine withdrawal syndrome.&#8221;[[link](http://articles.cnn.com/2009-04-06/health/hm.caffeine.withdrawal_1_caffeinated-products-caffeine-intake-caffeine-withdrawal?_s=PM:HEALTH)]
+&#8211; According to an article on CNN, experts estimate 40-45% of people &#8220;will experience headaches and other symptoms from caffeine withdrawal syndrome.&#8221[[link](http://articles.cnn.com/2009-04-06/health/hm.caffeine.withdrawal_1_caffeinated-products-caffeine-intake-caffeine-withdrawal?_s=PM:HEALTH)]
 
 &#8211; Influence on blood sugar levels_ some research seems to indicate that caffeine may disrupt the insulin system used to control blood sugar levels. People with diabetes are usually advised to keep caffeine intake low. [[link](http://www.science20.com/news_articles/want_make_fast_food_worse_you_drink_coffee-77882)]
 
 
-** References: [1] _Caffeine, fatigue, and cognition_ Monicque M. Lorista and Mattie Topsa 21 July, 2003.**
-
-**  [2] _Caffeine_ The Encyclopedia of Psychoactive Drugs.
+ References:
+ [1] _Caffeine, fatigue, and cognition_. Monicque M. Lorista and Mattie Topsa 21 July, 2003.
+ [2] _Caffeine_. The Encyclopedia of Psychoactive Drugs.
 
 ## Caffeine&#8211; Mechanisms
 <img src="http://mysbfiles.stonybrook.edu/%7Edelton/images/500px-Caffeine_metabolites.svg.png" alt="" width="357" height="303" align="right" border="0" hspace="5" vspace="5" />
@@ -148,11 +148,11 @@ Caffeine is highly water soluble. It is destroyed in the liver and has a half li
 
 &#8211; Theophylline (4%): Relaxes smooth muscles of the bronchi, and is used to treat asthma. The therapeutic dose of theophylline, however, is many times greater than the levels attained from caffeine metabolism.
 
-More information on the mechanisms of caffeine can be found on Wikipedia and other websites. ****
+More information on the mechanisms of caffeine can be found on Wikipedia and other websites.
 
 ## Caffeine&#8211; Conclusion
 
-After this literature review it is clear that moderate caffeine consumption (100-300mg/day) or 1-2 cups of coffee a day has many beneficial effects and no reported detriments, except for withdrawal symptoms and in the special cases of pregnant women and diabetics. If you plan to drink coffee regularly, it may be worth buying caffeine tablets. Then you can take a tablet if are unable to get a cup of coffee to prevent withdrawal symptoms. If you are a regular drinker and plan to go without caffeine, you can avoid withdrawal symptoms by slowly cutting back consumption several days in advance. **
+After this literature review it is clear that moderate caffeine consumption (100-300mg/day) or 1-2 cups of coffee a day has many beneficial effects and no reported detriments, except for withdrawal symptoms and in the special cases of pregnant women and diabetics. If you plan to drink coffee regularly, it may be worth buying caffeine tablets. Then you can take a tablet if are unable to get a cup of coffee to prevent withdrawal symptoms. If you are a regular drinker and plan to go without caffeine, you can avoid withdrawal symptoms by slowly cutting back consumption several days in advance.
 
 See also:
 
@@ -162,21 +162,21 @@ See also:
 
 # Glucuronolactone
 
-&#8211; Not much hard data available on this.**
+&#8211; Not much hard data available on this.
 
-&#8211; It is claimed it serves a &#8220;de-toxificant&#8221; but there is no scientific evidence of this.**
+&#8211; It is claimed it serves a &#8220;de-toxificant&#8221; but there is no scientific evidence of this.
 
 &#8211; It is naturally produced by the synthesis of glucose in the liver.
 
-&#8211; European Food Safety Authority ****determined the amounts found in energy drinks are safe.**
+&#8211; European Food Safety Authority determined the amounts found in energy drinks are safe.
 
 &#8211;  Conclusion&#8211; not enough data available.
 
 # L-Carnitine
 
-&#8211;  claims to aid metabolism.**
+&#8211;  claims to aid metabolism.
 
-&#8211;  known to be an antioxidant**
+&#8211;  known to be an antioxidant
 
 &#8211;  Conclusion&#8211; may be a useful antioxidant but don&#8217;t expect energy from this.
 
@@ -192,9 +192,9 @@ See also:
 
 &#8211; &#8220;L-Taurine&#8221; denotes the natural form of taurine. Many amino acids exhibit only the left isomeric form when produced biologically. When produced naturally, they may exhibit both forms. The Greek words denoting left and right are &#8220;Levo&#8221; and &#8220;Dextro&#8221;, so the letters L and D are used to distinguish the two forms.
 
-&#8211; A &#8220;literature review&#8221; seeks to debunk the marketing claims about Taurine. The article notes that caffeine can freely cross the blood-brain barrier. Taurine, however, is regulated, so it is unlikely consumption of taurine leads to higher taurine levels in the brain.[[link](http://www.escholarship.org/uc/item/65k8r3bd#page-7)]**
+&#8211; A &#8220;literature review&#8221; seeks to debunk the marketing claims about Taurine. The article notes that caffeine can freely cross the blood-brain barrier. Taurine, however, is regulated, so it is unlikely consumption of taurine leads to higher taurine levels in the brain.[[link](http://www.escholarship.org/uc/item/65k8r3bd#page-7)]
 
-&#8211;  Taurine has anxiolytic (anti-anxiety) effects.[[link](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6T0N-4JGJJ0M-2&_user=10&_coverDate=02/28/2006&_rdoc=1&_fmt=high&_orig=search&_sort=d&_docanchor=&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=7312464f9dae6195e871808053365620)] ****(see  refs. on Wikipedia)**
+&#8211;  Taurine has anxiolytic (anti-anxiety) effects.[[link](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6T0N-4JGJJ0M-2&_user=10&_coverDate=02/28/2006&_rdoc=1&_fmt=high&_orig=search&_sort=d&_docanchor=&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=7312464f9dae6195e871808053365620)] (see  refs. on Wikipedia)
 
 &#8211;  A literature survey reports: &#8220;Taurine appears to have multiple functions and plays an important role in many physiological processes, such as osmoregulation, immunomodulation and bile salt formation. Taurine analogues/derivatives have recently been reported to have a marked activity on various disorders.&#8221; [[link](http://www.ncbi.nlm.nih.gov/pubmed/17053427)]
 
@@ -210,9 +210,9 @@ See also:
 
 &#8211; Helps repair neurovascular/ neurological defects from type II diabetes.[[link](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6WNK-4JS1MSD-1&_user=10&_coverDate=06/30/2006&_rdoc=1&_fmt=high&_orig=search&_sort=d&_docanchor=&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=9b30d0dc958abbdb43461760f42bbe15)][[link2](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6WFG-458NJW2-34&_user=10&_coverDate=04/30/2001&_rdoc=1&_fmt=high&_orig=search&_sort=d&_docanchor=&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=a667706ec5bd777752cc6898e2585e1)]
 
-&#8211; An essay on the effects of taurine cites studies showing synergistic effects between caffeine and taurine, for instance, improved performance of athletes.  An excerpt:: &#8220;other studies by Alford, et al. (2001) and Warburton, et al. (2001) in which caffeinated taurine drinks improved information processing and increased subjective alertness, concentration, and physical endurance compared to the placebo group (no caffeine or taurine). Again, the same problems are encountered. The sample size is too small (36 and 42 respectively), and possibility of the positive effects being solely due to caffeine are not accounted for.&#8221;[[link](http://healthpsych.psy.vanderbilt.edu/Taurine.htm)]
+&#8211; An essay on the effects of taurine cites studies showing synergistic effects between caffeine and taurine, for instance, improved performance of athletes.  An excerpt:: &#8220;other studies by Alford, et al. (2001) and Warburton, et al. (2001) in which caffeinated taurine drinks improved information processing and increased subjective alertness, concentration, and physical endurance compared to the placebo group (no caffeine or taurine). Again, the same problems are encountered. The sample size is too small (36 and 42 respectively), and possibility of the positive effects being solely due to caffeine are not accounted for.&#8221[[link](http://healthpsych.psy.vanderbilt.edu/Taurine.htm)]
 
-&#8211; Another study found that &#8220;The combination of caffeine and taurine had no effect on short term memory, but did cause a significant decline in heart rate and an increase in mean arterial blood pressure.&#8221;[[link](http://www.ncbi.nlm.nih.gov/pubmed/16699827?dopt=Abstract&holding=f1000,f1000m,isrctn)]
+&#8211; Another study found that &#8220;The combination of caffeine and taurine had no effect on short term memory, but did cause a significant decline in heart rate and an increase in mean arterial blood pressure.&#8221[[link](http://www.ncbi.nlm.nih.gov/pubmed/16699827?dopt=Abstract&holding=f1000,f1000m,isrctn)]
 
 &#8211; France banned Taurine. Norway and Denmark also banned it, but lifted the ban recently.
 
@@ -254,11 +254,11 @@ See also:
 
 # Guarana
 
-&#8211;  contains caffeine (2-4.5% by weight).**
+&#8211;  contains caffeine (2-4.5% by weight).
 
-&#8211;  used by Brazilian tribes as a stimulant.**
+&#8211;  used by Brazilian tribes as a stimulant.
 
-&#8211;  study of 45 adults over 60 gave them 1000mg a day for 120 days. No observed cognitive alternation.[[link](http://www.scielo.br/scielo.php?pid=S1516-31801996000100003&script=sci_arttext&tlng=en)]**
+&#8211;  study of 45 adults over 60 gave them 1000mg a day for 120 days. No observed cognitive alternation.[[link](http://www.scielo.br/scielo.php?pid=S1516-31801996000100003&script=sci_arttext&tlng=en)]
 
 &#8211;  slight memory improvements and increased physical endurance observed in rats with low doses over long periods.[[link](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6T8D-3RJ9B6G-8&_user=10&_coverDate=02/28/1997&_rdoc=1&_fmt=high&_orig=search&_sort=d&_docanchor=&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=c2250aec614b9a56a6b8b7d231ef4da7)]
 
@@ -302,17 +302,17 @@ See also:
 
 # Vinpocetine
 
-&#8211;  Increased cerebral blood flow found in stroke patients after 2 week exposure.[[link](http://www.jns-journal.com/article/S0022-510X%2804%2900463-0/abstract)]**
+&#8211;  Increased cerebral blood flow found in stroke patients after 2 week exposure.[[link](http://www.jns-journal.com/article/S0022-510X%2804%2900463-0/abstract)]
 
-&#8211;  May serve as neuroprotective against stroke.[[text](http://www.ncbi.nlm.nih.gov/pubmed/12498034)]**
+&#8211;  May serve as neuroprotective against stroke.[[text](http://www.ncbi.nlm.nih.gov/pubmed/12498034)]
 
-&#8211;  Inhibits inflammation.[[link1](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2906898/?tool=pmcentrez)][[link2](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2890434/?tool=pmcentrez)]**
+&#8211;  Inhibits inflammation.[[link1](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2906898/?tool=pmcentrez)][[link2](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2890434/?tool=pmcentrez)]
 
-&#8211;  Conclusion&#8211; no evidence of improved energy. Not sure.****
+&#8211;  Conclusion&#8211; no evidence of improved energy. Not sure.
 
 #Huperzine A
 
-&#8211; &#8220;Hup A&#8221; is found to be a promising drug for treating Alzheimer&#8217;s.[[link](http://www.ncbi.nlm.nih.gov/pubmed/8701750)]**
+&#8211; &#8220;Hup A&#8221; is found to be a promising drug for treating Alzheimer&#8217;s.[[link](http://www.ncbi.nlm.nih.gov/pubmed/8701750)]
 
 &#8211;  Another study found that Huperzine A helped heal damaged brain tissue and may be useful for combating dementia.[[link](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6T1J-40FG877-8&_user=10&_coverDate=06/09/2000&_rdoc=1&_fmt=high&_orig=search&_sort=d&_docanchor=&view=c&_searchStrId=1431582862&_rerunOrigin=scholar.google&_acct=C000050221&_version=1&_urlVersi)]
 
@@ -320,29 +320,29 @@ See also:
 
 # DMAE (Dimethylethanolamine)
 
-&#8211; After 3 months, some positive effects on mood found in humans.[[link](http://www.ncbi.nlm.nih.gov/pubmed/12844472)]**
+&#8211; After 3 months, some positive effects on mood found in humans.[[link](http://www.ncbi.nlm.nih.gov/pubmed/12844472)]
 
-&#8211;  led to decreased lifespan in quails. (49 vs 69 weeks) [[link](http://geronj.oxfordjournals.org/content/32/1/38.abstract)]**
+&#8211;  led to decreased lifespan in quails. (49 vs 69 weeks) [[link](http://geronj.oxfordjournals.org/content/32/1/38.abstract)]
 
 # Ginkgo Biloba
 
 &#8211; Ginkgo Biloba is a big beautiful tree that has been cultivated in China and parts of Japan for thousands of years.
 
-&#8211; The large seeds have culinary applications and the leaves are used for Ginkgo tea. ****Ginkgo leaves are rich in flavanoids.
+&#8211; The large seeds have culinary applications and the leaves are used for Ginkgo tea. Ginkgo leaves are rich in flavanoids.
 
-&#8211;  A literature review finds some positive effects in the treatment of &#8220; cerebral insufficiency&#8221;.[[link](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1381419/)]**
+&#8211;  A literature review finds some positive effects in the treatment of &#8220; cerebral insufficiency&#8221;.[[link](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1381419/)]
 
-&#8211;  A study finds a small beneficial effect for the long-term treatment of Alzheimer&#8217;s Disease.[[link](http://archneur.ama-assn.org/cgi/content/abstract/55/11/1409)]**
+&#8211;  A study finds a small beneficial effect for the long-term treatment of Alzheimer&#8217;s Disease.[[link](http://archneur.ama-assn.org/cgi/content/abstract/55/11/1409)]
 
 &#8211;  A study finds no effect of Ginkgo Biloba on cognitive impairment and dementia.[[link](http://web.squ.edu.om/med-Lib/MED_CD/E_CDs/health%20development/html/clients/cochrane/ab003120.htm)]
 
-&#8211; A 6 month study finds slightly beneficial effects on the treatment and stabilization of dementia.[[pdf](http://tanamin.htmldb.co.kr/down/1_1.pdf)]**
+&#8211; A 6 month study finds slightly beneficial effects on the treatment and stabilization of dementia.[[pdf](http://tanamin.htmldb.co.kr/down/1_1.pdf)]
 
 &#8211;  A study found no effects on heart disease , but possible slight benefits to vascular disease.[[link](http://www.physorg.com/news178448508.html)]
 
 &#8211; A multi-year study found no effect of GB on preventing cognitive decline.[[link](http://www.physorg.com/news181327170.html)]
 
-&#8211; Several studies found no effect on memory problems.[[link](http://www.physorg.com/news123349870.html)][[link2](http://www.physorg.com/news123349870.html)]**
+&#8211; Several studies found no effect on memory problems.[[link](http://www.physorg.com/news123349870.html)][[link2](http://www.physorg.com/news123349870.html)]
 
 &#8211;  A $30 million study found no effects on memory, cognition, dementia or preventing Alzheimer&#8217;s.[[link](http://www.physorg.com/news146245702.html)]
 
@@ -354,17 +354,17 @@ See also:
 
 &#8211; A review which references 155 studies can be found [here](http://www.drugs.com/npp/ginkgo.html). They cite studies investigating possible benefits in preventing cancer. They also note that in a study with 160mg/day, no adverse reactions were found compared to placebo groups, so it is generally safe. There are side effects with larger quantities, though.
 
-&#8211; Conclusion&#8211; As far as preventing long-term mental decline and boosting health, Ginkgo Biloba appears to be another case of a traditional herbal remedy that doesn&#8217;t stand up to scientific scrutiny. Some research shows some minor effects on treatment of specific conditions but no over-arching effects have been found. As far as acute short-term effects, it appears that ****it does have some effects, which is probably why it has been used by monks and yogis for centuries. In conclusion, in the small quantities found in a cup of tea, Ginkgo may help lift mental fog and probably has some healthy antioxidant properties. However, it is not the disease-preventing panacea that is often claimed by marketers and given the possible chance of side effects it doesn&#8217;t seem worth taking as a supplement. ****
+&#8211; Conclusion&#8211; As far as preventing long-term mental decline and boosting health, Ginkgo Biloba appears to be another case of a traditional herbal remedy that doesn&#8217;t stand up to scientific scrutiny. Some research shows some minor effects on treatment of specific conditions but no over-arching effects have been found. As far as acute short-term effects, it appears that it does have some effects, which is probably why it has been used by monks and yogis for centuries. In conclusion, in the small quantities found in a cup of tea, Ginkgo may help lift mental fog and probably has some healthy antioxidant properties. However, it is not the disease-preventing panacea that is often claimed by marketers and given the possible chance of side effects it doesn&#8217;t seem worth taking as a supplement.
 
 # Citicoline
 
 &#8211; Citicoline is a main ingredient in &#8220;5 Hour Energy&#8221;. It makes &#8220;5 Hour Energy&#8221; unique among energy drinks.
 
-&#8211; Helps prevent age-related memory decline in mice.[[link](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC548494/?tool=pmcentrez)]**
+&#8211; Helps prevent age-related memory decline in mice.[[link](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC548494/?tool=pmcentrez)]
 
-&#8211;  1000mg/day improves verbal memory in aging seniors.[link[link](http://archneur.ama-assn.org/cgi/content/abstract/53/5/441)]**
+&#8211;  1000mg/day improves verbal memory in aging seniors.[link[link](http://archneur.ama-assn.org/cgi/content/abstract/53/5/441)]
 
-&#8211;  Conclusion&#8211; this ingredient looks promising, but not enough research has been done to make a judgment. There is no direct evidence it is energy-giving, although it is described in some sources as a &#8220;psychoactive stimulant&#8221;. ****
+&#8211;  Conclusion&#8211; this ingredient looks promising, but not enough research has been done to make a judgment. There is no direct evidence it is energy-giving, although it is described in some sources as a &#8220;psychoactive stimulant&#8221;.
 
 # &#8220;luo han guo&#8221; fruit
 
@@ -372,7 +372,7 @@ See also:
 
 &#8211; Has antioxidant properties.[[link](http://www.ncbi.nlm.nih.gov/pubmed/8988323)]
 
-&#8211; Generally recognized as safe by the FDA.****
+&#8211; Generally recognized as safe by the FDA.
 
 # Acai Berry
 
@@ -382,7 +382,7 @@ See also:
 
 &#8211;  A traditional herbal medicine for liver problems.
 
-&#8211; Studies have been mixed. One double-blind study found it &#8220;does not seem to significantly influence the course of patients with alcoholic and/or hepatitis B or C liver diseases&#8221;[[link](http://www.ncbi.nlm.nih.gov/pubmed/16279916)] A literature review reached no conclusion. Other studies indicate that in small quantities there are no effects but in large quantities there are effects at helping liver function. Other studies support the claim it prevents liver cancer and is healthy and helps repair liver damage. (references on Wikipedia)
+&#8211; Studies have been mixed. One double-blind study found it &#8220;does not seem to significantly influence the course of patients with alcoholic and/or hepatitis B or C liver diseases&#8221[[link](http://www.ncbi.nlm.nih.gov/pubmed/16279916)] A literature review reached no conclusion. Other studies indicate that in small quantities there are no effects but in large quantities there are effects at helping liver function. Other studies support the claim it prevents liver cancer and is healthy and helps repair liver damage. (references on Wikipedia)
 
 # Yerba Mate
 
@@ -392,9 +392,9 @@ See also:
 
 ### Acesulfame-K (Ace-K)
 
-&#8211;  Some health-advocacy groups call for more studies.**
+&#8211;  Some health-advocacy groups call for more studies.
 
-&#8211;  Generally recognized as safe (GRAS) by FDA.****
+&#8211;  Generally recognized as safe (GRAS) by FDA.
 
 ### Aspartame
 
@@ -408,15 +408,15 @@ See also:
 
 &#8211;  First artificial sugar substitute.
 
-&#8211; Study found it caused bladder cancer in rats in 1960. Long story short, it was later found the mechanism for cancer formation does not occur in humans.**
+&#8211; Study found it caused bladder cancer in rats in 1960. Long story short, it was later found the mechanism for cancer formation does not occur in humans.
 
-&#8211;  Still, its probably worth being wary of this one.****
+&#8211;  Still, its probably worth being wary of this one.
 
 ### Sucralose (aka &#8220;Splenda&#8221;)
 
-&#8211; &#8220;In determining the safety of sucralose, the FDA reviewed data from more than 110 studies in humans and animals. Many of the studies were designed to identify possible toxic effects, including carcinogenic, reproductive, and neurological effects. No such effects were found&#8230;&#8221; (FDA final ruling quoted on Wikipedia)**
+&#8211; &#8220;In determining the safety of sucralose, the FDA reviewed data from more than 110 studies in humans and animals. Many of the studies were designed to identify possible toxic effects, including carcinogenic, reproductive, and neurological effects. No such effects were found&#8230;&#8221; (FDA final ruling quoted on Wikipedia)
 
-&#8211;  Generally recognized as safe (GRAS) by FDA.****
+&#8211;  Generally recognized as safe (GRAS) by FDA.
 
 ### Stevia&#8211;  
 (Aka &#8220;Rebaudioside A&#8221; aka &#8220;Truvia&#8221;) &#8212; found in &#8220;Guru&#8221;
@@ -429,23 +429,23 @@ See also:
 
 # General Scientific Research on Energy Drinks
 
-&#8220;[_Mood and cognitive performance effects of &#8220;energy&#8221; drink constituents: caffeine, glucose and carbonation._](http://www.ncbi.nlm.nih.gov/pubmed/15526987?dopt=Abstract&holding=f1000,f1000m,isrctn)&#8221; &#8212; &#8220;The results showed caffeine to be the main energy drink constituent responsible for the effects found, with possible minor, relatively weak effects of carbohydrates.&#8221;
+&#8220[_Mood and cognitive performance effects of &#8220;energy&#8221; drink constituents: caffeine, glucose and carbonation._](http://www.ncbi.nlm.nih.gov/pubmed/15526987?dopt=Abstract&holding=f1000,f1000m,isrctn)&#8221; &#8212; &#8220;The results showed caffeine to be the main energy drink constituent responsible for the effects found, with possible minor, relatively weak effects of carbohydrates.&#8221;
 
-&#8211; ;_[Diuretic potential of energy drinks](http://www.ncbi.nlm.nih.gov/pubmed/16847703?dopt=Abstract&holding=f1000,f1000m,isrctn)_ &#8211; &#8220;Taurine played no significant role in the fluid balance in moderately dehydrated healthy young consumers. Consequently, the diuretic potential of energy drinks will not differ significantly from other caffeine containing beverages.&#8221;**
+&#8211; ;_[Diuretic potential of energy drinks](http://www.ncbi.nlm.nih.gov/pubmed/16847703?dopt=Abstract&holding=f1000,f1000m,isrctn)_ &#8211; &#8220;Taurine played no significant role in the fluid balance in moderately dehydrated healthy young consumers. Consequently, the diuretic potential of energy drinks will not differ significantly from other caffeine containing beverages.&#8221;
 
-&#8211; ;_[&#8220;Party Like a Rockstar: The Effect of Energy Drinks on Cognitive Ability](http://docs.google.com/viewer?a=v&q=cache:REXuphWoFikJ:course1.winona.edu/CFried/journal/2008%20papers/Adam.pdf+energy+drinks+cognition&hl=en&gl=us&pid=bl&srcid=ADGEESg_YzSNJHq_0FaxTY24ssJhkaVP5rD--5lSaZjB1EFkS-IfnIr8qOvMysq3sfwccOrM5xEuTJuAysUd0_9e_tN8)_&#8220; ****&#8212; a group of college students found that Rockstar energy drink did not improve cognitive performance, but did improve speed. (most likely to be due to caffeine).
+&#8211; ;_[&#8220;Party Like a Rockstar: The Effect of Energy Drinks on Cognitive Ability](http://docs.google.com/viewer?a=v&q=cache:REXuphWoFikJ:course1.winona.edu/CFried/journal/2008%20papers/Adam.pdf+energy+drinks+cognition&hl=en&gl=us&pid=bl&srcid=ADGEESg_YzSNJHq_0FaxTY24ssJhkaVP5rD--5lSaZjB1EFkS-IfnIr8qOvMysq3sfwccOrM5xEuTJuAysUd0_9e_tN8)_&#8220; &#8212; a group of college students found that Rockstar energy drink did not improve cognitive performance, but did improve speed. (most likely to be due to caffeine).
 
-&#8211; &#8220;[A survey of energy drink consumption patterns among college students](http://www.nutritionj.com/content/6/1/35#B7)&#8220;&#8211; results: &#8220;Fifty one percent of participants (n = 253) reported consuming greater than one energy drink each month&#8230;The majority of users consumed energy drinks for insufficient sleep (67%), to increase energy (65%), and to drink with alcohol while partying (54%). The majority of users consumed one energy drink to treat most situations although using three or more was a common practice to drink with alcohol while partying (49%). Weekly jolt and crash episodes were experienced by 29% of users, 22% reported ever having headaches, and 19% heart palpitations from consuming energy drinks. There was a significant dose effect only for jolt and crash episodes.&#8221;**
+&#8211; &#8220[A survey of energy drink consumption patterns among college students](http://www.nutritionj.com/content/6/1/35#B7)&#8220;&#8211; results: &#8220;Fifty one percent of participants (n = 253) reported consuming greater than one energy drink each month&#8230;The majority of users consumed energy drinks for insufficient sleep (67%), to increase energy (65%), and to drink with alcohol while partying (54%). The majority of users consumed one energy drink to treat most situations although using three or more was a common practice to drink with alcohol while partying (49%). Weekly jolt and crash episodes were experienced by 29% of users, 22% reported ever having headaches, and 19% heart palpitations from consuming energy drinks. There was a significant dose effect only for jolt and crash episodes.&#8221;
 
-&#8211; ;[_Efficacy of a ‘functional energy drink’ in counteracting driver sleepiness_](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6T0P-44TD316-1&_user=10&_coverDate=03/31/2002&_rdoc=1&_fmt=high&_orig=search&_sort=d&_docanchor=&view=c&_searchStrId=1419160293&_rerunOrigin=scholar.google&_acct=C000050221&_version=1&_urlVersi)  &#8211; &#8220;It was concluded that the FED (Functional Energy Drink) is beneficial in reducing sleepiness and sleep-related driving incidents under conditions of afternoon monotonous driving following sleep restriction the night before.
+&#8211; [_Efficacy of a ‘functional energy drink’ in counteracting driver sleepiness_](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6T0P-44TD316-1&_user=10&_coverDate=03/31/2002&_rdoc=1&_fmt=high&_orig=search&_sort=d&_docanchor=&view=c&_searchStrId=1419160293&_rerunOrigin=scholar.google&_acct=C000050221&_version=1&_urlVersi)  &#8211; &#8220;It was concluded that the FED (Functional Energy Drink) is beneficial in reducing sleepiness and sleep-related driving incidents under conditions of afternoon monotonous driving following sleep restriction the night before.
 
-&#8211; ;[The effects of Red Bull Energy Drink on human performance and mood](http://www.springerlink.com/content/xxdbgvjy9ke72wbl/) Significant improvements in mental performance included choice reaction time, concentration (number cancellation) and memory (immediate recall), which reflected increased subjective alertness
+&#8211; [The effects of Red Bull Energy Drink on human performance and mood](http://www.springerlink.com/content/xxdbgvjy9ke72wbl/) Significant improvements in mental performance included choice reaction time, concentration (number cancellation) and memory (immediate recall), which reflected increased subjective alertness
 
-&#8211; ;[New-onset seizures in adults: Possible association with consumption of popular energy drinks](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6WDT-4N6Y5NF-1&_user=10&_coverDate=05/31/2007&_rdoc=1&_fmt=high&_orig=search&_sort=d&_docanchor=&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=ba033ef5dee6dcb31a5d7b35922ad7f1) &#8212; &#8220;We report a series of four patients who had discrete seizures on multiple occasions, following heavy consumption of energy drinks.
+&#8211; [New-onset seizures in adults: Possible association with consumption of popular energy drinks](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6WDT-4N6Y5NF-1&_user=10&_coverDate=05/31/2007&_rdoc=1&_fmt=high&_orig=search&_sort=d&_docanchor=&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=ba033ef5dee6dcb31a5d7b35922ad7f1) &#8212; &#8220;We report a series of four patients who had discrete seizures on multiple occasions, following heavy consumption of energy drinks.
 
-&#8212;[_The effects of energy drinks on cognitive performance_](http://www.ncbi.nlm.nih.gov/pubmed/18470842) &#8212; &#8220;
+&#8212[The effects of energy drinks on cognitive performance](http://www.ncbi.nlm.nih.gov/pubmed/18470842) &#8212; &#8220;
 
-&#8211; [*The effects of Red Bull Energy Drink on human performance and mood*](http://www.ncbi.nlm.nih.gov/pubmed/11665810) &#8212; Significant improvements in mental performance included choice reaction time, concentration (number cancellation) and memory (immediate recall), which reflected increased subjective alertness. These consistent and wide ranging improvements in performance are interpreted as reflecting the effects of the combination of ingredients.
+&#8211; [The effects of Red Bull Energy Drink on human performance and mood](http://www.ncbi.nlm.nih.gov/pubmed/11665810) &#8212; Significant improvements in mental performance included choice reaction time, concentration (number cancellation) and memory (immediate recall), which reflected increased subjective alertness. These consistent and wide ranging improvements in performance are interpreted as reflecting the effects of the combination of ingredients.
 
 &#8211; [Effects of ‘energy’ drinks on mood and mental performance: critical methodology](http://linkinghub.elsevier.com/retrieve/pii/S0950329302000447)
 
