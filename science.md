@@ -19,7 +19,7 @@ P. J. Pickhardt, G. Blake, P. M. Graffy, V. Sandfort, **D. C. Elton**,  A. A. Pe
 
 P. J. Pickhardt, **D. C. Elton**, P. M. Graffy, S. J. Lee, J. Liu, V. Sandfort, R. M. Summers. "Fully-automated CT Imaging Biomarkers of Bone, Muscle, and Fat: Correcting for the Effect of Intravenous Contrast". to appear in *Abdominal Radiology*
 
-R. M. Summers, **D. C. Elton**, S. Lee, Y. Zhu, J. Liu, M. Bagheri, V. Sanfort, P. C. Grayson, N. N. Mehta, P. A. Pinto, W. M. Linehan, A. A. Perez, P. M. Graffy, S. O’Connor, P. J. Pickhardt. "Atherosclerotic Plaque Burden on Abdominal CT: Automated Assessment with Deep Learning on Noncontrast and Contrast-enhanced Scans". to appear in *Academic Radiology* (2020)
+R. M. Summers, **D. C. Elton**, S. Lee, Y. Zhu, J. Liu, M. Bagheri, V. Sanfort, P. C. Grayson, N. N. Mehta, P. A. Pinto, W. M. Linehan, A. A. Perez, P. M. Graffy, S. O’Connor, P. J. Pickhardt. "[Atherosclerotic Plaque Burden on Abdominal CT: Automated Assessment with Deep Learning on Noncontrast and Contrast-enhanced Scans](https://www.sciencedirect.com/science/article/abs/pii/S1076633220305031?via%3Dihub#sec0012)". *Academic Radiology* (2020)
 
 **D. C. Elton**, P. D. Spencer, J. D. Riches, E. D. Williams. "[Exclusion zone phenomena in water - a critical review of experimental findings and theories](https://www.mdpi.com/1422-0067/21/14/5041)"  *International Journal of Molecular Sciences*, **21** (14), 5041 (2020) [[arXiv](https://arxiv.org/abs/1909.06822)]
 
