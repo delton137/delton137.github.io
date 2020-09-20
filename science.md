@@ -11,7 +11,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=KG0pbOYAAAAJ
 ## Peer reviewed journal articles
 S. Lee, **D. C. Elton**, J. L. Gulley, P. J. Pickhardt, W. L. Dahut, R. A. Madan, P. A. Pinto, D. E. Citrin, R. M. Summers. "Association of Abdominal Calcified Atherosclerotic Plaque with Prostate Cancer: A Case-Control Study" (under review)
 
-**D. C. Elton**. "Applying Deutsch's concept of good explanations to artificial intelligence and neuroscience - an initial exploration". to appear in *Cognitive Systems Research*
+**D. C. Elton**. "Applying Deutsch's concept of good explanations to artificial intelligence and neuroscience - an initial exploration". (under review )
 
 P. J. Pickhardt, P. M. Graffy, A. A. Perez, M. G. Lubner, **D. C. Elton**, R. M. Summers. "Opportunistic Screening at Abdominal CT using Automated Biomarkers: Adding Value Beyond the Clinical Indication"  to appear in *Radiographics*. (2020)
 
