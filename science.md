@@ -17,7 +17,7 @@ P. J. Pickhardt, P. M. Graffy, A. A. Perez, M. G. Lubner, **D. C. Elton**, R. M.
 
 P. J. Pickhardt, G. Blake, P. M. Graffy, V. Sandfort, **D. C. Elton**,  A. A. Perez, R. M. Summers. "[Liver Steatosis Categorization on Contrast-Enhanced CT Using a Fully-Automated Deep Learning Volumetric Segmentation Tool: Evaluation in 1,204 Heathy Adults Using Unenhanced CT as Reference Standard](https://www.ajronline.org/doi/abs/10.2214/AJR.20.24415)". *American Journal of Roentgenology*. (2020)
 
-P. J. Pickhardt, **D. C. Elton**, P. M. Graffy, S. J. Lee, J. Liu, V. Sandfort, R. M. Summers. "Fully-automated CT Imaging Biomarkers of Bone, Muscle, and Fat: Correcting for the Effect of Intravenous Contrast". to appear in *Abdominal Radiology*
+P. J. Pickhardt, **D. C. Elton**, P. M. Graffy, S. J. Lee, J. Liu, V. Sandfort, R. M. Summers. "[Fully-automated CT Imaging Biomarkers of Bone, Muscle, and Fat: Correcting for the Effect of Intravenous Contrast](https://link.springer.com/article/10.1007/s00261-020-02755-5)". to appear in *Abdominal Radiology* (2021)
 
 R. M. Summers, **D. C. Elton**, S. Lee, Y. Zhu, J. Liu, M. Bagheri, V. Sanfort, P. C. Grayson, N. N. Mehta, P. A. Pinto, W. M. Linehan, A. A. Perez, P. M. Graffy, S. O’Connor, P. J. Pickhardt. "[Atherosclerotic Plaque Burden on Abdominal CT: Automated Assessment with Deep Learning on Noncontrast and Contrast-enhanced Scans](https://www.sciencedirect.com/science/article/abs/pii/S1076633220305031?via%3Dihub#sec0012)". *Academic Radiology* (2020)
 
@@ -77,8 +77,9 @@ F. G. VanGessel, G. Kumar, **D. C. Elton**, and P. W. Chung, “A Phonon Boltzma
 M. A. Forman, C. W. Smith, B. J. Vasquez, B. T. MacBride, J. E. Stawarz, J. J. Podesta, **D. C. Elton**, U. Y. Malecot, and Y. Gagne. "[Using Third‐Order Moments of Fluctuations in V and B to Determine Turbulent Heating Rates in the Solar Wind](https://aip.scitation.org/doi/abs/10.1063/1.3395830)", *AIP Conference Proceedings* **1216**, 12th International Solar Wind Conference, 176 (2010)
 
 ## Book chapters
-**D. C. Elton**. "What would a science of AI look like?".  (under review) 2020
-**D. C. Elton** and P. D. Spencer. "Four examples of pathological water science and what they have in common"
+**D. C. Elton**. "What would a science of AI look like?".  (under review) (2020)
+
+**D. C. Elton** and P. D. Spencer. "Four examples of pathological water science and what they have in common" (2020)
 
 ## Preprints
 C. S. Greene, **D. C. Elton**, A. J. Titus, A. Gitter, D. S. Himmelstein, B. C. Christensen, J. J. Levy, et al. "[Opportunities and obstacles for deep learning in
