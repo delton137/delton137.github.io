@@ -50,7 +50,7 @@ J. J. Podesta, M. A. Forman, C. W. Smith, **D. C. Elton**, and Y. Malecot, &#822
 "Learning Structured Graphs from Visual/Semantic Feature and Radiology Knowledge Graph for Multi-Class/Multi-Label Classification of Medical Images"
 -->
 
-Y. Peng, S. Lee, **D. C. Elton**, T. Shen, Y. Tang, Q. Chen, S. Wang, Y. Zhu, R. M. Summers, Z. Lu. "Automatic Recognition of Lymph Nodes from Clinical Text". (in prep)
+Y. Peng, S. Lee, **D. C. Elton**, T. Shen, Y. Tang, Q. Chen, S. Wang, Y. Zhu, R. M. Summers, Z. Lu. "Automatic Recognition of Lymph Nodes from Clinical Text". to appear in *Proceedings of the 3rd Workshop on Clinical Natural Language Processing (ClinicalNLP)* (2020)
 
 S. Y. Shin, S. Lee, **D. C. Elton**, J. Gulley, R. M. Summers. "Deep Small Bowel Segmentation with Cylindrical Topological Constraints". To appear in *Medical Image Computing and Computer Assisted Intervention (MICCAI) 2020*. [[arxiv](https://arxiv.org/abs/2007.08674)]
 
