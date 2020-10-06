@@ -41,7 +41,7 @@ G. Kumar, F. G. VanGessel, **D. C. Elton**, and P. W. Chung. "[Phonon Lifetimes 
 **D.C. Elton** and  M.-V Fernández-Serra. "[Polar nanoregions in water &#8211; a study of the dielectric properties of TIP4P/2005,TIP4P/2005f and TTM3F](http://scitation.aip.org/content/aip/journal/jcp/140/12/10.1063/1.4869110)", _J. Chem. Phys._, **140**, 124504 (2014) [[arXiv](http://arxiv.org/abs/1401.5090)]
 <!--- <span style="font-size: 12px;"><br> We present a critical comparison of the dielectric properties of three types of water model used in molecular dynamics &#8211; rigid, flexible, and polarizable. To better understand the dielectric properties of water we make a novel analogy to the physics of polar nanoregions in relaxor ferroelectric materials. We argue that polarizability is essential to accurately reproducing the dipolar ordering of the liquid and how it changes with temperature. </span> --->
 
-J. J. Podesta, M. A. Forman, C. W. Smith, **D. C. Elton**, and Y. Malecot, &#8220;[Accurate Estimation of](http://www.nonlin-processes-geophys.net/16/99/2009/npg-16-99-2009.html) [Third-Order Moments from Turbulence Measurements](http://www.nonlin-processes-geophys.net/16/99/2009/npg-16-99-2009.html)&#8220;, _Nonlin. Proc. Geophys.,_ **16,** 99 (2009) [[arXiv](https://arxiv.org/abs/0901.3499)]
+J. J. Podesta, M. A. Forman, C. W. Smith, **D. C. Elton**, and Y. Malecot, &#8220;[Accurate Estimation of](http://www.nonlin-processes-geophys.net/16/99/2009/npg-16-99-2009.html) [Third-Order Moments from Turbulence Measurements](http://www.nonlin-processes-geophys.net/16/99/2009/npg-16-99-2009.html)&#8220;, _Nonlin. Proc. Geophys.,_ **16**, 99 (2009) [[arXiv](https://arxiv.org/abs/0901.3499)]
 
 <!-------------------------------------------------------------------------------------------------------------->
 ## Peer reviewed conference proceedings
@@ -49,14 +49,13 @@ J. J. Podesta, M. A. Forman, C. W. Smith, **D. C. Elton**, and Y. Malecot, &#822
 
 "Learning Structured Graphs from Visual/Semantic Feature and Radiology Knowledge Graph for Multi-Class/Multi-Label Classification of Medical Images"
 -->
+**D. C. Elton**, Y. Zhu, Y. Tang, R. M. Summers. "Improving the Transferability of 3D Segmentation Models Using Cycle Consistent Adversarial Networks" (in prep)
 
 Y. Peng, S. Lee, **D. C. Elton**, T. Shen, Y. Tang, Q. Chen, S. Wang, Y. Zhu, R. M. Summers, Z. Lu. "Automatic Recognition of Lymph Nodes from Clinical Text". to appear in *Proceedings of the 3rd Workshop on Clinical Natural Language Processing (ClinicalNLP)* (2020)
 
-S. Y. Shin, S. Lee, **D. C. Elton**, J. Gulley, R. M. Summers. "Deep Small Bowel Segmentation with Cylindrical Topological Constraints". To appear in *Medical Image Computing and Computer Assisted Intervention (MICCAI) 2020*. [[arxiv](https://arxiv.org/abs/2007.08674)]
+S. Y. Shin, S. Lee, **D. C. Elton**, J. Gulley, R. M. Summers. "[Deep Small Bowel Segmentation with Cylindrical Topological Constraints](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_21)". *Medical Image Computing and Computer Assisted Intervention – MICCAI 2020*, edited by Anne L. Martel et al., Springer International Publishing,  **12264**, 207–15. (2020) [[arxiv](https://arxiv.org/abs/2007.08674)]
 
-Y. Zhu, Y. Tang, Y. Tang, **D. C. Elton**, S. Lee, P. J. Pickhardt, R. M. Summers. "Cross-Domain Medical Image Translation by Shared Latent Gaussian Mixture Model". To appear in *Medical Image Computing and Computer Assisted Intervention (MICCAI) 2020* [[arXiv](http://arxiv.org/abs/2007.07230)]
-
-**D. C. Elton**, Y. Zhu, Y. Tang, R. M. Summers. "Improving the Transferability of 3D Segmentation Models Using Cycle Consistent Adversarial Networks" (in prep)
+Y. Zhu, Y. Tang, Y. Tang, **D. C. Elton**, S. Lee, P. J. Pickhardt, R. M. Summers. "[Cross-Domain Medical Image Translation by Shared Latent Gaussian Mixture Model](https://link.springer.com/chapter/10.1007%2F978-3-030-59713-9_37)". *Medical Image Computing and Computer Assisted Intervention – MICCAI 2020*, edited by Anne L. Martel et al., Springer International Publishing,  **12262**, 379–389. (2020) [[arXiv](http://arxiv.org/abs/2007.07230)]  
 
 **D. C. Elton**. "[Self-explaining AI as an alternative to interpretable AI](https://link.springer.com/chapter/10.1007%2F978-3-030-52152-3_10)". *Proceedings of the 13th Annual Conference on Artificial General Intelligence (AGI-2020)*, pg 95. [[arXiv](https://arxiv.org/abs/2002.05149)] (Won the 2020 Kurzweil Prize for Best AGI Idea)
 
@@ -79,7 +78,7 @@ M. A. Forman, C. W. Smith, B. J. Vasquez, B. T. MacBride, J. E. Stawarz, J. J. P
 ## Book chapters
 **D. C. Elton**. "What would a science of AI look like?".  (under review) (2020)
 
-**D. C. Elton** and P. D. Spencer. "Four examples of pathological water science and what they have in common" (2020)
+**D. C. Elton** and P. D. Spencer. "Four examples of pathological water science and what they have in common". To appear in *Water in Biomechanical & Related Systems"*, A. Gadomski, editor. Springer. (2021)
 
 ## Preprints
 C. S. Greene, **D. C. Elton**, A. J. Titus, A. Gitter, D. S. Himmelstein, B. C. Christensen, J. J. Levy, et al. "[Opportunities and obstacles for deep learning in
