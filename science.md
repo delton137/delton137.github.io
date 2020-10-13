@@ -59,7 +59,7 @@ Y. Zhu, Y. Tang, Y. Tang, **D. C. Elton**, S. Lee, P. J. Pickhardt, R. M. Summer
 
 **D. C. Elton**. "[Self-explaining AI as an alternative to interpretable AI](https://link.springer.com/chapter/10.1007%2F978-3-030-52152-3_10)". *Proceedings of the 13th Annual Conference on Artificial General Intelligence (AGI-2020)*, pg 95. [[arXiv](https://arxiv.org/abs/2002.05149)] (Won the 2020 Kurzweil Prize for Best AGI Idea)
 
-Z. Boukouvalas, M. Puerto, **D. C. Elton**, P. W. Chung, M. D. Fuge. "[Independent Vector Analysis for Molecular Data Fusion: Application to Property Prediction and Knowledge Discovery of Energetic Materials](Independent Vector Analysis for Molecular Data Fusion: Application to Property Prediction and Knowledge Discovery of Energetic Materials)". *Proceedings of the 28th European Signal Processing Conference (EUSIPCO 2020)*. (2020)
+Z. Boukouvalas, M. Puerto, **D. C. Elton**, P. W. Chung, M. D. Fuge. "[Independent Vector Analysis for Molecular Data Fusion: Application to Property Prediction and Knowledge Discovery of Energetic Materials](https://www.eurasip.org/Proceedings/Eusipco/Eusipco2020/pdfs/0001030.pdf)". *Proceedings of the 28th European Signal Processing Conference (EUSIPCO 2020)*. (2020)
 
 Y. Zhu, **D. C. Elton**, S. Lee, P. J. Pickhardt, R. M. Summers. "Image Translation by Latent Union of Subspaces for Cross-Domain Plaque Detection".  *Proceedings of the 2020 Medical Imaging with Deep Learning (MIDL) Conference*. (2020). [[arXiv](https://arxiv.org/abs/2005.11384)]
 
