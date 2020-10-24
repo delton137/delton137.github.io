@@ -17,7 +17,7 @@ P. J. Pickhardt, P. M. Graffy, A. A. Perez, M. G. Lubner, **D. C. Elton**, R. M.
 
 P. J. Pickhardt, G. Blake, P. M. Graffy, V. Sandfort, **D. C. Elton**,  A. A. Perez, R. M. Summers. "[Liver Steatosis Categorization on Contrast-Enhanced CT Using a Fully-Automated Deep Learning Volumetric Segmentation Tool: Evaluation in 1,204 Heathy Adults Using Unenhanced CT as Reference Standard](https://www.ajronline.org/doi/abs/10.2214/AJR.20.24415)". *American Journal of Roentgenology*. (2020)
 
-P. J. Pickhardt, **D. C. Elton**, P. M. Graffy, S. J. Lee, J. Liu, V. Sandfort, R. M. Summers. "[Fully-automated CT Imaging Biomarkers of Bone, Muscle, and Fat: Correcting for the Effect of Intravenous Contrast](https://link.springer.com/article/10.1007/s00261-020-02755-5)".  *Abdominal Radiology* (2021)
+P. J. Pickhardt, **D. C. Elton**, P. M. Graffy, S. J. Lee, J. Liu, V. Sandfort, R. M. Summers. "[Fully-automated CT Imaging Biomarkers of Bone, Muscle, and Fat: Correcting for the Effect of Intravenous Contrast](https://link.springer.com/article/10.1007/s00261-020-02755-5)". to appear in *Abdominal Radiology* (2021)
 
 R. M. Summers, **D. C. Elton**, S. Lee, Y. Zhu, J. Liu, M. Bagheri, V. Sanfort, P. C. Grayson, N. N. Mehta, P. A. Pinto, W. M. Linehan, A. A. Perez, P. M. Graffy, S. O’Connor, P. J. Pickhardt. "[Atherosclerotic Plaque Burden on Abdominal CT: Automated Assessment with Deep Learning on Noncontrast and Contrast-enhanced Scans](https://www.sciencedirect.com/science/article/abs/pii/S1076633220305031?via%3Dihub#sec0012)". *Academic Radiology* (2020)
 
@@ -59,7 +59,7 @@ Y. Zhu, Y. Tang, Y. Tang, **D. C. Elton**, S. Lee, P. J. Pickhardt, R. M. Summer
 
 **D. C. Elton**. "[Self-explaining AI as an alternative to interpretable AI](https://link.springer.com/chapter/10.1007%2F978-3-030-52152-3_10)". *Proceedings of the 13th Annual Conference on Artificial General Intelligence (AGI-2020)*, pg 95. [[arXiv](https://arxiv.org/abs/2002.05149)] (Won the 2020 Kurzweil Prize for Best AGI Idea)
 
-Z. Boukouvalas, M. Puerto, **D. C. Elton**, P. W. Chung, M. D. Fuge. "[Independent Vector Analysis for Molecular Data Fusion: Application to Property Prediction and Knowledge Discovery of Energetic Materials](https://www.eurasip.org/Proceedings/Eusipco/Eusipco2020/pdfs/0001030.pdf)". *Proceedings of the 28th European Signal Processing Conference (EUSIPCO 2020)*. (2020)
+Z. Boukouvalas, M. Puerto, **D. C. Elton**, P. W. Chung, M. D. Fuge. "Independent Vector Analysis for Molecular Data Fusion: Application to Property Prediction and Molecular Knowledge Discovery". to appear in *Proceedings of the 28th European Signal Processing Conference (EUSIPCO 2020)*. (2020)
 
 Y. Zhu, **D. C. Elton**, S. Lee, P. J. Pickhardt, R. M. Summers. "Image Translation by Latent Union of Subspaces for Cross-Domain Plaque Detection".  *Proceedings of the 2020 Medical Imaging with Deep Learning (MIDL) Conference*. (2020). [[arXiv](https://arxiv.org/abs/2005.11384)]
 
@@ -67,7 +67,7 @@ Y. Zhu, **D. C. Elton**, S. Lee, P. J. Pickhardt, R. M. Summers. "Image Translat
 
 **D. C. Elton**, D. Turakhia, N. Reddy, Z. Boukouvalas, R. M. Doherty, M. D. Fuge, and P. W. Chung. "Using natural language processing techniques to extract information on the properties and functionalities of energetic materials from large text corpora". *Proceedings of the 22nd International Seminar on New Trends in Research of Energetic Materials*. (2019). [[arXiv](https://arxiv.org/abs/1903.00415)] (won the 3rd best presentation award at the 2019 NTREM conference)
 
-Z. Boukouvalas, **D. C. Elton**, M. D. Fuge, and P. W. Chung. "Independent Vector Analysis for Data Fusion Prior to Molecular Property Prediction with Machine Learning". *Proceedings of the 2018 Neural Information Processing Systems (NeurIPS) workshop on Machine Learning for Molecules and Materials*. [[arXiv](https://arxiv.org/abs/1811.00628)]
+Z. Boukouvalas, **D. C. Elton**, M. D. Fuge, and P. W. Chung. "Independent Vector Analysis for Data Fusion Prior to Molecular Property Prediction with Machine Learning". *Proceedings of the [2018 Neural Information Processing Systems (NeurIPS) workshop on Machine Learning for Molecules and Materials](http://www.quantum-machine.org/workshops/nips2018draft/)*. [[arXiv](https://arxiv.org/abs/1811.00628)]
 
 B. C. Barnes, **D. C. Elton**, Z. Boukouvalas, D. E. Taylor, W. D. Mattson, M. D. Fuge, and P.W. Chung, “Machine Learning of Energetic Material Properties”, Proceedings of the 16th International Detonation Symposium, Cambridge MD, USA, July 2018, [[arXiv](https://arxiv.org/abs/1807.06156)]
 
@@ -76,9 +76,7 @@ F. G. VanGessel, G. Kumar, **D. C. Elton**, and P. W. Chung, “A Phonon Boltzma
 M. A. Forman, C. W. Smith, B. J. Vasquez, B. T. MacBride, J. E. Stawarz, J. J. Podesta, **D. C. Elton**, U. Y. Malecot, and Y. Gagne. "[Using Third‐Order Moments of Fluctuations in V and B to Determine Turbulent Heating Rates in the Solar Wind](https://aip.scitation.org/doi/abs/10.1063/1.3395830)", *AIP Conference Proceedings* **1216**, 12th International Solar Wind Conference, 176 (2010)
 
 ## Book chapters
-**D. C. Elton**. "What would a science of AI look like?".  (under review) (2020)
-
-**D. C. Elton** and P. D. Spencer. "Four examples of pathological water science and what they have in common". To appear in *Water in Biomechanical & Related Systems"*, A. Gadomski, editor. Springer. (2021)
+**D. C. Elton** and P. D. Spencer. "Four examples of pathological water science and what they have in common". To appear in *Water in Biomechanical & Related Systems"*, A. Gadomski, editor. Springer. (2021) [[arXiv](https://arxiv.org/abs/2010.07287)]
 
 ## Preprints
 C. S. Greene, **D. C. Elton**, A. J. Titus, A. Gitter, D. S. Himmelstein, B. C. Christensen, J. J. Levy, et al. "[Opportunities and obstacles for deep learning in

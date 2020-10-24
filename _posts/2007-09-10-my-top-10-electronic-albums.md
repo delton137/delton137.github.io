@@ -7,12 +7,6 @@ author: delton137
 layout: post
 guid: https://moreisdifferent.wordpress.com/?p=1901
 permalink: /2007/09/10/my-top-10-electronic-albums/
-geo_public:
-  - "0"
-publicize_tumblr_url:
-  - http://.tumblr.com/post/125298854028
-publicize_path_id:
-  - 55b81b1bca7261057433a088
 categories:
   - music
 tags:
