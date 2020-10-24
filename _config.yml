@@ -32,7 +32,10 @@ excerpt_separator: "<!--more-->"
 
 gems:
   - jekyll-sitemap
+  - jekyll-scholar
 
+scholar:
+  style: modern-language-association
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #

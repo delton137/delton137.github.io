@@ -3,13 +3,23 @@
  */
 .site-header {
     border-top: 0px solid $grey-color-dark;
-	border-bottom: 4px solid $clemson-purple;
+	border-bottom: 1px solid  $grey-color-light;
     min-height: 56px;
-    background: $clemson-orange;
+    background: #ffffff;
     // Positioning context for the mobile navigation icon
     position: relative;
 
 }
+//.site-header:before {
+//  content : "";
+//  position: absolute;
+//  left    : 0; //calc((#{$max-width} - (#{$content-width}) * 0.5  + #{$spacing-unit})*0.5);
+  //bottom  : 0;
+  //height  : 100px;
+//  width   : 100%;//calc(#{$content-width} - (#{$spacing-unit} * 2));
+//  border-bottom: 1px solid  $grey-color-light; // #0563fc;
+//}
+
 
 .site-title {
     font-size: 26px;
@@ -20,10 +30,10 @@
     float: left;
     font-weight: 500;
 		font-family: 'Titillium Web', sans-serif;
-    color: #ffffff;
+    color: #041380;
     &,
     &:visited {
-        color: #ffffff;
+        color: #041380; /// was #0563fc
     }
     &,
     &:hover {
@@ -70,7 +80,7 @@
 
 .site-nav a {
 	display: block;
-        color: #ffffff;
+        color: #041380;
 }
 
 /* Sub Menu */
@@ -91,7 +101,7 @@ color: #522d80;
 }
 .site-nav  .sub-menu {
 	background: #ffffff;
-	border-color: $clemson-purple;
+	border-color: #ffffff;
 	min-width: 265px;
 
 	z-index:2147483647;
@@ -156,8 +166,8 @@ z-index:999;
     }
 
     .page-link {
-        color: #ffffff;
-    background: $clemson-orange;
+        color: #041380;
+        background: #ffffff;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
@@ -212,5 +222,3 @@ z-index:999;
         }
     }
 }
-
-
