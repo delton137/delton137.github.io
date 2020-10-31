@@ -15,7 +15,7 @@ tags:
 
 Recently a few people have asked me for the best courseware for learning machine learning. The truth is there is no simple answer. Certainly the machine learning course by Andrew Ng is a good place to start, but most people I know are looking for more depth. Here are some resources I've collected. This list will be expanded and refined over time:
 
-# Select online courses for machine learning
+## Select online courses for machine learning
 Coursera: <a href="https://www.coursera.org/learn/machine-learning">“Machine Learning” - Andrew Ng</a> (the most popular)
 
 Coursera: “<a href="https://www.coursera.org/learn/neural-networks">Neural Networks for Machine Learning</a>” - Geoffrey Hinton (for a deep dive)
@@ -24,7 +24,7 @@ Lectures for course on [reinforcement learning](https://drive.google.com/drive/f
 
 The are a gazillion other data science / machine learning online courses. Many of them are very short there or only superficially introduce topics and show you barebones implementations. [Someone reviewed a large number of them here](http://www.skilledup.com/articles/list-data-science-bootcamps)
 
-# Learning Python
+## Learning Python
 [SciPy lectures.org](http://www.scipy-lectures.org/)
 
 [Think Python: How to Think Like a Computer Scientist]([http://greenteapress.com/thinkpython2/html/index.html])
@@ -39,22 +39,22 @@ The are a gazillion other data science / machine learning online courses. Many o
 
 [Introduction to machine learning in Python with scikit-learn (video series)](http://www.dataschool.io/machine-learning-with-scikit-learn/)
 
-# Pandas
+## Pandas
 <a href="http://pandas.pydata.org/pandas-docs/stable/cookbook.html">The Pandas cookbook</a>
 
 <a href="http://pandas.pydata.org/pandas-docs/stable/cookbook.html">Pandas tutorials from Wes McKinney, lead Pandas developer</a>
 
-# General programming / algorithms
+## General programming / algorithms
 <a href="http://interactivepython.org/runestone/static/pythonds/index.html"><em>Problem Solving with Algorithms and Data Structures in Python</em></a> from Interactive Programming
 
 <a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/">MIT Introduction to Algorithms  online course<a/>
 
-# Accessible and information dense research papers
+## Accessible and information dense research papers
 Check out the awesome graphical papers at [*Distill*](https://distill.pub/), such as:
 
 [Feature visualization](https://distill.pub/2017/feature-visualization/)
 
-# Cool blog posts, etc
+## Cool blog posts
 <a href="http://colah.github.io/posts/2014-07-Conv-Nets-Modular/">*Conv-nets : a Modular Perspective*</a>  - Christopher Olah
 
 <a href="http://colah.github.io/posts/2014-07-Understanding-Convolutions/"><em>Understanding Convolutions </em></a> - Christopher Olah
@@ -67,19 +67,19 @@ Check out the awesome graphical papers at [*Distill*](https://distill.pub/), suc
 
 [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/)
 
-# Important papers for deep learning
+## Important papers for deep learning
 <a href="https://distill.pub/2016/augmented-rnns/"><em>Attention and Augmented Recurrent Neural Networks</em></a>
 
 <em><a href="https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html">Inceptionism: running “Deep Dream” at Google Research </a></em>
 
-# YouTube channels
+## YouTube channels
 Some people love em, some people hate em.
 
 [Two minute papers](https://www.youtube.com/user/keeroyz) (100,000+ subscribers!)
 
 [Siraj Rival](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) - (225,000+ subscribers)
 
-# Textbooks
+## Textbooks
 [Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/) by Aurélien Géron  - One of my personal favorite books - if you already know Python well and want to get hands on with machine learning quickly and up to speed on the latest methods & techniques, this is an excellent book.
 
 <a href="http://www.deeplearningbook.org/">http://www.deeplearningbook.org/</a>  Free draft online, by Ian Goodfellow and Yoshua Bengio and Aaron Courville
@@ -119,10 +119,10 @@ Gaussian Processes For Machine Learning, <a href="http://www.amazon.com/Gaussian
 
 <a href="http://amzn.to/2hhrJgh">Amazon.com: Convex Optimization (9780521833783): Stephen Boyd, Lieven Vandenberghe: Books<
 
-# Cool articles for lay audiences
+## Cool articles for lay audiences
 [The Extraordinary Link Between Deep Neural Networks and the Nature of the Universe](https://www.technologyreview.com/s/602344/the-extraordinary-link-between-deep-neural-networks-and-the-nature-of-the-universe/)
 
-# Books for lay audiences
+## Books for lay audiences
 [The Master Algorithm : How the Quest for the Ultimate Learning Machine Will Remake Our World](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine/dp/0465065708/ref=sr_1_1?s=books&ie=UTF8&qid=1470187436&sr=1-1&keywords=The+master+algorithm) by Pedro Domingos
 
 [The Signal and the Noise: Why So Many Predictions Fail--but Some Don't](https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but/dp/0143125087]) by Nate Silver
@@ -133,7 +133,7 @@ Gaussian Processes For Machine Learning, <a href="http://www.amazon.com/Gaussian
 
 [On Intelligence](https://www.amazon.com/Intelligence-Understanding-Creation-Intelligent-Machines/dp/0805078533) by Jeff Hawkins -- highly recommended!!
 
-# Select bootcamps:  
+## Select bootcamps:  
 <a href="https://www.thedataincubator.com/foundations.html">Insight Data Science Foundation's Program</a> - 8 weeks, online, paid
 
 <a href="http://ivydatascience.com/platform/">Ivy Data Science</a> - variable timeframes, paid, online, onsite
