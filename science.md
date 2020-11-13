@@ -76,8 +76,6 @@ F. G. VanGessel, G. Kumar, **D. C. Elton**, and P. W. Chung, “A Phonon Boltzma
 M. A. Forman, C. W. Smith, B. J. Vasquez, B. T. MacBride, J. E. Stawarz, J. J. Podesta, **D. C. Elton**, U. Y. Malecot, and Y. Gagne. "[Using Third‐Order Moments of Fluctuations in V and B to Determine Turbulent Heating Rates in the Solar Wind](https://aip.scitation.org/doi/abs/10.1063/1.3395830)", *AIP Conference Proceedings* **1216**, 12th International Solar Wind Conference, 176 (2010)
 
 ## Book chapters
-**D. C. Elton**. "What would a science of AI look like?".  (under review) (2020)
-
 **D. C. Elton** and P. D. Spencer. "Four examples of pathological water science and what they have in common". To appear in *Water in Biomechanical & Related Systems"*, A. Gadomski, editor. Springer. (2021)
 
 ## Preprints
