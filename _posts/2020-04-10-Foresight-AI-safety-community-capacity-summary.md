@@ -1,6 +1,6 @@
 ---
-id: 10013
-title: Book review of &#8220;Hacking Darwin&#8221; by Jamie Metzl
+id: 10012
+title: Summary from the Foresight Institute's 2020 AGI Strategy Meeting's session on "Community Capacity" 
 facebookcomments: true
 author: Dan Elton
 layout: post
