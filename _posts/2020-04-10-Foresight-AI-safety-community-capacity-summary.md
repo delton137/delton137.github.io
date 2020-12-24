@@ -1,6 +1,6 @@
 ---
 id: 10012
-title: Summary from the Foresight Institute's 2020 AGI Strategy Meeting's session on "Community Capacity" 
+title: Summary from the 2020 AGI Strategy Meeting's session on Community Capacity
 facebookcomments: true
 author: Dan Elton
 layout: post
