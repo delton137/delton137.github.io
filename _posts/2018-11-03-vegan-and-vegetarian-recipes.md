@@ -371,17 +371,13 @@ Adapted from [My Plant Based Family](https://myplantbasedfamily.com/2015/08/16/a
 
 ## Dad's bread machine "Moist Sweet Loaf" recipe
 
-* Water      1 cup
-* Flour         2 3/4 cups
-* Non Fat Dry Milk     3 tablespoons - slightly heaping
-* Oil             2 tablespoons
-* Honey         2 tablespoons ( I heap them a little, because I like the sweetness it adds to the bread)
-* Sodium Chloride   1/4 teaspoon ( you can add a little more if you like)
-* Yeast         2 teaspoons
-
-
-
-
+* 1 cup Water      
+* 2 3/4 cups Flour         
+* 3 tablespoons - slightly heaping - Non Fat Dry Milk    
+* 2 tablespoons Oil             
+* 2 tablespoons Honey (I heap them a little, because I like the sweetness it adds to the bread)
+* ~1/4 teaspoon Sodium Chloride
+* 2 teaspoons Yeast 
 
 
 <!----------------------------------------------------------------------------->
