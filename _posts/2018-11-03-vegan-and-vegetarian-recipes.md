@@ -369,6 +369,20 @@ Adapted from [My Plant Based Family](https://myplantbasedfamily.com/2015/08/16/a
 * Cook everything together for 5 minutes. Once the timer beeps, taste test the noodles and carrots to see if either need a minute or two longer.
 * Carefully drain the water out of your pot. I like to use one of these. Then dump in the soy sauce and the SoyNut/Peanut butter. Stir well until it has melted into the noodles and is evenly distributed.
 
+## Dad's bread machine "Moist Sweet Loaf" recipe
+
+* Water      1 cup
+* Flour         2 3/4 cups
+* Non Fat Dry Milk     3 tablespoons - slightly heaping
+* Oil             2 tablespoons
+* Honey         2 tablespoons ( I heap them a little, because I like the sweetness it adds to the bread)
+* Sodium Chloride   1/4 teaspoon ( you can add a little more if you like)
+* Yeast         2 teaspoons
+
+
+
+
+
 
 <!----------------------------------------------------------------------------->
 # Vegan snacks / deserts
