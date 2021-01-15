@@ -1,6 +1,6 @@
 ---
 id: 10012
-title: Summary from the 2020 AGI Strategy Meeting's session on Community Capacity
+title: Summary from the Foresight Institute's 2020 AGI Strategy Meeting's session on "Community Capacity" 
 facebookcomments: true
 author: Dan Elton
 layout: post
@@ -28,4 +28,4 @@ We’ve established the need for more people attacking hard problems in fundamen
 
 Another strategy is to support public awareness of existential and catastrophic risk, including AI Safety. One silver lining of the COVID-19 pandemic is that it may foster discussion about biosecurity risk, and in turn existential risks more generally. This could lead to more donations to organizations combating existential risk and perhaps directly to AI Safety organizations as well.
 
-Working with media influencers and spreading “rational memes” could all provide dividends. These rational memes would counter actively-harmful memes such as the infamous “terminator” meme. The 2017 viral short film [Slaughterbots](https://www.youtube.com/watch?v=9CO6M2HsoIA&ab_channel=StopAutonomousWeapons) co-produced by Stuart Russel and the Future of Life Institute provides an example of what can be done. The film is credited with raising the public’s awareness about lethal autonomous weapons and also shaped the language used in discourse on the subject (“armed quadcopters” became “slaughterbots”).
+Working with media influencers and spreading “rational memes” could all provide dividends. These rational memes would counter actively-harmful memes such as the infamous “terminator” meme. The 2017 viral short film Slaughterbots co-produced by Stuart Russel and the Future of Life Institute provides an example of what can be done. The film is credited with raising the public’s awareness about lethal autonomous weapons and also shaped the language used in discourse on the subject (“armed quadcopters” became “slaughterbots”).
