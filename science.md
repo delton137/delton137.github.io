@@ -48,10 +48,11 @@ J. J. Podesta, M. A. Forman, C. W. Smith, **D. C. Elton**, and Y. Malecot, &#822
 <!-- S. Wang, Y. Zhu, S. Lee, **D. C. Elton**, T. Shen, Y. Tang, Y. Peng, Z. Lu, R. M. Summers. "Global-Local Attention Network with Multi-task Uncertainty Loss for Abnormal Lymph Node Detection in MR Images"
 
 "Learning Structured Graphs from Visual/Semantic Feature and Radiology Knowledge Graph for Multi-Class/Multi-Label Classification of Medical Images"
--->
-**D. C. Elton**, Y. Zhu, Y. Tang, R. M. Summers. "Improving the Transferability of 3D Segmentation Models Using Cycle Consistent Adversarial Networks" (in prep)
 
-Y. Peng, S. Lee, **D. C. Elton**, T. Shen, Y. Tang, Q. Chen, S. Wang, Y. Zhu, R. M. Summers, Z. Lu. "Automatic Recognition of Lymph Nodes from Clinical Text". to appear in *Proceedings of the 3rd Workshop on Clinical Natural Language Processing (ClinicalNLP)* (2020)
+**D. C. Elton**, Y. Zhu, Y. Tang, R. M. Summers. "Improving the Transferability of 3D Segmentation Models Using Cycle Consistent Adversarial Networks" (in prep)
+-->
+
+Y. Peng, S. Lee, **D. C. Elton**, T. Shen, Y. Tang, Q. Chen, S. Wang, Y. Zhu, R. M. Summers, Z. Lu. "[Automatic Recognition of Lymph Nodes from Clinical Text](https://www.aclweb.org/anthology/2020.clinicalnlp-1.12/)".  *Proceedings of the 3rd Workshop on Clinical Natural Language Processing (ClinicalNLP)*, 101-110.(2020)
 
 S. Y. Shin, S. Lee, **D. C. Elton**, J. Gulley, R. M. Summers. "[Deep Small Bowel Segmentation with Cylindrical Topological Constraints](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_21)". *Medical Image Computing and Computer Assisted Intervention – MICCAI 2020*, edited by Anne L. Martel et al., Springer International Publishing,  **12264**, 207–15. (2020) [[arxiv](https://arxiv.org/abs/2007.08674)]
 
