@@ -37,6 +37,6 @@ Imagine an alternative world in which our society and government was not under t
 
 <br>
 
-For more on the transhumanist alternative to the *precautionary principle*, the *proactionary principle, *see [Max More's excellent book chapter](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118555927.ch26) or the [Wikipedia article](https://en.wikipedia.org/wiki/Proactionary_principle) and references therein.
+For more on an alternative to the precautionary principle developed within the transhumanist movement, the *proactionary principle*, see [Max More's excellent book chapter](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118555927.ch26) or the [Wikipedia article](https://en.wikipedia.org/wiki/Proactionary_principle) and references therein.
 
 Note: response and feedback to this post is appreciated. You can drop a comment here or send me a direct message on my Twitter: [@moreisdifferent](https://twitter.com/moreisdifferent).
