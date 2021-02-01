@@ -13,7 +13,7 @@ tags:
   - AI
 ---
 
-*[plan to expand this at some point, but figured I'd push this version out.]*
+*[I plan to expand this at some point, but figured I'd push this version out.]*
 
 <figure><img class="aligncenter" src="/assets/xkcd_machine_learning.png" alt="From the webcomic XKCD"  height="350"/>
 <figcaption><center> <a href="https://xkcd.com/1838/">Source: xkcd</a></center> </figcaption></figure>
