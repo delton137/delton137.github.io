@@ -40,7 +40,7 @@ HHS, FDA, and Congress:</center>**
 -   Allow Moderna to give fractional doses. [Data from Moderna's clinical trials](https://www.fda.gov/media/144434/download) have illustrated that people between ages of 18 and 55 who received two 50-microgram doses showed an identical immune response to the standard of two 100-microgram doses.
 -   Allow all age groups to get the vaccine. Research [published in the journal *Science*](https://science.sciencemag.org/content/early/2021/02/01/science.abe8372) indicates that as of October 2020, "individuals aged 20-49 are the only age groups sustaining resurgent SARS-CoV-2 transmission with reproduction numbers well above one". Thus, targeting vaccines at these groups may accelerate the end of the pandemic and save more lives than continuing to restrict the vaccines to the elderly and vulnerable.
 -   Recommend ["First Doses First"](https://marginalrevolution.com/marginalrevolution/author/alex-tabarrok).
--   Consider making it easier for over-the-counter in-home COVID19 tests to be approved. 
+-   Consider making it easier for over-the-counter in-home COVID19 tests to be approved.
 
 ## The FDA has not moved fast enough given the gravity of the situation we face. Consider the following:
 
@@ -53,6 +53,8 @@ HHS, FDA, and Congress:</center>**
 
 ## Here's what public-health experts are saying:
 
+"Not having Astra Zeneca COVID vaccine approved in the US is a blunder." - [Vincent Rajkumar, M.D.](https://twitter.com/VincentRK/status/1356951394104786946) epidemiologist at the Mayo Clinic
+
 "The F.D.A. needs to catch up to the science... They are inadvertently killing people by not following the science." -- [Michael Mina](https://www.nytimes.com/2021/01/28/opinion/new-covid-strain.html), Epidemiologist, Immunologist, Physician, Harvard Medical School.
 
 "We've gone from 'Operation Warp Speed' to develop a vaccine to 'Operation Turtle Speed' to review it... The FDA needs to stop playing games and authorize the Oxford-AstraZeneca vaccine.  It's safe, cheap ($2-$3 a dose), and is the easiest vaccine to distribute." -- [Marty Makary, M.D.](https://www.foxnews.com/opinion/covid-vaccinations-too-slow-dr-marty-makary), a professor of health policy at the Johns Hopkins University School of Medicine. 
@@ -60,6 +62,7 @@ HHS, FDA, and Congress:</center>**
 "I do think we've been too conservative... companies that potentially make public health diagnostic tests did not feel that there was, for example, a pathway to get those approved at the F.D.A." -- [Vivek Murphy](https://www.nytimes.com/2021/01/26/opinion/ezra-klein-podcast-vivek-murthy.html?showTranscript=1), President Biden's nominee for Surgeon General.
 
 "We've already bought 300 million doses of the AstraZeneca-Oxford vaccine. We've paid for it --- over a billion dollars --- so let's use it... I know we have some of that vaccine stockpiled." -- [Dr. Peter Hotez](https://www.houstonchronicle.com/news/houston-texas/health/article/hotez-covid-vaccine-variant-Q-A-texas-biden-admin-15906950.php?utm_campaign=CMS%20Sharing%20Tools%20(Premium)&utm_source=t.co&utm_medium=referral), dean of the National School of Tropical Medicine at Baylor College of Medicine and the lead developer of a COVID-19 vaccine being produced in India.
+
 
 ## Here's what some other notable public figures have said:
 
