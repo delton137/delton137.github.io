@@ -4,7 +4,7 @@ title: "A Polite List of Requests to the FDA"
 facebookcomments: true
 author: Dan Elton
 layout: post
-permalink: 2021/02/03/a-polite-list-of-requests-to-the-FDA
+permalink: /2021/02/03/a-polite-list-of-requests-to-the-FDA
 categories:
   - COVID19
   - vaccines
