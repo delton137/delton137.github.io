@@ -1,6 +1,6 @@
 ---
 id: 10019
-title: \#ApproveAstrazeneca - A List of Requests to the FDA
+title: A List of Requests to the FDA
 facebookcomments: true
 author: Dan Elton
 layout: post
@@ -53,7 +53,7 @@ HHS, FDA, and Congress:</center>**
 
 ## Here's what public-health experts are saying:
 
-"Not having Astra Zeneca COVID vaccine approved in the US is a blunder." - [Vincent Rajkumar, M.D.](https://twitter.com/VincentRK/status/1356951394104786946) epidemiologist at the Mayo Clinic
+"Not having AstraZeneca COVID vaccine approved in the US is a blunder." - [Vincent Rajkumar, M.D.](https://twitter.com/VincentRK/status/1356951394104786946) epidemiologist at the Mayo Clinic
 
 "The F.D.A. needs to catch up to the science... They are inadvertently killing people by not following the science." -- [Michael Mina](https://www.nytimes.com/2021/01/28/opinion/new-covid-strain.html), Epidemiologist, Immunologist, Physician, Harvard Medical School.
 
