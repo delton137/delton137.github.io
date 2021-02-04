@@ -15,7 +15,7 @@ tags:
   - FDA
 ---
 
-*Note: an identical version of this article has been [cross-posted on the U.S. Transhumanist Party website](http://transhumanist-party.org/2021/02/03/requests-to-the-fda/)*
+*Note: a older version of this article has been [cross-posted on the U.S. Transhumanist Party website](http://transhumanist-party.org/2021/02/03/requests-to-the-fda/)*
 
 **<center>A List of Requests to President Joseph R. Biden, Jr.,<br/>
 HHS, FDA, and Congress:</center>**
