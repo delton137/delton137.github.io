@@ -1,6 +1,6 @@
 ---
 id: 10019
-title: "A Polite List of Requests to the FDA"
+title: \#ApproveAstrazeneca - A List of Requests to the FDA
 facebookcomments: true
 author: Dan Elton
 layout: post
@@ -40,6 +40,7 @@ HHS, FDA, and Congress:</center>**
 -   Allow Moderna to give fractional doses. [Data from Moderna's clinical trials](https://www.fda.gov/media/144434/download) have illustrated that people between ages of 18 and 55 who received two 50-microgram doses showed an identical immune response to the standard of two 100-microgram doses.
 -   Allow all age groups to get the vaccine. Research [published in the journal *Science*](https://science.sciencemag.org/content/early/2021/02/01/science.abe8372) indicates that as of October 2020, "individuals aged 20-49 are the only age groups sustaining resurgent SARS-CoV-2 transmission with reproduction numbers well above one". Thus, targeting vaccines at these groups may accelerate the end of the pandemic and save more lives than continuing to restrict the vaccines to the elderly and vulnerable.
 -   Recommend ["First Doses First"](https://marginalrevolution.com/marginalrevolution/author/alex-tabarrok).
+-   Consider making it easier for over-the-counter in-home COVID19 tests to be approved. 
 
 ## The FDA has not moved fast enough given the gravity of the situation we face. Consider the following:
 
