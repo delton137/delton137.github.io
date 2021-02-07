@@ -15,7 +15,7 @@ tags:
   - vaccines
 ---
 
-*Note: an identical version of this article has been [cross-posted on the U.S. Transhumanist Party website](https://transhumanist-party.org/2021/02/01/judging-vaccine-safety/)*
+**Note: this article also appears in *[Conjecture Magainze](https://medium.com/conjecture-magazine/reasoning-about-vaccines-b7b0921d6aeb)*. I encourage you to read it and cite it there. Conjecture Magazine is a web magazine inspired by the philosophy of Sir Karl Popper and David Deutsch.** 
 
 A common refrain we hear from public intellectuals about vaccines prior to Phase III data is "we don't know anything about the safety or efficacy of vaccine X". This attitude is both false and misleading to the public, instilling uncertainty and fear about vaccines. To see why it is false, consider if a normal vaccine safety study was done, but by coincidence all of the vaccines were given in hospital rooms that were painted blue. Could we conclude on the basis of such a study whether the vaccine would be safe if administered in rooms painted red? Yes, we can, and we should. We can utilize two forms of reasoning to conclude that the vaccine is safe if given in red rooms, *even though we have no data on the matter*.
 
