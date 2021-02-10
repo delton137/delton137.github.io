@@ -7,8 +7,8 @@
 #- title: "Blog"
 #  href: "/blog/"
 
-- title: "Software"
-  href: "/software/"
+#- title: "Software"
+#  href: "/software/"
 
 - title: "Research"
   href: "/science/"
