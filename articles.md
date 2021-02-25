@@ -4,9 +4,10 @@ title: Articles
 date: 2015-09-22T20:03:57+00:00
 author: delton137
 layout: page
-guid: https://moreisdifferent.wordpress.com/?page_id=2114
 geo_public:
 ---
+
+Note: After 02-03-2021, new articles are posted on my <a href="https://danelton.substack.com/">Substack</a><br />! Please subscribe there!
 
 <ul class="listing">
 {% for post in site.posts %}
