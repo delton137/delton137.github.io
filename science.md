@@ -11,7 +11,8 @@ See also [Google Scholar](https://scholar.google.com/citations?user=KG0pbOYAAAAJ
 ## Peer reviewed journal articles
 S. Lee, **D. C. Elton**, J. L. Gulley, P. J. Pickhardt, W. L. Dahut, R. A. Madan, P. A. Pinto, D. E. Citrin, R. M. Summers. "Association of Abdominal Calcified Atherosclerotic Plaque with Prostate Cancer: A Case-Control Study" (under review)
 
-P. J. Pickhardt, P. M. Graffy, A. A. Perez, M. G. Lubner, **D. C. Elton**, R. M. Summers. "[Opportunistic Screening at Abdominal CT using Automated Biomarkers: Adding Value Beyond the Clinical Indication](https://pubs.rsna.org/eprint/GINYESYXSJ3REIYDSNK8/full)" *Radiographics*. **41**:2, 524-542 (2021) [[pdf](http://www.moreisdifferent.com/assets/literature/NIH_work/2021_Pickhardt_Elton_Summers_Automated_biomarkers_in_CT_Radiographics.pdf)]
+P. J. Pickhardt, P. M. Graffy, A. A. Perez, M. G. Lubner, **D. C. Elton**, R. M. Summers. "[Opportunistic Screening at
+Abdominal CT: Use of Automated Body Composition Biomarkers for Added Cardiometabolic Value](https://pubs.rsna.org/eprint/GINYESYXSJ3REIYDSNK8/full)" *Radiographics*. **41**:2, 524-542 (2021) [[pdf](http://www.moreisdifferent.com/assets/literature/NIH_work/2021_Pickhardt_Elton_Summers_Automated_biomarkers_in_CT_Radiographics.pdf)]
 
 **D. C. Elton**. "[Applying Deutsch's concept of good explanations to artificial intelligence and neuroscience - an initial exploration](https://www.sciencedirect.com/science/article/abs/pii/S138904172030108X)". *Cognitive Systems Research* (2020). [[arXiv](https://arxiv.org/abs/2012.09318)]
 
