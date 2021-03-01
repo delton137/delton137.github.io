@@ -7,7 +7,7 @@ layout: page
 geo_public:
 ---
 
-Note: After 02-03-2021, new articles are posted on my <a href="https://danelton.substack.com/">Substack</a><br />! Please subscribe there!
+Note: Starting February 2021, new articles are being posted on <a href="https://danelton.substack.com/">my Substack</a>! Please subscribe there!
 
 <ul class="listing">
 {% for post in site.posts %}
