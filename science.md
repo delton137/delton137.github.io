@@ -9,6 +9,9 @@ layout: page
 See also [Google Scholar](https://scholar.google.com/citations?user=KG0pbOYAAAAJ)
 
 ## Peer reviewed journal articles
+A. A. Perez, V. Noe-Kim, M. G. Lubner, P. M. Graffy, J. Garrett, **D. C. Elton**, R. M. Summers, P. J. Pickhardt. "Deep Learning CT-based Quantitative Visualization Tool for Liver Volume Estimation:
+Defining Normal and Hepatomegaly". To appear in *Radiology*.
+
 S. Lee, **D. C. Elton**, J. L. Gulley, P. J. Pickhardt, W. L. Dahut, R. A. Madan, P. A. Pinto, D. E. Citrin, R. M. Summers. "Association of Abdominal Calcified Atherosclerotic Plaque with Prostate Cancer: A Case-Control Study" (under review)
 
 P. J. Pickhardt, P. M. Graffy, A. A. Perez, M. G. Lubner, **D. C. Elton**, R. M. Summers. "[Opportunistic Screening at
