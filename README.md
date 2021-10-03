@@ -7,13 +7,14 @@ I am grateful to [Steven Miller](https://github.com/svmiller) for creating the t
 
 # Notes on how to build
 To install the necessary gems:
-`bundle install`
+`sudo bundle install`
 
 To update Ruby gems and the bundler, as is needed periodically:
 
-`gem update --system`
-
 `bundle update --bundler`
+
+`sudo gem update --system`
+
 
 Once Jekyll and all the necessary Ruby "gems" are installed, the command to build the website is:
 
