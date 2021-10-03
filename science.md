@@ -1,101 +1,113 @@
 ---
 id: 1917
 title: Research
-date: 2015-07-29T01:47:20+00:00
 author: delton137
 layout: page
 ---
 
 See also [Google Scholar](https://scholar.google.com/citations?user=KG0pbOYAAAAJ)
 
-## Peer reviewed journal articles
-A. A. Perez, V. Noe-Kim, M. G. Lubner, P. M. Graffy, J. Garrett, **D. C. Elton**, R. M. Summers, P. J. Pickhardt. "Deep Learning CT-based Quantitative Visualization Tool for Liver Volume Estimation:
-Defining Normal and Hepatomegaly". To appear in *Radiology*.
+# Artifical intelligence
+<span style="font-size:1.1em;">**Applying Deutsch's concept of good explanations to artificial intelligence and neuroscience - An initial exploration**</span><br> 
+ <span style="font-size:0.9em;">**D. C. Elton**. *Cognitive Systems Research*. **67** pgs 9--17. (2021)  [[link](https://doi.org/10.1016/j.cogsys.2020.12.002)]  [[arxiv](https://arxiv.org/abs/2012.09318)] [[.bib](../assets/my_papers/A_AI_general/2021_Elton_Deutsch_hard_to_vary.bib)]</span>
 
-S. Lee, **D. C. Elton**, J. L. Gulley, P. J. Pickhardt, W. L. Dahut, R. A. Madan, P. A. Pinto, D. E. Citrin, R. M. Summers. "Association of Abdominal Calcified Atherosclerotic Plaque with Prostate Cancer: A Case-Control Study" (under review)
+<span style="font-size:1.1em;">**Common Pitfalls When Explaining AI and Why Mechanistic Explanation Is a Hard Problem**</span><br> 
+ <span style="font-size:0.9em;">**D. C. Elton**. in *Proceedings of Sixth International Congress on Information and Communication Technology*. pgs 401--408. (2021)  [[link](https://doi.org/10.1007/978-981-16-2377-6_38)] [[.bib](../assets/my_papers/A_AI_general/2021_Elton_Common Pitfalls When Explaining AI.bib)][[pdf](../assets/my_papers/A_AI_general/2021_Elton_Common Pitfalls When Explaining AI.pdf)]</span>
 
-P. J. Pickhardt, P. M. Graffy, A. A. Perez, M. G. Lubner, **D. C. Elton**, R. M. Summers. "[Opportunistic Screening at
-Abdominal CT: Use of Automated Body Composition Biomarkers for Added Cardiometabolic Value](https://pubs.rsna.org/eprint/GINYESYXSJ3REIYDSNK8/full)" *Radiographics*. **41**:2, 524-542 (2021) [[pdf](http://www.moreisdifferent.com/assets/literature/NIH_work/2021_Pickhardt_Elton_Summers_Automated_biomarkers_in_CT_Radiographics.pdf)]
+<span style="font-size:1.1em;">**Self-explaining AI as an Alternative to Interpretable AI**</span><br> 
+ <span style="font-size:0.9em;">**D. C. Elton**. in *Proceedings of the 13th Annual Conference on Artificial General Intelligence (AGI-2020)*. pgs 95-106. (2020)  [[arxiv](https://arxiv.org/abs/2002.05149)] [[.bib](../assets/my_papers/A_AI_general/2020_Elton_self_explaining_AI.bib)]</span>
 
-**D. C. Elton**. "[Applying Deutsch's concept of good explanations to artificial intelligence and neuroscience - an initial exploration](https://www.sciencedirect.com/science/article/abs/pii/S138904172030108X)". *Cognitive Systems Research* (2020). [[arXiv](https://arxiv.org/abs/2012.09318)]
+# Machine learning for medical imaging
+<span style="font-size:1.1em;">**Learning Structure from Visual Semantic Features and Radiology Ontology for Lymph Node Classification on MRI**</span><br> 
+ <span style="font-size:0.9em;">Y. Zhu, Shuai Wang, Qingyu Chen, S. Lee, T. Shen, **D. C. Elton**, Zhiyong Lu, R. M. Summers. in *Machine Learning in Medical Imaging*. pgs 101--109. (2021)  [[link](https://doi.org/10.1007/978-3-030-87589-3_11)] [[.bib](../assets/my_papers/B_AI_medical_imaging/2021_Zhu_Learning Structure from Visual Semantic.bib)][[pdf](../assets/my_papers/B_AI_medical_imaging/2021_Zhu_Learning Structure from Visual Semantic.pdf)]</span>
 
-P. J. Pickhardt, G. Blake, P. M. Graffy, V. Sandfort, **D. C. Elton**,  A. A. Perez, R. M. Summers. "[Liver Steatosis Categorization on Contrast-Enhanced CT Using a Fully-Automated Deep Learning Volumetric Segmentation Tool: Evaluation in 1,204 Heathy Adults Using Unenhanced CT as Reference Standard](https://www.ajronline.org/doi/abs/10.2214/AJR.20.24415)". *American Journal of Roentgenology*. (2020) [[pdf](http://www.moreisdifferent.com/assets/literature/NIH_work/2020_Liver_steatosis_categorization_AJR.pdf)]
+<span style="font-size:1.1em;">**Fully automated CT imaging biomarkers of bone,  muscle,  and fat: correcting for the effect of intravenous contrast**</span><br> 
+ <span style="font-size:0.9em;">A. A. Perez, P. J. Pickhardt, **D. C. Elton**, V. Sandfort, R. M. Summers. *Abdominal Radiology*. **46** (3) pgs 1229--1235. (2020)  [[link](https://doi.org/10.1007/s00261-020-02755-5)] [[.bib](../assets/my_papers/B_AI_medical_imaging/2021_Pickhardt_Elton_Summers_Automated_biomarkers_in_CT_Radiographics.bib)][[pdf](../assets/my_papers/B_AI_medical_imaging/2021_Pickhardt_Elton_Summers_Automated_biomarkers_in_CT_Radiographics.pdf)]</span>
 
-P. J. Pickhardt, **D. C. Elton**, P. M. Graffy, S. J. Lee, J. Liu, V. Sandfort, R. M. Summers. "[Fully-automated CT Imaging Biomarkers of Bone, Muscle, and Fat: Correcting for the Effect of Intravenous Contrast](https://link.springer.com/article/10.1007/s00261-020-02755-5)".  *Abdominal Radiology* (2021) [[pdf](http://www.moreisdifferent.com/assets/literature/NIH_work/2020_Elton_Con_Noncon_Fully_Automated_biomarkers_Abdominal_Radiology.pdf)]
+<span style="font-size:1.1em;">**Detection of Lymph Nodes in T2 MRI Using Neural Network Ensembles**</span><br> 
+ <span style="font-size:0.9em;">Tejas Sudharshan Mathai, S. Lee, **D. C. Elton**, Thomas C. Shen, Yifan Peng, Zhiyong Lu, R. M. Summers. in *Machine Learning in Medical Imaging*. pgs 682--691. (2021)  [[link](https://doi.org/10.1007/978-3-030-87589-3_70)] [[.bib](../assets/my_papers/B_AI_medical_imaging/2021_Mathai_Detection of Lymph Nodes in T2 MRI.bib)][[pdf](../assets/my_papers/B_AI_medical_imaging/2021_Mathai_Detection of Lymph Nodes in T2 MRI.pdf)]</span>
 
-R. M. Summers, **D. C. Elton**, S. Lee, Y. Zhu, J. Liu, M. Bagheri, V. Sanfort, P. C. Grayson, N. N. Mehta, P. A. Pinto, W. M. Linehan, A. A. Perez, P. M. Graffy, S. O’Connor, P. J. Pickhardt. "[Atherosclerotic Plaque Burden on Abdominal CT: Automated Assessment with Deep Learning on Noncontrast and Contrast-enhanced Scans](https://www.sciencedirect.com/science/article/abs/pii/S1076633220305031?via%3Dihub#sec0012)". *Academic Radiology* (2020) [[pdf](http://www.moreisdifferent.com/assets/literature/NIH_work/2020_Elton_plaque_detector_Academic_Radiology.pdf)]
+<span style="font-size:1.1em;">**Liver Steatosis Categorization on Contrast-Enhanced CT Using a Fully Automated Deep Learning Volumetric Segmentation Tool: Evaluation in 1204 Healthy Adults Using Unenhanced CT as a Reference Standard**</span><br> 
+ <span style="font-size:0.9em;">P. J. Pickhardt, Glen M. Blake, P. M. Graffy, V. Sandfort, **D. C. Elton**, A. A. Perez, R. M. Summers. *American Journal of Roentgenology*. **217** (2) pgs 359--367. (2021)  [[link](https://doi.org/10.2214/ajr.20.24415)] [[.bib](../assets/my_papers/B_AI_medical_imaging/2021_Liver_steatosis_categorization_AJR.bib)][[pdf](../assets/my_papers/B_AI_medical_imaging/2021_Liver_steatosis_categorization_AJR.pdf)]</span>
 
-**D. C. Elton**, P. D. Spencer, J. D. Riches, E. D. Williams. "[Exclusion zone phenomena in water - a critical review of experimental findings and theories](https://www.mdpi.com/1422-0067/21/14/5041)"  *International Journal of Molecular Sciences*, **21** (14), 5041 (2020) [[arXiv](https://arxiv.org/abs/1909.06822)]
+<span style="font-size:1.1em;">**Image Translation by Latent Union of Subspaces for Cross-Domain Plaque Detection**</span><br> 
+ <span style="font-size:0.9em;">Y. Zhu, **D. C. Elton**, S. Lee, P. J. Pickhardt, R. M. Summers. *Proceedings of the 2020 Medical Imaging with Deep Learning (MIDL) Conference*. (2020)  [[arxiv](https://arxiv.org/abs/2005.11384)] [[.bib](../assets/my_papers/B_AI_medical_imaging/2020_Zhu_MIDL_UNIT_plaque.bib)][[pdf](../assets/my_papers/B_AI_medical_imaging/2020_Zhu_MIDL_UNIT_plaque.pdf)]</span>
 
-**D. C. Elton**, Z. Boukouvalas, M. D. Fuge, and P. W. Chung, "[Deep learning for molecular design - a review of the state of the art](https://pubs.rsc.org/en/Content/ArticleLanding/2019/ME/C9ME00039A#!divAbstract)", *Molecular Systems Design & Engineering*, **4** (2019) [[pdf](http://www.moreisdifferent.com/assets/Elton_MSDE_review_final_published.pdf)]
+<span style="font-size:1.1em;">**Cross-domain Medical Image Translation by Shared Latent Gaussian Mixture Model**</span><br> 
+ <span style="font-size:0.9em;">Y. Zhu, Y. Tang, Y. Tang, **D. C. Elton**, S. Lee, P. J. Pickhardt, R. M. Summers. in *Medical Image Computing and Computer Assisted Intervention \textendash MICCAI 2020*. pgs 379--389. (2020)  [[link](https://doi.org/10.1007/978-3-030-59713-9_37)] [[.bib](../assets/my_papers/B_AI_medical_imaging/2020_Zhu_MICCAI_UNIT_image_translation.bib)][[pdf](../assets/my_papers/B_AI_medical_imaging/2020_Zhu_MICCAI_UNIT_image_translation.pdf)]</span>
 
-G. Kumar, F. G. VanGessel, **D. C. Elton**, and P. W. Chung. "[Phonon Lifetimes and Thermal Conductivity of the Molecular Crystal α-RDX](https://www.cambridge.org/core/journals/mrs-advances/article/phonon-lifetimes-and-thermal-conductivity-of-the-molecular-crystal-rdx/14B1FC4424D8C4A659589DC535DBB5A7)", *MRS Advances*, **4**, 2191 (2019) [[arXiv](https://arxiv.org/abs/1904.12038)]
+<span style="font-size:1.1em;">**Deep Small Bowel Segmentation with Cylindrical Topological Constraints**</span><br> 
+ <span style="font-size:0.9em;">S. Y. Shin, S. Lee, **D. C. Elton**, J. L. Gulley, R. M. Summers. in *Medical Image Computing and Computer Assisted Intervention \textendash MICCAI 2020*. pgs 207--215. (2020)  [[link](https://doi.org/10.1007/978-3-030-59719-1_21)] [[.bib](../assets/my_papers/B_AI_medical_imaging/2020_Shin_Deep_Small_Bowel_Topology.bib)][[pdf](../assets/my_papers/B_AI_medical_imaging/2020_Shin_Deep_Small_Bowel_Topology.pdf)]</span>
 
-**D. C. Elton**,  M. Fritz, and M.-V Fernández-Serra. "[Using a monomer potential energy surface to perform approximate path integral molecular dynamics simulation of ab-initio water at near-zero added cost](https://pubs.rsc.org/en/Content/ArticleLanding/2019/CP/C8CP06077K#!divAbstract)", *Phys. Chem. Chem. Phys.*, **21**, 409 (2019) [[arXiv](https://arxiv.org/abs/1803.05740)]
-<!--- <span style="font-size: 12px;"><br> My most recent project (currently unpublished but covered in the last chapter of my Ph.D. thesis), was on simulating water from “first principles”, ie. from the laws of quantum mechanics. The usual technique that physicists use to approximate the quantum mechanics of electrons in condensed matter systems, density functional theory, does not work well for water and much work is being done to understand its shortcomings. One usual assumption is that only electrons need to be treated quantum mechanically. We argue that for water both electrons and nuclei need to be treated quantum mechanically and that density functionals should be tested with nuclear quantum effects included. Our <a href="https://github.com/delton137/PIMD">custom code</a> implements a novel algorithm which greatly speeds up the calculation of nuclear quantum effects with only minor losses in accuracy. Accurate first principles simulations are important for developing energy materials and in computational drug design. </span> --->
+<span style="font-size:1.1em;">**Automatic recognition of abdominal lymph nodes from clinical text**</span><br> 
+ <span style="font-size:0.9em;">Y. Peng, S. Lee, **D. C. Elton**, T. Shen, Y. Tang, Q. Chenand S. Wang, Y. Zhu, R. M. Summers, Z. Lu. in *Proceedings of the 3rd Clinical Natural Language Processing Workshop*. pgs 101--110. (2020)  [[link](https://aclanthology.org/2020.clinicalnlp-1.12)] [[.bib](../assets/my_papers/B_AI_medical_imaging/2020_Peng_NLP.bib)][[pdf](../assets/my_papers/B_AI_medical_imaging/2020_Peng_NLP.pdf)]</span>
 
-**D. C. Elton**, Z. Boukouvalas, M. S. Butrico, M. D. Fuge, and P. W. Chung, “[Applying machine learning techniques to predict the properties of energetic materials](https://www.nature.com/articles/s41598-018-27344-x)”, *Scientific Reports*, **8**, 9059 (2018).
+<span style="font-size:1.1em;">**Atherosclerotic Plaque Burden on Abdominal CT: Automated Assessment With Deep Learning on Noncontrast and Contrast-enhanced Scans**</span><br> 
+ <span style="font-size:0.9em;">R. M. Summers, **D. C. Elton**, S. Lee, Y. Zhu, Jiamin Liu, M. Bagheri, V. Sandfort, Peter C. Grayson, Nehal N. Mehta, P. A. Pinto, W. Marston Linehan, A. A. Perez, P. M. Graffy, Stacy D. O'Connor, P. J. Pickhardt. *Academic Radiology*. (2020)  [[link](https://doi.org/10.1016/j.acra.2020.08.022)] [[.bib](../assets/my_papers/B_AI_medical_imaging/2020_Elton_plaque_detector_Academic_Radiology.bib)][[pdf](../assets/my_papers/B_AI_medical_imaging/2020_Elton_plaque_detector_Academic_Radiology.pdf)]</span>
 
-**D.C. Elton** &#8220;[The microscopic origin of the Debye relaxation in liquid water and fitting the high frequency excess response](http://pubs.rsc.org/en/Content/ArticleLanding/2017/CP/C7CP02884A#!divAbstract)&#8221;, _Phys. Chem. Chem. Phys._, **19**, 18739 (2017) [[arXiv](https://arxiv.org/abs/1704.01667v1)]
-<!--- <span style="font-size: 12px;"><br>We review the literature on the Debye absorption peak of liquid water and the excess response on the high frequency side, and find lack of agreement on the microscopic phenomena underlying both of these features. To better understand the molecular origin of Debye peak we ran and analyzed large scale molecular dynamics simulations. We introduce the &#8220;spectrumfitter&#8221; Python package for fitting dielectric spectra and analyze different ways of fitting the high frequency excess,  and we propose using the generalized Lydanne-Sachs-Teller equation as a way of testing the physicality of model dielectric functions. Our results support the new theory by Popov, et al. that Debye relaxation is due to the propagation of defects through the H-bond network.  </span> --->
+<span style="font-size:1.1em;">**Fully automated CT imaging biomarkers of bone,  muscle,  and fat: correcting for the effect of intravenous contrast**</span><br> 
+ <span style="font-size:0.9em;">A. A. Perez, P. J. Pickhardt, **D. C. Elton**, V. Sandfort, R. M. Summers. *Abdominal Radiology*. **46** (3) pgs 1229--1235. (2020)  [[link](https://doi.org/10.1007/s00261-020-02755-5)] [[.bib](../assets/my_papers/B_AI_medical_imaging/2020_Elton_Con_Noncon_Fully_Automated_biomarkers_Abdominal_Radiology.bib)][[pdf](../assets/my_papers/B_AI_medical_imaging/2020_Elton_Con_Noncon_Fully_Automated_biomarkers_Abdominal_Radiology.pdf)]</span>
 
-**D.C. Elton** and M.-V Fernández-Serra. &#8220;[The hydrogen bond network of water supports propagating optical phonon-like modes](http://www.nature.com/ncomms/2016/160104/ncomms10193/abs/ncomms10193.html)&#8221;, _Nat. Comm._ **7**, 10913 (2016)
-<!--- <span style="font-size: 12px;"><br>We show that on subpicosecond time scales optical phonon modes can propagate through the hydrogen bond network of water over relatively long distances (2-4 nm). For the first time we study the LO-TO splitting in water&#8217;s dielectric spectra and show how this splitting can be related to local structure. We point out a previously unnoticed discrepancy in the Raman spectra peak assignment and offer a solution.</span> --->
+<span style="font-size:1.1em;">**Accurately identifying vertebral levels in large datasets**</span><br> 
+ <span style="font-size:0.9em;">**D. C. Elton**, V. Sandfort, P. J. Pickhardt, R. M. Summers. in *Medical Imaging 2020: Computer-Aided Diagnosis*. (2020)  [[link](https://doi.org/10.1117/12.2551247)]  [[arxiv](https://arxiv.org/abs/2001.10503)] [[.bib](../assets/my_papers/B_AI_medical_imaging/2019_Elton_vertebral_levels_SPIE.bib)][[pdf](../assets/my_papers/B_AI_medical_imaging/2019_Elton_vertebral_levels_SPIE.pdf)]</span>
 
-**D.C. Elton** and  M.-V Fernández-Serra. "[Polar nanoregions in water &#8211; a study of the dielectric properties of TIP4P/2005,TIP4P/2005f and TTM3F](http://scitation.aip.org/content/aip/journal/jcp/140/12/10.1063/1.4869110)", _J. Chem. Phys._, **140**, 124504 (2014) [[arXiv](http://arxiv.org/abs/1401.5090)]
-<!--- <span style="font-size: 12px;"><br> We present a critical comparison of the dielectric properties of three types of water model used in molecular dynamics &#8211; rigid, flexible, and polarizable. To better understand the dielectric properties of water we make a novel analogy to the physics of polar nanoregions in relaxor ferroelectric materials. We argue that polarizability is essential to accurately reproducing the dipolar ordering of the liquid and how it changes with temperature. </span> --->
+# Machine learning for molecular design
+<span style="font-size:1.1em;">**Independent Vector Analysis for Data Fusion Prior to Molecular Property Prediction with Machine Learning**</span><br> 
+ <span style="font-size:0.9em;">Z. Boukouvalas, M. Puerto, **D. C. Elton**, P. W. Chung, M. D. Fuge. * Proceedings of the 28th European Signal Processing Conference (EUSIPCO 2020)*. (2018)  [[arxiv](https://arxiv.org/abs/1811.00628)] [[.bib](../assets/my_papers/C_AI_molecular_design/2020_Boukouvalas_IVA.bib)][[pdf](../assets/my_papers/C_AI_molecular_design/2020_Boukouvalas_IVA.pdf)]</span>
 
-J. J. Podesta, M. A. Forman, C. W. Smith, **D. C. Elton**, and Y. Malecot, &#8220;[Accurate Estimation of](http://www.nonlin-processes-geophys.net/16/99/2009/npg-16-99-2009.html) [Third-Order Moments from Turbulence Measurements](http://www.nonlin-processes-geophys.net/16/99/2009/npg-16-99-2009.html)&#8220;, _Nonlin. Proc. Geophys.,_ **16**, 99 (2009) [[arXiv](https://arxiv.org/abs/0901.3499)]
+<span style="font-size:1.1em;">**Using natural language processing techniques to extract information on the properties and functionalities of energetic materials from large text corpora**</span><br> 
+ <span style="font-size:0.9em;">**D. C. Elton**, D. Turakhia, N. Reddy, Z. Boukouvalas, R. M. Doherty, M. D. Fuge, P. W. Chung. *Proceedings of the 22nd International Seminar on New Trends in Research of Energetic Materials*. (2019)  [[arxiv](https://arxiv.org/abs/1811.00628)] [[.bib](../assets/my_papers/C_AI_molecular_design/2019_Elton_NLP.bib)]</span>
 
-<!-------------------------------------------------------------------------------------------------------------->
-## Peer reviewed conference proceedings
-<!-- S. Wang, Y. Zhu, S. Lee, **D. C. Elton**, T. Shen, Y. Tang, Y. Peng, Z. Lu, R. M. Summers. "Global-Local Attention Network with Multi-task Uncertainty Loss for Abnormal Lymph Node Detection in MR Images"
+<span style="font-size:1.1em;">**Deep learning for molecular design - a review of the state of the art**</span><br> 
+ <span style="font-size:0.9em;">**D. C. Elton**, Z. Boukouvalas, M. D. Fuge, P. W. Chung. *Molecular Systems Design & Engineering*. **4** (4) pgs 828--849. (2019)  [[link](https://doi.org/10.1039/c9me00039a)]  [[arxiv](https://arxiv.org/abs/1903.04388)] [[.bib](../assets/my_papers/C_AI_molecular_design/2019_Elton_MolecularDesign.bib)][[pdf](../assets/my_papers/C_AI_molecular_design/2019_Elton_MolecularDesign.pdf)]</span>
 
-"Learning Structured Graphs from Visual/Semantic Feature and Radiology Knowledge Graph for Multi-Class/Multi-Label Classification of Medical Images"
+<span style="font-size:1.1em;">**Applying machine learning techniques to predict the properties of energetic materials**</span><br> 
+ <span style="font-size:0.9em;">**D. C. Elton**, Z. Boukouvalas, M. S. Butrico, M. D. Fuge, P. W. Chung. *Scientific Reports*. **8** (1) (2018)  [[link](https://doi.org/10.1038/s41598-018-27344-x)]  [[arxiv](https://arxiv.org/abs/1801.04900)] [[.bib](../assets/my_papers/C_AI_molecular_design/2018_Elton_SciRep.bib)][[pdf](../assets/my_papers/C_AI_molecular_design/2018_Elton_SciRep.pdf)]</span>
 
-**D. C. Elton**, Y. Zhu, Y. Tang, R. M. Summers. "Improving the Transferability of 3D Segmentation Models Using Cycle Consistent Adversarial Networks" (in prep)
--->
+<span style="font-size:1.1em;">**Machine Learning of Energetic Material Properties**</span><br> 
+ <span style="font-size:0.9em;">B. C. Barnes, **D. C. Elton**, Z. Boukouvalas, D. E. Taylor, W. D. Mattson, M. D. Fuge, P. W. Chung. *Proceedings of the 22nd International Seminar on New Trends in Research of Energetic Materials*. (2018)  [[arxiv](https://arxiv.org/abs/1807.06156)] [[.bib](../assets/my_papers/C_AI_molecular_design/2018_Barnes.bib)]</span>
+
+# Physics of detonation
+<span style="font-size:1.1em;">**Phonon Lifetimes and Thermal Conductivity of the Molecular Crystal $\upalpha$-RDX**</span><br> 
+ <span style="font-size:0.9em;">G. Kumar, F. G. Van Gessel, **D. C. Elton**, P. W. Chung. *MRS Advances*. **4** (40) pgs 2191--2199. (2019)  [[link](https://doi.org/10.1557/adv.2019.278)] [[.bib](../assets/my_papers/D_Physics_energetic_materials/2019_Kumar_MRS_paper.bib)][[pdf](../assets/my_papers/D_Physics_energetic_materials/2019_Kumar_MRS_paper.pdf)]</span>
+
+<span style="font-size:1.1em;">**A Phonon Boltzmann Study of Microscale Thermal Transport in $\alpha$-RDX Cook-Off**</span><br> 
+ <span style="font-size:0.9em;">Francis G. VanGessel, G. Kumar, **D. C. Elton**, P. W. Chung. *Proceedings of the 22nd International Seminar on New Trends in Research of Energetic Materials*. (2018)  [[arxiv](https://arxiv.org/abs/1808.08295)] [[.bib](../assets/my_papers/D_Physics_energetic_materials/2018_vanGessel.bib)]</span>
+
+# Physics of water
+<span style="font-size:1.1em;">**Pathological Water Science - Four Examples and What They Have in Common**</span><br> 
+ <span style="font-size:0.9em;">**D. C. Elton**, P. D. Spencer. in *Biologically-Inspired Systems*. pgs 155--169. (2021)  [[link](https://doi.org/10.1007/978-3-030-67227-0_8)]  [[arxiv](https://arxiv.org/abs/2010.07287)] [[.bib](../assets/my_papers/E_Physics_water/2021_Elton_Spencer_Pathological_Water_Science_four_examples.bib)][[pdf](../assets/my_papers/E_Physics_water/2021_Elton_Spencer_Pathological_Water_Science_four_examples.pdf)]</span>
+
+<span style="font-size:1.1em;">**Exclusion Zone Phenomena in Water - A Critical Review of Experimental Findings and Theories**</span><br> 
+ <span style="font-size:0.9em;">**D. C. Elton**, P. D. Spencer, J. D. Riches, E. D. Williams. *International Journal of Molecular Sciences*. **21** (14) pgs 5041. (2020)  [[link](https://doi.org/10.3390/ijms21145041)]  [[arxiv](https://arxiv.org/abs/1909.06822)] [[.bib](../assets/my_papers/E_Physics_water/2020_1_Elton_EZWater_review.bib)]</span>
+
+<span style="font-size:1.1em;">**Using a monomer potential energy surface to perform approximate path integral molecular dynamics simulation of ab initio water at near-zero added cost**</span><br> 
+ <span style="font-size:0.9em;">**D. C. Elton**, Michelle Fritz, Marivi Fern\'andez-Serra. *Physical Chemistry Chemical Physics*. **21** (1) pgs 409--417. (2019)  [[link](https://doi.org/10.1039/c8cp06077k)]  [[arxiv](https://arxiv.org/abs/1803.05740)] [[.bib](../assets/my_papers/E_Physics_water/2019_Elton_PIMD.bib)][[pdf](../assets/my_papers/E_Physics_water/2019_Elton_PIMD.pdf)]</span>
+
+<span style="font-size:1.1em;">**The origin of the Debye relaxation in liquid water and fitting the high frequency excess response**</span><br> 
+ <span style="font-size:0.9em;">**D. C. Elton**. *Physical Chemistry Chemical Physics*. **19** (28) pgs 18739--18749. (2017)  [[link](https://doi.org/10.1039/c7cp02884a)]  [[arxiv](https://arxiv.org/abs/1704.01667)] [[.bib](../assets/my_papers/E_Physics_water/2017_Elton_Debye_relaxation_paper.bib)][[pdf](../assets/my_papers/E_Physics_water/2017_Elton_Debye_relaxation_paper.pdf)]</span>
+
+<span style="font-size:1.1em;">**The hydrogen-bond network of water supports propagating optical phonon-like modes**</span><br> 
+ <span style="font-size:0.9em;">**D. C. Elton**, Marivi Fern\'andez-Serra. *Nature Communications*. **7** (1) (2016)  [[link](https://doi.org/10.1038/ncomms10193)]  [[arxiv](https://arxiv.org/abs/1507.06363)] [[.bib](../assets/my_papers/E_Physics_water/2016_Elton_Nature_Comm_water_phonons.bib)][[pdf](../assets/my_papers/E_Physics_water/2016_Elton_Nature_Comm_water_phonons.pdf)]</span>
+
+<span style="font-size:1.1em;">**Polar nanoregions in water: A study of the dielectric properties of TIP4P/2005,  TIP4P/2005f and TTM3F**</span><br> 
+ <span style="font-size:0.9em;">**D. C. Elton**, M.-V. Fern\'andez-Serra. *The Journal of Chemical Physics*. **140** (12) pgs 124504. (2014)  [[link](https://doi.org/10.1063/1.4869110)]  [[arxiv](https://arxiv.org/abs/1401.5090)] [[.bib](../assets/my_papers/E_Physics_water/2014_Elton_JCP_Water_dielectric.bib)][[pdf](../assets/my_papers/E_Physics_water/2014_Elton_JCP_Water_dielectric.pdf)]</span>
+
+# Other
+<span style="font-size:1.1em;">**Using Third-Order Moments of Fluctuations in V and B to Determine Turbulent Heating Rates in the Solar Wind**</span><br> 
+ <span style="font-size:0.9em;">M. A. Forman, C. W. Smith, B. J. Vasquez, B. T. MacBride, J. E. Stawarz, J. J. Podesta, **D. C. Elton**, U. Y. Malecot, Y. Gagne, M. Maksimovic, K. Issautier, N. Meyer-Vernet, M. Moncuquet, F. Pantellini. in *AIP Conference Proceedings 1216, 12th International Solar Wind Conference, 176 (2010)*. (2010)  [[link](https://doi.org/10.1063/1.3395830)] [[.bib](../assets/my_papers/F_other/2010_Forman_AIP_conf.bib)][[pdf](../assets/my_papers/F_other/2010_Forman_AIP_conf.pdf)]</span>
+
+<span style="font-size:1.1em;">**Accurate estimation of third-order moments from turbulence measurements**</span><br> 
+ <span style="font-size:0.9em;">J. J. Podesta, M. A. Forman, C. W. Smith, **D. C. Elton**, Y. Mal\'ecot, Y. Gagne. *Nonlinear Processes in Geophysics*. **16** (1) pgs 99--110. (2009)  [[link](https://doi.org/10.5194/npg-16-99-2009)] [[.bib](../assets/my_papers/F_other/2009_Podesta.bib)][[pdf](../assets/my_papers/F_other/2009_Podesta.pdf)]</span>
 
 
-T. S. Mathai, S. Lee, **D. C. Elton**, T. C. Shen, Y. Peng, Z. Lu, and R. M. Summers. "Lymph Node Detection in T2 MRI with Transformers" (under review)
 
-Y. Peng, S. Lee, **D. C. Elton**, T. Shen, Y. Tang, Q. Chen, S. Wang, Y. Zhu, R. M. Summers, Z. Lu. "[Automatic Recognition of Lymph Nodes from Clinical Text](https://www.aclweb.org/anthology/2020.clinicalnlp-1.12/)".  *Proceedings of the 3rd Workshop on Clinical Natural Language Processing (ClinicalNLP)*, 101-110.(2020)
-
-S. Y. Shin, S. Lee, **D. C. Elton**, J. Gulley, R. M. Summers. "[Deep Small Bowel Segmentation with Cylindrical Topological Constraints](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_21)". *Medical Image Computing and Computer Assisted Intervention – MICCAI 2020*, edited by Anne L. Martel et al., Springer International Publishing,  **12264**, 207–15. (2020) [[arxiv](https://arxiv.org/abs/2007.08674)]
-
-Y. Zhu, Y. Tang, Y. Tang, **D. C. Elton**, S. Lee, P. J. Pickhardt, R. M. Summers. "[Cross-Domain Medical Image Translation by Shared Latent Gaussian Mixture Model](https://link.springer.com/chapter/10.1007%2F978-3-030-59713-9_37)". *Medical Image Computing and Computer Assisted Intervention – MICCAI 2020*, edited by Anne L. Martel et al., Springer International Publishing,  **12262**, 379–389. (2020) [[arXiv](http://arxiv.org/abs/2007.07230)]  
-
-**D. C. Elton**. "[Self-explaining AI as an alternative to interpretable AI](https://link.springer.com/chapter/10.1007%2F978-3-030-52152-3_10)". *Proceedings of the 13th Annual Conference on Artificial General Intelligence (AGI-2020)*, pg 95. [[arXiv](https://arxiv.org/abs/2002.05149)] (Won the 2020 Kurzweil Prize for Best AGI Idea)
-
-Z. Boukouvalas, M. Puerto, **D. C. Elton**, P. W. Chung, M. D. Fuge. "[Independent Vector Analysis for Molecular Data Fusion: Application to Property Prediction and Knowledge Discovery of Energetic Materials](https://www.eurasip.org/Proceedings/Eusipco/Eusipco2020/pdfs/0001030.pdf)". *Proceedings of the 28th European Signal Processing Conference (EUSIPCO 2020)*. (2020)
-
-Y. Zhu, **D. C. Elton**, S. Lee, P. J. Pickhardt, R. M. Summers. "Image Translation by Latent Union of Subspaces for Cross-Domain Plaque Detection".  *Proceedings of the 2020 Medical Imaging with Deep Learning (MIDL) Conference*. (2020). [[arXiv](https://arxiv.org/abs/2005.11384)]
-
-**D. C. Elton**, V. Sandfort, P. J. Pickhardt, and R. M. Summers. "[Accurately identifying vertebral levels in large datasets](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11314/113140O/Accurately-identifying-vertebral-levels-in-large-datasets/10.1117/12.2551247.full?SSO=1)". *SPIE: Medical Imaging 2020: Computer-Aided Diagnosis* **113140O**. (2020). [[arXiv](https://arxiv.org/abs/2001.10503)]
-
-**D. C. Elton**, D. Turakhia, N. Reddy, Z. Boukouvalas, R. M. Doherty, M. D. Fuge, and P. W. Chung. "Using natural language processing techniques to extract information on the properties and functionalities of energetic materials from large text corpora". *Proceedings of the 22nd International Seminar on New Trends in Research of Energetic Materials*. (2019). [[arXiv](https://arxiv.org/abs/1903.00415)] (won the 3rd best presentation award at the 2019 NTREM conference)
-
-Z. Boukouvalas, **D. C. Elton**, M. D. Fuge, and P. W. Chung. "Independent Vector Analysis for Data Fusion Prior to Molecular Property Prediction with Machine Learning". *Proceedings of the 2018 Neural Information Processing Systems (NeurIPS) workshop on Machine Learning for Molecules and Materials*. [[arXiv](https://arxiv.org/abs/1811.00628)]
-
-B. C. Barnes, **D. C. Elton**, Z. Boukouvalas, D. E. Taylor, W. D. Mattson, M. D. Fuge, and P.W. Chung, “Machine Learning of Energetic Material Properties”, Proceedings of the 16th International Detonation Symposium, Cambridge MD, USA, July 2018, [[arXiv](https://arxiv.org/abs/1807.06156)]
-
-F. G. VanGessel, G. Kumar, **D. C. Elton**, and P. W. Chung, “A Phonon Boltzmann Study of Microscale Thermal Transport in α-RDX Cook-Off", Proceedings of the 16th International Detonation Symposium, Cambridge MD, USA, July 2018. [[arXiv](https://arxiv.org/abs/1808.08295)]
-
-M. A. Forman, C. W. Smith, B. J. Vasquez, B. T. MacBride, J. E. Stawarz, J. J. Podesta, **D. C. Elton**, U. Y. Malecot, and Y. Gagne. "[Using Third‐Order Moments of Fluctuations in V and B to Determine Turbulent Heating Rates in the Solar Wind](https://aip.scitation.org/doi/abs/10.1063/1.3395830)", *AIP Conference Proceedings* **1216**, 12th International Solar Wind Conference, 176 (2010)
-
-## Book chapters
-**D. C. Elton** and P. D. Spencer. "Four examples of pathological water science and what they have in common". To appear in *Water in Biomechanical & Related Systems"*, A. Gadomski, editor. Springer. (2021)
-
-## Preprints
-C. S. Greene, **D. C. Elton**, A. J. Titus, A. Gitter, D. S. Himmelstein, B. C. Christensen, J. J. Levy, et al. "[Opportunities and obstacles for deep learning in
-biology and medicine: Version 2.0](https://greenelab.github.io/deep-review/manuscript.pdf)" (in prep) (2020)
-
-## Ph.D. Thesis
+# Ph.D. Thesis
 <img class="alignright" src="http://www.danielcelton.com/wp-content/uploads/2015/09/waterbinding2-300x204.png" alt="atom in a clathrate-like cage" width="100" height="70" srcset="http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-300x204.png 300w, http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-768x523.png 768w, http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-1024x698.png 1024w, http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-1200x818.png 1200w, http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2.png 1573w" sizes="(max-width: 199px) 100vw, 199px" />
 
 *[Understanding the Dielectric Properties of Water](http://www.moreisdifferent.com/wp-content/uploads/2014/11/Daniel_Elton_Thesis_Final_Copy.pdf)* (11 Mb PDF)
 
-## Science notes
+# Science notes
 
 feedback on these is always appreciated.
 
@@ -109,24 +121,3 @@ feedback on these is always appreciated.
 * [Maxwell&#8217;s equations in different conventions](http://www.moreisdifferent.com/wp-content/uploads/2015/07/maxwells-equations-dan-elton.pdf) (2011)
 * [Some errata for _Geometry, Topology, & Physics_ by M. Nakahara](http://www.moreisdifferent.com/wp-content/uploads/2015/08/Nakahara_Errata.pdf) (2011)
 * [Equations for the Physics GRE](http://www.moreisdifferent.com/assets/science_notes/physics_GRE_equations.pdf) (2010)
-
-<!--
-## Select conference abstracts
-P. W. Chung, M. D. Fuge, I. Michel-Tyler, Z. Boukouvalas, R. Doherty, **D. C. Elton**, R. Gunderson, and L. Elmasry, “Natural Language Processing and Machine Learning of Text-Based Energetics: Open Literature and Data Sources”. *67th JANNAF Propulsion Meeting*, Pittsburgh, PA. (2020)
-
-G. Kumar, F. VanGessel, P. W. Chung, **D. C. Elton**. "[Phonon Lifetimes in the Molecular Crystal α-RDX](https://mrsspring2019.zerista.com/event/member/558754)". *MRS Spring Meeting* (2019)
-
-**D. C. Elton**, M. Fritz, J. Soler, M.-V. Fernandez-Serra. "[Accurate path integral molecular dynamics simulation of ab-initio water at near-zero added cost](https://ui.adsabs.harvard.edu/abs/2016APS..MARK47001E/abstract)". *APS March Meeting* (2016)
-
-**D. C. Elton**, M.-V. Fernandez-Serra. "[Exploring the nonlocal dielectric susceptibility of liquid water in the terahertz regime-propagating modes, Debye relaxation and overscreening](https://ui.adsabs.harvard.edu/abs/2015APS..MARD26003E/abstract)". *APS March Meeting*, (2015)
-
-**D. C. Elton**, M.-V. Fernandez-Serra. "[Polar nanoregions in water - a study of the dielectric properties of TIP4P/2005, TIP4P2005f and TTM3F](http://meetings.aps.org/link/BAPS.2014.MAR.Q3.8)". *APS March Meeting*, (2014)
-
-L. Pedroza, **D. C. Elton**, M.-V. Fernandez-Serra. "[Connexions between density and dielectric properties of water](https://meetings.aps.org/Meeting/MAR13/Session/T42.7)". *APS March Meeting*, (2013)
-
-C. W. Smith, M. A. Forman, J. J. Podesta, B. J. Vasquez, W. H. Matthaeus, J. A. Tessein, J. E. Stawarz, B. T. MacBride, J. E. Borovsky, **D.C. Elton**. "[Turbulent Cascade Dynamics in the Interplanetary Plasma](https://ui.adsabs.harvard.edu/abs/2008AGUFMNG43B..03S/abstract)" *AGU Fall Meeting*, (2008)
-
-
- [Optical Pumping of Rubidium Vapor](http://www.moreisdifferent.com/wp-content/uploads/2015/07/lab1_optical_pumping_dan_elton.pdf)
-[The Lifetime of Carbon-11](http://www.moreisdifferent.com/wp-content/uploads/2015/07/lab2_c11_lifetime_dan_elton.pdf)
-[Hall effect measurements of the carrier density and mobility of a 3D electron gas in a GaAs/AlGaAs heterostructure](http://www.moreisdifferent.com/wp-content/uploads/2015/07/lab3_hall_effect_dan_elton.pdf) -->
