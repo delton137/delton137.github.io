@@ -32,7 +32,10 @@ def parse_bib(f):
         s += "  [[link]("+bd['url']+")]"
 
     if 'arxiv' in bd.keys():
-        s += "  [[arxiv]("+bd['arxiv']+")]"
+        s += "  [[arXiv]("+bd['arxiv']+")]"
+
+    if 'medrxiv' in bd.keys():
+        s += "  [[medRxiv]("+bd['medrxiv']+")]"
 
     s += " [[.bib](../"+f.replace("/home/dan/Dropbox/delton137.github.io/", "")+")]"
 
@@ -108,7 +111,6 @@ s = s.replace("Perry J. Pickhardt","P. J. Pickhardt")
 s = s.replace("Veit Sandfort","V. Sandfort")
 s = s.replace("DeCarlos E. Taylor","D. E. Taylor")
 s = s.replace("William D. Mattson","W. D. Mattson")
-
 s = s.replace("Yingying Zhu","Y. Zhu")
 s = s.replace("Mohammedhadi Bagheri","M. Bagheri")
 s = s.replace("N. N. Mehta","P. C. Grayson")
@@ -118,8 +120,12 @@ s = s.replace("Peter M. Graffy","P. M. Graffy")
 s = s.replace("Youbao Tang","Y. Tang")
 s = s.replace("Yuxing Tang","Y. Tang")
 s = s.replace("Thomas Shen","T. Shen")
-
+s = s.replace("Michelle Fritz","M. Fritz")
+s = s.replace("Jiamin Liu","J. Liu")
+s = s.replace("Andy Chen","A. Chen").replace("Qingyu Chen", "Q. Chen").replace("Zhiyong Lu", "Z. Lu")
 s = s.replace("\\textquotesingle", "'")
+s = s.replace("$\\alpha$", "α")
+
 
 s += """
 
@@ -128,9 +134,7 @@ s += """
 
 *[Understanding the Dielectric Properties of Water](http://www.moreisdifferent.com/wp-content/uploads/2014/11/Daniel_Elton_Thesis_Final_Copy.pdf)* (11 Mb PDF)
 
-# Science notes
-
-feedback on these is always appreciated.
+# Old science notes
 
 * [Notes on GAN objective functions](http://www.moreisdifferent.com/assets/science_notes/notes_on_GAN_objective_functions.pdf) (2018)
 * [Relation of crystal shape & structure to LO-TO splitting](http://www.moreisdifferent.com/wp-content/uploads/2015/08/loto1.pdf) (2015)
