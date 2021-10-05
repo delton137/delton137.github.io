@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import glob as glob
 import os
 from natsort import natsorted
@@ -122,7 +123,7 @@ s = s.replace("Yuxing Tang","Y. Tang")
 s = s.replace("Thomas Shen","T. Shen")
 s = s.replace("Michelle Fritz","M. Fritz")
 s = s.replace("Jiamin Liu","J. Liu")
-s = s.replace("Andy Chen","A. Chen").replace("Qingyu Chen", "Q. Chen").replace("Zhiyong Lu", "Z. Lu")
+s = s.replace("Andy Chen","A. Chen").replace("Qingyu Chen", "Q. Chen").replace("Zhiyong Lu", "Z. Lu").replace("Bruce Nielson", "B. Nielson")
 s = s.replace("\\textquotesingle", "'")
 s = s.replace("$\\alpha$", "α")
 

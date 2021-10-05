@@ -8,6 +8,9 @@ layout: page
 See also [Google Scholar](https://scholar.google.com/citations?user=KG0pbOYAAAAJ)
 
 # Artifical intelligence
+<span style="font-size:1.1em;">**Induction, Popper, and machine learning**</span><br> 
+ <span style="font-size:0.9em;">B. Nielson, **D. C. Elton**. *under review*. (2021)  [[arXiv](https://arxiv.org/abs/2110.00840)] [[.bib](../assets/my_papers/A_AI_general/2021_Nielson_Elton.bib)]</span>
+
 <span style="font-size:1.1em;">**Applying Deutsch's concept of good explanations to artificial intelligence and neuroscience - An initial exploration**</span><br> 
  <span style="font-size:0.9em;">**D. C. Elton**. *Cognitive Systems Research*. **67** pgs 9--17. (2021)  [[link](https://doi.org/10.1016/j.cogsys.2020.12.002)]  [[arXiv](https://arxiv.org/abs/2012.09318)] [[.bib](../assets/my_papers/A_AI_general/2021_Elton_Deutsch_hard_to_vary.bib)]</span>
 
