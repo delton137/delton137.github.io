@@ -49,14 +49,6 @@ J. J. Podesta, M. A. Forman, C. W. Smith, **D. C. Elton**, and Y. Malecot, &#822
 
 <!-------------------------------------------------------------------------------------------------------------->
 ## Peer reviewed conference proceedings
-<!-- S. Wang, Y. Zhu, S. Lee, **D. C. Elton**, T. Shen, Y. Tang, Y. Peng, Z. Lu, R. M. Summers. "Global-Local Attention Network with Multi-task Uncertainty Loss for Abnormal Lymph Node Detection in MR Images"
-
-"Learning Structured Graphs from Visual/Semantic Feature and Radiology Knowledge Graph for Multi-Class/Multi-Label Classification of Medical Images"
-
-**D. C. Elton**, Y. Zhu, Y. Tang, R. M. Summers. "Improving the Transferability of 3D Segmentation Models Using Cycle Consistent Adversarial Networks" (in prep)
--->
-
-
 T. S. Mathai, S. Lee, **D. C. Elton**, T. C. Shen, Y. Peng, Z. Lu, and R. M. Summers. "Lymph Node Detection in T2 MRI with Transformers" (under review)
 
 Y. Peng, S. Lee, **D. C. Elton**, T. Shen, Y. Tang, Q. Chen, S. Wang, Y. Zhu, R. M. Summers, Z. Lu. "[Automatic Recognition of Lymph Nodes from Clinical Text](https://www.aclweb.org/anthology/2020.clinicalnlp-1.12/)".  *Proceedings of the 3rd Workshop on Clinical Natural Language Processing (ClinicalNLP)*, 101-110.(2020)
@@ -87,8 +79,18 @@ M. A. Forman, C. W. Smith, B. J. Vasquez, B. T. MacBride, J. E. Stawarz, J. J. P
 **D. C. Elton** and P. D. Spencer. "Four examples of pathological water science and what they have in common". To appear in *Water in Biomechanical & Related Systems"*, A. Gadomski, editor. Springer. (2021)
 
 ## Preprints
-C. S. Greene, **D. C. Elton**, A. J. Titus, A. Gitter, D. S. Himmelstein, B. C. Christensen, J. J. Levy, et al. "[Opportunities and obstacles for deep learning in
-biology and medicine: Version 2.0](https://greenelab.github.io/deep-review/manuscript.pdf)" (in prep) (2020)
+Casey S. Greene
+2.1,2.2⚄,†
+, Daniel S. Himmelstein
+2.3⚄, Daniel C. Elton
+2.4⚄, Brock C.
+Christensen
+2.5⚄, Anthony Gitter
+2.6,2.7⚄,†
+, Alexander J. Titus
+2.5⚄, Joshua J. Levy
+
+C. S. Greene,D. S. Himmelstein,  **D. C. Elton**, B. C. Christensen,  A. Gitter,  A. J. Titus, J. J. Levy, et al. "[Opportunities and obstacles for deep learning in biology and medicine: Version 2.0](https://greenelab.github.io/deep-review/manuscript.pdf)" (in prep) (2020)
 
 ## Ph.D. Thesis
 <img class="alignright" src="http://www.danielcelton.com/wp-content/uploads/2015/09/waterbinding2-300x204.png" alt="atom in a clathrate-like cage" width="100" height="70" srcset="http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-300x204.png 300w, http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-768x523.png 768w, http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-1024x698.png 1024w, http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-1200x818.png 1200w, http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2.png 1573w" sizes="(max-width: 199px) 100vw, 199px" />

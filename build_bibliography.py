@@ -15,8 +15,9 @@ def parse_bib(f):
 
     if 'journal' in bd.keys():
         s +=  " *"+bd['journal']+"*."
+
     elif 'booktitle' in bd.keys():
-        s +=  " in *"+bd['booktitle']+"*."
+        s +=  " Chapter in *"+bd['booktitle']+"*."
 
     if 'volume' in bd.keys():
         s += " **"+bd['volume']+"**"
@@ -72,7 +73,7 @@ folders = natsorted(glob.glob("assets/my_papers/*"))
 
 for folder in folders:
     folder_name = folder.split("/")[-1]
-    folder_name = folder_name.replace("A_AI_general","Artifical intelligence")
+    folder_name = folder_name.replace("A_AI_general","Artificial intelligence")
     folder_name = folder_name.replace("B_AI_medical_imaging","Machine learning for medical imaging")
     folder_name = folder_name.replace("C_AI_molecular_design","Machine learning for molecular design")
     folder_name = folder_name.replace("D_Physics_energetic_materials","Physics of detonation")
