@@ -9,7 +9,7 @@ def parse_bib(f):
 
     bd = bib_database.entries[0]
 
-    s = "<span style=\"font-size:1.1em;\">**"+bd['title']+"**</span><br> \n <span style=\"font-size:0.9em;\">"
+    s = "<span style=\"font-size:1.0em;\">**"+bd['title']+"**</span><br> \n <span style=\"font-size:0.9em;\">"
 
     s += bd['author'].replace(" and ",", ").replace(" and", ",")+"."
 
@@ -124,6 +124,8 @@ s = s.replace("Yuxing Tang","Y. Tang")
 s = s.replace("Thomas Shen","T. Shen")
 s = s.replace("Michelle Fritz","M. Fritz")
 s = s.replace("Jiamin Liu","J. Liu")
+s = s.replace("Victoria Noe-Kim","V. Noe-Kim")
+s = s.replace("John W. Garrett", "J. W. Garrett")
 s = s.replace("Andy Chen","A. Chen").replace("Qingyu Chen", "Q. Chen").replace("Zhiyong Lu", "Z. Lu").replace("Bruce Nielson", "B. Nielson")
 s = s.replace("\\textquotesingle", "'")
 s = s.replace("$\\alpha$", "α")
