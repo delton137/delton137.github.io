@@ -129,6 +129,8 @@ s = s.replace("John W. Garrett", "J. W. Garrett")
 s = s.replace("Andy Chen","A. Chen").replace("Qingyu Chen", "Q. Chen").replace("Zhiyong Lu", "Z. Lu").replace("Bruce Nielson", "B. Nielson")
 s = s.replace("\\textquotesingle", "'")
 s = s.replace("$\\alpha$", "α")
+s = s.replace("'a", "á")
+s = s.replace("\\", "")
 
 
 s += """
