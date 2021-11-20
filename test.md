@@ -86,11 +86,7 @@ The relative probability of model 2 over model 1 is encoded in the ratio of the 
 
 $$ \frac{P(\mathcal{H}_1 | s) }{P(\mathcal{H}_2 | s) } = \frac{P(s| \mathcal{H}_1)}{P(s|\mathcal{H}_2)}$$
 
-The ratio tells us the relative probability that model 1 is correct. Note that absolute probabilities of model 1 and model 2 can be computed from this using the fact that
-
-$$ P(\mathcal{H}_1|s)+P(\mathcal{H}_2 |s)=1 $$
-
-That’s all on model comparison for now. A more detailed discussion can be found in MacKay’s book.
+The ratio tells us the relative probability that model 1 is correct. Note that absolute probabilities of model 1 and model 2 can be computed from this using the fact that  $$ P(\mathcal{H}_1|s)+P(\mathcal{H}_2 |s)=1$$That’s all on model comparison for now. A more detailed discussion can be found in MacKay’s book.
 
 # The case of the blood stains
 
