@@ -11,6 +11,9 @@ tags:
   - progress studies, progress, metascience
 ---
 
+(Note: will be updating this more a bit later)
+
+
 Click for a larger view:
 <figure><a href="/assets/map_of_progress_studies.svg"><img width="5000px" src="/assets/map_of_progress_studies.svg"></a></figure>
 
