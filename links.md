@@ -10,13 +10,13 @@ layout: page
 
 * [Astral Codex Ten](https://astralcodexten.substack.com/) (formerly [Slate Star Codex](https://slatestarcodex.com/)) psychiatry, book reviews, AI, many other topics. [Top posts here](https://slatestarcodex.com/about/)
 * [Marginal Revolution](https://marginalrevolution.com/) - economics etc from Tyler Cowen and Alex Tabarrok.
-* [Alexi Guzey](https://guzey.com/) - metascience, productivity hacks.
-* [Don't worry about the vase](https://thezvi.wordpress.com/) - rational analysis and forecasting of the pandemic, interesting rationalist social commentary.
+* [Alexey Guzey](https://guzey.com/) - metascience, productivity hacks.
+* [Don't worry about the vase](https://thezvi.wordpress.com/) - rational analysis and forecasting of the pandemic, interesting rationalist commentary.
 * [The rationalist conspiracy](https://rationalconspiracy.com/) - Bay area futurism.
 <!-- http://www.paulgraham.com/articles.html -->
 
 # Podcasts I recommend:
-* [Making Sense with Sam Harris](https://samharris.org/podcast/) Science, skepticism, current affairs.
+* [Making Sense with Sam Harris](https://samharris.org/podcast/) science, meditation, philosophy, current affairs.
 * [Idea Machines with Ben Reinhardt](https://ideamachinespodcast.com/) metascience, progress studies.
 * [Narratives with Will Jarvis](https://narrativespodcast.com/) metascience, progress studies.
 * [Rationally Speaking with Julia Galef](http://rationallyspeakingpodcast.org/) science, rationality, and skepticism.
