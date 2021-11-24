@@ -25,10 +25,10 @@ Here's a map I made for fun using diagrams.net. (Click for a larger view.)
 (Dashed lines denote my perception of weaker ties to the progress studies community). Here's other people that have been suggested to me for inclusion:
 
 Peter Thiel  
-Johan Norberg
-Ron Bailey
-Matt Ridley
-Deirdre McCloskey
+Johan Norberg  
+Ron Bailey  
+Matt Ridley  
+Deirdre McCloskey  
 J. Storrs Hall, author of "[Where Is My Flying Car](https://www.amazon.com/Where-Flying-Car-Storrs-Hall-ebook/dp/B09H478XG4)"  
 Stewart Brand ([Long Now Foundation](https://longnow.org/))  
 Alex Tabarrok ([Marginal Revolution](https://marginalrevolution.com/))  
