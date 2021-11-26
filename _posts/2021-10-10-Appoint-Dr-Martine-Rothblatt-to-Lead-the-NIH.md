@@ -11,6 +11,8 @@ tags:
   - NIH
 ---
 
+*NOTE: I have no idea if Dr. Rothblatt actually wants this position. Also, I never expected this position to go anywhere, the point is just to get people think differently and more importantly, think bolder!*
+
 **If you like this idea, [sign the petition on Change.org!](https://chng.it/XMMwQjhp)**
 
 <figure> <img  src="/assets/pictures/Martine_Rothblatt/Martine_Rothblatt_2006June-marnasdaqsmiling-scaled-1-768x512.jpeg" alt="" width="493" /></figure>
