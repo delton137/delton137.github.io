@@ -37,7 +37,7 @@ Or Biden, backed strongly by the Maryland Congressional delegation, could reques
 
 Or Biden could request Congress pass a reciprocity law certifying for the use of Americans any COVID treatment approved  in other advanced countries. Rep. Chip Roy (TX-21) and Sen. Ted Cruz, (R-TX) have [introduced legislation](https://roy.house.gov/media/press-releases/roy-reintroduces-legislation-improve-americans-access-lifesaving-medicine) allowing for reciprocal approval of drugs approved in other trusted countries. This proposal could be focused to allow access to COVID vaccines.
 
-Since AstraZeneca is produced in Maryland and the FDA headquarters is also in Maryland, Hogan is in an ideal position to be the hero, shake things up, and break the bureaucratic walls separating citizens from a lifesaving medication.
+Since AstraZeneca is produced in Maryland and the FDA headquarters is also in Maryland, Hogan is in an ideal position to be the hero, shake things up, and break the bureaucratic walls separating citizens from a lifesaving treatment.
 
 **If you agree that Hogan should act now, please sign this petition on Change.org:**\
 [Larry Hogan : Liberate the AstraZeneca vaccine from the FDA!](https://www.change.org/p/larry-hogan-larry-hogan-liberate-the-astrazeneca-vaccine-from-the-fda)
