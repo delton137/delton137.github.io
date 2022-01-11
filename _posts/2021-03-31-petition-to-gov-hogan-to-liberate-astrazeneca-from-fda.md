@@ -11,7 +11,7 @@ categories:
   - vaccines
 tags:
   - COVID19
-  - rationality
+  - FDA
   - vaccines
 ---
 
