@@ -22,10 +22,10 @@ See also [Google Scholar](https://scholar.google.com/citations?user=KG0pbOYAAAAJ
  <span style="font-size:0.9em;">S. Wang, Y. Zhu, S. Lee, **D. C. Elton**, T. C. Shen, Y. Tang, Y. Peng, Z. Lu, R. M. Summers. *Medical Image Analysis*. pgs 102345. (2022)  [[link](https://www.sciencedirect.com/science/article/pii/S136184152100390X)] [[.bib](../assets/my_papers/B_AI_medical_imaging/2022_Wang_MIA_lymph.bib)][[pdf](../assets/my_papers/B_AI_medical_imaging/2022_Wang_MIA_lymph.pdf)]</span>
 
 <span style="font-size:1.0em;">**Lymph node detection in T2 MRI with transformers**</span><br> 
- <span style="font-size:0.9em;">T. S. Mathai, S. Lee, **D. C. Elton**, Tommy Shen, R. M. Summers. *To appear in proceedings of SPIE Medical Imaging 2022: Computer-Aided Diagnosis*. (2022)  [[arXiv](https://arxiv.org/abs/2111.04885)] [[.bib](../assets/my_papers/B_AI_medical_imaging/2022_Tejas_SPIE_Transformers.bib)]</span>
+ <span style="font-size:0.9em;">T. S. Mathai, S. Lee, **D. C. Elton**, T. C. Shen Shen, R. M. Summers. *To appear in proceedings of SPIE Medical Imaging 2022: Computer-Aided Diagnosis*. (2022)  [[arXiv](https://arxiv.org/abs/2111.04885)] [[.bib](../assets/my_papers/B_AI_medical_imaging/2022_Tejas_SPIE_Transformers.bib)]</span>
 
 <span style="font-size:1.0em;">**Fully-automated Abdominal CT Imaging Biomarkers for Type 2 Diabetes using Deep Learning**</span><br> 
- <span style="font-size:0.9em;">H. Tallam, **D. C. Elton**, S. Lee, Paul Wakim, P. J. Pickhardt, R. M. Summers. *to appear in Radiology*. pgs . (2022) [[.bib](../assets/my_papers/B_AI_medical_imaging/2022_Talam_pancreas.bib)]</span>
+ <span style="font-size:0.9em;">H. Tallam, **D. C. Elton**, S. Lee, P. Wakim, P. J. Pickhardt, R. M. Summers. *to appear in Radiology*. pgs . (2022) [[.bib](../assets/my_papers/B_AI_medical_imaging/2022_Talam_pancreas.bib)]</span>
 
 <span style="font-size:1.0em;">**A deep learning system for automated kidney stone detection and volumetric segmentation on non-contrast CT scans**</span><br> 
  <span style="font-size:0.9em;">**D. C. Elton**, Evrim B. Turkbey, P. J. Pickhardt, R. M. Summers. *to appear in Medical Physics*. pgs . (2022) [[.bib](../assets/my_papers/B_AI_medical_imaging/2022_Elton_kidney_stone_detection.bib)]</span>
