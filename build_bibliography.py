@@ -9,7 +9,10 @@ def parse_bib(f):
 
     bd = bib_database.entries[0]
 
-    s = "<span style=\"font-size:1.0em;\">**"+bd['title']+"**</span><br> \n <span style=\"font-size:0.9em;\">"
+    s = "<span style=\"font-size:1.0em;\">**"+bd['title']+"**</span><br><span style=\"font-size:0.9em;\">"
+
+    if ('note' in bd.keys()):
+        s += bd['note']+"<br>"
 
     s += bd['author'].replace(" and ",", ").replace(" and", ",")+"."
 
@@ -20,13 +23,16 @@ def parse_bib(f):
         s +=  " Chapter in *"+bd['booktitle']+"*."
 
     if 'volume' in bd.keys():
-        s += " **"+bd['volume']+"**"
+        if not(str(bd['volume']).replace(" ", "")==""):
+            s += " **"+bd['volume']+"**"
 
     if 'number' in bd.keys():
-        s +=  " ("+bd['number']+")"
+        if not(str(bd['number']).replace(" ", "")==""):
+            s +=  " ("+bd['number']+")"
 
     if 'pages' in bd.keys():
-        s +=  " pgs "+bd['pages']+"."
+        if not(str(bd['pages']).replace(" ", "")==""):
+            s +=  " pgs "+bd['pages']+"."
 
     s += " ("+bd['year']+")"
 
@@ -134,6 +140,7 @@ s = s.replace("Thomas C. Shen", "T. C. Shen")
 s = s.replace("Tommy", "T. C. Shen")
 s = s.replace("Thomas Shen", "T. C. Shen")
 s = s.replace("Paul Wakim", "P. Wakim")
+s = s.replace("Evrim B. Turkbey", "E. B. Turkbey")
 s = s.replace("Andy Chen","A. Chen").replace("Qingyu Chen", "Q. Chen").replace("Zhiyong Lu", "Z. Lu").replace("Bruce Nielson", "B. Nielson")
 s = s.replace("\\textquotesingle", "'")
 s = s.replace("$\\alpha$", "α")
