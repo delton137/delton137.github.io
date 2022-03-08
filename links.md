@@ -27,6 +27,6 @@ layout: page
 * [Mindscape with Sean Carroll](https://www.preposterousuniverse.com/podcast/) - physics, neuroscience, and other random topics.
 
 # Tools I find useful:
-* [Roam Research note-taking app](https://roamresearch.com/)
+* [Obsidian note-taking app](https://obsidian.md/)
 * [Anki Spaced Repetition Flashcards](https://ankiweb.net/)  (see Michael Nielson's [detailed explanation](http://augmentingcognition.com/ltm.html) of what it is and how he uses it.)
-* The [Minimal Twitter](https://chrome.google.com/webstore/detail/minimal-twitter/pobhoodpcipjmedfenaigbeloiidbflp?hl=en) and [Facebook Purity](https://www.fbpurity.com/) Chrome extensions for reducing distractions.
+* The [News Feed Eradicator](https://chrome.google.com/webstore/detail/news-feed-eradicator/fjcldmjmjhkklehbacihaiopjklihlgg?hl=en), [Minimal Twitter](https://chrome.google.com/webstore/detail/minimal-twitter/pobhoodpcipjmedfenaigbeloiidbflp?hl=en) and [Facebook Purity](https://www.fbpurity.com/) Chrome extensions for reducing distractions.
