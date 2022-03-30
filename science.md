@@ -82,11 +82,10 @@ See also [Google Scholar](https://scholar.google.com/citations?user=KG0pbOYAAAAJ
 
 <span style="font-size:1.0em;">**Polar nanoregions in water: A study of the dielectric properties of TIP4P/2005,  TIP4P/2005f and TTM3F**</span><br><span style="font-size:0.9em;">**D. C. Elton**, M.-V. Fernández-Serra. *The Journal of Chemical Physics*. **140** (12) pgs 124504. (2014)  [[link](https://doi.org/10.1063/1.4869110)]  [[arXiv](https://arxiv.org/abs/1401.5090)] [[.bib](../assets/my_papers/E_Physics_water/2014_Elton_JCP_Water_dielectric.bib)][[pdf](../assets/my_papers/E_Physics_water/2014_Elton_JCP_Water_dielectric.pdf)]</span>
 
-# Other
+# Turbulence
 <span style="font-size:1.0em;">**Using Third-Order Moments of Fluctuations in V and B to Determine Turbulent Heating Rates in the Solar Wind**</span><br><span style="font-size:0.9em;">M. A. Forman, C. W. Smith, B. J. Vasquez, B. T. MacBride, J. E. Stawarz, J. J. Podesta, **D. C. Elton**, U. Y. Malecot, Y. Gagne, M. Maksimovic, K. Issautier, N. Meyer-Vernet, M. Moncuquet, F. Pantellini. Chapter in *AIP Conference Proceedings 1216, 12th International Solar Wind Conference, 176 (2010)*. (2010)  [[link](https://doi.org/10.1063/1.3395830)] [[.bib](../assets/my_papers/F_other/2010_Forman_AIP_conf.bib)][[pdf](../assets/my_papers/F_other/2010_Forman_AIP_conf.pdf)]</span>
 
 <span style="font-size:1.0em;">**Accurate estimation of third-order moments from turbulence measurements**</span><br><span style="font-size:0.9em;">J. J. Podesta, M. A. Forman, C. W. Smith, **D. C. Elton**, Y. Mal'ecot, Y. Gagne. *Nonlinear Processes in Geophysics*. **16** (1) pgs 99--110. (2009)  [[link](https://doi.org/10.5194/npg-16-99-2009)] [[.bib](../assets/my_papers/F_other/2009_Podesta.bib)][[pdf](../assets/my_papers/F_other/2009_Podesta.pdf)]</span>
-
 
 
 # Ph.D. Thesis
