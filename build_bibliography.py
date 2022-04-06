@@ -52,6 +52,15 @@ def parse_bib(f):
         pdf_link = pdf_link.replace("/home/dan/Dropbox/delton137.github.io/", "")
         s += "[[pdf](../"+pdf_link+")]"
 
+    supp_link = f.replace(".bib", "_supplementary_info.pdf")
+    if os.path.exists(supp_link):
+        supp_link = supp_link.replace("/home/dan/Dropbox/delton137.github.io/", "")
+        s += "[[supplementary info](../"+supp_link+")]"
+
+
+    if 'press_release' in bd.keys():
+        s += "  [[Press Release]("+bd['press_release']+")]"
+
     s += "</span>"
 
     return s
