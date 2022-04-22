@@ -3,7 +3,7 @@ id: 10019
 title: Petition to President Joe Biden – Appoint Dr. Martine Rothblatt to Lead the NIH!
 facebookcomments: true
 author: Dan Elton
-layout: hidden_post
+layout: post
 permalink: /2021/10/08/Appoint-Dr-Martine-Rothblatt-to-Lead-the-NIH
 categories:
   - NIH
