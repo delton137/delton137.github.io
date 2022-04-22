@@ -4,16 +4,14 @@ title: Petition to President Joe Biden – Appoint Dr. Martine Rothblatt to Lead
 facebookcomments: true
 author: Dan Elton
 layout: hidden_post
-permalink: /2021/10/10/Appoint-Dr-Martine-Rothblatt-to-Lead-the-NIH
+permalink: /2021/10/08/Appoint-Dr-Martine-Rothblatt-to-Lead-the-NIH
 categories:
   - NIH
 tags:
   - NIH
 ---
 
-*NOTE: I have no idea if Dr. Rothblatt actually wants this position. Also, I never expected this position to go anywhere, the point is just to get people think differently and more importantly, think bolder!*
-
-**If you like this idea, [sign the petition on Change.org!](https://chng.it/XMMwQjhp)**
+*IMPORTANT NOTE: I have no idea if Dr. Rothblatt actually wants this position. Also, I never expected this position to go anywhere, the reason I wrote this was to get people to think more boldly when considering who to put in charge of NIH! That said if you like this idea, you can [sign the petition on Change.org!](https://chng.it/XMMwQjhp)*
 
 <figure> <img  src="/assets/pictures/Martine_Rothblatt/Martine_Rothblatt_2006June-marnasdaqsmiling-scaled-1-768x512.jpeg" alt="" width="493" /></figure>
 ## Bigger. Bolder. Faster.
@@ -44,5 +42,3 @@ In 2013, Rothblatt was reported to be the highest-paid female CEO in America, ba
 Born as Martin Rothblatt, she underwent gender-reassignment surgery in 1994 at the age of 40, and soon after changed her name to Martine. A vocal advocate for transgender dignity, she authored The Apartheid of Sex: A Manifesto on the Freedom of Gender and From Transgender to Transhuman: A Manifesto on the Freedom of Form. She forcefully argues for the adoption of “a new sexual model that accommodates every shade of gender identity.”
 
 In 2010, Rothblatt and Aspen received the Vicki Sexual Freedom Award from the Woodhull Freedom Foundation, a nonprofit that advocates for sexual freedom as a fundamental human right. In 2019, Rothblatt was named one of “the 23 most powerful LGBTQ+ people in tech” by Business Insider. If appointed NIH Director, Martine would not only be the first woman to hold the post, but also one of the highest-ranking transgender persons in the federal government. By appointing Dr. Rothblatt to lead the NIH we can be confident that the goals and ideals of equity, diversity, and inclusion will flow from the top.
-
-**If you agree that Dr. Rothblatt should lead the NIH, please sign [the petition on Change.org](https://chng.it/XMMwQjhp)!**
