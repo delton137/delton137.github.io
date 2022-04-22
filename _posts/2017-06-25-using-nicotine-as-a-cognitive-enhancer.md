@@ -110,10 +110,6 @@ While overall taking nicotine on a regular basis has been helpful for me, one sh
     </p>
 
   * <p class="western">
-      <span style="font-family: 'Times New Roman', serif;">It also increases <span style="color: #000000;"><span style="font-size: medium;">acetylcholinesterase, the enzyme that breaks down acetylcholine, </span></span><span style="color: #0563c1;"><span style="font-size: medium;"><u>[ref]</u></span></span></span>
-    </p>
-
-  * <p class="western">
       <span style="font-family: 'Times New Roman', serif;">It has a half life of 1-2 hours.</span>
     </p>
 
