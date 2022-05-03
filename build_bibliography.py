@@ -86,6 +86,8 @@ See also [Google Scholar](https://scholar.google.com/citations?user=KG0pbOYAAAAJ
 
 folders = natsorted(glob.glob("assets/my_papers/*"))
 
+tot = 0
+
 for folder in folders:
     folder_name = folder.split("/")[-1]
     folder_name = folder_name.replace("A_AI_general","Artificial intelligence")
@@ -93,7 +95,7 @@ for folder in folders:
     folder_name = folder_name.replace("C_AI_molecular_design","Machine learning for molecular design")
     folder_name = folder_name.replace("D_Physics_energetic_materials","Physics of detonation")
     folder_name = folder_name.replace("E_Physics_water","Physics of water")
-    folder_name = folder_name.replace("F_other","Other")
+    folder_name = folder_name.replace("F_other","Physics of turbulence")
 
     print("-------"+folder_name+"-----------")
 
@@ -101,10 +103,9 @@ for folder in folders:
 
     files = natsorted(glob.glob(folder+"/*.bib"), reverse=True)
 
-    for file in files:
-        print(os.path.basename(file))
-
     for f in files:
+        print(os.path.basename(f))
+        tot += 1
         s += parse_bib(f).replace("{", "").replace("}", "")
         s += "\n\n"
 
@@ -180,3 +181,5 @@ s += """
 
 with open("science.md", 'w') as f:
     f.writelines(s)
+
+print("total papers = ", tot)
