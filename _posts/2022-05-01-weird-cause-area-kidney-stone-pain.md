@@ -1,5 +1,5 @@
 ---
-substacktitle: (Substack) Weird cause area &#35;1 - kidney stone pain
+substacktitle: (Substack) Kidney stone pain as a potential EA cause area
 layout: redirected
 sitemap: false
 permalink: substack12

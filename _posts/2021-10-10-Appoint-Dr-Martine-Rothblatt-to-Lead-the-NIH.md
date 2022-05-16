@@ -37,6 +37,7 @@ In 1994, motivated by her daughter’s diagnosis with pulmonary hypertension, Ro
 In 2013, Rothblatt was reported to be the highest-paid female CEO in America, based on the value of the stock options in her compensation package. In 2017, Forbes named her among the “100 Greatest Living Business Minds” of the past century, citing her achievements as a “perpetual reinventor, founder of Sirius and United Therapeutics, and creator of PanAmSat.”
 
 <figure><center><img  src="/assets/pictures/Martine_Rothblatt/Martine_Rothblatt_fam-768x511.webp" alt="" width="493"  /><figcaption>Rothblatt with her wife Bina and daughter Jenesis.</figcaption></center></figure>
+
 ## Transgender trailblazer and fierce advocate
 
 Born as Martin Rothblatt, she underwent gender-reassignment surgery in 1994 at the age of 40, and soon after changed her name to Martine. A vocal advocate for transgender dignity, she authored The Apartheid of Sex: A Manifesto on the Freedom of Gender and From Transgender to Transhuman: A Manifesto on the Freedom of Form. She forcefully argues for the adoption of “a new sexual model that accommodates every shade of gender identity.”
