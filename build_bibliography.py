@@ -9,7 +9,7 @@ def parse_bib(f):
 
     bd = bib_database.entries[0]
 
-    s = "<span style=\"font-size:1.0em;\">**"+bd['title']+"**</span><br><span style=\"font-size:0.9em;\">"
+    s = "<span style=\"font-family: arial; font-size:0.9em;\">**"+bd['title']+"**</span><br><span style=\"font-size:0.9em;\">"
 
     if ('note' in bd.keys()):
         s += bd['note']+"<br>"
@@ -50,7 +50,7 @@ def parse_bib(f):
     pdf_link = f.replace(".bib", ".pdf")
     if os.path.exists(pdf_link):
         pdf_link = pdf_link.replace("/home/dan/Dropbox/delton137.github.io/", "")
-        s += "[[pdf](../"+pdf_link+")]"
+        s += "[[pdf](../" + pdf_link + ")]"
 
     supp_link = f.replace(".bib", "_supplementary_info.pdf")
     if os.path.exists(supp_link):
