@@ -204,7 +204,7 @@ While overall taking nicotine on a regular basis has been helpful for me, one sh
     </p>
 
   * <p class="western">
-      <span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;"><b>Lowered sexual arousal </b></span></span><span style="font-family: 'Times New Roman', serif;">A 2007 N=28 study showed that nicotine use in non-smoking males lead to 23% lower sexual arousal, as measured by girth of erection while viewing erotic material. This study showed that nicotine leads to an </span><span style="font-family: 'Times New Roman', serif;"><i>acute </i></span><span style="font-family: 'Times New Roman', serif;">reduction in libido which is not necessary a bad thing for those taking nicotine for nootropic reasons. The long term effects of nicotine on sexual potency are unknown, but there is a correlation between smoking an impotence. </span>
+      <span style="font-family: 'Times New Roman', serif;"><span style="font-size: small;"><b>Lowered sexual arousal </b></span></span><span style="font-family: 'Times New Roman', serif;">A 2007 N=28 study showed that nicotine use in non-smoking males lead to 23% lower sexual arousal, as measured by girth of erection while viewing erotic material. This study showed that nicotine leads to a temporary </span><span style="font-family: 'Times New Roman', serif;"><i>acute </i></span><span style="font-family: 'Times New Roman', serif;">reduction in libido which is not necessary a bad thing for some people taking nicotine for nootropic reasons as it could limit distraction. The long term effects of nicotine on sexual potency are unknown, but there is a correlation between smoking an impotence. </span>
     </p>
 
   * <p class="western">
@@ -214,6 +214,9 @@ While overall taking nicotine on a regular basis has been helpful for me, one sh
     update (12/17): preliminary research ([*Science Daily*](https://www.sciencedaily.com/releases/2016/09/160901124842.htm), [journal article](http://www.jleukbio.org/content/100/5/1105)) has discovered a mechanism whereby nicotine can increase inflammation through the production of more neutrophil extracellular traps (NETs). In small quantities, NETs can help protect the body from invaders like viruses, but in larger quantities they end up harming the body and increase inflammation. This work is a reason to keep nicotine consumption low (use a minimal viable dose and perhaps even avoid long term use)
 
     update(9/18): there is also research [Abrous, et al, *Journal of Neuroscience*, 2002](http://www.jneurosci.org/content/22/9/3656)) showing that nicotine administration in rats can lower the production of new neurons in the hippocampus. One caveat to this work is that the amounts of nicotine in the rats (in micrograms/kg) are very high (10x the levels from 2mg/day of nicotine gum).
+
+    update (7/22): A reader sent in [this 2021 study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8549682/) in which they dowsed rat ear tissue culture in nicotine and found that nicotine kills hair cells, which are important for hearing. There is a correlation between smoking and hear loss. I'm not sure what to make of this study.
+
 
 # Further reading (and sources with lots more references)
 
