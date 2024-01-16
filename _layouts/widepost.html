@@ -1,0 +1,62 @@
+---
+layout: default
+---
+
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }} by {% if page.author %} {{ page.author }}{% endif %}
+{% if page.categories %}
+  in
+  {% for cat in page.categories %}
+  <a href="/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>&nbsp;
+  {% endfor %}
+{% endif %}
+<!--
+{% if page.comments %}{% endif %} // • <a href="http://moreisdifferent.com{{ page.url }}#disqus_thread">0 Comments</a>-->
+
+{{ content }}
+
+
+{% include disqus.html %}
+
+<!--
+{% if page.comments %}
+<div
+    class="just-comments"
+    data-allowguests="true"
+    data-apikey="436d3475-89ad-45ec-b289-ffab043a6678">
+</div>
+{% endif %}
+-->
+{% if page.facebookcomments or  page.comments  %}
+
+<body>
+   <div id="fb-root"></div>
+   <script>(function(d, s, id) {
+   var js, fjs = d.getElementsByTagName(s)[0];
+   if (d.getElementById(id)) return;
+   js = d.createElement(s); js.id = id;
+   js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=181850123254464";
+   fjs.parentNode.insertBefore(js, fjs);
+   }(document, "script", "facebook-jssdk"));</script>
+ </body>
+
+<div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-numposts="3" data-width=""></div>
+{% endif %}
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-106409985-1', 'auto');
+  ga('send', 'pageview');
+
+</script>

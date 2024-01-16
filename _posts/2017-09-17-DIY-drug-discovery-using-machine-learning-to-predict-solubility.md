@@ -12,6 +12,8 @@ categories:
 tags:
 ---
 
+***Warning: unfortunately since this post was imported from Wordpress, the code may contain formatting errors! Sorry!*** 
+
 This is going to be the first in a series of posts on what I am calling "DIY Drug Discovery". Admittedly, though, this title is hyperbolic. Discovering a new drug requires bringing it through a series of trials, which is very hard, if not impossible for an individual to do themselves. What I'm really going to be discussing is DIY drug screening. I believe in the near future individuals will be able to discover candidate drug molecules using commodity GPU hardware and open source software, such as [scikit-learn.org](scikit-learn), [https://keras.io/](Keras), [http://www.rdkit.org/](RDkit) and [https://deepchem.io/](DeepChem).
 
 <h1 id="no_toc">Table of contents</h1>
@@ -290,7 +292,7 @@ doing  RDKit fingerprint
 <div class=" highlight hl-ipython3"><pre><span></span><span class="k">def</span> <span class="nf">test_model_cv</span><span class="p">(</span><span class="n">model</span><span class="p">,</span> <span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">,</span> <span class="n">cv</span><span class="o">=</span><span class="mi">20</span><span class="p">):</span>
     <span class="n">scores</span> <span class="o">=</span> <span class="n">cross_validation</span><span class="o">.</span><span class="n">cross_val_score</span><span class="p">(</span><span class="n">model</span><span class="p">,</span> <span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">,</span> <span class="n">cv</span><span class="o">=</span><span class="n">cv</span><span class="p">,</span> <span class="n">n_jobs</span><span class="o">=-</span><span class="mi">1</span><span class="p">,</span> <span class="n">scoring</span><span class="o">=</span><span class="s1">&#39;neg_mean_absolute_error&#39;</span><span class="p">)</span>
 
-    <span class="n">scores</span> <span class="o">=</span> <span class="o">-</span><span class="mi">1</span><span class="o"></span><span class="n">scores</span>
+    <span class="n">scores</span> <span class="o">=</span> <span class="o">-</span><span class="mi">1</span>\*<span class="o"></span><span class="n">scores</span>
 
     <span class="k">return</span> <span class="n">scores</span><span class="o">.</span><span class="n">mean</span><span class="p">()</span>
 
