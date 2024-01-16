@@ -1,0 +1,7 @@
+---
+substacktitle: (Substack) How common is scientific fraud?
+layout: redirected
+sitemap: false
+permalink: substack21
+redirect_to: https://moreisdifferent.substack.com/p/how-common-is-scientific-fraud
+---

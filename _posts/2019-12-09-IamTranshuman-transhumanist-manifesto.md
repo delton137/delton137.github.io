@@ -11,7 +11,7 @@ tags:
   - transhumanist party
 ---
 
-*This "manifesto" was published [online](https://iamtranshuman.org/2019/12/11/dan-elton/) as part of the #IamTranshuman campaign, a campaign to help mainstream transhumanism and rehabilitate the term.*
+*This "manifesto" was published at [online](https://iamtranshuman.org/2019/12/11/dan-elton/) as part of the #IamTranshuman campaign, a campaign to help mainstream transhumanism and rehabilitate the term.*
 
 For a long time, I was primarily interested in science and figuring out how the world works. A few years ago, however, I started to become more aware of the vast amounts of suffering occurring in our world, both in humans and in other organisms. At the same time, I also started to become more aware of our limitations as a species. I have come to believe that transhumanism must be part of the solution to the problem of suffering.
 
