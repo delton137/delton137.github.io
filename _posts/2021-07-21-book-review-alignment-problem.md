@@ -1,6 +1,6 @@
 ---
 id: 10018
-title: To Maryland Governor Larry Hogan - Liberate Vaccine Doses from the FDA!
+title: Book review of &#8220;The Alignment Problem&#8221; by Brian Christian
 facebookcomments: true
 author: Dan Elton
 layout: post
