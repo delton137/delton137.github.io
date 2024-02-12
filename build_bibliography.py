@@ -38,7 +38,8 @@ def parse_bib(f):
 
     s += "<br>"
 
-    s += " [[.bib](../"+f.replace("/home/dan/Dropbox/delton137.github.io/", "")+")]"
+    if not('hide' in bd.keys()):
+        s += " [[.bib](../"+f.replace("/home/dan/Dropbox/delton137.github.io/", "")+")]"
 
     pdf_link = f.replace(".bib", ".pdf")
 
@@ -52,7 +53,6 @@ def parse_bib(f):
 
     if 'medrxiv' in bd.keys():
         s += "  [[medRxiv]("+bd['medrxiv']+")]"
-
 
     if os.path.exists(pdf_link):
         pdf_link = pdf_link.replace("/home/dan/Dropbox/delton137.github.io/", "")
@@ -102,6 +102,7 @@ for folder in folders:
     folder_name = folder_name.replace("D_Physics_energetic_materials","Physics of detonation")
     folder_name = folder_name.replace("E_Physics_water","Physics of water")
     folder_name = folder_name.replace("F_other","Physics of turbulence")
+    folder_name = folder_name.replace("G_preprints","Preprints")
 
     print("-------"+folder_name+"-----------")
 
@@ -168,16 +169,12 @@ s = s.replace("\\", "")
 
 s += """
 
-# Preprints
-
-<span style="font-size:0.9em; font-family: helvetica;">**Induction, Popper, and machine learning**<br>(Note: See also this [critique by Vaden Masrani](https://vmasrani.github.io/blog/2021/problem-of-induction/), which I agree with.)<br>B. Nielson, D. C. Elton. <br>   [[arXiv](https://arxiv.org/abs/2110.00840)] </span>
-
 # Selected Abstracts
 <span style="font-size:0.9em; font-family: helvetica;">**Automated Deep Learning Diagnosis of Hepatic Steatosis on CT Scans Reveals Underreporting by Radiologists**<br>
 D. Yardeni, T. C. Shen, D. C. Elton, S. Lee, R. M. Summers, Y. Rotman. *The Liver Meeting*, 2022. <br> [[link](https://aasldpubs.onlinelibrary.wiley.com/doi/10.1002/hep.32697)][[pdf](../assets/my_papers/B_AI_medical_imaging/2022_Yardeni_Hepatology_abstract.pdf)]</span>
 
 # Ph.D. Thesis
-<img class="alignright" src="http://www.danielcelton.com/wp-content/uploads/2015/09/waterbinding2-300x204.png" alt="atom in a clathrate-like cage" width="100" height="70" srcset="http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-300x204.png 300w, http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-768x523.png 768w, http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-1024x698.png 1024w, http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-1200x818.png 1200w, http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2.png 1573w" sizes="(max-width: 199px) 100vw, 199px" />
+<img class="alignright" src="www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-300x204.png" alt="atom in a clathrate-like cage" width="100" height="70" srcset="http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-300x204.png 300w, http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-768x523.png 768w, http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-1024x698.png 1024w, http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-1200x818.png 1200w, http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2.png 1573w" sizes="(max-width: 199px) 100vw, 199px" />
 
 *[Understanding the Dielectric Properties of Water](http://www.moreisdifferent.com/wp-content/uploads/2014/11/Daniel_Elton_Thesis_Final_Copy.pdf)* (11 Mb PDF)
 
