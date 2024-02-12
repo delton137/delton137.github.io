@@ -15,6 +15,8 @@ If bundle can't find an old version of ruby, check the first line in the /usr/lo
 
 If jekyll complains that it can't find the Ruby interpreter, then you can try to install it using https://github.com/postmodern/ruby-install
 
+`ruby-install ruby 2.6.0`
+
 To update Ruby gems and the bundler, as is needed periodically:
 
 `bundle update --bundler`
