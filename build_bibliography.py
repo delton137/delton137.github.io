@@ -116,9 +116,16 @@ for folder in folders:
         s += parse_bib(f).replace("{", "").replace("}", "")
         s += "\n\n"
 
+#s = s.replace("D. C. Elton","**D. C. Elton**")
+
 s = s.replace("Daniel C. Elton","D. C. Elton")
 s = s.replace("Daniel Elton","D. C. Elton")
-#s = s.replace("D. C. Elton","**D. C. Elton**")
+s = s.replace("Anastasios Nikolas Angelopoulos","A. N. Angelopoulos")
+s = s.replace("Stuart R. Pomerantz","S. R. Pomerantz")
+s = s.replace("Christopher P. Bridge","C. P. Bridge")
+s = s.replace("Michael H. Lev","M. H. Lev")
+s = s.replace("R Gilberto Gonzalez","R. G. Gonzalez")
+s = s.replace("Michael I. Jordan","M. I. Jordan")       
 s = s.replace("Elizabeth D. Williams","E. D. Williams")
 s = s.replace("James D. Riches","J. D. Riches")
 s = s.replace("Peter D. Spencer","P. D. Spencer")
@@ -174,7 +181,7 @@ s += """
 D. Yardeni, T. C. Shen, D. C. Elton, S. Lee, R. M. Summers, Y. Rotman. *The Liver Meeting*, 2022. <br> [[link](https://aasldpubs.onlinelibrary.wiley.com/doi/10.1002/hep.32697)][[pdf](../assets/my_papers/B_AI_medical_imaging/2022_Yardeni_Hepatology_abstract.pdf)]</span>
 
 # Ph.D. Thesis
-<img class="alignright" src="www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-300x204.png" alt="atom in a clathrate-like cage" width="100" height="70" srcset="http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-300x204.png 300w, http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-768x523.png 768w, http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-1024x698.png 1024w, http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-1200x818.png 1200w, http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2.png 1573w" sizes="(max-width: 199px) 100vw, 199px" />
+<img class="alignright" src="https://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-300x204.png" alt="atom in a clathrate-like cage" width="100" height="70" srcset="http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-300x204.png 300w, http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-768x523.png 768w, http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-1024x698.png 1024w, http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-1200x818.png 1200w, http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2.png 1573w" sizes="(max-width: 199px) 100vw, 199px" />
 
 *[Understanding the Dielectric Properties of Water](http://www.moreisdifferent.com/wp-content/uploads/2014/11/Daniel_Elton_Thesis_Final_Copy.pdf)* (11 Mb PDF)
 

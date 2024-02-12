@@ -2,7 +2,7 @@
 id: 1001
 title: Pet Peeves
 author: Dan Elton
-layout: hidden
+layout: post
 permalink: /2007/01/01/pet-peeves
 categories:
   - music

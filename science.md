@@ -101,9 +101,9 @@ https://doi.org/10.1148/ryai.210268)][[pdf](../assets/my_papers/B_AI_medical_ima
 <span style="font-size:0.9em; font-family: helvetica;">**Accurate estimation of third-order moments from turbulence measurements**<br>J. J. Podesta, M. A. Forman, C. W. Smith, D. C. Elton, Y. Malécot, Y. Gagne.<br> *Nonlinear Processes in Geophysics*. **16** (1) pgs 99--110. (2009)<br> [[.bib](../assets/my_papers/F_other/2009_Podesta.bib)]  [[link](https://doi.org/10.5194/npg-16-99-2009)][[pdf](../assets/my_papers/F_other/2009_Podesta.pdf)]</span>
 
 # Preprints
-<span style="font-size:0.9em; font-family: helvetica;">**Conformal Triage for Medical Imaging AI Deployment**<br>Anastasios Nikolas Angelopoulos, Stuart R Pomerantz, Synho Do, Stephen Bates, Christopher P Bridge, Daniel C Elton, Michael H Lev, R Gilberto Gonzalez, Michael I Jordan, Jitendra Malik.<br> *medRxiv*. (2024)<br> [[.bib](../assets/my_papers/G_preprints/2024_Angelopoulos2024.bib)]  [[medRxiv](https://www.medrxiv.org/content/early/2024/02/11/2024.02.09.24302543)]</span>
+<span style="font-size:0.9em; font-family: helvetica;">**Conformal Triage for Medical Imaging AI Deployment**<br>A. N. Angelopoulos, S. R. Pomerantz, Synho Do, Stephen Bates, C. P. Bridge, D. C. Elton, M. H. Lev, R. G. Gonzalez, M. I. Jordan, Jitendra Malik.<br> *medRxiv*. (2024)<br> [[.bib](../assets/my_papers/G_preprints/2024_Angelopoulos2024.bib)]  [[medRxiv](https://www.medrxiv.org/content/early/2024/02/11/2024.02.09.24302543)]</span>
 
-<span style="font-size:0.9em; font-family: helvetica;">**Induction, Popper, and machine learning**<br>See also this [critique by Vaden Masrani](https://vmasrani.github.io/blog/2021/problem-of-induction/), which I agree with.<br>B. Nielson, D. C. Elton.<br> (2021)<br>  [[arXiv](https://arxiv.org/abs/2110.00840)]  [[pdf](https://arxiv.org/pdf/2110.00840)]</span>
+<span style="font-size:0.9em; font-family: helvetica;">**Induction, Popper, and machine learning**<br>(See also this [critique by Vaden Masrani](https://vmasrani.github.io/blog/2021/problem-of-induction/), which I agree with.)<br>B. Nielson, D. C. Elton.<br> (2021)<br>  [[arXiv](https://arxiv.org/abs/2110.00840)]  [[pdf](https://arxiv.org/pdf/2110.00840)]</span>
 
 
 
@@ -112,7 +112,7 @@ https://doi.org/10.1148/ryai.210268)][[pdf](../assets/my_papers/B_AI_medical_ima
 D. Yardeni, T. C. Shen, D. C. Elton, S. Lee, R. M. Summers, Y. Rotman. *The Liver Meeting*, 2022. <br> [[link](https://aasldpubs.onlinelibrary.wiley.com/doi/10.1002/hep.32697)][[pdf](../assets/my_papers/B_AI_medical_imaging/2022_Yardeni_Hepatology_abstract.pdf)]</span>
 
 # Ph.D. Thesis
-<img class="alignright" src="www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-300x204.png" alt="atom in a clathrate-like cage" width="100" height="70" srcset="http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-300x204.png 300w, http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-768x523.png 768w, http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-1024x698.png 1024w, http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-1200x818.png 1200w, http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2.png 1573w" sizes="(max-width: 199px) 100vw, 199px" />
+<img class="alignright" src="https://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-300x204.png" alt="atom in a clathrate-like cage" width="100" height="70" srcset="http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-300x204.png 300w, http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-768x523.png 768w, http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-1024x698.png 1024w, http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-1200x818.png 1200w, http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2.png 1573w" sizes="(max-width: 199px) 100vw, 199px" />
 
 *[Understanding the Dielectric Properties of Water](http://www.moreisdifferent.com/wp-content/uploads/2014/11/Daniel_Elton_Thesis_Final_Copy.pdf)* (11 Mb PDF)
 
