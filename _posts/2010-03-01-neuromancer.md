@@ -1,6 +1,6 @@
 ---
-id: 1608
-title: 'Neuromancer by William Gibson'
+id: 1607
+title: "Neuromancer" by William Gibson
 comments: false
 disquscomments: true
 date: 2010-03-01T22:20:34+00:00
@@ -17,7 +17,7 @@ tags:
 <img class=" size-medium wp-image-1627 alignright" src="https://www.moreisdifferent.com/assets/pictures/neuromancer_cover.jpg" alt="Neuromancer book cover" width="199" height="300" />
 
 [**_Neuromancer_**](http://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296) by William Gibson 
-195 pgs
+384 pgs
 
 
 I believe _Neuromancer_ is one of the most important books of the 20th century. This is reflected in part by its inclusion in _Time_ magazine's list of the 100 most important books of the 20th century. Although it has spawned some literary guides on the internet and seems to be noticed enough amongst literary scholars at least enough to warrant passing mention, I believe it is not as well respected as it should be. One reason for this may be that the book contains some "pulp" or "lurid" elements. For instance around the end of the third chapter there appears a sex scene where the sexy, street-wise "razer-girl" Molly Millions initiates sex with Case. Superficially speaking this scene appears to serve no purpose but to titillate millions of nerdy male readers -- a type of exploitation that is usually shunned within literary circles. (Incidentally, I suspect a similar phenomena is why there is such confliction and dissent amongst literary scholars regarding the works of Vonnegut). In any case, perhaps Gibson wanted to be somewhat exploitative, but there is much more going on. In the same way that the movie Pulp Fiction deals with lurid elements, but is none the less considered a work of high art, a similar case can be made for _Neuromancer_. After all, what is so radical about Nueromancer is that it seriously deals with both "high tech" and "low life". To adequately present this unique juxtaposition, we must simultaneously be subjected to both the abstract intellectual mindset and the lurid all-to-human within us. _Neuromancer_ achieves this, mixing intellectual ideas such as Artificial Intelligence, the Matrix, personal identity and bodily modification with crime, drugs and sex. Take, for instance, this description of drug use interjected into the narrative: 
