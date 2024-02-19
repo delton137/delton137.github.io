@@ -14,7 +14,7 @@ tags:
   - books
   - science fiction
 ---
-<img class=" size-medium wp-image-1627 alignright" src="../assets/pictures/neuromancer_cover.jpg" alt="Neuromancer book cover" width="199" height="300" />
+<img class=" size-medium wp-image-1627 alignright" src="https://www.moreisdifferent.com/assets/pictures/neuromancer_cover.jpg" alt="Neuromancer book cover" width="199" height="300" />
 
 [**_Neuromancer_**](http://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296) by William Gibson 
 195 pgs
