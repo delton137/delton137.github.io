@@ -1,6 +1,6 @@
 ---
 id: 1800
-title: A review of Spicelab's <i>A Day on Our Planet</i>  
+title: A review of Spicelab's "A Day on Our Planet"
 date: 2007-09-10T00:00:24+00:00
 author: delton137
 layout: post
