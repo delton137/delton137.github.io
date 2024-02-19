@@ -11,8 +11,6 @@ tags:
   - music
 ---
 
-**Pet Peeves**
-
 Some things I don't like.  
 
 -- People who use all caps in internet discussions.  
