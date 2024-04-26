@@ -117,7 +117,18 @@ for folder in folders:
         s += "\n\n"
 
 #s = s.replace("D. C. Elton","**D. C. Elton**")
-
+s = s.replace("Pritam Mukherjee", "P. Mukherjee")
+s = s.replace("Mannudeep K Kalra", "M. K. Kalra")
+s = s.replace("Mark Walters", "M. Walters")
+s = s.replace("Artem B Mamonov", "A. B. Mamonov")
+s = s.replace("Emiliano G Frias", "E. G. Frias")
+s = s.replace("James Y Sato", "J. S. Sato")
+s = s.replace("Thomas J Schultz", "T. J. Schultz")
+s = s.replace("Bernardo  C. Bizzo", "B. C. Bizzo")
+s = s.replace("Keith J Dreyer", "K. J. Dreyer")
+s = s.replace("Giridhar Dasegowda", "G. Dasegowda")
+s = s.replace("Martynas Ziemelis", "M. Ziemelis")
+s = s.replace("Daniel C Elton","D. C. Elton")
 s = s.replace("Daniel C. Elton","D. C. Elton")
 s = s.replace("Daniel Elton","D. C. Elton")
 s = s.replace("Anastasios Nikolas Angelopoulos","A. N. Angelopoulos")
