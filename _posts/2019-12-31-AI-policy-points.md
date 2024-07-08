@@ -13,7 +13,7 @@ tags:
   - policy
 ---
 
-This is a **draft** of policy points I put together for the [US Transhumanist Party](https://en.wikipedia.org/wiki/Transhumanist_Party)'s nominee for president in 2020. (I also serve as [director of scholarship](http://transhumanist-party.org/leadership/#DirectorOfScholarship) at the US Tranhumanist Party.)
+This is a **draft** of policy points I put together for the [US Transhumanist Party](https://en.wikipedia.org/wiki/Transhumanist_Party)'s nominee for president in 2020. 
 
 # Problem 1  - mass unemployment from automation &amp; AI
 
