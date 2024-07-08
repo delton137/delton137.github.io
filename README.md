@@ -9,7 +9,7 @@ Some day I may switch to [this theme](https://github.com/loikein/hugo-tufte) bas
 
 # Notes on how to build
 To install the necessary gems:
-`sudo bundle install`
+`bundle install`
 
 If bundle can't find an old version of ruby, check the first line in the /usr/local/bin/bundle script to make sure it points to the ruby executable. 
 
