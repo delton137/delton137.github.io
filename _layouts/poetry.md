@@ -1,0 +1,1 @@
+import from https://www.mrsmuellersworld.com/uploads/1/3/0/5/13054185/25_edgar_guest_handout.pdf
