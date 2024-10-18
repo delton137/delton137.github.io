@@ -1,4 +1,4 @@
-,patientId,PatientAge,L3TATArea
+,SEQN,Age,biomarker
 2,124489,57,14.7
 3,2981,73,90.4
 4,121972,54,301.2

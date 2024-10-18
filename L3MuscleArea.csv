@@ -1,4 +1,4 @@
-,patientId,PatientAge,L3MuscleArea
+,SEQN,Age,biomarker
 2,124489,57,139.1
 3,2981,73,98.0
 4,121972,54,168.5

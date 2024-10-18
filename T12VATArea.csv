@@ -1,4 +1,4 @@
-,patientId,PatientAge,T12VATArea
+,SEQN,Age,biomarker
 2,124489,57,14.3
 3,2981,73,33.8
 4,121972,54,64.6

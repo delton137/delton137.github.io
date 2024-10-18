@@ -1,4 +1,4 @@
-,patientId,PatientAge,L1SATMedian
+,SEQN,Age,biomarker
 2,124489,57,-128.3
 3,2981,73,-104.3
 4,121972,54,-97.2

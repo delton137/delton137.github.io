@@ -1,4 +1,4 @@
-,patientId,PatientAge,TotalAorticAgatston
+,SEQN,Age,biomarker
 2,124489,57,3015
 3,2981,73,132
 4,121972,54,2748

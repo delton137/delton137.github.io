@@ -1,4 +1,4 @@
-,patientId,PatientAge,T10SATArea
+,SEQN,Age,biomarker
 2,124489,57,11.3
 3,2981,73,65.7
 4,121972,54,82.5

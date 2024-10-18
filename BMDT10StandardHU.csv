@@ -1,4 +1,4 @@
-,patientId,PatientAge,BMDT10StandardHU
+,SEQN,Age,biomarker
 2,124489,57,190.9
 3,2981,73,185.6
 4,121972,54,213.7

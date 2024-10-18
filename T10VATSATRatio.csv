@@ -1,4 +1,4 @@
-,patientId,PatientAge,T10VATSATRatio
+,SEQN,Age,biomarker
 2,124489,57,0.85
 3,2981,73,0.24
 4,121972,54,0.50

@@ -1,4 +1,4 @@
-,patientId,PatientAge,BMDL3HighSensitivityHU
+,SEQN,Age,biomarker
 2,124489,57,106.3
 3,2981,73,57.2
 4,121972,54,186.3

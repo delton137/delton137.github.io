@@ -1,4 +1,4 @@
-,patientId,PatientAge,BMDT12HighSensitivityHU
+,SEQN,Age,biomarker
 2,124489,57,114.8
 3,2981,73,152.9
 4,121972,54,171.6
