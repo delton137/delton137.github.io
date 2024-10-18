@@ -1,4 +1,4 @@
-,patientId,PatientAge,LiverVolume
+,SEQN,Age,biomarker
 2,124489,57,2172
 3,2981,73,1107
 4,121972,54,1603

@@ -1,4 +1,4 @@
-,patientId,PatientAge,L3MuscleMeanHU
+,SEQN,Age,biomarker
 2,124489,57,43.2
 3,2981,73,36.4
 4,121972,54,27.8

@@ -1,4 +1,4 @@
-,patientId,PatientAge,BMDT10HighSensitivityHU
+,SEQN,Age,biomarker
 2,124489,57,176.6
 3,2981,73,nan
 4,121972,54,187.6

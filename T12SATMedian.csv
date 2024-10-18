@@ -1,4 +1,4 @@
-,patientId,PatientAge,T12SATMedian
+,SEQN,Age,biomarker
 2,124489,57,-84.7
 3,2981,73,-100.3
 4,121972,54,-92.9

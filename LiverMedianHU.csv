@@ -1,4 +1,4 @@
-,patientId,PatientAge,LiverMedianHU
+,SEQN,Age,biomarker
 2,124489,57,97.5
 3,2981,73,55.3
 4,121972,54,46.3

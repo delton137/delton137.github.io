@@ -1,4 +1,4 @@
-,patientId,PatientAge,SpleenMedianHU
+,SEQN,Age,biomarker
 2,124489,57,50.7
 3,2981,73,48.9
 4,121972,54,-921.2

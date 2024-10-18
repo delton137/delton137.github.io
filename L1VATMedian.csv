@@ -1,4 +1,4 @@
-,patientId,PatientAge,L1VATMedian
+,SEQN,Age,biomarker
 2,124489,57,-58.8
 3,2981,73,-60.6
 4,121972,54,-80.3

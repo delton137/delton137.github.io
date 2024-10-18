@@ -1,4 +1,4 @@
-,patientId,PatientAge,L3VATMedian
+,SEQN,Age,biomarker
 2,124489,57,-116.3
 3,2981,73,-83.3
 4,121972,54,-83.1

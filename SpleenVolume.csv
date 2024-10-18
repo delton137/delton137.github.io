@@ -1,4 +1,4 @@
-,patientId,PatientAge,SpleenVolume
+,SEQN,Age,biomarker
 2,124489,57,105
 3,2981,73,124
 4,121972,54,81737
