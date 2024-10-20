@@ -33,7 +33,8 @@ excerpt_separator: "<!--more-->"
 gems:
   - jekyll-sitemap
   - jekyll-scholar
-
+  - jekyll-redirect-from
+  
 scholar:
   style: modern-language-association
 
