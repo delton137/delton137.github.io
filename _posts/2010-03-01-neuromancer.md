@@ -1,6 +1,6 @@
 ---
 id: 1607
-title: "Neuromancer" by William Gibson
+title: Neuromancer by William Gibson
 comments: false
 disquscomments: true
 date: 2010-03-01T22:20:34+00:00

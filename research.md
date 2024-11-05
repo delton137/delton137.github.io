@@ -1,57 +1,27 @@
-# Opportunistic screening with CT scans - overview {#opportunistic-screening-with-ct-scans---overview .unnumbered}
+# Opportunistic screening with CT scans
 
-Most of my work has revolved around building AI systems that perform
-opportunistic automated measurements in CT scans, work which we recently
-reviewed in *Radiographics* [@Pickhardt2021]. Roughly 100 million CT
-scans are performed in the United States each year. Due to time and
-resource constraints much potentially useful information in CT scans is
-currently not utilized. Fully automated AI tools can extract biomarkers
-that can be stored for further analysis (e.g. in cohort / observational
-studies), and to inform the doctor and patient about their disease risk.
+Roughly 100 million CT scans are performed in the United States each year, and that number is growing by several percent each year. Due to time and resource constraints much potentially useful information in CT scans is currently not utilized. Fully automated AI tools can run in the background, segmenting organs and looking for abdormalities. Segmentation tools can be used to extract biomarkers which can be used for disease risk prediction. We call this paradigm "opportunistic screening". 
 
-I have developed systems which perform automated measurements of bone
-mineral density (BMD) [@Elton2020], muscle bulk [@Perez2020], visceral
-fat [@Perez2020], liver fat [@Pickhardt2020], aortic plaque
-burden [@Summers2020plaque], and pancreatic fat.[@Tallam2022Pancreas]
-Conditions we have considered for early detection using CT biomarkers
-include osteoporosis, sarcopenia, myosteatosis, liver steatosis,
+I have developed systems which perform automated measurements of bone mineral density (BMD) [@Elton2020], muscle area and density [@Perez2020], visceral fat [@Perez2020], liver fat [@Pickhardt2020], aortic plaque
+burden [@Summers2020plaque], and pancreatic fat.[@Tallam2022Pancreas] Conditions we have considered for early detection using CT biomarkers include osteoporosis, sarcopenia, myosteatosis, liver steatosis,
 diabetes, pancreatic cancer, and cardiovascular disease.
 
-Recently I published a paper demonstrating the first deep learning based
-system for opportunistic cardiovascular disease risk prediction using
-abdominal CT [@Elton2021SPIE]. The combination of genetic factors with
-imaging biomarkers can also improve risk prediction and lead to the
-discovery of new phenotypic correlations [@Sethi2020].
+Recently I published a paper demonstrating the first deep learning based system for opportunistic cardiovascular disease risk prediction using abdominal CT [@Elton2021SPIE]. The combination of genetic factors with imaging biomarkers can also improve risk prediction and lead to the discovery of new phenotypic correlations [@Sethi2020].  
 
-I am also interested in exploring different ways of presenting risk data
-to patients such as plotting patient-specific survival curves. Previous
-work has suggested that the way risk information is presented by a
-clinician to patients has an effect on how receptive they are to taking
-steps to proactively reduce risk. For instance, comparing with a
-baseline helps patients understand their relative risk (ie you are at
-40% higher risk for CVD in the next 5 years compared to males of your
-age). The concepts of "arterial age" and "biological age" may help
-inform patients about their health [@Raghu2021].
+I am also interested in exploring different ways of presenting risk data to patients such as plotting patient-specific survival curves. Previous work has suggested that the way risk information is presented by a clinician to patients has an effect on how receptive they are to taking steps to proactively reduce risk. For instance, comparing with a baseline helps patients understand their relative risk (ie you are at
+40% higher risk for CVD in the next 5 years compared to males of your age). The concepts of "arterial age" and "biological age" may help inform patients about their health [@Raghu2021].
 
 # Current and future work
 
 ### Opportunistic screening {#opportunistic-screening .unnumbered}
 
-We are curently running a biomarkers suite on 200,000 studies at Mass
-General Brigam as part of the Opportunistic Screening Consortium for
-Abdominal Radiology (OSCAR). The results generated will be used to
-generate reference \"nomograms\" for different biomarkers, allowing
-clinicians to see how a patient compares to others in their age and
-gender cohort.
+We are curently running a biomarkers suite on 200,000 studies at Mass General Brigam as part of the Opportunistic Screening Consortium for Abdominal Radiology (OSCAR). The results generated will be used to
+generate reference \"nomograms\" for different biomarkers, allowing clinicians to see how a patient compares to others in their age and gender cohort.
 
-There are several paths forward for improving my CT-based risk
-prediction models such as implementing multitask learning and additive
-hazard modeling to output multiple follow-up intervals.[@Rod2012] I am
-also interested in studying associations between genes and imaging
-biomarkers, which could lead to the discovery of new genes that are
-associated with disease risk. [@Sethi2020].
+There are several paths forward for improving my CT-based risk prediction models such as implementing multitask learning and additive hazard modeling to output multiple follow-up intervals.[@Rod2012] I am
+also interested in studying associations between genes and imaging biomarkers, which could lead to the discovery of new genes that are associated with disease risk. [@Sethi2020].
 
-### Development of a multimodal model for chest CT report generation {#development-of-a-multimodal-model-for-chest-ct-report-generation .unnumbered}
+### Development of a multimodal model for chest CT report generation 
 
 Presently we are seeing a radical change in how AI is applied in the
 healthcare domain. This is the shift from single-purpose bespoke machine
@@ -91,7 +61,7 @@ exploring the use of deep learning to automate such measurements and no
 studies so far which have explored opportunistic measurement of
 periaortic visceral fat attenuation in abdominal CT.
 
-### New methods for validating general-purpose medical AI {#new-methods-for-validating-general-purpose-medical-ai .unnumbered}
+### New methods for validating general-purpose medical AI 
 
 Already many people are using LLMs like Anthropic and Claude to help
 with medical questions. Several powerful open source models have

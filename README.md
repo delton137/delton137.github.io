@@ -8,6 +8,7 @@ I am grateful to [Steven Miller](https://github.com/svmiller) for creating the t
 Some day I may switch to [this theme](https://github.com/loikein/hugo-tufte) based on the ideas of Tufte. Stephen Malina uses it for [his website](https://stephenmalina.com/post/2020-10-20-maniac-week-review/).
 
 # Notes on how to build
+
 To install the necessary gems:
 `bundle install`
 
@@ -15,7 +16,7 @@ If bundle can't find an old version of ruby, check the first line in the /usr/lo
 
 If jekyll complains that it can't find the Ruby interpreter, then you can try to install it using https://github.com/postmodern/ruby-install
 
-`ruby-install ruby 2.6.0`
+`ruby-install ruby 2.7.0`
 
 To update Ruby gems and the bundler, as is needed periodically:
 
@@ -27,6 +28,4 @@ Once Jekyll and all the necessary Ruby "gems" are installed, the command to buil
 
 `jekyll serve`
 
-to build while watching for changes:
-
-`jekyll serve --watch`
+(-- watch auto updates when changes are made)
