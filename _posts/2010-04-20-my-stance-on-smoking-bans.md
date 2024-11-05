@@ -4,7 +4,7 @@ title: A Libertarian Stance on Smoking Bans
 comments: true
 permalink: /2010/04/20/my-stance-on-smoking-bans/
 author: Dan Elton
-layout: dontshow
+layout: hiden_post
 categories:
   - op-eds
 tags:
