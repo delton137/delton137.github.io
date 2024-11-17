@@ -1,7 +1,6 @@
 ---
 id: 10019
 title: All my FDA related articles
-facebookcomments: true
 author: Dan Elton
 layout: post
 permalink: /2021/10/08/all-my-fda-posts.htm
