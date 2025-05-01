@@ -1,5 +1,5 @@
 ---
-substacktitle: (Substack) WTH is Cerebrolysin, actually?
+substacktitle:  WTH is Cerebrolysin, actually?
 
 layout: redirected
 sitemap: false

@@ -1,5 +1,5 @@
 ---
-substacktitle: (Substack) Space is hard... Intuitive Machine's lander nearly didn't make it
+substacktitle:  Space is hard... Intuitive Machine's lander nearly didn't make it
 layout: redirected
 sitemap: false
 permalink: substack27

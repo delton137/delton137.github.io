@@ -1,5 +1,5 @@
 ---
-substacktitle: (Substack) Notes from "Where is my Flying Car?"
+substacktitle:  Notes from "Where is my Flying Car?"
 layout: redirected
 sitemap: false
 permalink: substack8

@@ -1,5 +1,5 @@
 ---
-substacktitle: (Substack) How common is scientific fraud?
+substacktitle:  How common is scientific fraud?
 layout: redirected
 sitemap: false
 permalink: substack21c

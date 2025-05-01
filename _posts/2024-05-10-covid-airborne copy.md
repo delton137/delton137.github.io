@@ -1,5 +1,5 @@
 ---
-substacktitle: (Substack) New WHO report - defining "airborne" is very, very complicated
+substacktitle:  New WHO report - defining "airborne" is very, very complicated
 layout: redirected
 sitemap: false
 permalink: substack29

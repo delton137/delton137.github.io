@@ -1,5 +1,5 @@
 ---
-substacktitle: (Substack) AI for medicine is overhyped right now
+substacktitle:  AI for medicine is overhyped right now
 layout: redirected
 sitemap: false
 permalink: substack11

@@ -1,5 +1,5 @@
 ---
-substacktitle: (Substack) Weird properties of large language models
+substacktitle:  Weird properties of large language models
 layout: redirected
 sitemap: false
 permalink: substack24

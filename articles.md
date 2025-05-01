@@ -7,7 +7,7 @@ layout: page
 geo_public:
 ---
 
-Note: As of February 2021, new articles are mostly being posted on [my Substack](https://moreisdifferent.blog/)!
+Note: As of February 2021, most new articles are being posted on [my Substack](https://moreisdifferent.blog/)!
 
 <iframe src="https://moreisdifferent.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 

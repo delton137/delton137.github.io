@@ -1,5 +1,5 @@
 ---
-substacktitle: (Substack) Transhumanism has a visual aesthetics problem
+substacktitle:  Transhumanism has a visual aesthetics problem
 layout: redirected
 sitemap: false
 permalink: substack30
