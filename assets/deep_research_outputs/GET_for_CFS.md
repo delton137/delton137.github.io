@@ -1,13 +1,12 @@
 ---
-title: Graded Exercise Therapy for Chronic Fatigue Syndrome
+title: Graded Exercise Therapy for Chronic Fatigue Syndrome - Deep Research output
 author: ChatGPT o3
 layout: page
+permalink: /GET_for_CFS.htm
+
 ---
 
-
-
-
-Great. I'll conduct a comprehensive review of the scientific literature on graded exercise therapy (GET) for chronic fatigue syndrome (CFS), covering the full timespan of available research. This will include both randomized controlled trials (RCTs) and high-quality observational studies or patient surveys. The focus will be on evaluating the effectiveness of GET and whether there is evidence that it harms a subset of patients. I'll assess studies from around the world and prioritize those with rigorous methodology over sheer volume. I'll let you know when the analysis is ready.
+*Great. I'll conduct a comprehensive review of the scientific literature on graded exercise therapy (GET) for chronic fatigue syndrome (CFS), covering the full timespan of available research. This will include both randomized controlled trials (RCTs) and high-quality observational studies or patient surveys. The focus will be on evaluating the effectiveness of GET and whether there is evidence that it harms a subset of patients. I'll assess studies from around the world and prioritize those with rigorous methodology over sheer volume. I'll let you know when the analysis is ready.*
 
 Graded Exercise Therapy for Chronic Fatigue Syndrome: Effectiveness, Risks, and Evidence Quality
 ================================================================================================

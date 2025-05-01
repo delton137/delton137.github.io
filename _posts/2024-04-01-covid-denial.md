@@ -1,5 +1,5 @@
 ---
-substacktitle: (Substack) All of these things about COVID-19 can be true (this is scary)
+substacktitle:  All of these things about COVID-19 can be true (this is scary)
 layout: redirected
 sitemap: false
 permalink: substack28
