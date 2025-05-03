@@ -13,6 +13,7 @@ tags:
   - COVID19
   - FDA
   - vaccines
+fda: true
 ---
 
 **by Daniel Elton and Edward Hudgins**

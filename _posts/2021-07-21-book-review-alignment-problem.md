@@ -13,6 +13,7 @@ tags:
   - AI safety
   - Machine learning
   - AI
+ai: true
 ---
 <figure><img class="alignright" src="/assets/Alignment_Problem_cover.jpeg" alt="The Alignment Problem book cover" width="200" height="300" /></figure>
 

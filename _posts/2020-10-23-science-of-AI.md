@@ -11,6 +11,7 @@ categories:
 tags:
   - artificial intelligence
   - AI
+ai: true
 ---
 
 <figure><img class="aligncenter" src="/assets/xkcd_machine_learning.png" alt="From the webcomic XKCD"  height="350"/>

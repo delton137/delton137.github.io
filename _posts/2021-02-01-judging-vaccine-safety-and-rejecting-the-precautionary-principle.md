@@ -13,6 +13,7 @@ tags:
   - COVID19
   - rationality
   - vaccines
+fda: true
 ---
 
 **Note: this article also appears in *[Conjecture Magainze](https://medium.com/conjecture-magazine/reasoning-about-vaccines-b7b0921d6aeb)*. I encourage you to read it and cite it there. Conjecture Magazine is a web magazine inspired by the philosophy of Sir Karl Popper and David Deutsch.** 
