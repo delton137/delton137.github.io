@@ -8,9 +8,10 @@ categories:
   - FDA
 tags:
   - FDA
+hidden: true
 ---
 
-(this will be continually updated) Top articles in bold. 
+Top articles in bold. 
 
 -   [Who should be our next FDA Comissioner?](https://moreisdifferent.blog/p/who-should-be-our-next-fda-commissioner)
 -   **[FDA devastation during the pandemic](https://moreisdifferent.blog/p/fda-devastation-during-the-pandemic "Fda Pandemic")**

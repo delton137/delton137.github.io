@@ -9,6 +9,7 @@ categories:
   - progress studies, progress, metascience
 tags:
   - progress studies, progress, metascience
+progress_studies: true
 ---
 
 The [EA Forum wiki](https://forum.effectivealtruism.org/tag/progress-studies) defines progress studies as *"The study of the economic, technological, scientific, cultural, and organizational changes that have improved standards of living over human history. The field seeks to identify the individuals, cultures, and institutions responsible for this progress, and apply this knowledge to the design of interventions aimed at further improving the human condition."*

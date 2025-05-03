@@ -9,6 +9,7 @@ categories:
   - AI
 tags:
   - AI
+ai: true
 ---
 
 *Note: this was a summary I wrote of the session "Community Capacity" at the [Foresight Institute](https://foresight.org/)'s 2020 AGI Strategy Meeting*
