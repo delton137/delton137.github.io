@@ -1,5 +1,5 @@
 ---
-substacktitle: (LessWrong) Possible research directions to improve the mechanistic explanation of neural networks
+substacktitle: (LessWrong) Possible research directions to improve mechanistic interpretability 
 layout: redirected
 sitemap: false
 permalink: lesswrong1
