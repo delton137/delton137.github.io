@@ -17,11 +17,11 @@ See also [Google Scholar](https://scholar.google.com/citations?user=KG0pbOYAAAAJ
 # Machine learning for medical imaging
 <span style="font-size:0.9em; font-family: helvetica;"><strong>Applying Artificial Intelligence to Quantify Body Composition on Abdominal CTs and Better Predict Kidney Transplantation Wait-List Mortality</strong><br>K. Yatim, G. T. Ribas, **D. C. Elton**, M. A. Rockenbach, A. A. Jurdi, P. J. Pickhardt, J. W. Garrett, K. J. Dreyer, B. C. Bizzo, L. V. Riella.<br> *Journal of the American College of Radiology*. **22** (3) pgs 332--341. (2025)<br> [[.bib](../assets/my_papers/B_AI_medical_imaging/2025_Yatim_JACR.bib)]  [[link](https://doi.org/10.1016/j.jacr.2025.01.004)][[pdf](../assets/my_papers/B_AI_medical_imaging/2025_Yatim_JACR.pdf)]</span>
 
-<span style="font-size:0.9em; font-family: helvetica;"><strong>Detection of abdominopelvic lymph nodes in multi-parametric MRI</strong><br>T. S. Mathai, T. C. Shen, **D. C. Elton**, S. Lee, Z. Lu, R. M. Summers.<br> *Computerized Medical Imaging and Graphics*. pgs 102363. (2024)<br> [[.bib](../assets/my_papers/B_AI_medical_imaging/2024_Mathai.bib)]  [[link](http://dx.doi.org/10.1016/j.compmedimag.2024.102363)][[pdf](../assets/my_papers/B_AI_medical_imaging/2024_Mathai.pdf)]</span>
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Detection of abdominopelvic lymph nodes in multi-parametric MRI</strong><br>T. S. Mathai, T. C. Shen, **D. C. Elton**, S. Lee, Z. Lu, R. M. Summers.<br> *Computerized Medical Imaging and Graphics*. pgs 102363. (2024)<br> [[.bib](../assets/my_papers/B_AI_medical_imaging/2024_Mathai.bib)]  [[link](https://doi.org/10.1016/j.compmedimag.2024.102363)][[pdf](../assets/my_papers/B_AI_medical_imaging/2024_Mathai.pdf)]</span>
 
 <span style="font-size:0.9em; font-family: helvetica;"><strong>No-code machine learning in radiology: implementation and validation of a platform that allows clinicians to train their own models</strong><br>**D. C. Elton**, G. Dasegowda, J. Y. Sato, E. G. Frias, A. B. Mamonov, M. Walters, M. Ziemelis, T. J. Schultz, B. C. Bizzo, K. J. Dreyer, M. K. Kalra.<br> *medRxiv*. (2024)<br> [[.bib](../assets/my_papers/B_AI_medical_imaging/2024_Elton_nocode.bib)]  [[link](https://www.medrxiv.org/content/early/2024/04/26/2024.04.24.24306288)][[pdf](../assets/my_papers/B_AI_medical_imaging/2024_Elton_nocode.pdf)]</span>
 
-<span style="font-size:0.9em; font-family: helvetica;"><strong>No code machine learning: validating the approach on use-case for classifying clavicle fractures</strong><br>G. Dasegowda, J. Y. Sato, **D. C. Elton**, E. Garza-Frias, T. Schultz, C. P. Bridge, B. Bizzo, M. K. Kalra, K. J. Dreyer..<br> *Clinical Imaging*. pgs 110207. (2024)<br> [[.bib](../assets/my_papers/B_AI_medical_imaging/2024_Dasegowda.bib)]  [[link](http://dx.doi.org/10.1016/j.clinimag.2024.110207)][[pdf](../assets/my_papers/B_AI_medical_imaging/2024_Dasegowda.pdf)]</span>
+<span style="font-size:0.9em; font-family: helvetica;"><strong>No code machine learning: validating the approach on use-case for classifying clavicle fractures</strong><br>G. Dasegowda, J. Y. Sato, **D. C. Elton**, E. Garza-Frias, T. Schultz, C. P. Bridge, B. Bizzo, M. K. Kalra, K. J. Dreyer..<br> *Clinical Imaging*. pgs 110207. (2024)<br> [[.bib](../assets/my_papers/B_AI_medical_imaging/2024_Dasegowda.bib)]  [[link](https://doi.org/10.1016/j.clinimag.2024.110207)][[pdf](../assets/my_papers/B_AI_medical_imaging/2024_Dasegowda.pdf)]</span>
 
 <span style="font-size:0.9em; font-family: helvetica;"><strong>Fully Automated Longitudinal Assessment of Renal Stone Burden on Serial CT Imaging Using Deep Learning</strong><br>P. Mukherjee, S. Lee, **D. C. Elton**, S. Y. Nakada, P. J. Pickhardt, R. Summers.<br> *Journal of Endourology*. **37** pgs 948-955. (2023)<br> [[.bib](../assets/my_papers/B_AI_medical_imaging/2023_Mukherjee_serial_renal_stones_tracking.bib)]  [[link](https://doi.org/10.1089/end.2023.0066)][[pdf](../assets/my_papers/B_AI_medical_imaging/2023_Mukherjee_serial_renal_stones_tracking.pdf)]</span>
 
@@ -118,12 +118,11 @@ D. Yardeni, T. C. Shen, D. C. Elton, S. Lee, R. M. Summers, Y. Rotman. *The Live
 
 <img class="alignright" src="{{ site.baseurl }}/wp-content/uploads/2015/09/waterbinding2-300x204.png" alt="atom in a clathrate-like cage" width="100" height="70" srcset="{{ site.baseurl }}/wp-content/uploads/2015/09/waterbinding2-300x204.png 300w, {{ site.baseurl }}/wp-content/uploads/2015/09/waterbinding2-768x523.png 768w, {{ site.baseurl }}/wp-content/uploads/2015/09/waterbinding2-1024x698.png 1024w, {{ site.baseurl }}/wp-content/uploads/2015/09/waterbinding2-1200x818.png 1200w, {{ site.baseurl }}/wp-content/uploads/2015/09/waterbinding2.png 1573w" sizes="(max-width: 199px) 100vw, 199px" />
 # Ph.D. Thesis
-<span style="font-size:0.9em; font-family: helvetica;">
+
 * [Understanding the Dielectric Properties of Water]({{ site.baseurl }}/wp-content/uploads/2014/11/Daniel_Elton_Thesis_Final_Copy.pdf) (11 Mb PDF)
-</span>
 
 # Old science notes
-<span style="font-size:0.9em; font-family: helvetica;">
+
 * [Notes on GAN objective functions]({{ site.baseurl }}/assets/science_notes/notes_on_GAN_objective_functions.pdf) (2018)
 * [Relation of crystal shape & structure to LO-TO splitting]({{ site.baseurl }}/wp-content/uploads/2015/08/loto1.pdf) (2015)
 * [Elementary theory of solvation]({{ site.baseurl }}/wp-content/uploads/2015/08/solvation4.pdf) (2015)
@@ -134,4 +133,3 @@ D. Yardeni, T. C. Shen, D. C. Elton, S. Lee, R. M. Summers, Y. Rotman. *The Live
 * [Maxwell&#8217;s equations in different conventions]({{ site.baseurl }}/wp-content/uploads/2015/07/maxwells-equations-dan-elton.pdf) (2011)
 * [Some errata for _Geometry, Topology, & Physics_ by M. Nakahara]({{ site.baseurl }}/wp-content/uploads/2015/08/Nakahara_Errata.pdf) (2011)
 * [Equations for the Physics GRE]({{ site.baseurl }}/assets/science_notes/physics_GRE_equations.pdf) (2010)
-</span>
