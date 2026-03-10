@@ -2,7 +2,7 @@
 <html>
 
   {% include head.html %}
-  <link rel="canonical" href="http://domain.com{{ page.url | replace:'index.html','' }}" />
+  <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}" />
 
   <body>
 

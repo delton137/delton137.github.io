@@ -13,7 +13,7 @@ publicize_google_plus_url:
 publicize_twitter_user:
   - moreisdifferent
 publicize_tumblr_url:
-  - http://moreisdifferentblog.tumblr.com.tumblr.com/post/120409735173
+  - http://moreisdifferentblog.tumblr.com/post/120409735173
 publicize_path_id:
   - 556bcdb3f5c6710f991ea597
 publicize_linkedin_url:

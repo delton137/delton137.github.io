@@ -2,9 +2,7 @@
 <html>
 
   {% include head.html %}
-  <link rel="canonical" href="http://domain.com{{ page.url | replace:'index.html','' }}" />
-  <! var disqus_url = "http://domain.com{{ page.url | replace:'index.html','' }}";
- >
+  <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}" />
   <body>
 
     {% include header.html %}
@@ -16,7 +14,7 @@
     </div>
 
     {% include footer.html %}
-    <script id="dsq-count-scr" src="//www-moreisdifferent-com.disqus.com/count.js" async></script>
+
 
   </body>
 
