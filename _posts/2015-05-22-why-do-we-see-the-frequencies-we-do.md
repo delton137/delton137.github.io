@@ -12,7 +12,7 @@ geo_public:
 publicize_google_plus_url:
   - https://plus.google.com/+DanElton/posts/iALBVpXbgJS
 publicize_tumblr_url:
-  - http://moreisdifferentblog.tumblr.com.tumblr.com/post/119637617238
+  - http://moreisdifferentblog.tumblr.com/post/119637617238
 publicize_path_id:
   - 555fc02fb42cdcaca2bba4f8
 publicize_linkedin_url:

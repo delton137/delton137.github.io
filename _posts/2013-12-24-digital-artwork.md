@@ -19,7 +19,7 @@ publicize_twitter_url:
 publicize_linkedin_url:
   - 'https://www.linkedin.com/updates?discuss=&scope=90218007&stype=M&topic=5959065285905383425&type=U&a=VcG8'
 publicize_tumblr_url:
-  - http://moreisdifferentblog.tumblr.com.tumblr.com/post/107531407128
+  - http://moreisdifferentblog.tumblr.com/post/107531407128
 publicize_path_id:
 categories:
   - science communication

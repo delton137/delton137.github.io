@@ -28,4 +28,7 @@ Once Jekyll and all the necessary Ruby "gems" are installed, the command to buil
 
 `jekyll serve`
 
+or 
+`bundle exec jekyll serve`
+
 (-- watch auto updates when changes are made)

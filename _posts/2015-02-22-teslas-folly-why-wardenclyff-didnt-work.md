@@ -19,7 +19,7 @@ publicize_twitter_url:
 publicize_linkedin_url:
   - 'https://www.linkedin.com/updates?discuss=&scope=90218007&stype=M&topic=5975109254061834240&type=U&a=HxvB'
 publicize_tumblr_url:
-  - http://moreisdifferentblog.tumblr.com.tumblr.com/post/111721906043
+  - http://moreisdifferentblog.tumblr.com/post/111721906043
 geo_public:
   - "0"
 publicize_path_id:

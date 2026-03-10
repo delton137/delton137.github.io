@@ -116,27 +116,22 @@ https://doi.org/10.1148/ryai.210268)][[pdf](../assets/my_papers/B_AI_medical_ima
 D. Yardeni, T. C. Shen, D. C. Elton, S. Lee, R. M. Summers, Y. Rotman. *The Liver Meeting*, 2022. <br> [[link](https://aasldpubs.onlinelibrary.wiley.com/doi/10.1002/hep.32697)][[pdf](../assets/my_papers/B_AI_medical_imaging/2022_Yardeni_Hepatology_abstract.pdf)]
 </span>
 
-<img class="alignright" src="https://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-300x204.png" alt="atom in a clathrate-like cage" width="100" height="70" srcset="http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-300x204.png 300w, http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-768x523.png 768w, http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-1024x698.png 1024w, http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2-1200x818.png 1200w, http://www.moreisdifferent.com/wp-content/uploads/2015/09/waterbinding2.png 1573w" sizes="(max-width: 199px) 100vw, 199px" />
+<img class="alignright" src="{{ site.baseurl }}/wp-content/uploads/2015/09/waterbinding2-300x204.png" alt="atom in a clathrate-like cage" width="100" height="70" srcset="{{ site.baseurl }}/wp-content/uploads/2015/09/waterbinding2-300x204.png 300w, {{ site.baseurl }}/wp-content/uploads/2015/09/waterbinding2-768x523.png 768w, {{ site.baseurl }}/wp-content/uploads/2015/09/waterbinding2-1024x698.png 1024w, {{ site.baseurl }}/wp-content/uploads/2015/09/waterbinding2-1200x818.png 1200w, {{ site.baseurl }}/wp-content/uploads/2015/09/waterbinding2.png 1573w" sizes="(max-width: 199px) 100vw, 199px" />
 # Ph.D. Thesis
 <span style="font-size:0.9em; font-family: helvetica;">
-* [Understanding the Dielectric Properties of Water](http://www.moreisdifferent.com/wp-content/uploads/2014/11/Daniel_Elton_Thesis_Final_Copy.pdf) (11 Mb PDF)
-</span>
-
-# ChatGPT Deep Research Outputs
-<span style="font-size:0.9em; font-family: helvetica;">
-* [Graded Exercise Therapy for Chronic Fatigue Syndrome]({{ site.baseurl }}/GET_for_CFS.htm)
+* [Understanding the Dielectric Properties of Water]({{ site.baseurl }}/wp-content/uploads/2014/11/Daniel_Elton_Thesis_Final_Copy.pdf) (11 Mb PDF)
 </span>
 
 # Old science notes
 <span style="font-size:0.9em; font-family: helvetica;">
-* [Notes on GAN objective functions](http://www.moreisdifferent.com/assets/science_notes/notes_on_GAN_objective_functions.pdf) (2018)
-* [Relation of crystal shape & structure to LO-TO splitting](http://www.moreisdifferent.com/wp-content/uploads/2015/08/loto1.pdf) (2015)
-* [Elementary theory of solvation](http://www.moreisdifferent.com/wp-content/uploads/2015/08/solvation4.pdf) (2015)
-* [Energy Barriers and Rates &#8211; Transition State Theory for Physicists](http://www.moreisdifferent.com/wp-content/uploads/2015/07/transition_state_theory_dan_elton1.pdf) (2013)
-* [Stretched Exponential Relaxation](http://www.moreisdifferent.com/wp-content/uploads/2015/07/stretched.pdf) (2013)
-* [Foundations of Quantum Mechanics & Quantum Computing](http://www.moreisdifferent.com/wp-content/uploads/2015/07/foundations-of-qm_dan-elton.pdf) (2012)
-* [Hydrogen bond network analysis for TIP4P water](http://www.moreisdifferent.com/wp-content/uploads/2015/07/hydrogen_bond_network_analysis_dan_elton.pdf) (2012)
-* [Maxwell&#8217;s equations in different conventions](http://www.moreisdifferent.com/wp-content/uploads/2015/07/maxwells-equations-dan-elton.pdf) (2011)
-* [Some errata for _Geometry, Topology, & Physics_ by M. Nakahara](http://www.moreisdifferent.com/wp-content/uploads/2015/08/Nakahara_Errata.pdf) (2011)
-* [Equations for the Physics GRE](http://www.moreisdifferent.com/assets/science_notes/physics_GRE_equations.pdf) (2010)
+* [Notes on GAN objective functions]({{ site.baseurl }}/assets/science_notes/notes_on_GAN_objective_functions.pdf) (2018)
+* [Relation of crystal shape & structure to LO-TO splitting]({{ site.baseurl }}/wp-content/uploads/2015/08/loto1.pdf) (2015)
+* [Elementary theory of solvation]({{ site.baseurl }}/wp-content/uploads/2015/08/solvation4.pdf) (2015)
+* [Energy Barriers and Rates &#8211; Transition State Theory for Physicists]({{ site.baseurl }}/wp-content/uploads/2015/07/transition_state_theory_dan_elton1.pdf) (2013)
+* [Stretched Exponential Relaxation]({{ site.baseurl }}/wp-content/uploads/2015/07/stretched.pdf) (2013)
+* [Foundations of Quantum Mechanics & Quantum Computing]({{ site.baseurl }}/wp-content/uploads/2015/07/foundations-of-qm_dan-elton.pdf) (2012)
+* [Hydrogen bond network analysis for TIP4P water]({{ site.baseurl }}/wp-content/uploads/2015/07/hydrogen_bond_network_analysis_dan_elton.pdf) (2012)
+* [Maxwell&#8217;s equations in different conventions]({{ site.baseurl }}/wp-content/uploads/2015/07/maxwells-equations-dan-elton.pdf) (2011)
+* [Some errata for _Geometry, Topology, & Physics_ by M. Nakahara]({{ site.baseurl }}/wp-content/uploads/2015/08/Nakahara_Errata.pdf) (2011)
+* [Equations for the Physics GRE]({{ site.baseurl }}/assets/science_notes/physics_GRE_equations.pdf) (2010)
 </span>

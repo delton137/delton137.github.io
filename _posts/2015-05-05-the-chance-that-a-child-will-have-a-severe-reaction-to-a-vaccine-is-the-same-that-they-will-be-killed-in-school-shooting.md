@@ -16,7 +16,7 @@ publicize_twitter_url:
   - http://t.co/jNZx52351X
 publicize_linkedin_url:
 publicize_tumblr_url:
-  - http://moreisdifferentblog.tumblr.com.tumblr.com/post/118168733973
+  - http://moreisdifferentblog.tumblr.com/post/118168733973
 publicize_path_id:
   - 55482f435aac171652845264
 categories:
