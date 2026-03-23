@@ -11,6 +11,7 @@ categories:
   - Python
 tags:
   - machine learning
+ai: true
 ---
 
 Recently a few people have asked me for the best courseware for learning machine learning. The truth is there is no simple answer. Certainly the machine learning course by Andrew Ng is a good place to start, but most people I know are looking for more depth. Here are some resources I've collected. This list will be expanded and refined over time:
