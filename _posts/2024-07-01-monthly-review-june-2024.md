@@ -13,7 +13,7 @@ tags:
 
 In spring-summer 2024 I tried to start a monthly review on my Substack. It was supposed to be analogous to the monthly "[links](https://www.astralcodexten.com/p/links-for-april-2024)" posts on Astral Codex Ten or Keller Scholl's "[Monthly Shorts](https://keller.substack.com/archive)".  The idea was to review all the blog posts I've published on Substack or [Medium](https://moreisdifferent.medium.com/) along with my top posts from my [LinkedIN](https://www.linkedin.com/in/danielelton/) and [X](https://x.com/moreisdifferent). I also wanted to review top stuff I'd read elsewhere. 
 
-I published two montly reviews, but they weren't very popular, and I lost subscribers on both. So I became disenchanted with the concept. 
+I published two monthly reviews, but they weren't very popular, and I lost subscribers on both. So I became disenchanted with the concept. 
 
 This post was supposed to be for June 2024 but it was never published. It's archived here for posterity: 
 
@@ -69,7 +69,7 @@ My top X posts this month
 Top blog posts I read in May 2024
 ---------------------------------
 
--   [Profile: The Far Out Initiative](https://www.astralcodexten.com/p/profile-the-far-out-initiative) on Astral Codex Ten (May 15, 2024) (on on the movement to abolish suffering)
+-   [Profile: The Far Out Initiative](https://www.astralcodexten.com/p/profile-the-far-out-initiative) on Astral Codex Ten (May 15, 2024) (on the movement to abolish suffering)
 
 Top podcasts I listened to in May 2024
 --------------------------------------
@@ -83,7 +83,7 @@ Top podcasts I listened to in May 2024
 Bonus section - blog posts I enjoyed reading in January 2024
 ------------------------------------------------------------
 
-[**"Neuroscience is pre-paradigmatic. Consciousness is why"**](http://Neuroscience is pre-paradigmatic. Consciousness is why) by Erik Hoel (Jan 9 2024)
+**"Neuroscience is pre-paradigmatic. Consciousness is why"** by Erik Hoel (Jan 9 2024)
 
 [**"Conditional Approval for Human Drugs"**](https://marginalrevolution.com/marginalrevolution/2024/01/conditional-approval.html) by Alex Tabarrok (Jan 29 2024)
 
