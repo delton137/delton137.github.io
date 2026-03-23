@@ -4,5 +4,5 @@ layout: redirected
 sitemap: false
 permalink: substack28
 redirect_to: https://moreisdifferent.blog/p/all-of-these-things-about-covid-19
-covid: true
+long_covid: true
 ---
