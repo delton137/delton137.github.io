@@ -25,6 +25,7 @@ tags:
   - AI
   - futurism
   - Nontechnical
+ai: true
 ---
 Recently we have seen a slew of popular films that deal with artificial intelligence &#8211; most notably _The Imitation Game,_ _Chappie_, _Ex Machina,_ and _Her._ However, despite over five decades of research into artificial intelligence, there remain many tasks that humans find simple which computers cannot do. Given the slow progress of AI, for many the prospect of computers with human-level intelligence seems further away today than it did when Isaac Asimov&#8217;s classic _I, Robot_ was published in 1950.  The fact is, however, that today neuromorphic chips offer a plausible path to realizing human-level artificial intelligence within the next few decades. <!--more-->
 

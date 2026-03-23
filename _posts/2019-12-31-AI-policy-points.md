@@ -11,6 +11,7 @@ tags:
   - transhumanist party
   - artificial intelligence
   - policy
+ai: true
 ---
 
 This is a **draft** of policy points I put together for the [US Transhumanist Party](https://en.wikipedia.org/wiki/Transhumanist_Party)'s nominee for president in 2020. 

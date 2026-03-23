@@ -1,4 +1,4 @@
-Dan's webpage source
+Dan Elton's webpage source
 =====================================
 
 Originally my blog and website were hosted on Wordpress. In 2017 I exported all of my wordpress content to [Jekyll](https://jekyllrb.com/) with hosting through GitHub pages.
@@ -26,9 +26,9 @@ To update Ruby gems and the bundler, as is needed periodically:
 
 Once Jekyll and all the necessary Ruby "gems" are installed, the command to build the website is:
 
-`jekyll serve`
+`jekyll serve --watch`
 
 or 
-`bundle exec jekyll serve`
+`bundle exec jekyll serve --watch`
 
 (-- watch auto updates when changes are made)
