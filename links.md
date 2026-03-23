@@ -9,14 +9,13 @@ layout: page
 # Blogs I recommend:
 
 * [Astral Codex Ten](https://astralcodexten.substack.com/) (formerly [Slate Star Codex](https://slatestarcodex.com/)) psychiatry, book reviews, AI, many other topics. [Top posts here](https://slatestarcodex.com/about/)
-* [Marginal Revolution](https://marginalrevolution.com/) - economics etc from Tyler Cowen and Alex Tabarrok.
-<!-- * [Alexey Guzey](https://guzey.com/) - metascience, productivity hacks.-->
-* [Don't worry about the vase](https://thezvi.wordpress.com/) - rational analysis and forecasting of the pandemic, interesting rationalist commentary.
-* [The rationalist conspiracy](https://rationalconspiracy.com/) - Bay area futurism.
-<!-- http://www.paulgraham.com/articles.html -->
+<!-- * [Marginal Revolution](https://marginalrevolution.com/) - economics -->
+* [Alexey Guzey](https://guzey.com/)  
+* [Zvi Mowshowitz](https://thezvi.substack.com/) - AI and other topics
+* [Paul Graham](http://www.paulgraham.com/articles.html) - life advice
 
 # Podcasts I recommend:
-* [Making Sense with Sam Harris](https://samharris.org/podcast/) science, meditation, philosophy, current affairs.
+<!-- ** [Making Sense with Sam Harris](https://samharris.org/podcast/) science, meditation, philosophy, current affairs. -->
 * [Idea Machines with Ben Reinhardt](https://ideamachinespodcast.com/) metascience, progress studies.
 * [Narratives with Will Jarvis](https://narrativespodcast.com/) metascience, progress studies.
 * [Rationally Speaking with Julia Galef](http://rationallyspeakingpodcast.org/) science, rationality, and skepticism.
@@ -24,7 +23,7 @@ layout: page
 * [The Skeptics Guide to the Universe](https://www.theskepticsguide.org/) Science news and skeptical analysis.
 * [Hardcore History with Dan Carlin](https://podcasts.apple.com/us/podcast/dan-carlins-hardcore-history/id173001861) (free tier) - major historical events described in a way that makes them interesting.
 * [Astral Codex Ten Podcast](https://sscpodcast.libsyn.com/) audio versions of the Astral Codex Ten blog.
-* [The Lunar Society](https://www.dwarkeshpatel.com/podcast) - Dwarkesh Patel interviews with intellectuals, scientists, and founders. [Youtube](https://www.youtube.com/DwarkeshPatel) [Apple](https://apple.co/3oBack9) [Spotify](https://spoti.fi/3S5g2YK)
+* [Dwarkesh Patel](https://www.dwarkeshpatel.com/podcast) [Youtube](https://www.youtube.com/DwarkeshPatel) [Apple](https://apple.co/3oBack9) [Spotify](https://spoti.fi/3S5g2YK)
 
 # Stuff I find useful:
 * [Obsidian note-taking app](https://obsidian.md/)
