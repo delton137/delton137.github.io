@@ -5,10 +5,8 @@ author: Dan Elton
 layout: post
 permalink: /2007/01/01/pet-peeves
 categories:
-  - music
+  - old stuff
 tags:
-  - albums
-  - music
 ---
 
 Some things I don't like.  

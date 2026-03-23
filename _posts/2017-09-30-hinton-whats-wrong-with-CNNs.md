@@ -10,6 +10,7 @@ categories:
   - deep learning
   - machine learning
 tags:
+ai: true
 ---
 
 

@@ -19,7 +19,7 @@ publicize_linkedin_url:
   - 'https://www.linkedin.com/updates?discuss=&scope=90218007&stype=M&topic=6007663019847409664&type=U&a=JQ6Y'
 categories:
   - physics
-  - nontechnical
+  - non-technical
   - science communication
 tags:
   - Nontechnical
