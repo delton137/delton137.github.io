@@ -18,7 +18,7 @@ Note: As of February 2021, most new articles are being posted on [my Substack](h
   <button class="badge badge-progress filter-btn" data-filter="progress_studies">Progress Studies</button>
   <button class="badge badge-fda filter-btn" data-filter="fda">FDA</button>
   <button class="badge badge-ai filter-btn" data-filter="ai">AI</button>
-  <button class="badge badge-covid filter-btn" data-filter="covid">Long COVID</button>
+  <button class="badge badge-covid filter-btn" data-filter="long-covid">Long COVID</button>
 </div>
 
 <ul class="listing">
@@ -35,7 +35,7 @@ Note: As of February 2021, most new articles are being posted on [my Substack](h
     {% endif %}
 
     {% if post.layout == "post" %}
-        {% capture tags %}{% if post.metascience %}metascience {% endif %}{% if post.progress_studies %}progress_studies {% endif %}{% if post.fda %}fda {% endif %}{% if post.ai %}ai {% endif %}{% if post.covid %}covid {% endif %}{% endcapture %}
+        {% capture tags %}{% if post.metascience %}metascience {% endif %}{% if post.progress_studies %}progress_studies {% endif %}{% if post.fda %}fda {% endif %}{% if post.ai %}ai {% endif %}{% if post.covid %}long-covid {% endif %}{% endcapture %}
         <li class="listing-item" data-tags="{{ tags | strip }}">
             <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
             <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
@@ -56,7 +56,7 @@ Note: As of February 2021, most new articles are being posted on [my Substack](h
             {% endif %}
         </li>
     {% elsif post.layout == "redirected" %}
-        {% capture tags %}{% if post.metascience %}metascience {% endif %}{% if post.progress_studies %}progress_studies {% endif %}{% if post.fda %}fda {% endif %}{% if post.ai %}ai {% endif %}{% if post.covid %}covid {% endif %}{% endcapture %}
+        {% capture tags %}{% if post.metascience %}metascience {% endif %}{% if post.progress_studies %}progress_studies {% endif %}{% if post.fda %}fda {% endif %}{% if post.ai %}ai {% endif %}{% if post.covid %}long-covid {% endif %}{% endcapture %}
         <li class="listing-item" data-tags="{{ tags | strip }}">
             <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
             <a href="{{ post.redirect_to }}" title="{{ post.title }}">{{ post.substacktitle }}</a>
