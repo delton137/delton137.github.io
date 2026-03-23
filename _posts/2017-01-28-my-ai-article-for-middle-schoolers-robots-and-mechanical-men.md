@@ -10,6 +10,7 @@ permalink: /2017/01/28/my-ai-article-for-middle-schoolers-robots-and-mechanical-
 categories:
   - AI
   - Science communication
+ai: true
 ---
 _This is a piece I wrote in June, 2015 for &#8220;[Stony Brook Frontiers Magazine](http://sbufrontiers.com)&#8220;, a graduate-student run STEM review magazine for middle school students. I had the idea to do an article on AI, as it is a technology that will become pervasive in the next few decades. AI/ machine learning is a good career path for young people, especially as many jobs are susceptible to replacement by AI. _
 

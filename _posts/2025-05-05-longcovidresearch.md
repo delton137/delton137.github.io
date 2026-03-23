@@ -4,4 +4,5 @@ layout: redirected
 sitemap: false
 permalink: substack45
 redirect_to: https://moreisdifferent.blog/p/why-are-we-making-so-little-progress
+covid: true
 ---

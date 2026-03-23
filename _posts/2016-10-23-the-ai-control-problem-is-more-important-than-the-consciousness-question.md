@@ -14,6 +14,7 @@ tags:
   - AI control
   - ethics
   - philosophy
+ai: true
 ---
 A lot of people commented during and after the recent [Ethics of AI](https://wp.nyu.edu/consciousness/ethics-of-artificial-intelligence/) conference at NYU that we still don&#8217;t know what the necessary conditions for consciousness are, and that this problem lingered like an elephant in the room. The implication seemed to be that this problem cast a pale on a lot of the work that was discussed at the conference. One commentator even summarized the conference as a <a href="https://medium.com/@petervoss/ai-safety-research-a-road-to-nowhere-f1c7c20e8875#.4721pgfrd">road to nowhere</a> at least partially because of this issue.
 
