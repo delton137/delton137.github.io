@@ -1,6 +1,6 @@
 # Opportunistic screening with CT scans
 
-Roughly 100 million CT scans are performed in the United States each year, and that number is growing by several percent each year. Due to time and resource constraints much potentially useful information in CT scans is currently not utilized. Fully automated AI tools can run in the background, segmenting organs and looking for abdormalities. Segmentation tools can be used to extract biomarkers which can be used for disease risk prediction. We call this paradigm "opportunistic screening". 
+Roughly 100 million CT scans are performed in the United States each year, and that number is growing by several percent each year. Due to time and resource constraints much potentially useful information in CT scans is currently not utilized. Fully automated AI tools can run in the background, segmenting organs and looking for abnormalities. Segmentation tools can be used to extract biomarkers which can be used for disease risk prediction. We call this paradigm "opportunistic screening". 
 
 I have developed systems which perform automated measurements of bone mineral density (BMD) [@Elton2020], muscle area and density [@Perez2020], visceral fat [@Perez2020], liver fat [@Pickhardt2020], aortic plaque
 burden [@Summers2020plaque], and pancreatic fat.[@Tallam2022Pancreas] Conditions we have considered for early detection using CT biomarkers include osteoporosis, sarcopenia, myosteatosis, liver steatosis,
@@ -15,7 +15,7 @@ I am also interested in exploring different ways of presenting risk data to pati
 
 ### Opportunistic screening {#opportunistic-screening .unnumbered}
 
-We are curently running a biomarkers suite on 200,000 studies at Mass General Brigam as part of the Opportunistic Screening Consortium for Abdominal Radiology (OSCAR). The results generated will be used to
+We are currently running a biomarkers suite on 200,000 studies at Mass General Brigham as part of the Opportunistic Screening Consortium for Abdominal Radiology (OSCAR). The results generated will be used to
 generate reference \"nomograms\" for different biomarkers, allowing clinicians to see how a patient compares to others in their age and gender cohort.
 
 There are several paths forward for improving my CT-based risk prediction models such as implementing multitask learning and additive hazard modeling to output multiple follow-up intervals.[@Rod2012] I am
@@ -27,23 +27,23 @@ Presently we are seeing a radical change in how AI is applied in the
 healthcare domain. This is the shift from single-purpose bespoke machine
 learning models to general-purpose foundation models like GPT-4. Dozens
 of applications of large language models (LLMs) have already been
-explored. For instance, helping triage and respond to to patient portal
+explored. For instance, helping triage and respond to patient portal
 messages,[@Chen2024] constructing patient
 timelines,[@FrattalloneLlado2024] drafting radiology reports, assisting
 clinicians search through video, and transcribing ambient audio to visit
 notes.[@Moor2023]
 
-I am currently pursing two research projects along these lines. The
+I am currently pursuing two research projects along these lines. The
 first is the development of a multimodal model for chest CT. Currently,
 radiologists who specialize in the chest at our institution spend about
 50% of their time detecting and characterizing small nodules, often
 characterizing the same nodule on many follow-up scans. It is hoped that
 a multimodal model may help speed this process along. We are currently
 exploring the open-source LLaVa-Next model and drawing inspiration from
-the Merlin CT mulitmodal foundation model developed at
+the Merlin CT multimodal foundation model developed at
 Stanford.[@blankemeier_merlin2024]
 
-### Perivascular fat attentuation to improve CVD risk prediction {#perivascular-fat-attentuation-to-improve-cvd-risk-prediction .unnumbered}
+### Perivascular fat attenuation to improve CVD risk prediction {#perivascular-fat-attenuation-to-improve-cvd-risk-prediction .unnumbered}
 
 The first stage of atherosclerosis involves inflammation of the arterial
 walls, which cannot be directly observed in CT
@@ -63,7 +63,7 @@ periaortic visceral fat attenuation in abdominal CT.
 
 ### New methods for validating general-purpose medical AI 
 
-Already many people are using LLMs like Anthropic and Claude to help
+Already many people are using LLMs like Claude and ChatGPT to help
 with medical questions. Several powerful open source models have
 appeared as well, such as medBERT.de (2024),[@Bressem2024] MedVersa
 (2024),[@Zhou2024MedVersa], CancerLLM,[@Li2024] and OpenBioLLM. The FDA
@@ -105,7 +105,7 @@ vs $r^2 = 0.704$).
 
 ### The effect of intravenous contrast on automated measurement tools {#the-effect-of-intravenous-contrast-on-automated-measurement-tools .unnumbered}
 
-Completion of this project required accurately labeling of L1, L3, and
+Completion of this project required accurate labeling of L1, L3, and
 L4 vertebrae on low resolution (3-5mm) contrast CT which was challenging
 due to the lack of contrast CT training data and the inherent difficulty
 of partitioning vertebrae on low resolution scans. I developed an
