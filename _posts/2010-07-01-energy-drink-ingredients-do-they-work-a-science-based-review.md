@@ -87,7 +87,7 @@ Many energy drinks claim to enhance all five metrics. But of course, advertisers
 
 &#8211; Aids carbohydrate uptake, re-fueling after work outs.[[link](http://www.physorg.com/news134106571.html)]
 
-&#8211; Reduced risk of hospitalization for heart rhythm disturbances [[link](http://mysbfiles.stonybrook.edu/%7Edelton/Articles/reduced%20risk%20of%20hospitalization%20for%20heart%20rhythm%20disturbances)]
+&#8211; Reduced risk of hospitalization for heart rhythm disturbances
 
 &#8211; Decreased risk of gout. [[link](http://www.physorg.com/news99286291.html)]
 
@@ -138,7 +138,7 @@ Many energy drinks claim to enhance all five metrics. But of course, advertisers
  [2] _Caffeine_. The Encyclopedia of Psychoactive Drugs.
 
 ## Caffeine&#8211; Mechanisms
-<img src="http://mysbfiles.stonybrook.edu/%7Edelton/images/500px-Caffeine_metabolites.svg.png" alt="" width="357" height="303" align="right" border="0" hspace="5" vspace="5" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Caffeine_metabolites.svg/500px-Caffeine_metabolites.svg.png" alt="Caffeine metabolites" width="357" height="303" align="right" border="0" hspace="5" vspace="5" />
 
 Caffeine is highly water soluble. It is destroyed in the liver and has a half life of 3-5 hours. Caffeine works by blocking adenosine receptors. At the &#8220;A1&#8221; receptors it leads to the well known effect of delaying tiredness. At the &#8220;A2&#8221; receptors, caffeine leads to increased transmission of dopamine. This is supported by the fact that &#8220;intact dopaminergic neurotransmission is necessary for caffeine to be stimulatory.&#8221; As shown in the picture to the left, Caffeine is broken into three different compounds in the liver which have secondary effects in the body. From _Wikipedia_:
 

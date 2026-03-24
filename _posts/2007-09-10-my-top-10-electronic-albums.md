@@ -26,7 +26,7 @@ Some of these are a little hard to find by conventional means. I recommend the S
 I do not recommend just listening to these off Youtube. Sound quality is very important in electronic music, partially because timbre is very important, and because there is often a lot of layering, which is lost with lower bitrates. _I also highly recommend you listen to all this music with fairly good quality stereo headphones._ Timbre or the _intrinsic quality_ of sounds is very important in electronic music. Also important is the layering of bass, mid-range and treble and their overlap and interplay. If one can only hear the mid and treble range, they are likely missing half of the piece.  _In Search of Sunrise_, in particular, is an entirely different sensory experience with stereo headphones.
 
 <p align="center">
-  <b> <i> <img src="http://mysbfiles.stonybrook.edu/%7Edelton/images/Top10%20Album%20Art/abtuw.jpg" alt="" width="258" height="252" align="right" border="0" /></i></b>
+  <b> <i> <img src="{{ site.baseurl }}/assets/pictures/Top10 Album Art/abtuw.jpg" alt="" width="258" height="252" align="right" border="0" /></i></b>
 </p>
 
 ## 1: The Orb &#8211; _Adventures Beyond the Ultraworld_
@@ -41,13 +41,13 @@ Starting with the well known &#8220;Little Fluffy Clouds&#8221;, this album slow
 
 ## 2: Spicelab &#8211;  _A Day on Our Planet_
 
-Year: 1994**<span style="font-size:small;"><img src="http://mysbfiles.stonybrook.edu/%7Edelton/images/Spicelab/A%20day%20on%20our%20planet_small.jpg" alt="" width="258" height="265" align="right" border="0" hspace="3" /></span>**
+Year: 1994**<span style="font-size:small;"><img src="{{ site.baseurl }}/assets/pictures/Spicelab/A day on our planet_small.jpg" alt="" width="258" height="265" align="right" border="0" hspace="3" /></span>**
 
 Electronic genre: Trance: Acid Trance / Classic Trance**
 
 As online electronic music expert Darktremor says, &#8220;The first wave of trance was perfected here &#8230; Sci-fi samples, long ambient washes, an unqeildy length to the tracks, laser twerps, catchy melodies, unpredictable structure, and acid, acid, acid. However, A Day on Our Planet really transcends all that, to be something far greater, something far more beautiful. Lieb (as in OLIVER LIEB, > noob) has tapped into some otherworldy, alien atmosphere with the 4 tracks contained here, he&#8217;s managed to produce something not of the Earth. There is no rave reference point to this trance (something that really can&#8217;t be said for most other trance&#8230;): the beats are momentum (and you couldn&#8217;t dance to a lot of this anyway), this album is a fast-moving journey through another universe.&#8221; This scores low on popularity, but is representative of the influence of Oliver Lieb in a wider sense upon the development of trance and EDM. It may be the most biased ranking here, as it is a very obscure album.
 
- <span style="font-size:small;"><img src="http://mysbfiles.stonybrook.edu/%7Edelton/images/Top10%20Album%20Art/endtroducing1.jpg" alt="" width="258" height="255" align="right" border="0" hspace="3" /></span>
+ <span style="font-size:small;"><img src="{{ site.baseurl }}/assets/pictures/Top10 Album Art/endtroducing1.jpg" alt="" width="258" height="255" align="right" border="0" hspace="3" /></span>
 
 ## 3: DJ Shadow &#8211; _Endtroducing&#8230;_
 
@@ -67,13 +67,13 @@ Endtroducing is important because it was the first albums ever composed entirely
 
 Year: 1971
 
-Electronic genre: Krautrock/Musique-concrete**<img src="http://mysbfiles.stonybrook.edu/%7Edelton/images/Top10%20Album%20Art/Fau-Fau.jpg" alt="" width="251" height="263" align="right" border="0" />
+Electronic genre: Krautrock/Musique-concrete**<img src="{{ site.baseurl }}/assets/pictures/Top10 Album Art/Fau-Fau.jpg" alt="" width="251" height="263" align="right" border="0" />
 
 This album is strange, horrible madness. As Darktremor says, it sounds like a journey through Hell. But it is never at one moment boring, instead it is &#8220;morbidly&#8221; captivating. Obviously the sounds here where influenced by the innovator Stockhausen, one of the great figures of Electronic Art Music. Yet I can&#8217;t include any of Stockhausen works in this list, because, although he drove for large changes in music, he never had any truly stand-out albums that took even semi-popular appeal outside his tight circle of advante-garde friends, and he is more associated with classic music. This album is different, it takes Stockhausen&#8217;s ideas and runs with them, and directly inspired many electronic musicians. This album was at the forefront of a deconstuctavist movement to totally demolish popular rock. In brief, this is truly a mind expanding album. It paved the way for the entire genre of industrial rock and a variety of German abstract rock called &#8220;Krautrock&#8221;. The Krautrock movement influenced Radiohead and other bands.
 
 &nbsp;
 
-<img src="http://mysbfiles.stonybrook.edu/%7Edelton/images/Top10%20Album%20Art/blue%20lines.jpg" alt="" width="248" height="254" align="right" border="0" />
+<img src="{{ site.baseurl }}/assets/pictures/Top10 Album Art/blue lines.jpg" alt="" width="248" height="254" align="right" border="0" />
 
 ## 5: Massive Attack &#8211; _Blue Lines_
 
@@ -90,7 +90,7 @@ Electronic genre: Trip-hop
 &nbsp;
 
 ## 6: DJ Tiesto &#8211; _In Search of Sunrise 1_
-<img src="http://mysbfiles.stonybrook.edu/%7Edelton/images/Top10%20Album%20Art/MusicCatalog-D-DJ%20Tiesto%20-%20In%20Search%20Of%20Sunrise%201-DJ%20Tiesto%20-%20In%20Search%20Of%20Sunrise%201.jpg" alt="" width="249" height="247" align="right" border="0" />_
+<img src="{{ site.baseurl }}/assets/pictures/Top10 Album Art/MusicCatalog-D-DJ Tiesto - In Search Of Sunrise 1-DJ Tiesto - In Search Of Sunrise 1.jpg" alt="" width="249" height="247" align="right" border="0" />_
 
 Year: 2000
 
@@ -100,13 +100,13 @@ ISOS is a album that takes you on a powerful aural journey. A journey which perf
 
 ## 7: Amon Tobin &#8211; _Bricolage_
 
-Year: 1997**<img src="http://mysbfiles.stonybrook.edu/%7Edelton/images/Top10%20Album%20Art/bricolage.jpg" alt="" width="256" height="228" align="right" border="0" />**
+Year: 1997**<img src="{{ site.baseurl }}/assets/pictures/Top10 Album Art/bricolage.jpg" alt="" width="256" height="228" align="right" border="0" />**
 
 Electronic Genre: “Electronic Jazz”/ Intelligent Dance Music / Ambient Dub** ****
 
 It was hard to choose between “Bricolage”, “Supermodified”, and “Out from No Where”, three great albums by Tobin. Supermodified is my originally my favorite, and is more popular then his earlier works. It was a very successful album, and contains some very remarkable sounds, no doubt. The same can be said for &#8220;Out from No Where&#8221;, which is a further development  of his style. However, Bricolage  wins high points of originality and influence. A lot of movie soundtracks have a similar sound. Additionally, &#8220;Bricolage&#8221; has started to grow on me, and every time I hear it I like it more and more. It is smooth electronic jazz at its finest. His later works are more rough and complex, by comparison. This, by contrast, is more sublime and beautiful.  I also recommend the other two aforementioned albums as a continued evolution of this music.
 
-## 8: Kraftwerk &#8211; _Autobahn<img src="http://mysbfiles.stonybrook.edu/%7Edelton/images/Top10%20Album%20Art/Kraftwerk-Autobahn199622480_f.jpg" alt="" width="249" height="255" align="right" border="0" />_
+## 8: Kraftwerk &#8211; _Autobahn<img src="{{ site.baseurl }}/assets/pictures/Top10 Album Art/Kraftwerk-Autobahn199622480_f.jpg" alt="" width="249" height="255" align="right" border="0" />_
 
 Electronic genre: Early techno / electro
 
@@ -118,13 +118,13 @@ This receives such a high ranking for originality. It is one of the first albums
 
 Year: 1995
 
-Electronic genre: Progressive house / Ambient trance_<img src="http://mysbfiles.stonybrook.edu/%7Edelton/images/Top10%20Album%20Art/northern%20exposure.jpg" alt="" width="246" height="238" align="right" border="0" />_
+Electronic genre: Progressive house / Ambient trance_<img src="{{ site.baseurl }}/assets/pictures/Top10 Album Art/northern exposure.jpg" alt="" width="246" height="238" align="right" border="0" />_
 
 ** This is my favorite mix album (granted I have not listened to _that_ many, so this may be biased), but it considered by darktremor as one of greatest of all time, among a few others DJs. The original version was a double album, which contains two CDs, North and South, which was only released in Europe. I believe they were released separately in the United States. &#8220;North&#8221; is more well known, and in my opinion, the better part as well. ( it contains amazing songs by major artists such as The Orb, William Orbit, Banco de Gaia and Apollo 440). I have also heard much high praise for another Sasha and Digweed production called &#8220;Renaissance: the Mix Collection&#8221;. Apparently, it one of the Opus Magnums of ambient house.   I have listened to some or it, but have not been able to get a full copy (which is pathetic, I know). Sasha & Digweed also produced the opus magnum of progressive house : _Renaissance : The Mix Collection_ : a 3 CD collection which is an
 
 impressive mix of progressive house at its finest. It is highly recommended if you have never listened to progressive house before.
 
-<img src="http://mysbfiles.stonybrook.edu/%7Edelton/images/Top10%20Album%20Art/BrianEno-Ambient1.jpg" alt="" width="242" height="237" align="right" border="0" />
+<img src="{{ site.baseurl }}/assets/pictures/Top10 Album Art/BrianEno-Ambient1.jpg" alt="" width="242" height="237" align="right" border="0" />
 
 ## 10: Brian Eno &#8211; _Ambient 1: Music For Airports_
 
