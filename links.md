@@ -10,7 +10,7 @@ layout: page
 
 * [Astral Codex Ten](https://astralcodexten.substack.com/) (formerly [Slate Star Codex](https://slatestarcodex.com/)) psychiatry, book reviews, AI, many other topics. [Top posts here](https://slatestarcodex.com/about/)
 <!-- * [Marginal Revolution](https://marginalrevolution.com/) - economics -->
-* [Alexey Guzey](https://guzey.com/)  
+* [Alexey Guzey](https://guzey.com/) - metascience, life hacks
 * [Zvi Mowshowitz](https://thezvi.substack.com/) - AI and other topics
 * [Paul Graham](http://www.paulgraham.com/articles.html) - life advice
 
@@ -23,7 +23,7 @@ layout: page
 * [The Skeptics Guide to the Universe](https://www.theskepticsguide.org/) Science news and skeptical analysis.
 * [Hardcore History with Dan Carlin](https://podcasts.apple.com/us/podcast/dan-carlins-hardcore-history/id173001861) (free tier) - major historical events described in a way that makes them interesting.
 * [Astral Codex Ten Podcast](https://sscpodcast.libsyn.com/) audio versions of the Astral Codex Ten blog.
-* [Dwarkesh Patel](https://www.dwarkeshpatel.com/podcast) [Youtube](https://www.youtube.com/DwarkeshPatel) [Apple](https://apple.co/3oBack9) [Spotify](https://spoti.fi/3S5g2YK)
+* [Dwarkesh Patel](https://www.dwarkeshpatel.com/podcast) ([Youtube](https://www.youtube.com/DwarkeshPatel), [Apple](https://apple.co/3oBack9), [Spotify](https://spoti.fi/3S5g2YK))
 
 # Stuff I find useful:
 * [Obsidian note-taking app](https://obsidian.md/)
