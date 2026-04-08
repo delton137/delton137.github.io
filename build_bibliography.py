@@ -94,6 +94,9 @@ def parse_bib(f):
     if 'medrxiv' in bd.keys():
         s += "  [[medRxiv]("+bd['medrxiv']+")]"
 
+ #   if 'preprint' in bd.keys():
+ #       s += "  [[preprint]("+bd['preprint']+")]"
+
     if os.path.exists(pdf_link):
         pdf_link = pdf_link.replace("/home/dan/Dropbox/delton137.github.io/", "")
         s += "[[pdf](../" + pdf_link + ")]"
