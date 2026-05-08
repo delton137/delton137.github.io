@@ -105,11 +105,13 @@ https://doi.org/10.1148/ryai.210268)][[pdf](../assets/my_papers/B_AI_medical_ima
 <span style="font-size:0.9em; font-family: helvetica;"><strong>Accurate estimation of third-order moments from turbulence measurements</strong><br>J. J. Podesta, M. A. Forman, C. W. Smith, **D. C. Elton**, Y. Malécot, Y. Gagne.<br> *Nonlinear Processes in Geophysics*. **16** (1) pgs 99--110. (2009)<br> [[.bib](../assets/my_papers/F_other/2009_Podesta.bib)]  [[link](https://doi.org/10.5194/npg-16-99-2009)][[pdf](../assets/my_papers/F_other/2009_Podesta.pdf)]</span>
 
 # Preprints
-<span style="font-size:0.9em; font-family: helvetica;"><strong>AI-driven credibility profiling of real-world patient experiences suggests overlooked kidney stone therapies warrant further investigation</strong><br>A. P. Hinojosa, D. Elton, A. Gómez-Emilsson.</span>
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Benchmarking open-source tools for in silico antiviral drug discovery</strong><br>**D. C. Elton**, P. W. Estep.<br> *arXiv*. (2026)<br> [[.bib](../assets/my_papers/G_preprints/2026_Elton.bib)]  [[link](https://arxiv.org/abs/2605.04265)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>AI-driven credibility profiling of real-world patient experiences suggests overlooked kidney stone therapies warrant further investigation</strong><br>A. P. Hinojosa, **D. C. Elton**, A. Gómez-Emilsson.<br> *Research Square*. (2026)<br> [[.bib](../assets/my_papers/G_preprints/2026_Chanca_piedra_paper.bib)]  [[link](http://dx.doi.org/10.21203/rs.3.rs-9388837/v1)][[pdf](../assets/my_papers/G_preprints/2026_Chanca_piedra_paper.pdf)]</span>
 
 <span style="font-size:0.9em; font-family: helvetica;"><strong>Conformal Triage for Medical Imaging AI Deployment</strong><br>A. N. Angelopoulos, S. R. Pomerantz, S. Do, S. Bates, C. P. Bridge, **D. C. Elton**, M. H. Lev, R. G. Gonzalez, M. I. Jordan, J. Malik.<br> *medRxiv*. (2024)<br> [[.bib](../assets/my_papers/G_preprints/2024_Angelopoulos2024.bib)]  [[medRxiv](https://www.medrxiv.org/content/early/2024/02/11/2024.02.09.24302543)]</span>
 
-<span style="font-size:0.9em; font-family: helvetica;"><strong>Induction, Popper, and machine learning</strong><br>(See also this [critique by Vaden Masrani](https://vmasrani.github.io/blog/2021/problem-of-induction/), which I agree with.)<br>B. Nielson, **D. C. Elton**.<br> (2021)<br>  [[arXiv](https://arxiv.org/abs/2110.00840)]  [[pdf](https://arxiv.org/pdf/2110.00840)]</span>
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Induction, Popper, and machine learning</strong><br>(See also this [critique by Vaden Masrani](https://vmasrani.github.io/blog/2021/problem-of-induction/), which I agree with.)<br>B. Nielson, **D. C. Elton**.<br> *arXiv*. (2021)<br> [[.bib](../assets/my_papers/G_preprints/2021_Nielson.bib)]  [[arXiv](https://arxiv.org/abs/2110.00840)]  [[pdf](https://arxiv.org/pdf/2110.00840)]</span>
 
 
 # Selected Abstracts
