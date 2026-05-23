@@ -32,11 +32,11 @@ tags:
 
 <span style="font-weight: 400;">The derivation of Bayes’ theorem rests on the definition of </span>**conditional probability**<span style="font-weight: 400;">. Let’s consider some random variables,</span> <span style="font-weight: 400;">X and Y</span>_<span style="font-weight: 400;">. </span>_<span style="font-weight: 400;">Capital letters denote random variables, and lowercase denote particular values they may have.</span>_ <span style="font-weight: 400;"> </span>_<span style="font-weight: 400;">The </span>**joint probability** <span style="font-weight: 400;">is a function $$ P(x,y)$$ might look like on our space of possible values: </span>
 
-<img class=" wp-image-2252 aligncenter" src="http://www.moreisdifferent.com/wp-content/uploads/2015/11/plot.png" alt="plot" width="341" height="271" srcset="http://www.moreisdifferent.com/wp-content/uploads/2015/11/plot.png 497w, http://www.moreisdifferent.com/wp-content/uploads/2015/11/plot-300x238.png 300w" sizes="(max-width: 341px) 100vw, 341px" />](http://www.moreisdifferent.com/wp-content/uploads/2015/11/plot.png)
+<img class=" wp-image-2252 aligncenter" src="/wp-content/uploads/2015/11/plot.png" alt="plot" width="341" height="271" srcset="/wp-content/uploads/2015/11/plot.png 497w, /wp-content/uploads/2015/11/plot-300x238.png 300w" sizes="(max-width: 341px) 100vw, 341px" />](/wp-content/uploads/2015/11/plot.png)
 
 <span style="font-weight: 400;">This is simply a histogram, normalized so that the sum of all the bins equals 1.   </span><span style="font-weight: 400;">Now we ask the following question: given that I have $$ y=3$$ defines what in physics-speak we would call a “subspace”: </span>
 
-[<img class=" wp-image-2262 aligncenter" src="http://www.moreisdifferent.com/wp-content/uploads/2015/11/plot_w_subpsace.png" alt="plot_w_subpsace" width="346" height="275" srcset="http://www.moreisdifferent.com/wp-content/uploads/2015/11/plot_w_subpsace.png 497w, http://www.moreisdifferent.com/wp-content/uploads/2015/11/plot_w_subpsace-300x238.png 300w" sizes="(max-width: 346px) 100vw, 346px" />](http://www.moreisdifferent.com/wp-content/uploads/2015/11/plot_w_subpsace.png)
+[<img class=" wp-image-2262 aligncenter" src="/wp-content/uploads/2015/11/plot_w_subpsace.png" alt="plot_w_subpsace" width="346" height="275" srcset="/wp-content/uploads/2015/11/plot_w_subpsace.png 497w, /wp-content/uploads/2015/11/plot_w_subpsace-300x238.png 300w" sizes="(max-width: 346px) 100vw, 346px" />](/wp-content/uploads/2015/11/plot_w_subpsace.png)
 
 <span style="font-weight: 400;">The conditional probability $$ P(x,y)$$ by normalizing our subspace so that the sum of all the elements in the subspace equals 1. This is done by dividing by </span>
 
@@ -80,7 +80,7 @@ Prior to drawing any balls, we assume each urn is equally likely, so  $$ P(u) = 
 
 $$ P(u, n_B) = P(n_B | u) P(u)$$
 
-[<img class="size-full wp-image-2255 aligncenter" src="http://www.moreisdifferent.com/wp-content/uploads/2015/11/joint_dist1.png" alt="joint_dist" width="509" height="399" srcset="http://www.moreisdifferent.com/wp-content/uploads/2015/11/joint_dist1.png 509w, http://www.moreisdifferent.com/wp-content/uploads/2015/11/joint_dist1-300x235.png 300w" sizes="(max-width: 509px) 100vw, 509px" />](http://www.moreisdifferent.com/wp-content/uploads/2015/11/joint_dist1.png)
+[<img class="size-full wp-image-2255 aligncenter" src="/wp-content/uploads/2015/11/joint_dist1.png" alt="joint_dist" width="509" height="399" srcset="/wp-content/uploads/2015/11/joint_dist1.png 509w, /wp-content/uploads/2015/11/joint_dist1-300x235.png 300w" sizes="(max-width: 509px) 100vw, 509px" />](/wp-content/uploads/2015/11/joint_dist1.png)
 
 The joint probability contains all the information we need. We simply consider the subspace  $$ n_B = 3$$(highlighted in the figure above) and properly normalize it. The normalization factor is :
 
@@ -92,7 +92,7 @@ $$ P(u | n_B = 3) = \frac{P(n_B=3 | u) P(u)}{P(n_B = 3)} $$
 
 The result is :
 
-[<img class=" wp-image-2257 aligncenter" src="http://www.moreisdifferent.com/wp-content/uploads/2015/11/result.png" alt="result" width="565" height="280" srcset="http://www.moreisdifferent.com/wp-content/uploads/2015/11/result.png 661w, http://www.moreisdifferent.com/wp-content/uploads/2015/11/result-300x149.png 300w" sizes="(max-width: 565px) 100vw, 565px" />](http://www.moreisdifferent.com/wp-content/uploads/2015/11/result.png)
+[<img class=" wp-image-2257 aligncenter" src="/wp-content/uploads/2015/11/result.png" alt="result" width="565" height="280" srcset="/wp-content/uploads/2015/11/result.png 661w, /wp-content/uploads/2015/11/result-300x149.png 300w" sizes="(max-width: 565px) 100vw, 565px" />](/wp-content/uploads/2015/11/result.png)
 
 # Jargon
 

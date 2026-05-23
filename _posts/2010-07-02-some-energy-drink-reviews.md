@@ -12,7 +12,7 @@ categories:
 tags:
   - energy drinks
 ---
-<span style="font-family:Verdana;"><b>Here&#8217;s some rankings of energy drinks based onmy personal experience. See my previous post: <a href="https://moreisdifferent.wordpress.com/2010/07/01/energy-drink-ingredients-do-they-work-a-science-based-review/">Energy drink ingredients – do they work? A science-based review</a><br /> </b></span><!--more-->
+<span style="font-family:Verdana;"><b>Here&#8217;s some rankings of energy drinks based onmy personal experience. See my previous post: <a href="https://moreisdifferent.com/2010/07/01/energy-drink-ingredients-do-they-work-a-science-based-review/">Energy drink ingredients – do they work? A science-based review</a><br /> </b></span><!--more-->
 
  <span style="font-family:Verdana;"><b><span style="font-size:large;">Monster Java</span></b><br /> <b>Taste:</b> Pretty good for beverages of this type. Strong coffee taste.<br /> <b>Energy:</b> good<b><br /> </b><br /> <b><span style="font-size:large;">Monster Khaos :</span><br /> Taste:</b> poor!<br /> <b>Energy:</b> seemed like a quick &#8220;taurine&#8221; buzz. moderate caffeine buzz.<br /> <b>Ingredients:</b> Too much taurine. A bit too much sugar. Too many B vitamins.</span>
 

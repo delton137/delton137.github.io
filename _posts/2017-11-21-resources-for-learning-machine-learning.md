@@ -28,7 +28,7 @@ The are a gazillion other data science / machine learning online courses. Many o
 ## Learning Python
 [SciPy lectures.org](http://www.scipy-lectures.org/)
 
-[Think Python: How to Think Like a Computer Scientist]([http://greenteapress.com/thinkpython2/html/index.html])
+[Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython2/html/index.html)
 
 [PHY 546: Python for Scientific Computing](http://bender.astro.sunysb.edu/classes/python-science/) - Course taught by Michael Zingale at Stony Brook University, contains many interactive Jupyter notebooks.
 

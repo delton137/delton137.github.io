@@ -14,7 +14,7 @@ tags:
 
 ***Warning: unfortunately since this post was imported from Wordpress, the code may contain formatting errors! Sorry!*** 
 
-This is going to be the first in a series of posts on what I am calling "DIY Drug Discovery". Admittedly, though, this title is hyperbolic. Discovering a new drug requires bringing it through a series of trials, which is very hard, if not impossible for an individual to do themselves. What I'm really going to be discussing is DIY drug screening. I believe in the near future individuals will be able to discover candidate drug molecules using commodity GPU hardware and open source software, such as [scikit-learn.org](scikit-learn), [https://keras.io/](Keras), [http://www.rdkit.org/](RDkit) and [https://deepchem.io/](DeepChem).
+This is going to be the first in a series of posts on what I am calling "DIY Drug Discovery". Admittedly, though, this title is hyperbolic. Discovering a new drug requires bringing it through a series of trials, which is very hard, if not impossible for an individual to do themselves. What I'm really going to be discussing is DIY drug screening. I believe in the near future individuals will be able to discover candidate drug molecules using commodity GPU hardware and open source software, such as [scikit-learn](https://scikit-learn.org), [Keras](https://keras.io/), [RDkit](http://www.rdkit.org/) and [DeepChem](https://deepchem.io/).
 
 <h1 id="no_toc">Table of contents</h1>
 * TOC
@@ -51,7 +51,7 @@ Traditionally drug design has been done through a trial and error approach. A pr
 However quantum simulations are extremely computationally intensive and approximate methods often are not accurate enough, so would be very helpful if machine learning could be used to screen molecules instead.
 
 # Basic concepts of fingerprinting
-*For more info an in easy to read format, see the [http://www.daylight.com/dayhtml/doc/theory/theory.finger.html](Daylight Information Systems page on fingerprinting).*
+*For more info an in easy to read format, see the [Daylight Information Systems page on fingerprinting](http://www.daylight.com/dayhtml/doc/theory/theory.finger.html).*
 
 The first step in molecular machine learning is encoding the structure of the molecule in a form that is amenable to machine learning. This is where a lot of research is currently focused. A useful representation encodes features that are relevant and is efficient, so as to avoid the [curse of dimensionality](https://en.wikipedia.org/wiki/Curse_of_dimensionality). Fortunately, there is a way method of featurazation called fingerprinting which already has a long history of development in the world of drug discovery.
 
@@ -74,7 +74,7 @@ This process is very useful for substructure searching because every bit of the 
 
 In practice, creating a bit density is done through folding. A very long, very sparse fingerprint is ‘folded’ down (with OR operations) to create a fingerprint with a desired length and good bit density. In case this is not obvious what this means, it can be literally thought of as folding the vector onto itself.
 
-Now let's test some fingerprints. We use [rdkit.org](rdkit), an open source cheminformatics library. Our data consists of [https://en.wikipedia.org/wiki/Simplified_molecular-input_line-entry_system](SMILES) strings, which encode molecular graphs into a string of characters, and experimentally determined solubility values.
+Now let's test some fingerprints. We use [rdkit](https://rdkit.org), an open source cheminformatics library. Our data consists of [SMILES](https://en.wikipedia.org/wiki/Simplified_molecular-input_line-entry_system) strings, which encode molecular graphs into a string of characters, and experimentally determined solubility values.
 
 
 <div class="cell border-box-sizing code_cell rendered">

@@ -15,7 +15,7 @@ tags:
   - books
   - scifi
 ---
-[<img class="  wp-image-1647 alignright" src="http://www.moreisdifferent.com/wp-content/uploads/2014/12/halting_state1sted.jpg?w=195" alt="Halting_State(1stEd)" width="153" height="236" srcset="http://www.moreisdifferent.com/wp-content/uploads/2014/12/halting_state1sted.jpg 600w, http://www.moreisdifferent.com/wp-content/uploads/2014/12/halting_state1sted-195x300.jpg 195w" sizes="(max-width: 153px) 100vw, 153px" />](http://www.moreisdifferent.com/wp-content/uploads/2014/12/halting_state1sted.jpg)
+[<img class="  wp-image-1647 alignright" src="/wp-content/uploads/2014/12/halting_state1sted.jpg?w=195" alt="Halting_State(1stEd)" width="153" height="236" srcset="/wp-content/uploads/2014/12/halting_state1sted.jpg 600w, /wp-content/uploads/2014/12/halting_state1sted-195x300.jpg 195w" sizes="(max-width: 153px) 100vw, 153px" />](/wp-content/uploads/2014/12/halting_state1sted.jpg)
 
 **_Halting State_**
 **by Charles Stross**

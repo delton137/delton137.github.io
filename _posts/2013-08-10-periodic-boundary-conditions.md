@@ -18,7 +18,7 @@ tags:
   - research
   - water
 ---
-As promised , I shall now reveal why I had a bout of interest in polyhedra, as discussed in my [last post](http://moreisdifferent.wordpress.com/2013/07/19/polyhedra/).
+As promised , I shall now reveal why I had a bout of interest in polyhedra, as discussed in my [last post](http://moreisdifferent.com/2013/07/19/polyhedra/).
 
 (Sorry for those of you who were waiting on the edge of your seats for three weeks)
 
@@ -37,7 +37,7 @@ There is a difficulty with this approach though when it comes to treating the Co
 I won&#8217;t go into the technical details of Ewald summation &#8212; the important part is that it creates many &#8216;replicas&#8217; of the box arranged in a periodic fashion. Ewald summation gives the exact energies/forces for this periodic system, which makes it great for analyzing systems which are naturally periodic, like crystals.  Liquid water is of course, not periodic though, so this is cause for concern.
 
 <figure><p align="center">
-<img class="size-medium wp-image-1400 " alt="water_PBCs" src="http://www.moreisdifferent.com/wp-content/uploads/2013/08/water_pbcs.png?w=300" width="431" height="275"/><figcaption>Pic from TeXmple.net</figcaption></p>
+<img class="size-medium wp-image-1400 " alt="water_PBCs" src="/wp-content/uploads/2013/08/water_pbcs.png?w=300" width="431" height="275"/><figcaption>Pic from TeXmple.net</figcaption></p>
 </figure>
 Because of this concern people have investigated using other boxes besides cubes for non-periodic systems like water. Essentially, we need a polyhedra with nice regular polygon sides which fills space and does so in a regular way (a similarly situated fashion). As discussed in the last post, there only five types of polyhedra (in three dimensions) which fulfill these criteria: the cube, hexagonal prism, rhombic dodecahedron, rhombo-hexagonal dodecahedron, and truncated octahedron.
 
@@ -54,7 +54,7 @@ The third factor of importance is the sphericity of the polyhedra. One would lik
 It turns out there are several different measures mathematicians have devised to quantify how  spherical a polyhedra is. In the following table I compare two measures:
 
 <p style="text-align:left;">
-  <a href="http://www.moreisdifferent.com/wp-content/uploads/2013/08/three_polyehdra.png"><img class="aligncenter" alt="three_polyehdra" src="http://www.moreisdifferent.com/wp-content/uploads/2013/08/three_polyehdra.png?w=300" width="481" height="93" /></a>One of measures is to look at the radius of an circumscribed sphere (the smallest possible sphere which fits around the polyehdra). Then, compare the volume of this sphere to the volume of the polyhedra. The smaller the ratio, the more spherical it is. By this measure, the truncated octahedron is much more spherical. The other measure is called <a href="http://en.wikipedia.org/wiki/Sphericity">sphericity</a>, and is defined as ratio of the surface area of a sphere with the same volume as the polyhedra to the surface area of the polyhedra. By this measure, the truncated octahedron is just slightly more spherical than the rhombic dodecahedron.
+  <a href="/wp-content/uploads/2013/08/three_polyehdra.png"><img class="aligncenter" alt="three_polyehdra" src="/wp-content/uploads/2013/08/three_polyehdra.png?w=300" width="481" height="93" /></a>One of measures is to look at the radius of an circumscribed sphere (the smallest possible sphere which fits around the polyehdra). Then, compare the volume of this sphere to the volume of the polyhedra. The smaller the ratio, the more spherical it is. By this measure, the truncated octahedron is much more spherical. The other measure is called <a href="http://en.wikipedia.org/wiki/Sphericity">sphericity</a>, and is defined as ratio of the surface area of a sphere with the same volume as the polyhedra to the surface area of the polyhedra. By this measure, the truncated octahedron is just slightly more spherical than the rhombic dodecahedron.
 </p>
 
 <p style="text-align:left;">
