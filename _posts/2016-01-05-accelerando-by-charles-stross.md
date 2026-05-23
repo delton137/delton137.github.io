@@ -25,7 +25,7 @@ categories:
   - technology
 ---
 # *Accelerando*
-<img class=" size-full wp-image-2856 alignright" src="http://www.moreisdifferent.com/wp-content/uploads/2016/01/accelerando_book_cover.jpg" alt="Accelerando_(book_cover)" width="200" height="302" srcset="http://www.moreisdifferent.com/wp-content/uploads/2016/01/accelerando_book_cover.jpg 200w, http://www.moreisdifferent.com/wp-content/uploads/2016/01/accelerando_book_cover-199x300.jpg 199w" sizes="(max-width: 200px) 100vw, 200px" />
+<img class=" size-full wp-image-2856 alignright" src="/wp-content/uploads/2016/01/accelerando_book_cover.jpg" alt="Accelerando_(book_cover)" width="200" height="302" srcset="/wp-content/uploads/2016/01/accelerando_book_cover.jpg 200w, /wp-content/uploads/2016/01/accelerando_book_cover-199x300.jpg 199w" sizes="(max-width: 200px) 100vw, 200px" />
 
 by Charles Stross
 

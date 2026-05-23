@@ -70,7 +70,7 @@ The acceleration of charged particles using electrostatic fields is utilized in 
 Let&#8217;s consider some of the obvious technical challenges first. Unlike particle accelerators, which use charged particles, a particle beam weapon must fire neutral particles, otherwise (due to conservation of charge) parts of the weapon rapidly acquire the opposite charge of the beam causing the device to fail.  This situation can be overcome by first stripping electrons off of atoms, creating positive ions which can be accelerated.  Then, as the ions leave the accelerator, electrons are injected into the beam, forming a neutral beam. Telsa proposed mercury ions but does not describe any method for neutralizing the beam (as far as I can tell). (The concept of a mercury beam is particularly terrifying- since in addition to boiling the blood of soldiers, it would also poison them.)
 
 <p style="text-align:center;">
-<img alt="The &quot;vacuum tube&quot; which allows particle to escape the accelerator" width="300" height="167" src="http://www.moreisdifferent.com/wp-content/uploads/2015/01/vacuum_nozzle-300x167.png" />
+<img alt="The &quot;vacuum tube&quot; which allows particle to escape the accelerator" width="300" height="167" src="/wp-content/uploads/2015/01/vacuum_nozzle-300x167.png" />
 <figcaption style="text-align:center;">The &#8220;vacuum tube&#8221; which allows particle to escape the accelerator</figcaption>
 </p>
 

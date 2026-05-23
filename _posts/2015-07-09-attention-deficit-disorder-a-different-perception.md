@@ -25,7 +25,7 @@ categories:
 tags:
   - books
 ---
-<img src="http://www.moreisdifferent.com/wp-content/uploads/2015/07/278998.jpg?w=192" width="110" height="168" />
+<img src="/wp-content/uploads/2015/07/278998.jpg?w=192" width="110" height="168" />
 
 Recently I read a book about ADD called _Attention Deficit Disorder : A Different Perception,_ by Thom Hartmann.
 
@@ -47,7 +47,7 @@ The &#8220;hunter vs. farmer&#8221; hypothesis is very interesting. At the very 
 
 A corollary to the hunter vs. farmer hypothesis is that societies based around hunting will have a higher incidence of ADD compared to purely agricultural ones.  There is a bit of evidence for this, but much more research needs to be done.  A further corollary (not directly proposed by Hartmann but hinted at) is that the high incidence of ADD in the United States may be partly due to the fact that the US is a nation of immigrants, and people with genes that are implicated with ADD [are more likely to be migratory](http://www.ehbonline.org/article/S1090-5138%2899%2900015-X/abstract) (ie. more willing to leave their homes and travel great distances).<figure id="attachment_2033" class="thumbnail wp-caption aligncenter style="width: 504px">
 
-[<img  src="http://www.moreisdifferent.com/wp-content/uploads/2015/08/addtable.png?w=295" alt="Table from the book. " width="494" height="502" srcset="http://www.moreisdifferent.com/wp-content/uploads/2015/08/addtable.png 632w, http://www.moreisdifferent.com/wp-content/uploads/2015/08/addtable-295x300.png 295w" sizes="(max-width: 494px) 100vw, 494px" />](http://www.moreisdifferent.com/wp-content/uploads/2015/08/addtable.png)<figcaption>Table from the book.</figcaption></figure>
+[<img  src="/wp-content/uploads/2015/08/addtable.png?w=295" alt="Table from the book. " width="494" height="502" srcset="/wp-content/uploads/2015/08/addtable.png 632w, /wp-content/uploads/2015/08/addtable-295x300.png 295w" sizes="(max-width: 494px) 100vw, 494px" />](/wp-content/uploads/2015/08/addtable.png)<figcaption>Table from the book.</figcaption></figure>
 
 # Open vs Focused states of Consciousness
 
