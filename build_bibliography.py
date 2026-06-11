@@ -120,18 +120,17 @@ id: 1917
 title: Research
 author: delton137
 layout: page
+permalink: /research/
 ---
 
 See also [Google Scholar](https://scholar.google.com/citations?user=KG0pbOYAAAAJ)
 
-"""
+## Table of contents
+{: .no_toc}
+* TOC
+{:toc}
 
-#"""
-#<h1 id="no_toc">Table of contents</h1>
-#* TOC
-#{:toc}
-#
-#"""
+"""
 
 folders = natsorted(glob.glob("assets/my_papers/*"))
 
@@ -241,10 +240,6 @@ D. Yardeni, T. C. Shen, D. C. Elton, S. Lee, R. M. Summers, Y. Rotman. *The Live
 * [Understanding the Dielectric Properties of Water](/wp-content/uploads/2014/11/Daniel_Elton_Thesis_Final_Copy.pdf) (11 Mb PDF)
 {: style="font-size:0.9em; font-family: helvetica;"}
 
-# ChatGPT Deep Research Outputs
-* [Graded Exercise Therapy for Chronic Fatigue Syndrome]({{ site.baseurl }}/GET_for_CFS.htm)
-{: style="font-size:0.9em; font-family: helvetica;"}
-
 # Old science notes
 * [Notes on GAN objective functions](/assets/science_notes/notes_on_GAN_objective_functions.pdf) (2018)
 * [Relation of crystal shape & structure to LO-TO splitting](/wp-content/uploads/2015/08/loto1.pdf) (2015)
@@ -259,7 +254,7 @@ D. Yardeni, T. C. Shen, D. C. Elton, S. Lee, R. M. Summers, Y. Rotman. *The Live
 {: style="font-size:0.9em; font-family: helvetica;"}
 """
 
-with open("science.md", 'w') as f:
+with open("research.md", 'w') as f:
     f.writelines(s)
 
 print("total papers = ", tot)

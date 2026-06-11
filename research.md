@@ -1,428 +1,145 @@
-# Opportunistic screening with CT scans
-
-Roughly 100 million CT scans are performed in the United States each year, and that number is growing by several percent each year. Due to time and resource constraints much potentially useful information in CT scans is currently not utilized. Fully automated AI tools can run in the background, segmenting organs and looking for abnormalities. Segmentation tools can be used to extract biomarkers which can be used for disease risk prediction. We call this paradigm "opportunistic screening". 
-
-I have developed systems which perform automated measurements of bone mineral density (BMD) [@Elton2020], muscle area and density [@Perez2020], visceral fat [@Perez2020], liver fat [@Pickhardt2020], aortic plaque
-burden [@Summers2020plaque], and pancreatic fat.[@Tallam2022Pancreas] Conditions we have considered for early detection using CT biomarkers include osteoporosis, sarcopenia, myosteatosis, liver steatosis,
-diabetes, pancreatic cancer, and cardiovascular disease.
-
-Recently I published a paper demonstrating the first deep learning based system for opportunistic cardiovascular disease risk prediction using abdominal CT [@Elton2021SPIE]. The combination of genetic factors with imaging biomarkers can also improve risk prediction and lead to the discovery of new phenotypic correlations [@Sethi2020].  
-
-I am also interested in exploring different ways of presenting risk data to patients such as plotting patient-specific survival curves. Previous work has suggested that the way risk information is presented by a clinician to patients has an effect on how receptive they are to taking steps to proactively reduce risk. For instance, comparing with a baseline helps patients understand their relative risk (ie you are at
-40% higher risk for CVD in the next 5 years compared to males of your age). The concepts of "arterial age" and "biological age" may help inform patients about their health [@Raghu2021].
-
-# Current and future work
-
-### Opportunistic screening {#opportunistic-screening .unnumbered}
-
-We are currently running a biomarkers suite on 200,000 studies at Mass General Brigham as part of the Opportunistic Screening Consortium for Abdominal Radiology (OSCAR). The results generated will be used to
-generate reference \"nomograms\" for different biomarkers, allowing clinicians to see how a patient compares to others in their age and gender cohort.
-
-There are several paths forward for improving my CT-based risk prediction models such as implementing multitask learning and additive hazard modeling to output multiple follow-up intervals.[@Rod2012] I am
-also interested in studying associations between genes and imaging biomarkers, which could lead to the discovery of new genes that are associated with disease risk. [@Sethi2020].
-
-### Development of a multimodal model for chest CT report generation 
-
-Presently we are seeing a radical change in how AI is applied in the
-healthcare domain. This is the shift from single-purpose bespoke machine
-learning models to general-purpose foundation models like GPT-4. Dozens
-of applications of large language models (LLMs) have already been
-explored. For instance, helping triage and respond to patient portal
-messages,[@Chen2024] constructing patient
-timelines,[@FrattalloneLlado2024] drafting radiology reports, assisting
-clinicians search through video, and transcribing ambient audio to visit
-notes.[@Moor2023]
-
-I am currently pursuing two research projects along these lines. The
-first is the development of a multimodal model for chest CT. Currently,
-radiologists who specialize in the chest at our institution spend about
-50% of their time detecting and characterizing small nodules, often
-characterizing the same nodule on many follow-up scans. It is hoped that
-a multimodal model may help speed this process along. We are currently
-exploring the open-source LLaVa-Next model and drawing inspiration from
-the Merlin CT multimodal foundation model developed at
-Stanford.[@blankemeier_merlin2024]
-
-### Perivascular fat attenuation to improve CVD risk prediction {#perivascular-fat-attenuation-to-improve-cvd-risk-prediction .unnumbered}
-
-The first stage of atherosclerosis involves inflammation of the arterial
-walls, which cannot be directly observed in CT
-scans.[@Antonopoulos2017; @Dai2020] However, inflammation inhibits
-adipogenesis, leading to small increases in the X-ray attenuation of
-visceral adipose tissue around the affected arteries. Recent work shows
-that measuring the attenuation of perivascular fat around coronary
-arteries enhances cardiac risk prediction and may serve as a valuable
-early-stage biomarker to identify patients at risk for plaque formation
-and cardiovascular disease. Such patients can be put on statins or other
-drugs to reduce the inflammation which may \"nip atherosclerosis in the
-bud\". Whereas many studies have looked at the measurement of
-perivascular fat attenuation in cardiac CT, there are few studies
-exploring the use of deep learning to automate such measurements and no
-studies so far which have explored opportunistic measurement of
-periaortic visceral fat attenuation in abdominal CT.
-
-### New methods for validating general-purpose medical AI 
-
-Already many people are using LLMs like Claude and ChatGPT to help
-with medical questions. Several powerful open source models have
-appeared as well, such as medBERT.de (2024),[@Bressem2024] MedVersa
-(2024),[@Zhou2024MedVersa], CancerLLM,[@Li2024] and OpenBioLLM. The FDA
-still has not released guidance on how it will regulate general-purpose
-medical AI ("AI doctors"). Furthermore, even if the FDA does start
-regulation, this will not cover "off-label" use of general purpose AI.
-Very likely the FDA process will not address the safety concerns of
-specific local use-cases as well. Therefore, new forms of oversight and
-validation are needed.[@Panch2022-cd] Topics of interest include
-uncertainty quantification, logging and monitoring for oversight, red
-teaming, and the design of 'licensing' tests for medical AI.
-
-# Completed projects {#completed-projects .unnumbered}
-
-### Automated bone mineral density measurement {#automated-bone-mineral-density-measurement .unnumbered}
-
-:::: wrapfigure
-r0.14
-
-::: center
-![image](vert_ex.png){width="12%"}\
-Example spine segmentation.
-:::
-::::
-
-A measurement of bone mineral density (BMD) can be performed by placing
-an elliptical region of interest (ROI) in the trabecular space of the L1
-vertebra. This is often a challenging task due to curvature of the spine
-(scoliosis, kyphosis, swayback) and the presence of vertebral anomalies.
-I developed an iterative-instance based approach for segmenting the
-entire spine using a 3D U-Net  [@Elton2020]. The system produces very
-accurate segmentations of the entire spine and labels with an average
-error of 20 mm. I showed that a small improvement can be obtained by
-tilting the 3D ROI so it is perpendicular to the spinal cord. The
-system, which is written entirely in Python, is by some measures more
-accurate than the existing C++ code for BMD measurement previously
-developed in the lab at reproducing manual measurements ($r^2 = 0.729$
-vs $r^2 = 0.704$).
-
-### The effect of intravenous contrast on automated measurement tools {#the-effect-of-intravenous-contrast-on-automated-measurement-tools .unnumbered}
-
-Completion of this project required accurate labeling of L1, L3, and
-L4 vertebrae on low resolution (3-5mm) contrast CT which was challenging
-due to the lack of contrast CT training data and the inherent difficulty
-of partitioning vertebrae on low resolution scans. I developed an
-approach which uses watershed based spine segmentation tool to extract a
-cropped box around the lumbar spine and a multiclass 3D U-Net to segment
-and label the 5 lumbar vertebrae and T12. After making improvements I
-ran existing codes for automated muscle, fat, and BMD measurement on
-1,200 matched post-contrast and non-contrast scans. We showed that these
-tools yield accurate measurements on contrast CT if linear corrections
-are applied [@Perez2020]. Looking forward, automated measurement in the
-hip may be more consistent than the vertebral technique for a variety of
-technical reasons.
-
-### Automated plaque measurement {#automated-plaque-measurement .unnumbered}
-
-:::: wrapfigure
-r0.25
-
-::: center
-![image](aortic_plaque_example.png){width="24%"}\
-Example aortic plaque segmentation.
-:::
-::::
-
-Relative to measuring plaque in the heart, little work has been done on
-automated measurement of plaque in the aorta and pelvic arteries. I
-developed 3D U-Net based method for segmenting and quantifying aortic
-plaque [@Summers2020plaque]. The method was trained with a novel loss
-function that counts false positive and false negative voxels. Unlike
-many prior works, the network was developed on a completely different
-dataset from the dataset it was tested on, yielding a true "external
-validation" of the method. On a set of 922 cases we found the method
-could accurately segment plaque and accurately measure the Agatston
-score for plaque severity ($r^2$ of 0.94 vs manual
-measurement) [@Summers2020plaque], a major improvement over a mask-RCNN
-approach developed previously the lab which suffered from a high rate of
-false positives. We used the CycleGAN and UNIT image translation models
-to generate synthetic non-contrast training data for this task, leading
-to a small but significant improvement [@Zhu2020MICCAI; @Zhu2020MIDL].
-
-### Liver fat and size quantification {#liver-fat-and-size-quantification .unnumbered}
-
-I helped develop a deep learning model for liver segmentation and wrote
-code to measure the longest liver diameter on each transverse slice,
-reproducing a common manual measurement. On a set of 12,000 cases
-($\approx$ 9,000 patients) we showed that the average CT X-ray
-attenuation in the liver can be used to classify the severity of fatty
-liver disease, using a fat fraction measurement from a MRI proton
-density scan as a reference [@Pickhardt2020]. We also showed that liver
-volume measurement is a much more accurate standard for diagnosing
-hepatomegaly than liver diameter measurement [@2021].
-
-### Relation of pancreas volume and radiomics features to type II diabetes {#relation-of-pancreas-volume-and-radiomics-features-to-type-ii-diabetes .unnumbered}
-
-:::: wrapfigure
-r0.3
-
-::: center
-![image](pancreas_example.png){width="28%"}\
-Example pancreas segmentation. A 2 mm surface erosion is shown in light
-red.
-:::
-::::
-
-Utilizing an iterative active learning process to minimize the need for
-manual segmentation I developed a pancreas segmentation model for
-non-contrast CT which achieves state-of-the art for non-contrast CT
-(average Dice scores $0.77-0.80$). The model has been run on a dataset
-of 9,200 patients, 2,536 of which have a diagnosis of type II diabetes.
-Our paper investigates how pancreas volume, surface irregularity
-(fractal dimension), texture, density, and fat fraction are predictive
-of diabetes diagnosis.[@Tallam2022Pancreas] Prior works on the subject
-used a maximum of 200 patients and most used $<100$ total. A future line
-of work is to replicate a recent paper suggesting that people with type
-II diabetes are more likely to have plaques in their splenic artery by
-using deep learning tools to automate measurements required for the
-study, thus enabling the study to be done on a much larger
-cohort [@AlexandreHeymann2020].
-
-### Automated lymph node detection in MRI {#automated-lymph-node-detection-in-mri .unnumbered}
-
-I created an enormous dataset containing 21,786 abdominal MRI studies
-for 9,343 patients with 27,918 line annotations which are linked to
-11,039 doctor's reports. Natural language processing techniques were
-used to extract references to different types of lesions. As a first
-project we focused on extracting accurate references to lymph
-nodes [@Peng2020] and created a lymph node dataset which has been used
-for two deep learning projects so far. I helped develop registration
-methods to align bookmarks from T1 and DWI series onto T2 series since
-deep learning techniques perform best on T2 due to improved soft tissue
-contrast.
-
-### Automated segmentation and analysis of liver Couinaud regions  {#automated-segmentation-and-analysis-of-liver-couinaud-regions .unnumbered}
-
-I have developed a two-stage 3D U-Net algorithm to segment the 8
-Couinaud regions of the liver. We have shown the ratio of liver segment
-volumes can be used as a biomarker for the classification of liver
-cirrhosis grade using this system (work under review). We found that
-getting a system with high enough accuracy on severe cirrhosis cases
-required additional manual segmentation using an active learning
-approach.[@Lee2022]
-
-### Deployment and testing of AI tools in the radiology clinic {#deployment-and-testing-of-ai-tools-in-the-radiology-clinic .unnumbered}
-
-I worked with experts from Blackford Analysis along with Dr. Gregg Cohen
-to deploy AI tools from Dr. Summer's lab into the clinic at NIH. We
-deployed both my model for aortic plaque segmentation and the Multitask
-Universal Lesion Analysis Network (MULAN) [@Ke2019MULAN]. At MGH I have
-worked on deploying several AI projects from academic labs for extensive
-validation and testing which I am not yet at liberty to discuss. I also
-advised an academic team at MGH on AI system development and worked
-closely with researchers at NVIDIA to provide feedback on the Clara
-Deploy software stack, the Triton Inference Engine, and the Medical Open
-Network for AI (MONAI) library. More recently we have deployed multiple
-tools that I helped develop which perform automated body composition
-analysis, as part of the Opportunistic Screening Consortium in Abdominal
-Radiology (OSCAR). We are in the process of running those tools on
-200,000 historical studies.
-
-### Out-of-distribution detection and uncertainty quantification for medical AI safety {#out-of-distribution-detection-and-uncertainty-quantification-for-medical-ai-safety .unnumbered}
-
-There have been several high-profile cases where medical AI systems that
-did well in the lab failed upon deployment, such as the system for
-diabetic retinopathy developed by Verily Life Sciences [@Beede2020]. The
-recent discovery of the double descent phenomena in deep learning
-indicates that deep neural networks operate primarily through
-interpolation and local computations, so this lack of robustness to
-distributional shift is not surprising  [@Elton2020AGI]. Thus, it is
-worthwhile to implement an additional output to AI systems which
-provides a warning if the system is likely to fail. The little prior
-work that has been done in this area is scattered through the
-literature, where it is variously described as "out-of-distribution
-detection", "outlier detection", and "applicability domain analysis". I
-trained two variational autoencoder models in this vein - one to detect
-incorrect organ segmentations and another to detect anomalous chest
-X-ray images. I have also worked on a conformal method for uncertainty
-quantification that can be used with binary
-classifiers.[@Angelopoulos2024] Instead of outputting just two outputs
-('yes', 'no') a third category of 'uncertain' is introduced. Using
-rigorous statistical methods, thresholds can be determined so the rate
-of false positives and false negatives is controlled.
-
-
-Alexandre-Heymann, Laure, Matthias Barral, Anthony Dohan, and Etienne
-Larger. 2020. “Patients with Type 2 Diabetes Present with Multiple
-Anomalies of the Pancreatic Arterial Tree on Abdominal Computed
-Tomography: Comparison Between Patients with Type 2 Diabetes and a
-Matched Control Group.” *Cardiovascular Diabetology* 19 (1).
-<https://doi.org/10.1186/s12933-020-01098-1>.
-
-Angelopoulos, Anastasios N., Stuart Pomerantz, Synho Do, Stephen Bates,
-Christopher P. Bridge, Daniel C. Elton, Michael H. Lev, R. Gilberto
-González, Michael I. Jordan, and Jitendra Malik. 2024. “Conformal Triage
-for Medical Imaging AI Deployment,” February.
-<https://doi.org/10.1101/2024.02.09.24302543>.
-
-Antonopoulos, Alexios S., Fabio Sanna, Nikant Sabharwal, Sheena Thomas,
-Evangelos K. Oikonomou, Laura Herdman, Marios Margaritis, et al. 2017.
-“Detecting Human Coronary Inflammation by Imaging Perivascular Fat.”
-*Science Translational Medicine* 9 (398).
-<https://doi.org/10.1126/scitranslmed.aal2658>.
-
-Beede, Emma, Elizabeth Baylor, Fred Hersch, Anna Iurchenko, Lauren
-Wilcox, Paisan Ruamviboonsuk, and Laura M. Vardoulakis. 2020. “A
-Human-Centered Evaluation of a Deep Learning System Deployed in Clinics
-for the Detection of Diabetic Retinopathy.” In *Proceedings of the 2020
-CHI Conference on Human Factors in Computing Systems*. ACM.
-<https://doi.org/10.1145/3313831.3376718>.
-
-Blankemeier, Louis, Joseph Paul Cohen, Ashwin Kumar, Dave Van Veen, Syed
-Jamal Safdar Gardezi, Magdalini Paschali, Zhihong Chen, et al. 2024.
-“Merlin: A Vision Language Foundation Model for 3D Computed Tomography.”
-<https://doi.org/10.48550/ARXIV.2406.06512>.
-
-Bressem, Keno K., Jens-Michalis Papaioannou, Paul Grundmann, Florian
-Borchert, Lisa C. Adams, Leonhard Liu, Felix Busch, et al. 2024.
-“<span class="nocase">medBERT.de</span>: A Comprehensive German BERT
-Model for the Medical Domain.” *Expert Systems with Applications* 237
-(March): 121598. <https://doi.org/10.1016/j.eswa.2023.121598>.
-
-Chen, Shan, Marco Guevara, Shalini Moningi, Frank Hoebers, Hesham
-Elhalawani, Benjamin H Kann, Fallon E Chipidza, et al. 2024. “The Effect
-of Using a Large Language Model to Respond to Patient Messages.” *The
-Lancet Digital Health* 6 (6): e379–81.
-<https://doi.org/10.1016/s2589-7500(24)00060-8>.
-
-Dai, Xu, Lihua Yu, Zhigang Lu, Chengxing Shen, Xinwei Tao, and Jiayin
-Zhang. 2020. “Serial Change of Perivascular Fat Attenuation Index After
-Statin Treatment: Insights from a Coronary CT Angiography Follow-up
-Study.” *International Journal of Cardiology* 319 (November): 144–49.
-<https://doi.org/10.1016/j.ijcard.2020.06.008>.
-
-Elton, Daniel C. 2020. “Self-Explaining AI as an Alternative to
-Interpretable AI.” In *Artificial General Intelligence*, 95–106.
-Springer International Publishing.
-<https://doi.org/10.1007/978-3-030-52152-3_10>.
-
-Elton, Daniel C., Andy Chen, Perry J. Pickhardt, and Ronald M. Summers.
-2022. “<span class="nocase">Cardiovascular disease and all-cause
-mortality risk prediction from abdominal CT using deep learning</span>.”
-In *Medical Imaging 2022: Computer-Aided Diagnosis*, edited by Karen
-Drukker and Khan M. Iftekharuddin, 12033:120332N. International Society
-for Optics; Photonics; SPIE. <https://doi.org/10.1117/12.2612620>.
-
-Elton, Daniel, Veit Sandfort, Perry J. Pickhardt, and Ronald M. Summers.
-2020. “Accurately Identifying Vertebral Levels in Large Datasets.” In
-*Medical Imaging 2020: Computer-Aided Diagnosis*, edited by Horst K.
-Hahn and Maciej A. Mazurowski. SPIE.
-<https://doi.org/10.1117/12.2551247>.
-
-Frattallone-Llado, Gabriel, Juyong Kim, Cheng Cheng, Diego Salazar,
-Smitha Edakalavan, and Jeremy C. Weiss. 2024. “Using Multimodal Data to
-Improve Precision of Inpatient Event Timelines.” In *Lecture Notes in
-Computer Science*, 322–34. Springer Nature Singapore.
-<https://doi.org/10.1007/978-981-97-2238-9_25>.
-
-Lee, Sungwon, Daniel C. Elton, Alexander H. Yang, Christopher Koh, David
-E. Kleiner, Meghan G. Lubner, Perry J. Pickhardt, and Ronald M. Summers.
-2022. “Fully Automated and Explainable Liver Segmental Volume Ratio and
-Spleen Segmentation in CT for Diagnosing Cirrhosis.” *Radiology:
-Artificial Intelligence* 4 (5): e210268.
-<https://doi.org/10.1148/ryai.210268>.
-
-Li, Mingchen, Anne Blaes, Steven Johnson, Hongfang Liu, Hua Xu, and Rui
-Zhang. 2024. “CancerLLM: A Large Language Model in Cancer Domain.”
-arXiv. <https://arxiv.org/abs/2406.10459>.
-
-Moor, Michael, Oishi Banerjee, Zahra Shakeri Hossein Abad, Harlan M.
-Krumholz, Jure Leskovec, Eric J. Topol, and Pranav Rajpurkar. 2023.
-“Foundation Models for Generalist Medical Artificial Intelligence.”
-*Nature* 616 (7956): 259–65.
-<https://doi.org/10.1038/s41586-023-05881-4>.
-
-Panch, Trishan, Erin Duralde, Heather Mattie, Gopal Kotecha, Leo Anthony
-Celi, Melanie Wright, and Felix Greaves. 2022. “A Distributed Approach
-to the Regulation of Clinical AI.” *PLOS Digit. Health* 1 (5): e0000040.
-
-Peng, Y., S. Lee, D. C. Elton, T. Shen, Y. Tang, Q. Chen, S. Wang, Y.
-Zhu, R. M. Summers, and Z. Lu. 2020. “Automatic Recognition of Lymph
-Nodes from Clinical Text.” In *Proceedings of the 3rd Workshop on
-Clinical Natural Language Processing*.
-
-Perez, Alberto A., Victoria Noe-Kim, Meghan G. Lubner, Peter M. Graffy,
-John W. Garrett, Daniel C. Elton, Ronald M. Summers, and Perry J.
-Pickhardt. 2021. “Deep Learning CT-Based Quantitative Visualization Tool
-for Liver Volume Estimation: Defining Normal and Hepatomegaly.”
-*Radiology*, October. <https://doi.org/10.1148/radiol.2021210531>.
-
-Perez, Alberto A., Perry J. Pickhardt, Daniel C. Elton, Veit Sandfort,
-and Ronald M. Summers. 2020. “Fully Automated CT Imaging Biomarkers of
-Bone, Muscle, and Fat: Correcting for the Effect of Intravenous
-Contrast.” *Abdominal Radiology*, September.
-<https://doi.org/10.1007/s00261-020-02755-5>.
-
-Pickhardt, Perry J., Glen M. Blake, Peter M. Graffy, Veit Sandfort,
-Daniel C. Elton, Alberto A. Perez, and Ronald M. Summers. 2020. “Liver
-Steatosis Categorization on Contrast-Enhanced CT Using a Fully-Automated
-Deep Learning Volumetric Segmentation Tool: Evaluation in 1, 204 Heathy
-Adults Using Unenhanced CT as Reference Standard.” *American Journal of
-Roentgenology*, September. <https://doi.org/10.2214/ajr.20.24415>.
-
-Pickhardt, Perry J., Peter M. Graffy, Alberto A. Perez, Meghan G.
-Lubner, Daniel C. Elton, and Ronald M. Summers. 2021. “Opportunistic
-Screening at Abdominal CT: Use of Automated Body Composition Biomarkers
-for Added Cardiometabolic Value.” *RadioGraphics* 41 (2): 524–42.
-<https://doi.org/10.1148/rg.2021200056>.
-
-Raghu, Vineet K., Jakob Weiss, Udo Hoffmann, Hugo J. W. L. Aerts, and
-Michael T. Lu. 2021. “Deep Learning to Estimate Biological Age from
-Chest Radiographs.” *JACC: Cardiovascular Imaging*, March.
-<https://doi.org/10.1016/j.jcmg.2021.01.008>.
-
-Rod, Naja Hulvej, Theis Lange, Ingelise Andersen, Jacob Louis Marott,
-and Finn Diderichsen. 2012. “Additive Interaction in Survival Analysis:
-Use of the Additive Hazards Model.” *Epidemiology* 23 (5): 733–37.
-<https://doi.org/10.1097/ede.0b013e31825fa218>.
-
-Sethi, Anurag, Leland Taylor, J Graham Ruby, Jagadish Venkataraman,
-Elena Sorokin, Madeleine Cule, and Eugene Melamud. 2020. “Calcification
-of Abdominal Aorta Is a High Risk Underappreciated Cardiovascular
-Disease Factor in a General Population.” *medRxiv*.
-<https://doi.org/10.1101/2020.05.07.20094706>.
-
-Summers, Ronald M., Daniel C. Elton, Sungwon Lee, Yingying Zhu, Jiamin
-Liu, Mohammedhadi Bagheri, Veit Sandfort, et al. 2020. “Atherosclerotic
-Plaque Burden on Abdominal CT: Automated Assessment with Deep Learning
-on Noncontrast and Contrast-Enhanced Scans.” *Academic Radiology*,
-September. <https://doi.org/10.1016/j.acra.2020.08.022>.
-
-Tallam, Hima, Daniel C. Elton, Sungwon Lee, Paul Wakim, Perry J.
-Pickhardt, and Ronald M. Summers. 2022. “Fully Automated Abdominal CT
-Biomarkers for Type 2 Diabetes Using Deep Learning.” *Radiology* 304
-(1): 85–95. <https://doi.org/10.1148/radiol.211914>.
-
-Yan, Ke, Youbao Tang, Yifan Peng, Veit Sandfort, Mohammadhadi Bagheri,
-Zhiyong Lu, and Ronald M. Summers. 2019. “MULAN: Multitask Universal
-Lesion Analysis Network for Joint Lesion Detection, Tagging, and
-Segmentation.” In *Medical Image Computing and Computer Assisted
-Intervention - MICCAI 2019 - 22nd International Conference, Shenzhen,
-China, October 13-17, 2019, Proceedings, Part VI*, edited by Dinggang
-Shen, Tianming Liu, Terry M. Peters, Lawrence H. Staib, Caroline Essert,
-Sean Zhou, Pew-Thian Yap, and Ali R. Khan, 11769:194–202. Lecture Notes
-in Computer Science. Springer.
-
-Zhou, Hong-Yu, Subathra Adithan, Julián Nicolás Acosta, Eric J. Topol,
-and Pranav Rajpurkar. 2024. “A Generalist Learner for Multifaceted
-Medical Image Interpretation.” arXiv.
-<https://doi.org/10.48550/ARXIV.2405.07988>.
-
-Zhu, Yingying, Daniel C. Elton, Sungwon Lee, Perry J. Pickhardt, and
-Ronald M. Summers. 2020. “Image Translation by Latent Union of Subspaces
-for Cross-Domain Plaque Detection.” In *Proceedings of the 2020 Medical
-Imaging with Deep Learning (MIDL) Conference*.
-
-Zhu, Yingying, Youbao Tang, Yuxing Tang, Daniel C. Elton, Sungwon Lee,
-Perry J. Pickhardt, and Ronald M. Summers. 2020. “Cross-Domain Medical
-Image Translation by Shared Latent Gaussian Mixture Model.” In *Medical
-Image Computing and Computer Assisted Intervention MICCAI 2020*, 379–89.
-Springer International Publishing.
-<https://doi.org/10.1007/978-3-030-59713-9_37>.
+---
+id: 1917
+title: Research
+author: delton137
+layout: page
+permalink: /research/
+---
+
+See also [Google Scholar](https://scholar.google.com/citations?user=KG0pbOYAAAAJ)
+
+## Table of contents
+{: .no_toc}
+* TOC
+{:toc}
+
+# Artificial intelligence
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Applying Deutsch's concept of good explanations to artificial intelligence and neuroscience - An initial exploration</strong><br>**D. C. Elton**.<br> *Cognitive Systems Research*. **67** pgs 9--17. (2021)<br> [[.bib](../assets/my_papers/A_AI_general/2021_Elton_Deutsch_hard_to_vary.bib)]  [[link](https://doi.org/10.1016/j.cogsys.2020.12.002)]  [[arXiv](https://arxiv.org/abs/2012.09318)]  [[pdf](https://arxiv.org/pdf/2012.09318)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Common Pitfalls When Explaining AI and Why Mechanistic Explanation Is a Hard Problem</strong><br>**D. C. Elton**.<br> Chapter in *Proceedings of Sixth International Congress on Information and Communication Technology*. pgs 401--408. (2021)<br> [[.bib](../assets/my_papers/A_AI_general/2021_Elton_Common Pitfalls When Explaining AI.bib)]  [[link](https://doi.org/10.1007/978-981-16-2377-6_38)][[pdf](../assets/my_papers/A_AI_general/2021_Elton_Common Pitfalls When Explaining AI.pdf)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Self-explaining AI as an Alternative to Interpretable AI</strong><br>**D. C. Elton**.<br> Chapter in *Proceedings of the 13th Annual Conference on Artificial General Intelligence (AGI-2020)*. pgs 95-106. (2020)<br> [[.bib](../assets/my_papers/A_AI_general/2020_Elton_self_explaining_AI.bib)]  [[link](https://link.springer.com/chapter/10.1007/978-3-030-52152-3_10)]  [[arXiv](https://arxiv.org/abs/2002.05149)]  [[pdf](https://arxiv.org/pdf/2002.05149)]</span>
+
+# Machine learning for medical imaging
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Applying Artificial Intelligence to Quantify Body Composition on Abdominal CTs and Better Predict Kidney Transplantation Wait-List Mortality</strong><br>K. Yatim, G. T. Ribas, **D. C. Elton**, M. A. Rockenbach, A. A. Jurdi, P. J. Pickhardt, J. W. Garrett, K. J. Dreyer, B. C. Bizzo, L. V. Riella.<br> *Journal of the American College of Radiology*. **22** (3) pgs 332--341. (2025)<br> [[.bib](../assets/my_papers/B_AI_medical_imaging/2025_Yatim_JACR.bib)]  [[link](https://doi.org/10.1016/j.jacr.2025.01.004)][[pdf](../assets/my_papers/B_AI_medical_imaging/2025_Yatim_JACR.pdf)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Detection of abdominopelvic lymph nodes in multi-parametric MRI</strong><br>T. S. Mathai, T. C. Shen, **D. C. Elton**, S. Lee, Z. Lu, R. M. Summers.<br> *Computerized Medical Imaging and Graphics*. pgs 102363. (2024)<br> [[.bib](../assets/my_papers/B_AI_medical_imaging/2024_Mathai.bib)]  [[link](http://dx.doi.org/10.1016/j.compmedimag.2024.102363)][[pdf](../assets/my_papers/B_AI_medical_imaging/2024_Mathai.pdf)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>No-code machine learning in radiology: implementation and validation of a platform that allows clinicians to train their own models</strong><br>**D. C. Elton**, G. Dasegowda, J. Y. Sato, E. G. Frias, A. B. Mamonov, M. Walters, M. Ziemelis, T. J. Schultz, B. C. Bizzo, K. J. Dreyer, M. K. Kalra.<br> *medRxiv*. (2024)<br> [[.bib](../assets/my_papers/B_AI_medical_imaging/2024_Elton_nocode.bib)]  [[link](https://www.medrxiv.org/content/early/2024/04/26/2024.04.24.24306288)][[pdf](../assets/my_papers/B_AI_medical_imaging/2024_Elton_nocode.pdf)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>No code machine learning: validating the approach on use-case for classifying clavicle fractures</strong><br>G. Dasegowda, J. Y. Sato, **D. C. Elton**, E. Garza-Frias, T. Schultz, C. P. Bridge, B. Bizzo, M. K. Kalra, K. J. Dreyer..<br> *Clinical Imaging*. pgs 110207. (2024)<br> [[.bib](../assets/my_papers/B_AI_medical_imaging/2024_Dasegowda.bib)]  [[link](http://dx.doi.org/10.1016/j.clinimag.2024.110207)][[pdf](../assets/my_papers/B_AI_medical_imaging/2024_Dasegowda.pdf)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Fully Automated Longitudinal Assessment of Renal Stone Burden on Serial CT Imaging Using Deep Learning</strong><br>P. Mukherjee, S. Lee, **D. C. Elton**, S. Y. Nakada, P. J. Pickhardt, R. Summers.<br> *Journal of Endourology*. **37** pgs 948-955. (2023)<br> [[.bib](../assets/my_papers/B_AI_medical_imaging/2023_Mukherjee_serial_renal_stones_tracking.bib)]  [[link](https://doi.org/10.1089/end.2023.0066)][[pdf](../assets/my_papers/B_AI_medical_imaging/2023_Mukherjee_serial_renal_stones_tracking.pdf)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Longitudinal follow-up of incidental renal calculi on computed tomography</strong><br>P. Mukherjee, S. Lee, **D. C. Elton**, P. J. Pickhardt, R. M. Summers.<br> *Abdominal Radiology*. (2023)<br> [[.bib](../assets/my_papers/B_AI_medical_imaging/2023_Mukherjee_Longitudinal follow-up of incidental renal calculi on CT.bib)]  [[link](https://doi.org/10.1007/s00261-023-04075-w)][[pdf](../assets/my_papers/B_AI_medical_imaging/2023_Mukherjee_Longitudinal follow-up of incidental renal calculi on CT.pdf)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Universal detection and segmentation of lymph nodes in multi-parametric MRI</strong><br>T. S. Mathai, S. Lee, T. C. Shen, D. Elton, Z. Lu, R. M. Summers.<br> *International Journal of Computer Assisted Radiology and Surgery*. (2023)<br> [[.bib](../assets/my_papers/B_AI_medical_imaging/2023_Matthai_Universal detection and segmentation of lymph nodes.bib)]  [[link](https://doi.org/10.1007/s11548-023-02954-7)][[pdf](../assets/my_papers/B_AI_medical_imaging/2023_Matthai_Universal detection and segmentation of lymph nodes.pdf)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>A deep learning system for automated kidney stone detection and volumetric segmentation on non-contrast CT scans</strong><br>**D. C. Elton**, E. B. Turkbey, P. J. Pickhardt, R. M. Summers.<br> *Medical Physics*. **49** (4) pgs 2545-2554. (2022)<br> [[.bib](../assets/my_papers/B_AI_medical_imaging/2022_Z_Elton_Medical_Physics_kidney_stone_detector.bib)]  [[link](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.15518)][[pdf](../assets/my_papers/B_AI_medical_imaging/2022_Z_Elton_Medical_Physics_kidney_stone_detector.pdf)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Global-Local Attention Network with Multi-task Uncertainty Loss for Abnormal Lymph Node Detection in MR Images</strong><br>S. Wang, Y. Zhu, S. Lee, **D. C. Elton**, T. C. Shen, Y. Tang, Y. Peng, Z. Lu, R. M. Summers.<br> *Medical Image Analysis*. pgs 102345. (2022)<br> [[.bib](../assets/my_papers/B_AI_medical_imaging/2022_Wang_MIA_lymph.bib)]  [[link](https://www.sciencedirect.com/science/article/pii/S136184152100390X)][[pdf](../assets/my_papers/B_AI_medical_imaging/2022_Wang_MIA_lymph.pdf)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Lymph node detection in T2 MRI with transformers</strong><br>T. S. Mathai, S. Lee, **D. C. Elton**, T. C. Shen, Y. Peng, Z. Lu, R. M. Summers.<br> Chapter in *Medical Imaging 2022: Computer-Aided Diagnosis*. **12033** pgs 120333B. (2022)<br> [[.bib](../assets/my_papers/B_AI_medical_imaging/2022_Tejas_SPIE_Transformers.bib)]  [[link](https://doi.org/10.1117/12.2613273)]  [[arXiv](https://arxiv.org/abs/2111.04885)][[pdf](../assets/my_papers/B_AI_medical_imaging/2022_Tejas_SPIE_Transformers.pdf)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Fully Automated Abdominal CT Biomarkers for Type 2 Diabetes Using Deep Learning</strong><br>H. Tallam, **D. C. Elton**, S. Lee, P. Wakim, P. J. Pickhardt, R. M. Summers.<br> *Radiology*. **304** (1) pgs 85-95. (2022)<br> [[.bib](../assets/my_papers/B_AI_medical_imaging/2022_Tallam_Elton_Summer_CT_biomarkers_pancreas_diabetes.bib)]  [[link](
+https://doi.org/10.1148/radiol.211914
+)][[pdf](../assets/my_papers/B_AI_medical_imaging/2022_Tallam_Elton_Summer_CT_biomarkers_pancreas_diabetes.pdf)][[supplementary info](../assets/my_papers/B_AI_medical_imaging/2022_Tallam_Elton_Summer_CT_biomarkers_pancreas_diabetes_supplementary_info.pdf)]  [[Press Release](https://web.archive.org/web/20221002042411/https://press.rsna.org/timssnet/media/pressreleases/14_pr_target.cfm?ID=2338)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Assessment of Aortoiliac Atherosclerotic Plaque on CT in Prostate Cancer Patients Undergoing Treatment</strong><br>S. Lee, **D. C. Elton**, J. L. Gulley, P. J. Pickhardt, W. L. Dahut, R. A. Madan, P. A. Pinto, D. E. Citrin, R. M. Summers.<br> *Tomography*. **8** (2) pgs 607--616. (2022)<br> [[.bib](../assets/my_papers/B_AI_medical_imaging/2022_Lee_aortoiliac_atherosclerotic_plaque_and_prostate_cancer.bib)]  [[link](https://www.mdpi.com/2379-139X/8/2/50)][[pdf](../assets/my_papers/B_AI_medical_imaging/2022_Lee_aortoiliac_atherosclerotic_plaque_and_prostate_cancer.pdf)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Fully Automated and Explainable Liver Segmental Volume Ratio and Spleen Segmentation in CT for Diagnosing Cirrhosis</strong><br>S. Lee, **D. C. Elton**, A. H. Yang, C. Koh, D. E. Kleiner, M. G. Lubner, P. J. Pickhardt, R. M. Summers.<br> *Radiology: Artificial Intelligence*. **4** (5) pgs e210268. (2022)<br> [[.bib](../assets/my_papers/B_AI_medical_imaging/2022_Lee_Elton_LSVR.bib)]  [[link](
+https://doi.org/10.1148/ryai.210268)][[pdf](../assets/my_papers/B_AI_medical_imaging/2022_Lee_Elton_LSVR.pdf)][[supplementary info](../assets/my_papers/B_AI_medical_imaging/2022_Lee_Elton_LSVR_supplementary_info.pdf)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Cardiovascular disease and all-cause mortality risk prediction from abdominal CT using deep learning</strong><br>**D. C. Elton**, A. Chen, P. J. Pickhardt, R. M. Summers.<br> Chapter in *Medical Imaging 2022: Computer-Aided Diagnosis*. (2022)<br> [[.bib](../assets/my_papers/B_AI_medical_imaging/2022_Elton_risk_prediction.bib)]  [[link](https://doi.org/10.1117/12.2612620)]  [[medRxiv](https://www.medrxiv.org/content/early/2021/09/02/2021.08.30.21262686)][[pdf](../assets/my_papers/B_AI_medical_imaging/2022_Elton_risk_prediction.pdf)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Learning Structure from Visual Semantic Features and Radiology Ontology for Lymph Node Classification on MRI</strong><br>Y. Zhu, S. Wang, Q. Chen, S. Lee, T. Shen, **D. C. Elton**, Z. Lu, R. M. Summers.<br> Chapter in *Machine Learning in Medical Imaging*. pgs 101--109. (2021)<br> [[.bib](../assets/my_papers/B_AI_medical_imaging/2021_Zhu_Learning Structure from Visual Semantic.bib)]  [[link](https://doi.org/10.1007/978-3-030-87589-3_11)][[pdf](../assets/my_papers/B_AI_medical_imaging/2021_Zhu_Learning Structure from Visual Semantic.pdf)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Opportunistic Screening at Abdominal CT: Use of Automated Body Composition Biomarkers for Added Cardiometabolic Value</strong><br>P. J. Pickhardt, P. M. Graffy, A. A. Perez, M. G. Lubner, **D. C. Elton**, R. M. Summers.<br> *RadioGraphics*. **41** (2) pgs 524--542. (2021)<br> [[.bib](../assets/my_papers/B_AI_medical_imaging/2021_Pickhardt_Elton_Summers_Automated_biomarkers_in_CT_Radiographics.bib)]  [[link](https://doi.org/10.1148/rg.2021200056)][[pdf](../assets/my_papers/B_AI_medical_imaging/2021_Pickhardt_Elton_Summers_Automated_biomarkers_in_CT_Radiographics.pdf)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Deep Learning CT-based Quantitative Visualization Tool for Liver Volume Estimation: Defining Normal and Hepatomegaly</strong><br>A. A. Perez, V. Noe-Kim, M. G. Lubner, P. M. Graffy, J. W. Garrett, **D. C. Elton**, R. M. Summers, P. J. Pickhardt.<br> *Radiology*. **302** (2) pgs 336--342. (2022)<br> [[.bib](../assets/my_papers/B_AI_medical_imaging/2021_Perez_liver_volume.bib)]  [[link](https://doi.org/10.1148/radiol.2021210531)][[pdf](../assets/my_papers/B_AI_medical_imaging/2021_Perez_liver_volume.pdf)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Detection of Lymph Nodes in T2 MRI Using Neural Network Ensembles</strong><br>T. S. Mathai, S. Lee, **D. C. Elton**, T. C. Shen, Y. Peng, Z. Lu, R. M. Summers.<br> Chapter in *Machine Learning in Medical Imaging*. pgs 682--691. (2021)<br> [[.bib](../assets/my_papers/B_AI_medical_imaging/2021_Mathai_Detection of Lymph Nodes in T2 MRI.bib)]  [[link](https://doi.org/10.1007/978-3-030-87589-3_70)][[pdf](../assets/my_papers/B_AI_medical_imaging/2021_Mathai_Detection of Lymph Nodes in T2 MRI.pdf)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Liver Steatosis Categorization on Contrast-Enhanced CT Using a Fully Automated Deep Learning Volumetric Segmentation Tool: Evaluation in 1204 Healthy Adults Using Unenhanced CT as a Reference Standard</strong><br>P. J. Pickhardt, G. M. Blake, P. M. Graffy, V. Sandfort, **D. C. Elton**, A. A. Perez, R. M. Summers.<br> *American Journal of Roentgenology*. **217** (2) pgs 359--367. (2021)<br> [[.bib](../assets/my_papers/B_AI_medical_imaging/2021_Liver_steatosis_categorization_AJR.bib)]  [[link](https://doi.org/10.2214/ajr.20.24415)][[pdf](../assets/my_papers/B_AI_medical_imaging/2021_Liver_steatosis_categorization_AJR.pdf)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Image Translation by Latent Union of Subspaces for Cross-Domain Plaque Detection</strong><br>Y. Zhu, **D. C. Elton**, S. Lee, P. J. Pickhardt, R. M. Summers.<br> *Proceedings of the 2020 Medical Imaging with Deep Learning (MIDL) Conference*. (2020)<br> [[.bib](../assets/my_papers/B_AI_medical_imaging/2020_Zhu_MIDL_UNIT_plaque.bib)]  [[arXiv](https://arxiv.org/abs/2005.11384)][[pdf](../assets/my_papers/B_AI_medical_imaging/2020_Zhu_MIDL_UNIT_plaque.pdf)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Cross-domain Medical Image Translation by Shared Latent Gaussian Mixture Model</strong><br>Y. Zhu, Y. Tang, Y. Tang, **D. C. Elton**, S. Lee, P. J. Pickhardt, R. M. Summers.<br> Chapter in *Medical Image Computing and Computer Assisted Intervention (MICCAI) 2020*. pgs 379--389. (2020)<br> [[.bib](../assets/my_papers/B_AI_medical_imaging/2020_Zhu_MICCAI_UNIT_image_translation.bib)]  [[link](https://doi.org/10.1007/978-3-030-59713-9_37)][[pdf](../assets/my_papers/B_AI_medical_imaging/2020_Zhu_MICCAI_UNIT_image_translation.pdf)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Deep Small Bowel Segmentation with Cylindrical Topological Constraints</strong><br>S. Y. Shin, S. Lee, **D. C. Elton**, J. L. Gulley, R. M. Summers.<br> Chapter in *Medical Image Computing and Computer Assisted Intervention (MICCAI)*. pgs 207--215. (2020)<br> [[.bib](../assets/my_papers/B_AI_medical_imaging/2020_Shin_Deep_Small_Bowel_Topology.bib)]  [[link](https://doi.org/10.1007/978-3-030-59719-1_21)][[pdf](../assets/my_papers/B_AI_medical_imaging/2020_Shin_Deep_Small_Bowel_Topology.pdf)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Automatic recognition of abdominal lymph nodes from clinical text</strong><br>Y. Peng, S. Lee, **D. C. Elton**, T. Shen, Y. Tang, Q. Chen, S. Wang, Y. Zhu, R. M. Summers, Z. Lu.<br> Chapter in *Proceedings of the 3rd Clinical Natural Language Processing Workshop*. pgs 101--110. (2020)<br> [[.bib](../assets/my_papers/B_AI_medical_imaging/2020_Peng_NLP.bib)]  [[link](https://aclanthology.org/2020.clinicalnlp-1.12)][[pdf](../assets/my_papers/B_AI_medical_imaging/2020_Peng_NLP.pdf)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Atherosclerotic Plaque Burden on Abdominal CT: Automated Assessment With Deep Learning on Noncontrast and Contrast-enhanced Scans</strong><br>R. M. Summers, **D. C. Elton**, S. Lee, Y. Zhu, J. Liu, M. Bagheri, V. Sandfort, P. C. Grayson, P. C. Grayson, P. A. Pinto, W. M. Linehan, A. A. Perez, P. M. Graffy, S. D. O'Connor, P. J. Pickhardt.<br> *Academic Radiology*. (2020)<br> [[.bib](../assets/my_papers/B_AI_medical_imaging/2020_Elton_plaque_detector_Academic_Radiology.bib)]  [[link](https://doi.org/10.1016/j.acra.2020.08.022)][[pdf](../assets/my_papers/B_AI_medical_imaging/2020_Elton_plaque_detector_Academic_Radiology.pdf)][[supplementary info](../assets/my_papers/B_AI_medical_imaging/2020_Elton_plaque_detector_Academic_Radiology_supplementary_info.pdf)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Fully automated CT imaging biomarkers of bone, muscle, and fat: correcting for the effect of intravenous contrast</strong><br>A. A. Perez, P. J. Pickhardt, **D. C. Elton**, V. Sandfort, R. M. Summers.<br> *Abdominal Radiology*. **46** (3) pgs 1229--1235. (2020)<br> [[.bib](../assets/my_papers/B_AI_medical_imaging/2020_Elton_Con_Noncon_Fully_Automated_biomarkers_Abdominal_Radiology.bib)]  [[link](https://doi.org/10.1007/s00261-020-02755-5)][[pdf](../assets/my_papers/B_AI_medical_imaging/2020_Elton_Con_Noncon_Fully_Automated_biomarkers_Abdominal_Radiology.pdf)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Accurately identifying vertebral levels in large datasets</strong><br>**D. C. Elton**, V. Sandfort, P. J. Pickhardt, R. M. Summers.<br> Chapter in *Medical Imaging 2020: Computer-Aided Diagnosis*. (2020)<br> [[.bib](../assets/my_papers/B_AI_medical_imaging/2019_Elton_vertebral_levels_SPIE.bib)]  [[link](https://doi.org/10.1117/12.2551247)]  [[arXiv](https://arxiv.org/abs/2001.10503)][[pdf](../assets/my_papers/B_AI_medical_imaging/2019_Elton_vertebral_levels_SPIE.pdf)]</span>
+
+# Machine learning for molecular design
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Independent Vector Analysis for Data Fusion Prior to Molecular Property Prediction with Machine Learning</strong><br>Z. Boukouvalas, M. Puerto, **D. C. Elton**, P. W. Chung, M. D. Fuge.<br> *Proceedings of the 28th European Signal Processing Conference (EUSIPCO 2020)*. (2018)<br> [[.bib](../assets/my_papers/C_AI_molecular_design/2020_Boukouvalas_IVA.bib)]  [[arXiv](https://arxiv.org/abs/1811.00628)][[pdf](../assets/my_papers/C_AI_molecular_design/2020_Boukouvalas_IVA.pdf)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Using natural language processing techniques to extract information on the properties and functionalities of energetic materials from large text corpora</strong><br>**D. C. Elton**, D. Turakhia, N. Reddy, Z. Boukouvalas, R. M. Doherty, M. D. Fuge, P. W. Chung.<br> *Proceedings of the 22nd International Seminar on New Trends in Research of Energetic Materials*. (2019)<br> [[.bib](../assets/my_papers/C_AI_molecular_design/2019_Elton_NLP.bib)]  [[arXiv](https://arxiv.org/abs/1903.00415)]  [[pdf](https://arxiv.org/pdf/1903.00415)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Deep learning for molecular design - a review of the state of the art</strong><br>**D. C. Elton**, Z. Boukouvalas, M. D. Fuge, P. W. Chung.<br> *Molecular Systems Design & Engineering*. **4** (4) pgs 828--849. (2019)<br> [[.bib](../assets/my_papers/C_AI_molecular_design/2019_Elton_MolecularDesign.bib)]  [[link](https://doi.org/10.1039/c9me00039a)]  [[arXiv](https://arxiv.org/abs/1903.04388)][[pdf](../assets/my_papers/C_AI_molecular_design/2019_Elton_MolecularDesign.pdf)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Applying machine learning techniques to predict the properties of energetic materials</strong><br>**D. C. Elton**, Z. Boukouvalas, M. S. Butrico, M. D. Fuge, P. W. Chung.<br> *Scientific Reports*. **8** (1) (2018)<br> [[.bib](../assets/my_papers/C_AI_molecular_design/2018_Elton_SciRep.bib)]  [[link](https://doi.org/10.1038/s41598-018-27344-x)]  [[arXiv](https://arxiv.org/abs/1801.04900)][[pdf](../assets/my_papers/C_AI_molecular_design/2018_Elton_SciRep.pdf)][[supplementary info](../assets/my_papers/C_AI_molecular_design/2018_Elton_SciRep_supplementary_info.pdf)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Machine Learning of Energetic Material Properties</strong><br>B. C. Barnes, **D. C. Elton**, Z. Boukouvalas, D. E. Taylor, W. D. Mattson, M. D. Fuge, P. W. Chung.<br> *Proceedings of the 22nd International Seminar on New Trends in Research of Energetic Materials*. (2018)<br> [[.bib](../assets/my_papers/C_AI_molecular_design/2018_Barnes.bib)]  [[arXiv](https://arxiv.org/abs/1807.06156)]  [[pdf](https://arxiv.org/pdf/1807.06156)]</span>
+
+# Physics of detonation
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Phonon Lifetimes and Thermal Conductivity of the Molecular Crystal α-RDX</strong><br>G. Kumar, F. G. V. Gessel, **D. C. Elton**, P. W. Chung.<br> *MRS Advances*. **4** (40) pgs 2191--2199. (2019)<br> [[.bib](../assets/my_papers/D_Physics_energetic_materials/2019_Kumar_MRS_paper.bib)]  [[link](https://doi.org/10.1557/adv.2019.278)][[pdf](../assets/my_papers/D_Physics_energetic_materials/2019_Kumar_MRS_paper.pdf)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>A Phonon Boltzmann Study of Microscale Thermal Transport in α-RDX Cook-Off</strong><br>F. G. VanGessel, G. Kumar, **D. C. Elton**, P. W. Chung.<br> *Proceedings of the 22nd International Seminar on New Trends in Research of Energetic Materials*. (2018)<br> [[.bib](../assets/my_papers/D_Physics_energetic_materials/2018_vanGessel.bib)]  [[arXiv](https://arxiv.org/abs/1808.08295)]  [[pdf](https://arxiv.org/pdf/1808.08295)]</span>
+
+# Physics of water
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Pathological Water Science - Four Examples and What They Have in Common</strong><br>**D. C. Elton**, P. D. Spencer.<br> Chapter in *Biologically-Inspired Systems*. pgs 155--169. (2021)<br> [[.bib](../assets/my_papers/E_Physics_water/2021_Elton_Spencer_Pathological_Water_Science_four_examples.bib)]  [[link](https://doi.org/10.1007/978-3-030-67227-0_8)]  [[arXiv](https://arxiv.org/abs/2010.07287)][[pdf](../assets/my_papers/E_Physics_water/2021_Elton_Spencer_Pathological_Water_Science_four_examples.pdf)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Exclusion Zone Phenomena in Water - A Critical Review of Experimental Findings and Theories</strong><br>**D. C. Elton**, P. D. Spencer, J. D. Riches, E. D. Williams.<br> *International Journal of Molecular Sciences*. **21** (14) pgs 5041. (2020)<br> [[.bib](../assets/my_papers/E_Physics_water/2020_1_Elton_EZWater_review.bib)]  [[link](https://doi.org/10.3390/ijms21145041)]  [[arXiv](https://arxiv.org/abs/1909.06822)]  [[pdf](https://arxiv.org/pdf/1909.06822)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Using a monomer potential energy surface to perform approximate path integral molecular dynamics simulation of ab initio water at near-zero added cost</strong><br>**D. C. Elton**, M. Fritz, M. Fernández-Serra.<br> *Physical Chemistry Chemical Physics*. **21** (1) pgs 409--417. (2019)<br> [[.bib](../assets/my_papers/E_Physics_water/2019_Elton_PIMD.bib)]  [[link](https://doi.org/10.1039/c8cp06077k)]  [[arXiv](https://arxiv.org/abs/1803.05740)][[pdf](../assets/my_papers/E_Physics_water/2019_Elton_PIMD.pdf)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>The origin of the Debye relaxation in liquid water and fitting the high frequency excess response</strong><br>**D. C. Elton**.<br> *Physical Chemistry Chemical Physics*. **19** (28) pgs 18739--18749. (2017)<br> [[.bib](../assets/my_papers/E_Physics_water/2017_Elton_Debye_relaxation_paper.bib)]  [[link](https://doi.org/10.1039/c7cp02884a)]  [[arXiv](https://arxiv.org/abs/1704.01667)][[pdf](../assets/my_papers/E_Physics_water/2017_Elton_Debye_relaxation_paper.pdf)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>The hydrogen-bond network of water supports propagating optical phonon-like modes</strong><br>**D. C. Elton**, M. Fernández-Serra.<br> *Nature Communications*. **7** (1) (2016)<br> [[.bib](../assets/my_papers/E_Physics_water/2016_Elton_Nature_Comm_water_phonons.bib)]  [[link](https://doi.org/10.1038/ncomms10193)]  [[arXiv](https://arxiv.org/abs/1507.06363)][[pdf](../assets/my_papers/E_Physics_water/2016_Elton_Nature_Comm_water_phonons.pdf)][[supplementary info](../assets/my_papers/E_Physics_water/2016_Elton_Nature_Comm_water_phonons_supplementary_info.pdf)]  [[Press Release](https://phys.org/news/2016-01-ice-like-phonons-liquid.html)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Polar nanoregions in water: A study of the dielectric properties of TIP4P/2005,  TIP4P/2005f and TTM3F</strong><br>**D. C. Elton**, M. Fernández-Serra.<br> *The Journal of Chemical Physics*. **140** (12) pgs 124504. (2014)<br> [[.bib](../assets/my_papers/E_Physics_water/2014_Elton_JCP_Water_dielectric.bib)]  [[link](https://doi.org/10.1063/1.4869110)]  [[arXiv](https://arxiv.org/abs/1401.5090)][[pdf](../assets/my_papers/E_Physics_water/2014_Elton_JCP_Water_dielectric.pdf)]</span>
+
+# Physics of turbulence
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Using Third-Order Moments of Fluctuations in V and B to Determine Turbulent Heating Rates in the Solar Wind</strong><br>M. A. Forman, C. W. Smith, B. J. Vasquez, B. T. MacBride, J. E. Stawarz, J. J. Podesta, **D. C. Elton**, U. Y. Malecot, Y. Gagne, M. Maksimovic, K. Issautier, N. Meyer-Vernet, M. Moncuquet, F. Pantellini.<br> Chapter in *AIP Conference Proceedings 1216, 12th International Solar Wind Conference, 176 (2010)*. (2010)<br> [[.bib](../assets/my_papers/F_other/2010_Forman_AIP_conf.bib)]  [[link](https://doi.org/10.1063/1.3395830)][[pdf](../assets/my_papers/F_other/2010_Forman_AIP_conf.pdf)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Accurate estimation of third-order moments from turbulence measurements</strong><br>J. J. Podesta, M. A. Forman, C. W. Smith, **D. C. Elton**, Y. Malécot, Y. Gagne.<br> *Nonlinear Processes in Geophysics*. **16** (1) pgs 99--110. (2009)<br> [[.bib](../assets/my_papers/F_other/2009_Podesta.bib)]  [[link](https://doi.org/10.5194/npg-16-99-2009)][[pdf](../assets/my_papers/F_other/2009_Podesta.pdf)]</span>
+
+# Preprints
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Benchmarking open-source tools for in silico antiviral drug discovery</strong><br>**D. C. Elton**, P. W. Estep.<br> *arXiv*. (2026)<br> [[.bib](../assets/my_papers/G_preprints/2026_Elton.bib)]  [[link](https://arxiv.org/abs/2605.04265)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>AI-driven credibility profiling of real-world patient experiences suggests overlooked kidney stone therapies warrant further investigation</strong><br>A. P. Hinojosa, **D. C. Elton**, A. Gómez-Emilsson.<br> *Research Square*. (2026)<br> [[.bib](../assets/my_papers/G_preprints/2026_Chanca_piedra_paper.bib)]  [[link](http://dx.doi.org/10.21203/rs.3.rs-9388837/v1)][[pdf](../assets/my_papers/G_preprints/2026_Chanca_piedra_paper.pdf)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Conformal Triage for Medical Imaging AI Deployment</strong><br>A. N. Angelopoulos, S. R. Pomerantz, S. Do, S. Bates, C. P. Bridge, **D. C. Elton**, M. H. Lev, R. G. Gonzalez, M. I. Jordan, J. Malik.<br> *medRxiv*. (2024)<br> [[.bib](../assets/my_papers/G_preprints/2024_Angelopoulos2024.bib)]  [[medRxiv](https://www.medrxiv.org/content/early/2024/02/11/2024.02.09.24302543)]</span>
+
+<span style="font-size:0.9em; font-family: helvetica;"><strong>Induction, Popper, and machine learning</strong><br>(See also this [critique by Vaden Masrani](https://vmasrani.github.io/blog/2021/problem-of-induction/), which I agree with.)<br>B. Nielson, **D. C. Elton**.<br> *arXiv*. (2021)<br> [[.bib](../assets/my_papers/G_preprints/2021_Nielson.bib)]  [[arXiv](https://arxiv.org/abs/2110.00840)]  [[pdf](https://arxiv.org/pdf/2110.00840)]</span>
+
+
+# Selected Abstracts
+<span style="font-size:0.9em; font-family: helvetica;">
+<strong>Automated Deep Learning Diagnosis of Hepatic Steatosis on CT Scans Reveals Underreporting by Radiologists</strong><br>
+D. Yardeni, T. C. Shen, D. C. Elton, S. Lee, R. M. Summers, Y. Rotman. *The Liver Meeting*, 2022. <br> [[link](https://aasldpubs.onlinelibrary.wiley.com/doi/10.1002/hep.32697)][[pdf](../assets/my_papers/B_AI_medical_imaging/2022_Yardeni_Hepatology_abstract.pdf)]
+</span>
+
+<img class="alignright" src="/wp-content/uploads/2015/09/waterbinding2-300x204.png" alt="atom in a clathrate-like cage" width="100" height="70" srcset="/wp-content/uploads/2015/09/waterbinding2-300x204.png 300w, /wp-content/uploads/2015/09/waterbinding2-768x523.png 768w, /wp-content/uploads/2015/09/waterbinding2-1024x698.png 1024w, /wp-content/uploads/2015/09/waterbinding2-1200x818.png 1200w, /wp-content/uploads/2015/09/waterbinding2.png 1573w" sizes="(max-width: 199px) 100vw, 199px" />
+# Ph.D. Thesis
+* [Understanding the Dielectric Properties of Water](/wp-content/uploads/2014/11/Daniel_Elton_Thesis_Final_Copy.pdf) (11 Mb PDF)
+{: style="font-size:0.9em; font-family: helvetica;"}
+
+# Old science notes
+* [Notes on GAN objective functions](/assets/science_notes/notes_on_GAN_objective_functions.pdf) (2018)
+* [Relation of crystal shape & structure to LO-TO splitting](/wp-content/uploads/2015/08/loto1.pdf) (2015)
+* [Elementary theory of solvation](/wp-content/uploads/2015/08/solvation4.pdf) (2015)
+* [Energy Barriers and Rates &#8211; Transition State Theory for Physicists](/wp-content/uploads/2015/07/transition_state_theory_dan_elton1.pdf) (2013)
+* [Stretched Exponential Relaxation](/wp-content/uploads/2015/07/stretched.pdf) (2013)
+* [Foundations of Quantum Mechanics & Quantum Computing](/wp-content/uploads/2015/07/foundations-of-qm_dan-elton.pdf) (2012)
+* [Hydrogen bond network analysis for TIP4P water](/wp-content/uploads/2015/07/hydrogen_bond_network_analysis_dan_elton.pdf) (2012)
+* [Maxwell&#8217;s equations in different conventions](/wp-content/uploads/2015/07/maxwells-equations-dan-elton.pdf) (2011)
+* [Some errata for _Geometry, Topology, & Physics_ by M. Nakahara](/wp-content/uploads/2015/08/Nakahara_Errata.pdf) (2011)
+* [Equations for the Physics GRE](/assets/science_notes/physics_GRE_equations.pdf) (2010)
+{: style="font-size:0.9em; font-family: helvetica;"}
