@@ -1,37 +1,431 @@
 ---
-layout: homepage
+layout: null
 ---
-<div class="home">	
-    <img src="/assets/Dan_Elton_Star_Trek_Enterprise_cropped.jpg" srcset="/assets/Dan_Elton_Star_Trek_Enterprise_cropped_650w.jpg 650w, /assets/Dan_Elton_Star_Trek_Enterprise_cropped.jpg 1669w" sizes="325px" alt="Dan Elton in a Star Trek uniform on the bridge of the Enterprise" style="float:right;width:325px;height:auto;margin-left:15px;margin-bottom:5px;margin-top:5px;">
-	<p>Hello, welcome to my homepage. I am a Scientist at <a href="http://radvac.org/">RaDVaC</a> working on open source AI for antiviral drug discovery. I am also the founder of <a href="http://metascienceobservatory.org/">The Metascience Observatory</a>, and a Fellow in AI at the Foresight Institute. </p> 
-	<p>On <a href="https://moreisdifferent.blog/">my Substack</a> I write about metascience, scitech progress, AI, and other topics. </p>
-	<p>I graduated with a Ph.D. in physics in 2016, and my physics training laid the foundation for how I approach understanding AI, biology, and other topics.</p>
-    <p>Feel free to email me at dan ατ mindfirst.foundation. You can also leave anonymous feedback <a href="https://admonymous.co/delton137">here</a>.</p>
-	<p>You can download my <a href="/assets/Daniel_Elton_resume.pdf">one-page resume here</a> and my <a href="/assets/Daniel_Elton_CV.pdf">full CV here</a>.  </p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Dan Elton</title>
+  <meta name="description" content="Dan Elton — scientist and builder working across biosecurity, AI safety, genetics, and human longevity.">
+  <link rel="canonical" href="https://www.moreisdifferent.com/">
 
-	<p>Here's where you can find me on social media and other assorted websites:</p>
-    <a href="https://twitter.com/moreisdifferent">Twitter/X</a><br />
-	<a href="https://substack.com/@moreisdifferent">Substack</a><br />
-    <a href="https://www.linkedin.com/in/danielelton/">LinkedIn</a><br />
-	<a href="https://bsky.app/profile/delton.bsky.social">Bluesky</a><br /> 
-	<a href="https://mastodon.social/@delton">Mastodon</a><br />
-	<a href="https://www.threads.net/@delton137">Threads</a><br /> 
-	<a href="https://www.facebook.com/Daniel.Elton">Facebook</a><br /> 
-	<a href="https://warpcast.com/delton">Farcaster/Warpcast</a><br /> 
-    <a href="https://www.reddit.com/user/delton">Reddit</a><br /> 
-	<a href="https://scholar.google.com/citations?user=KG0pbOYAAAAJ&amp;hl=en">Google Scholar</a><br />
-    <a href="https://www.lesswrong.com/users/delton137">Less Wrong</a><br /> 
-	<a href="https://www.quora.com/profile/Dan-Elton">Quora</a><br />  
-    <a href="https://github.com/delton137">GitHub</a><br />
-    <a href="https://www.goodreads.com/user/show/19373916-dan-elton">Goodreads</a> 
-	<a href="http://www.researchgate.net/profile/Daniel_Elton">ResearchGate</a><br />
-<!--    <a href="http://en.wikipedia.org/wiki/User:Danski14">Wikipedia</a><br /> -->
-<!-- 	<a href="https://loop.frontiersin.org/people/294928/overview">Loop</a><br /> -->
-<!--     <a href="https://profiles.impactstory.org/u/0000-0003-0249-1387">Impactstory</a><br /> -->
-<!-- 	<a href="https://www.webofscience.com/wos/author/record/L-4451-2017">Web of Science</a><br />-->
-<!--    <a href="https://www.semanticscholar.org/author/D.-Elton/31838510">Semantic Scholar</a><br /> -->
-<!--     <a href="https://dblp.org/pid/230/4553.html">DBLP</a><br /> -->
-<!-- 	<a href="http://www.kaggle.com/danielelton">Kaggle</a><br />-->
-<!--    <a href="https://www.slideshare.net/DanielElton2">SlideShare</a><br /> -->
-	<br>
-</div>
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.moreisdifferent.com/">
+  <meta property="og:title" content="Dan Elton">
+  <meta property="og:description" content="Scientist and builder working across biosecurity, AI safety, genetics, and human longevity.">
+  <meta property="og:image" content="https://www.moreisdifferent.com/assets/Dan_Elton_Star_Trek_Enterprise_cropped_650w.jpg">
+
+  <link rel="alternate" type="application/rss+xml" title="Dan Elton" href="https://www.moreisdifferent.com/feed.xml">
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Titillium+Web:wght@400;600;700&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      --accent: #0a6cff;
+      --ink: #14181f;
+      --muted: #5b6573;
+      --line: #e6e9ef;
+      --surface: #ffffff;
+      --bg: #fbfcfe;
+      --radius: 14px;
+      --maxw: 1060px;
+    }
+
+    * { box-sizing: border-box; }
+
+    html { -webkit-text-size-adjust: 100%; }
+
+    body {
+      margin: 0;
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      color: var(--ink);
+      background: var(--bg);
+      line-height: 1.55;
+      font-size: 17px;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    .wrap {
+      max-width: var(--maxw);
+      margin: 0 auto;
+      padding: 0 24px;
+    }
+
+    /* ---------- Hero ---------- */
+    .hero { padding: 64px 0 40px; }
+    .hero-grid {
+      display: grid;
+      grid-template-columns: 1fr 300px;
+      gap: 48px;
+      align-items: center;
+    }
+    .eyebrow {
+      font-size: 13px;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin: 0 0 14px;
+    }
+    .hero h1 {
+      margin: 0 0 16px;
+      font-size: 46px;
+      line-height: 1.08;
+      letter-spacing: -0.03em;
+      font-weight: 500;
+      font-family: 'Titillium Web', sans-serif;
+    }
+    .hero .lede {
+      font-size: 19px;
+      color: var(--muted);
+      margin: 0 0 22px;
+      max-width: 38ch;
+    }
+    .hero .bio {
+      font-size: 16px;
+      color: var(--muted);
+      margin: 0 0 26px;
+      max-width: 52ch;
+    }
+    .hero-photo {
+      overflow: hidden;
+      border-radius: var(--radius);
+      box-shadow: 0 8px 30px rgba(20,24,31,0.10);
+    }
+    .hero-photo img {
+      width: 100%;
+      height: auto;
+      display: block;
+      transform: scale(1.12);
+    }
+
+    /* ---------- Social row ---------- */
+    .social {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+    .social a {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 40px;
+      height: 40px;
+      border: 1px solid var(--line);
+      border-radius: 50%;
+      background: var(--surface);
+      color: var(--muted);
+      transition: border-color .15s, color .15s, transform .15s;
+    }
+    .social a:hover {
+      color: var(--ink);
+      border-color: #c7cdd8;
+      text-decoration: none;
+      transform: translateY(-1px);
+    }
+    .social svg { width: 16px; height: 16px; fill: currentColor; }
+
+    /* ---------- Section heading ---------- */
+    .section { padding: 26px 0 16px; }
+    .section-head {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      margin-bottom: 22px;
+    }
+    .section-head h2 {
+      font-size: 14px;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin: 0;
+    }
+
+    /* ---------- Project grid ---------- */
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
+      gap: 18px;
+    }
+    .card {
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      background: var(--surface);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      padding: 24px 22px 20px;
+      overflow: hidden;
+      transition: transform .16s ease, box-shadow .16s ease, border-color .16s ease;
+    }
+    .card::before {
+      content: "";
+      position: absolute;
+      top: 0; left: 0; right: 0;
+      height: 4px;
+      background: var(--card-accent, var(--accent));
+    }
+    .card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 12px 34px rgba(20,24,31,0.10);
+      border-color: #d7dce5;
+    }
+    .card-top {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 14px;
+    }
+    .badge {
+      flex: 0 0 auto;
+      width: 42px; height: 42px;
+      border-radius: 11px;
+      display: grid;
+      place-items: center;
+      font-weight: 700;
+      font-size: 17px;
+      color: #fff;
+      background: var(--card-accent, var(--accent));
+      letter-spacing: -0.02em;
+      overflow: hidden;
+    }
+    /* Cards with a real logo: logo sits in top-left like the initial badge */
+    .card.has-logo .logo-media {
+      flex: 0 0 auto;
+      width: 48px;
+      height: 48px;
+      border-radius: 11px;
+      overflow: hidden;
+      display: grid;
+      place-items: center;
+    }
+    .card.has-logo .logo-media img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      display: block;
+    }
+    .card.has-logo .logo-media.tile img {
+      object-fit: cover;
+    }
+    .card h3 {
+      margin: 0;
+      font-size: 19px;
+      font-weight: 600;
+      letter-spacing: -0.01em;
+    }
+    .role {
+      display: inline-block;
+      margin-top: 3px;
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--muted);
+      background: #f1f3f8;
+      padding: 2px 9px;
+      border-radius: 999px;
+      letter-spacing: 0.01em;
+    }
+    .card p {
+      margin: 0 0 18px;
+      font-size: 15px;
+      color: var(--muted);
+      flex: 1 1 auto;
+    }
+    .visit {
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--accent);
+      align-self: flex-end;
+    }
+    .card:hover .visit { text-decoration: none; }
+    .visit .arrow { transition: transform .16s ease; display: inline-block; }
+    .card:hover .visit .arrow { transform: translateX(3px); }
+
+    /* ---------- Credentials line ---------- */
+    .creds {
+      margin: 40px 0 0;
+      padding: 20px 0 60px;
+      border-top: 1px solid var(--line);
+      color: var(--muted);
+      font-size: 15px;
+    }
+    .creds strong { color: var(--ink); font-weight: 600; }
+
+    /* ---------- Responsive ---------- */
+    @media (max-width: 760px) {
+      .hero { padding: 40px 0 28px; }
+      .hero-grid {
+        grid-template-columns: 1fr;
+        gap: 28px;
+      }
+      .hero-photo { order: -1; max-width: 220px; }
+      .hero h1 { font-size: 36px; }
+    }
+
+    /* Homepage header blends into the page background (inner pages stay white) */
+    .site-header { background: var(--bg); }
+    /* Align the header wrapper with the page content (.wrap) so "Dan Elton"
+       is flush-left with the "Dan Elton's Homepage" heading below */
+    .site-header .wrapper {
+      max-width: var(--maxw);
+      padding-left: 24px;
+      padding-right: 24px;
+    }
+  </style>
+</head>
+<body>
+
+  {% include header.html %}
+
+  <!-- Hero -->
+  <header class="hero">
+    <div class="wrap hero-grid">
+      <div>
+        <h1>Hello!</h1>
+        <p class="bio">
+          My wandering path took me across several fields - PhD in physics, postdoc on AI/ML for materials science, then six years working on AI/ML for medical imaging and healthcare, including four years as a Staff Scientist at NIH.<br><br>
+
+          Now I'm a self-directed founder and independent researcher working on projects where I see outsized expected value. I identify as an Effective Altruist and I support the Progress Studies and Metascience Reform movements. <br><br>
+
+          If you want you can can still view my out-of-date <a href="/assets/Daniel_Elton_CV.pdf">CV</a> and <a href="/assets/Daniel_Elton_resume.pdf">resume</a>. I really appreciate anonymous feedback, you can <a href="https://www.admonymous.co/delton137">leave that here</a>.       
+        </p>
+        <div class="social">
+          <a href="https://twitter.com/moreisdifferent" aria-label="X">
+            <svg viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+          </a>
+          <a href="https://substack.com/@moreisdifferent" aria-label="Substack">
+            <svg viewBox="0 0 24 24"><path d="M22.539 8.242H1.46V5.406h21.08v2.836zM1.46 10.812V24L12 18.11 22.54 24V10.812H1.46zM22.54 0H1.46v2.836h21.08V0z"/></svg>
+          </a>
+          <a href="https://www.linkedin.com/in/danielelton/" aria-label="LinkedIn">
+            <svg viewBox="0 0 24 24"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.064 2.064 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+          </a>
+          <a href="https://www.facebook.com/Daniel.Elton/" aria-label="Facebook">
+            <svg viewBox="0 0 24 24"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+          </a>
+          <a href="https://github.com/delton137" aria-label="GitHub">
+            <svg viewBox="0 0 24 24"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23A11.5 11.5 0 0112 5.803c1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.91 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222 0 1.606-.015 2.898-.015 3.293 0 .322.218.694.825.576C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg>
+          </a>
+          <a href="https://scholar.google.com/citations?user=KG0pbOYAAAAJ&hl=en" aria-label="Google Scholar">
+            <svg viewBox="0 0 24 24"><path d="M12 24a7 7 0 110-14 7 7 0 010 14zm0-24L0 9.5l4.838 3.94A8 8 0 0112 9a8 8 0 017.162 4.44L24 9.5z"/></svg>
+          </a>
+          <a href="https://bsky.app/profile/delton.bsky.social" aria-label="Bluesky">
+            <svg viewBox="0 0 24 24"><path d="M12 10.8c-1.087-2.114-4.046-6.053-6.798-7.995C2.566.944 1.561 1.266.902 1.565.139 1.908 0 3.08 0 3.768c0 .69.378 5.65.624 6.479.815 2.736 3.713 3.66 6.383 3.364.136-.02.275-.039.415-.056-.138.022-.276.04-.415.056-3.912.58-7.387 2.005-2.83 7.078 5.013 5.19 6.87-1.113 7.823-4.308.953 3.195 2.05 9.271 7.733 4.308 4.267-4.308 1.172-6.498-2.74-7.078a8.741 8.741 0 01-.415-.056c.14.017.279.036.415.056 2.67.297 5.568-.628 6.383-3.364C23.622 9.418 24 4.458 24 3.768c0-.688-.139-1.86-.902-2.203-.659-.299-1.664-.621-4.3 1.24C16.046 4.747 13.087 8.686 12 10.8z"/></svg>
+          </a>
+        </div>
+      </div>
+      <div class="hero-photo">
+        <img src="assets/Dan_Elton_Star_Trek_Enterprise_cropped_650w.jpg"
+             alt="Dan Elton">
+      </div>
+    </div>
+  </header>
+
+  <!-- Projects -->
+  <main>
+    <section class="section" id="projects">
+      <div class="wrap">
+        <div class="section-head">
+          <h2>What I'm working on</h2>
+        </div>
+        <div class="grid">
+
+          <article class="card has-logo" style="--card-accent:#0e9594;">
+            <div class="card-top">
+              <div class="logo-media"><img src="assets/projects/metascience-globe.png" alt="The Metascience Observatory logo"></div>
+              <div>
+                <h3>The Metascience Observatory</h3>
+                <span class="role">Founder &amp; Director</span>
+              </div>
+            </div>
+            <p>The Metascience Observatory uses an AI-assisted pipeline to build a <a href="https://metascienceobservatory.org/replications-database">database of replications</a> in the scientific literature. Side projects include pioneering a new form of AI-powered literature review, the <a href="https://metascienceobservatory.org/birds-eye-reviews/">Bird's Eye Review</a>.</p>
+            <a class="visit" href="http://metascienceobservatory.org/">Visit <span class="arrow">→</span></a>
+          </article>
+
+          <article class="card has-logo" style="--card-accent:#7c4dff;">
+            <div class="card-top">
+              <div class="logo-media"><img src="assets/projects/arb-logo.svg" alt="ARB Research logo"></div>
+              <div>
+                <h3>Arb Research</h3>
+                <span class="role">Contract Researcher</span>
+              </div>
+            </div>
+            <p>I'm helping with a literature review on frontier AI safety.</p>
+            <a class="visit" href="https://arbresearch.com/">Visit <span class="arrow">→</span></a>
+          </article>
+
+          <article class="card has-logo" style="--card-accent:#0a6cff;">
+            <div class="card-top">
+              <div class="logo-media"><img src="assets/projects/radvac-logo.svg" alt="Radvac logo"></div>
+              <div>
+                <h3>Radvac</h3>
+                <span class="role">Volunteer</span>
+              </div>
+            </div>
+            <p>I'm helping recruit for Phase I trials on <a href="https://radvac.org/bfiat">GMO yeast that produces viral proteins</a>, and I also help maintain the website. Previously I did six months of research at Radvac <a href="https://arxiv.org/abs/2605.04265">on AI for antiviral discovery</a>.</p>
+            <a class="visit" href="https://radvac.org/">Visit <span class="arrow">→</span></a>
+          </article>
+
+          <article class="card has-logo" style="--card-accent:#00a37a;">
+            <div class="card-top">
+              <div class="logo-media"><img src="assets/projects/gene-wizard-logo.jpg" alt="Gene Wizard logo"></div>
+              <div>
+                <h3>Gene Wizard</h3>
+                <span class="role">Founder</span>
+              </div>
+            </div>
+            <p>Analysis of consumer genomics data. A replacement for Promethease and SNPedia -- SNP analysis, ClinVar annotations, polygenic scores.</p>
+            <a class="visit" href="https://genewizard.net/">Visit <span class="arrow">→</span></a>
+          </article>
+
+          <article class="card has-logo" style="--card-accent:#e0584e;">
+            <div class="card-top">
+              <div class="logo-media"><img src="assets/projects/smlc-logo.svg" alt="Solve My Long COVID logo"></div>
+              <div>
+                <h3>Solve My Long COVID</h3>
+                <span class="role">Founder</span>
+              </div>
+            </div>
+            <p>Long COVID is not one thing. It's <a href="https://moreisdifferent.blog/p/why-are-we-making-so-little-progress">many things</a>, sometimes all at once. This website helps sufferers confront complexity.</p>
+            <a class="visit" href="https://solvemylongcovid.com/">Visit <span class="arrow">→</span></a>
+          </article>
+
+          <article class="card has-logo" style="--card-accent:#f5821f;">
+            <div class="card-top">
+              <div class="logo-media tile"><img src="assets/projects/more-is-different-logo.png" alt="More Is Different logo"></div>
+              <div>
+                <h3>More Is Different</h3>
+                <span class="role">Substack Blogger</span>
+              </div>
+            </div>
+            <p>Writing on AI, FDA reform, metascience, progress studies, and whatever catches my fancy.</p>
+            <a class="visit" href="https://moreisdifferent.blog/">Visit <span class="arrow">→</span></a>
+          </article>
+
+        </div>
+
+
+      </div>
+    </section>
+  </main>
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-106409985-1', 'auto');
+    ga('send', 'pageview');
+  </script>
+
+</body>
+</html>

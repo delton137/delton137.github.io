@@ -7,11 +7,11 @@
 #- title: "Blog"
 #  href: "/blog/"
 
-- title: "Links"
-  href: "/links/"
-
 - title: "Research"
   href: "/research/"
+
+- title: "Links"
+  href: "/links/"
 
 #- title: "Miscellany"
 #  href: "/miscellany/"

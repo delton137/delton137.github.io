@@ -13,6 +13,10 @@ dl, dd, ol, ul, figure {
 /**
  * Basic styling
  */
+html {
+    overflow-y: scroll; // always reserve scrollbar so centered content doesn't shift between pages
+}
+
 body {
     font-family: $base-font-family;
     font-size: $base-font-size;
