@@ -7,6 +7,7 @@ author: delton137
 layout: post
 guid: http://www.moreisdifferent.com/?p=3440
 permalink: /2017/07/31/condensed-notes-from-ethics-of-ai-at-nyu-october-2016/
+ai: true
 categories:
   - AI
   - philosophy
