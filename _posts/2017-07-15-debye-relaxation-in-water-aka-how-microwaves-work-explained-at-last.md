@@ -1,6 +1,6 @@
 ---
 id: 3421
-title: 'Debye relaxation in water, aka &#8220;how microwaves work&#8221; explained at last'
+title: "Debye relaxation in water, aka “how microwaves work” explained at last"
 facebookcomments: true
 date: 2017-07-15T20:25:08+00:00
 author: delton137

@@ -1,6 +1,6 @@
 ---
 id: 1485
-title: 'Percolation Theory &#8211; the deep subject with the not-so-deep sounding name'
+title: "Percolation Theory – the deep subject with the not-so-deep sounding name"
 comments: false
 disquscomments: true
 date: 2013-11-16T00:11:49+00:00

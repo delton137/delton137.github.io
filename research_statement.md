@@ -1,3 +1,8 @@
+---
+layout: page
+title: Research Statement
+---
+
 # Opportunistic screening with CT scans
 
 Roughly 100 million CT scans are performed in the United States each year, and that number is growing by several percent each year. Due to time and resource constraints much potentially useful information in CT scans is currently not utilized. Fully automated AI tools can run in the background, segmenting organs and looking for abnormalities. Segmentation tools can be used to extract biomarkers which can be used for disease risk prediction. We call this paradigm "opportunistic screening". 

@@ -1,6 +1,6 @@
 ---
 id: 1720
-title: 'Tesla’s folly &#8211; why Wardenclyffe didn’t work'
+title: "Tesla’s folly – why Wardenclyffe didn’t work"
 comments: false
 disquscomments: true
 date: 2015-02-22T03:50:44+00:00

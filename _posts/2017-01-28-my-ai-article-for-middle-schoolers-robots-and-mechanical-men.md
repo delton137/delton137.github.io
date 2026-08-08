@@ -1,6 +1,6 @@
 ---
 id: 3358
-title: 'My AI article for middle schoolers: &#8220;Robots and Mechanical Men&#8221;'
+title: "My AI article for middle schoolers: “Robots and Mechanical Men”"
 facebookcomments: true
 date: 2017-01-28T21:07:27+00:00
 author: delton137

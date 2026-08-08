@@ -1,6 +1,6 @@
 ---
 id: 3141
-title: 'Our Nature Communications paper &#8211; ice-like phonons in liquid water'
+title: "Our Nature Communications paper – ice-like phonons in liquid water"
 disquscomments: true
 date: 2016-01-19T20:31:35+00:00
 author: delton137

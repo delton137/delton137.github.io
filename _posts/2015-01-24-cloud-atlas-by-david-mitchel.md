@@ -1,6 +1,6 @@
 ---
 id: 1684
-title: '&#8220;Cloud Atlas&#8221; by David Mitchel'
+title: "“Cloud Atlas” by David Mitchel"
 facebookcomments: true
 date: 2015-01-24T23:54:23+00:00
 author: delton137

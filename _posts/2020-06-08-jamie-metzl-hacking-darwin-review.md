@@ -1,6 +1,6 @@
 ---
 id: 10013
-title: Book review of &#8220;Hacking Darwin&#8221; by Jamie Metzl
+title: "Book review of “Hacking Darwin” by Jamie Metzl"
 facebookcomments: true
 author: Dan Elton
 layout: post
