@@ -1,6 +1,6 @@
 ---
 id: 1608
-title: '&#8220;Zero to One&#8221; by Peter Thiel'
+title: "“Zero to One” by Peter Thiel"
 comments: false
 disquscomments: true
 date: 2014-11-28T22:20:34+00:00

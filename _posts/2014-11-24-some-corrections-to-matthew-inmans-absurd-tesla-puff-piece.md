@@ -1,6 +1,6 @@
 ---
 id: 1499
-title: 'Some corrections to Matthew Inman&#8217;s Tesla puff piece'
+title: "Some corrections to Matthew Inman’s Tesla puff piece"
 comments: false
 disquscomments: true
 date: 2014-11-24T05:47:20+00:00

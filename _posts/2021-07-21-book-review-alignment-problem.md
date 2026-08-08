@@ -1,6 +1,6 @@
 ---
 id: 10018
-title: Book review of &#8220;The Alignment Problem&#8221; by Brian Christian
+title: "Book review of “The Alignment Problem” by Brian Christian"
 facebookcomments: true
 author: Dan Elton
 layout: post

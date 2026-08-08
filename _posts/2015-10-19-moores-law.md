@@ -1,6 +1,6 @@
 ---
 id: 2143
-title: Moore's law &#8211; Kurzweil vs. Thiel
+title: "Moore's law – Kurzweil vs. Thiel"
 facebookcomments: true
 date: 2015-10-19T05:08:14+00:00
 author: delton137

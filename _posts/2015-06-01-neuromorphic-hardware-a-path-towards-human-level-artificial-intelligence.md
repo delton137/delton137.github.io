@@ -1,6 +1,6 @@
 ---
 id: 1798
-title: 'Neuromorphic hardware &#8211; a path towards human-level artificial intelligence'
+title: "Neuromorphic hardware – a path towards human-level artificial intelligence"
 comments: false
 disquscomments: true
 date: 2015-06-01T03:12:36+00:00
