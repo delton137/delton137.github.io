@@ -43,7 +43,13 @@ def format_authors(author_field):
         return authors[0]
 
 def parse_bib(f):
-    bib_database = bt.bparser.BibTexParser(common_strings=True).parse_file(open(f))
+    parser = bt.bparser.BibTexParser(common_strings=True)
+    # common_strings only covers jan..dec; accept full month names too
+    parser.bib_database.strings.update(
+        {m: m.capitalize() for m in
+         ["january", "february", "march", "april", "may", "june", "july",
+          "august", "september", "october", "november", "december"]})
+    bib_database = parser.parse_file(open(f))
 
     bd = bib_database.entries[0]
 
