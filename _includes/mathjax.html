@@ -1,0 +1,33 @@
+<script>
+(function () {
+  var root = document.querySelector('.post-content, .page-content, article, .post');
+  if (!root) return;
+  var text = root.textContent || '';
+  // Only load MathJax when the page actually contains TeX-like math.
+  if (!/(?:\$\$[\s\S]+?\$\$)|(?:\\\[[\s\S]+?\\\])|(?:\\\([\s\S]+?\\\))|(?:^|[^\\$])\$[^$\n]+\$/.test(text)) {
+    return;
+  }
+
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    }
+  };
+
+  function loadMathJax() {
+    if (document.getElementById('mathjax-script')) return;
+    var s = document.createElement('script');
+    s.id = 'mathjax-script';
+    s.src = 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js';
+    s.async = true;
+    document.head.appendChild(s);
+  }
+
+  if ('requestIdleCallback' in window) {
+    requestIdleCallback(loadMathJax, { timeout: 2500 });
+  } else {
+    window.addEventListener('load', loadMathJax);
+  }
+})();
+</script>

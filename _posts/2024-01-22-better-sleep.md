@@ -1,5 +1,6 @@
 ---
 substacktitle:  Why don't we have better over-the-counter sleep aids?
+title: "Why don't we have better over-the-counter sleep aids?"
 layout: redirected
 sitemap: false
 permalink: substack25

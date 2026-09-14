@@ -1,5 +1,6 @@
 ---
 substacktitle:  Why is it so hard to build a quantum computer?
+title: "Why is it so hard to build a quantum computer?"
 layout: redirected
 sitemap: false
 permalink: substack37

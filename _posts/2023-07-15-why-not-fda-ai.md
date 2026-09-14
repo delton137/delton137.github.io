@@ -1,5 +1,6 @@
 ---
 substacktitle:  Why AI doctors should not be FDA regulated
+title: "Why AI doctors should not be FDA regulated"
 layout: redirected
 sitemap: false
 permalink: substack21

@@ -13,7 +13,7 @@ hidden: true
 
 Top articles in bold. 
 
--   [Who should be our next FDA Comissioner?](https://moreisdifferent.blog/p/who-should-be-our-next-fda-commissioner)
+-   [Who should be our next FDA Commissioner?](https://moreisdifferent.blog/p/who-should-be-our-next-fda-commissioner)
 -   **[FDA devastation during the pandemic](https://moreisdifferent.blog/p/fda-devastation-during-the-pandemic "Fda Pandemic")**
 -   **[Why AI doctors should not be FDA regulated](https://moreisdifferent.substack.com/p/why-ai-doctors-should-not-be-fda "Why Not Fda Ai")**
 -   [Book review - "Innovation Breakdown"](https://moreisdifferent.substack.com/p/book-review-innovation-breakdown "Innovation Breakdown")

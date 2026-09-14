@@ -1,5 +1,6 @@
 ---
 substacktitle:  Could S-modafinil be the new caffeine?
+title: "Could S-modafinil be the new caffeine?"
 layout: redirected
 sitemap: false
 permalink: substack14

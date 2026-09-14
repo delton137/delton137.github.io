@@ -1,5 +1,6 @@
 ---
 substacktitle:  FDA devastation during the pandemic
+title: "FDA devastation during the pandemic"
 layout: redirected
 sitemap: false
 permalink: substack26

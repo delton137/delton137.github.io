@@ -1,5 +1,6 @@
 ---
 substacktitle:  Kidney stone pain as a potential EA cause area
+title: "Kidney stone pain as a potential EA cause area"
 layout: redirected
 sitemap: false
 permalink: substack12

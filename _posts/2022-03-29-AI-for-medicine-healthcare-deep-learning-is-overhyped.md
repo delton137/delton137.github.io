@@ -1,5 +1,6 @@
 ---
 substacktitle:  AI for medicine is overhyped right now
+title: "AI for medicine is overhyped right now"
 layout: redirected
 sitemap: false
 permalink: substack11

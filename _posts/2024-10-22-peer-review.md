@@ -1,5 +1,6 @@
 ---
 substacktitle: (Asimov Press) A Defense of Peer Review
+title: "(Asimov Press) A Defense of Peer Review"
 layout: redirected
 sitemap: false
 permalink: substack33

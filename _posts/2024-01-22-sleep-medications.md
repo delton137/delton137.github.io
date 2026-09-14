@@ -1,5 +1,6 @@
 ---
 substacktitle: "(Medium) I tried all the sleep medications so you don't have to"
+title: "(Medium) I tried all the sleep medications so you don't have to"
 layout: redirected
 sitemap: false
 permalink: medium-sleep-medications

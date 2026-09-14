@@ -59,7 +59,7 @@ Note: As of February 2021, most new articles are being posted on [my Substack](h
         {% capture tags %}{% if post.metascience %}metascience {% endif %}{% if post.progress_studies %}progress_studies {% endif %}{% if post.fda %}fda {% endif %}{% if post.ai %}ai {% endif %}{% if post.long_covid %}long-covid {% endif %}{% endcapture %}
         <li class="listing-item" data-tags="{{ tags | strip }}">
             <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-            <a href="{{ post.redirect_to }}" title="{{ post.title }}">{{ post.substacktitle }}</a>
+            <a href="{{ post.redirect_to }}" title="{{ post.substacktitle | default: post.title }}">{{ post.substacktitle | default: post.title }}</a>
             {% if post.metascience %}
               <span class="badge badge-metascience">Metascience</span>
             {% endif %}
