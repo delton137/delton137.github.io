@@ -163,6 +163,12 @@ z-index:999;
 
     .menu-icon {
         display: none;
+        background: none;
+        border: 0;
+        padding: 0;
+        cursor: pointer;
+        appearance: none;
+        -webkit-appearance: none;
     }
 
     .page-link {
@@ -211,7 +217,7 @@ z-index:999;
             display: none;
         }
 
-        &:hover .trigger {
+        &.is-open .trigger {
             display: block;
             padding-bottom: 5px;
         }

@@ -1,5 +1,6 @@
 ---
 substacktitle: (LessWrong) How I'm thinking about GPT-N
+title: "(LessWrong) How I'm thinking about GPT-N"
 layout: redirected
 sitemap: false
 permalink: lesswrong2

@@ -1,5 +1,6 @@
 ---
 substacktitle: Antiviral strategy for biosecurity -- repurposing, broad spectrum antivirals, and combinations
+title: "Antiviral strategy for biosecurity -- repurposing, broad spectrum antivirals, and combinations"
 layout: redirected
 sitemap: false
 permalink: substack49

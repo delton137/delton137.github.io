@@ -1,5 +1,6 @@
 ---
 substacktitle:  Weird properties of large language models
+title: "Weird properties of large language models"
 layout: redirected
 sitemap: false
 permalink: substack24

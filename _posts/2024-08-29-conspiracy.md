@@ -1,5 +1,6 @@
 ---
 substacktitle:  An overview of conspiracy theories about transhumanism
+title: "An overview of conspiracy theories about transhumanism"
 layout: redirected
 sitemap: false
 permalink: substack40

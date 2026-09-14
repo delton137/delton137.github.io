@@ -1,5 +1,6 @@
 ---
 substacktitle: Why are we making so little progress on Long COVID?
+title: "Why are we making so little progress on Long COVID?"
 layout: redirected
 sitemap: false
 permalink: substack45

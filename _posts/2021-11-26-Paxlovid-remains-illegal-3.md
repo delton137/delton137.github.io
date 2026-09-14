@@ -1,5 +1,6 @@
 ---
 substacktitle:  Why the FDA should legalize Pfizer's COVID pill immediately
+title: "Why the FDA should legalize Pfizer's COVID pill immediately"
 layout: redirected
 sitemap: false
 permalink: unclogthefda7

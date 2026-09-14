@@ -1,5 +1,6 @@
 ---
 substacktitle:  Why Lawrence Lessig is wrong about Francesca Gino
+title: "Why Lawrence Lessig is wrong about Francesca Gino"
 layout: redirected
 sitemap: false
 permalink: substack22

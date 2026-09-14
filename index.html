@@ -35,12 +35,16 @@ layout: null
     "sameAs": [
       "https://twitter.com/moreisdifferent",
       "https://github.com/delton137",
-      "https://scholar.google.com/citations?user=KG0pbOYAAAAJ"
+      "https://scholar.google.com/citations?user=KG0pbOYAAAAJ",
+      "https://www.linkedin.com/in/danielelton/",
+      "https://moreisdifferent.blog/",
+      "https://bsky.app/profile/delton.bsky.social"
     ]
   }
   </script>
 
   <link rel="alternate" type="application/rss+xml" title="Dan Elton" href="https://www.moreisdifferent.com/feed.xml">
+  <link rel="icon" href="/favicon.ico">
 
   <link rel="stylesheet" href="/css/main.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -83,7 +87,7 @@ layout: null
     }
 
     /* ---------- Hero ---------- */
-    .hero { padding: 64px 0 40px; }
+    .hero { padding: 36px 0 64px; }
     .hero-grid {
       display: grid;
       grid-template-columns: 1fr 300px;
@@ -98,13 +102,14 @@ layout: null
       color: var(--accent);
       margin: 0 0 14px;
     }
-    .hero h1 {
-      margin: 0 0 16px;
-      font-size: 46px;
-      line-height: 1.08;
-      letter-spacing: -0.03em;
-      font-weight: 500;
+    .hero h2 {
       font-family: 'Titillium Web', sans-serif;
+      font-size: 26px;
+      font-weight: 500;
+      letter-spacing: -1px;
+      line-height: 1;
+      color: #041380;
+      margin: 0 0 16px;
     }
     .hero .lede {
       font-size: 19px;
@@ -157,19 +162,19 @@ layout: null
     .social svg { width: 16px; height: 16px; fill: currentColor; }
 
     /* ---------- Section heading ---------- */
-    .section { padding: 26px 0 16px; }
+    .section { padding: 40px 0 8px; }
     .section-head {
       display: flex;
       align-items: baseline;
       justify-content: space-between;
       margin-bottom: 22px;
     }
-    .section-head h2 {
-      font-size: 14px;
-      font-weight: 600;
-      letter-spacing: 0.08em;
-      text-transform: uppercase;
-      color: var(--muted);
+    .section-head h1 {
+      font-family: 'Titillium Web', sans-serif;
+      font-size: 26px;
+      font-weight: 500;
+      letter-spacing: -1px;
+      color: #041380;
       margin: 0;
     }
 
@@ -184,23 +189,15 @@ layout: null
       display: flex;
       flex-direction: column;
       background: var(--surface);
-      border: 1px solid var(--line);
+      border: 2px solid var(--card-accent, var(--accent));
       border-radius: var(--radius);
       padding: 24px 22px 20px;
       overflow: hidden;
-      transition: transform .16s ease, box-shadow .16s ease, border-color .16s ease;
-    }
-    .card::before {
-      content: "";
-      position: absolute;
-      top: 0; left: 0; right: 0;
-      height: 4px;
-      background: var(--card-accent, var(--accent));
+      transition: transform .16s ease, box-shadow .16s ease;
     }
     .card:hover {
       transform: translateY(-3px);
       box-shadow: 0 12px 34px rgba(20,24,31,0.10);
-      border-color: #d7dce5;
     }
     .card-top {
       display: flex;
@@ -240,38 +237,84 @@ layout: null
     .card.has-logo .logo-media.tile img {
       object-fit: cover;
     }
+    .card.has-logo .logo-media.radvac {
+      width: 53px;
+      height: 53px;
+    }
     .card h3 {
       margin: 0;
       font-size: 19px;
       font-weight: 600;
       letter-spacing: -0.01em;
     }
-    .role {
-      display: inline-block;
-      margin-top: 3px;
-      font-size: 12px;
-      font-weight: 600;
-      color: var(--muted);
-      background: #f1f3f8;
-      padding: 2px 9px;
-      border-radius: 999px;
-      letter-spacing: 0.01em;
-    }
     .card p {
-      margin: 0 0 18px;
+      margin: 0;
       font-size: 15px;
       color: var(--muted);
       flex: 1 1 auto;
     }
-    .visit {
-      font-size: 14px;
-      font-weight: 600;
-      color: var(--accent);
-      align-self: flex-end;
+    .card.large-copy h3 { font-size: 24px; }
+    .card.large-copy p { font-size: 17px; }
+    .visually-hidden {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      padding: 0;
+      margin: -1px;
+      overflow: hidden;
+      clip: rect(0, 0, 0, 0);
+      white-space: nowrap;
+      border: 0;
     }
-    .card:hover .visit { text-decoration: none; }
-    .visit .arrow { transition: transform .16s ease; display: inline-block; }
-    .card:hover .visit .arrow { transform: translateX(3px); }
+    /* Whole card is the hit target; nested links in the description sit above it. */
+    .card .visit {
+      position: absolute;
+      inset: 0;
+      z-index: 1;
+    }
+    .card:hover .visit { z-index: 3; }
+    .card p a { position: relative; z-index: 2; }
+    .card-preview {
+      position: absolute;
+      inset: 0;
+      opacity: 0;
+      transition: opacity .18s ease;
+      background: #111;
+    }
+    .card:hover .card-preview { opacity: 1; }
+    .card-preview img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: top center;
+      display: block;
+    }
+    .card-preview-cta {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 2px;
+      background: rgba(12, 16, 22, 0.40);
+      color: #fff;
+      font-family: 'Titillium Web', sans-serif;
+      font-weight: 600;
+      font-size: 28px;
+      letter-spacing: 0.04em;
+      line-height: 1.05;
+      text-shadow: 0 1px 10px rgba(0,0,0,0.45);
+    }
+    .card-preview-cta .arrow {
+      display: block;
+      font-size: 26px;
+      line-height: 1;
+    }
+    @media (hover: none) {
+      .card-preview { display: none; }
+      .card:hover .visit { z-index: 1; }
+    }
 
     /* ---------- Credentials line ---------- */
     .creds {
@@ -291,13 +334,12 @@ layout: null
         gap: 28px;
       }
       .hero-photo { order: -1; max-width: 220px; }
-      .hero h1 { font-size: 36px; }
     }
 
     /* Homepage header blends into the page background (inner pages stay white) */
     .site-header { background: var(--bg); }
-    /* Align the header wrapper with the page content (.wrap) so "Dan Elton"
-       is flush-left with the "Dan Elton's Homepage" heading below */
+    /* Align the header wrapper with the page content (.wrap) so the site
+       title is flush-left with the heading below */
     .site-header .wrapper {
       max-width: var(--maxw);
       padding-left: 24px;
@@ -309,17 +351,134 @@ layout: null
 
   {% include header.html %}
 
-  <!-- Hero -->
-  <header class="hero">
+  <main>
+
+  <!-- Projects -->
+  <section class="section" id="projects">
+      <div class="wrap">
+        <div class="section-head">
+          <h1>What I'm currently working on</h1>
+        </div>
+        <div class="grid">
+
+          <article class="card has-logo" style="--card-accent:#0e9594;">
+            <div class="card-top">
+              <div class="logo-media"><img src="assets/projects/metascience-globe.png" alt="The Metascience Observatory logo" width="48" height="48"></div>
+              <div>
+                <h3>The Metascience Observatory</h3>
+              </div>
+            </div>
+            <p>The Metascience Observatory has three projects: 
+              our massive database of replications to study reproducibility issues in the scientific literature. Experiments with AI-powered literature review, the <a href="https://metascienceobservatory.org/birds-eye-reviews/">Bird's Eye Review</a>.</p>
+            <a class="visit" href="https://metascienceobservatory.org/">
+              <span class="card-preview">
+                <img src="assets/projects/previews/metascience.jpg" alt="" width="960" height="600">
+                <span class="card-preview-cta"><span>Visit</span><span class="arrow" aria-hidden="true">→</span></span>
+              </span>
+              <span class="visually-hidden">The Metascience Observatory</span>
+            </a>
+          </article>
+
+          <article class="card has-logo" style="--card-accent:#7c4dff;">
+            <div class="card-top">
+              <div class="logo-media"><img src="assets/projects/arb-logo.svg" alt="ARB Research logo" width="48" height="48"></div>
+              <div>
+                <h3>The AI Safety Stack</h3>
+              </div>
+            </div>
+            <p>We're conducting a massive search to compile information about what AI safety techniques are being used at frontier labs.</p>
+            <a class="visit" href="https://manifund.org/projects/the-ai-safety-stack">
+              <span class="card-preview">
+                <img src="assets/projects/previews/ai-safety-stack.jpg" alt="" width="960" height="600">
+                <span class="card-preview-cta"><span>Visit</span><span class="arrow" aria-hidden="true">→</span></span>
+              </span>
+              <span class="visually-hidden">The AI Safety Stack</span>
+            </a>
+          </article>
+
+          <article class="card has-logo large-copy" style="--card-accent:#0a6cff;">
+            <div class="card-top">
+              <div class="logo-media radvac"><img src="assets/projects/radvac-logo.svg" alt="Radvac logo" width="53" height="53"></div>
+              <div>
+                <h3>Radvac</h3>
+              </div>
+            </div>
+            <p>I'm an evangelist for Radvac's self-experimentation with a GMO yeast strain that produces viral proteins, and I also help maintain the website. Previously I did research at Radvac on AI for antiviral discovery.</p>
+            <a class="visit" href="https://radvac.org/">
+              <span class="card-preview">
+                <img src="assets/projects/previews/radvac.jpg" alt="" width="960" height="600">
+                <span class="card-preview-cta"><span>Visit</span><span class="arrow" aria-hidden="true">→</span></span>
+              </span>
+              <span class="visually-hidden">Radvac</span>
+            </a>
+          </article>
+
+          <article class="card has-logo large-copy" style="--card-accent:#00a37a;">
+            <div class="card-top">
+              <div class="logo-media"><img src="assets/projects/gene-wizard-logo.jpg" alt="Gene Wizard logo" width="48" height="48"></div>
+              <div>
+                <h3>Gene Wizard</h3>
+              </div>
+            </div>
+            <p>Gene Wizard is a genetics education platform that provides literature-sourced information on variants, ClinVar annotations, and honest info on open source polygenic scores.</p>
+            <a class="visit" href="https://genewizard.net/">
+              <span class="card-preview">
+                <img src="assets/projects/previews/gene-wizard.jpg" alt="" width="960" height="600">
+                <span class="card-preview-cta"><span>Visit</span><span class="arrow" aria-hidden="true">→</span></span>
+              </span>
+              <span class="visually-hidden">Gene Wizard</span>
+            </a>
+          </article>
+
+          <article class="card has-logo" style="--card-accent:#f5821f;">
+            <div class="card-top">
+              <div class="logo-media tile"><img src="assets/projects/more-is-different-logo.png" alt="More Is Different logo" width="48" height="48"></div>
+              <div>
+                <h3>More Is Different</h3>
+              </div>
+            </div>
+            <p>Writing on AI, FDA reform, metascience, progress studies, and other topics.</p>
+            <a class="visit" href="https://moreisdifferent.blog/">
+              <span class="card-preview">
+                <img src="assets/projects/previews/more-is-different.jpg" alt="" width="960" height="600">
+                <span class="card-preview-cta"><span>Visit</span><span class="arrow" aria-hidden="true">→</span></span>
+              </span>
+              <span class="visually-hidden">More Is Different</span>
+            </a>
+          </article>
+          
+          
+          <!-- Hidden for now
+          <article class="card has-logo" style="--card-accent:#e0584e;">
+            <div class="card-top">
+              <div class="logo-media"><img src="assets/projects/smlc-logo.svg" alt="Solve My Long COVID logo"></div>
+              <div>
+                <h3>Solve My Long COVID</h3>
+              </div>
+            </div>
+            <p>Long COVID is not one thing. It's <a href="https://moreisdifferent.blog/p/why-are-we-making-so-little-progress">many things</a>, sometimes all at once. This website helps sufferers confront complexity.</p>
+            <a class="visit" href="https://solvemylongcovid.com/"><span class="visually-hidden">Solve My Long COVID</span></a>
+          </article>
+          -->
+
+
+        </div>
+
+
+      </div>
+    </section>
+
+  <!-- About -->
+  <section class="hero">
     <div class="wrap hero-grid">
       <div>
-        <h1>Hello!</h1>
+        <h2>Who is Dan Elton?</h2>
         <p class="bio">
           I've contributed to research across several fields -- physics (PhD, 2016), machine learning for materials science and drug discovery, and AI for healthcare and medical imaging. I was a Staff Scientist at NIH for four years and also spent three years as a Data Scientist at Mass General Brigham.<br><br>
 
           I now work as a nonprofit founder and independent researcher working on projects where I see outsized expected value. <br><br>
 
-          If you want you can can still view my out-of-date <a href="/assets/Daniel_Elton_CV.pdf">CV</a> and <a href="/assets/Daniel_Elton_resume.pdf">resume</a>. I really appreciate anonymous feedback, you can <a href="https://www.admonymous.co/delton137">leave that here</a>.       
+          You can view my <a href="/assets/Daniel_Elton_CV.pdf">CV</a> and <a href="/assets/Daniel_Elton_resume.pdf">resume</a>. I really appreciate anonymous feedback — you can <a href="https://www.admonymous.co/delton137">leave that here</a>.
         </p>
         <div class="social">
           <a href="https://twitter.com/moreisdifferent" aria-label="X">
@@ -347,100 +506,14 @@ layout: null
       </div>
       <div class="hero-photo">
         <img src="assets/Dan_Elton_Star_Trek_Enterprise_cropped_650w.jpg"
-             alt="Dan Elton">
+             alt="Dan Elton"
+             width="650"
+             height="853"
+             loading="lazy">
       </div>
     </div>
-  </header>
+  </section>
 
-  <!-- Projects -->
-  <main>
-    <section class="section" id="projects">
-      <div class="wrap">
-        <div class="section-head">
-          <h2>What I'm working on</h2>
-        </div>
-        <div class="grid">
-
-          <article class="card has-logo" style="--card-accent:#0e9594;">
-            <div class="card-top">
-              <div class="logo-media"><img src="assets/projects/metascience-globe.png" alt="The Metascience Observatory logo"></div>
-              <div>
-                <h3>The Metascience Observatory</h3>
-                <span class="role">Founder &amp; Director</span>
-              </div>
-            </div>
-            <p>The Metascience Observatory uses an AI-assisted pipeline to build a <a href="https://metascienceobservatory.org/replications-database">database of replications</a> in the scientific literature. Side projects include pioneering a new form of AI-powered literature review, the <a href="https://metascienceobservatory.org/birds-eye-reviews/">Bird's Eye Review</a>.</p>
-            <a class="visit" href="http://metascienceobservatory.org/">Visit <span class="arrow">→</span></a>
-          </article>
-
-          <article class="card has-logo" style="--card-accent:#7c4dff;">
-            <div class="card-top">
-              <div class="logo-media"><img src="assets/projects/arb-logo.svg" alt="ARB Research logo"></div>
-              <div>
-                <h3>The AI Safety Stack</h3>
-                <span class="role">Contract Researcher</span>
-              </div>
-            </div>
-            <p>We're building a high-level literature review on AI safety tecniques and where they are deployed .</p>
-            <a class="visit" href="https://manifund.org/projects/the-ai-safety-stack">Visit <span class="arrow">→</span></a>
-          </article>
-
-          <article class="card has-logo" style="--card-accent:#0a6cff;">
-            <div class="card-top">
-              <div class="logo-media"><img src="assets/projects/radvac-logo.svg" alt="Radvac logo"></div>
-              <div>
-                <h3>Radvac</h3>
-                <span class="role">Volunteer</span>
-              </div>
-            </div>
-            <p>I'm <a href="https://forum.effectivealtruism.org/posts/4zWAhkXxLwoc3SuKr/why-yeast-based-vaccines-could-be-a-big-deal-for-biosecurity">an evangelist</a> for Radvac's self-experiments with a <a href="https://radvac.org/bfiat">GMO yeast strain that produces viral proteins</a>, and I also help maintain the website. Previously I did six months of research at Radvac <a href="https://arxiv.org/abs/2605.04265">on AI for antiviral discovery</a>.</p>
-            <a class="visit" href="https://radvac.org/">Visit <span class="arrow">→</span></a>
-          </article>
-
-          <article class="card has-logo" style="--card-accent:#00a37a;">
-            <div class="card-top">
-              <div class="logo-media"><img src="assets/projects/gene-wizard-logo.jpg" alt="Gene Wizard logo"></div>
-              <div>
-                <h3>Gene Wizard</h3>
-                <span class="role">Founder</span>
-              </div>
-            </div>
-            <p>Gene Wizard is a genetics education platform that provides literature-sourced information on variants, ClinVar annotations, and honest info on open sourcepolygenic scores.</p>
-            <a class="visit" href="https://genewizard.net/">Visit <span class="arrow">→</span></a>
-          </article>
-
-          <!-- Hidden for now
-          <article class="card has-logo" style="--card-accent:#e0584e;">
-            <div class="card-top">
-              <div class="logo-media"><img src="assets/projects/smlc-logo.svg" alt="Solve My Long COVID logo"></div>
-              <div>
-                <h3>Solve My Long COVID</h3>
-                <span class="role">Founder</span>
-              </div>
-            </div>
-            <p>Long COVID is not one thing. It's <a href="https://moreisdifferent.blog/p/why-are-we-making-so-little-progress">many things</a>, sometimes all at once. This website helps sufferers confront complexity.</p>
-            <a class="visit" href="https://solvemylongcovid.com/">Visit <span class="arrow">→</span></a>
-          </article>
-          -->
-
-
-          <article class="card has-logo" style="--card-accent:#f5821f;">
-            <div class="card-top">
-              <div class="logo-media tile"><img src="assets/projects/more-is-different-logo.png" alt="More Is Different logo"></div>
-              <div>
-                <h3>More Is Different</h3>
-                <span class="role">Substack Writer</span>
-              </div>
-            </div>
-            <p>Writing on AI, FDA reform, metascience, progress studies, and whatever catches my fancy.</p>
-            <a class="visit" href="https://moreisdifferent.blog/">Visit <span class="arrow">→</span></a>
-          </article>
-
-        </div>
-
-
-      </div>
-    </section>
   </main>
 
   {% include analytics.html %}

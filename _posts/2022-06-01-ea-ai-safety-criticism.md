@@ -1,5 +1,6 @@
 ---
 substacktitle: (Medium) Some criticisms of EA-funded AI safety efforts
+title: "(Medium) Some criticisms of EA-funded AI safety efforts"
 layout: redirected
 sitemap: false
 permalink: medium2b

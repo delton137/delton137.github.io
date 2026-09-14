@@ -1,5 +1,6 @@
 ---
 substacktitle: (LessWrong) Possible research directions to improve mechanistic interpretability 
+title: "(LessWrong) Possible research directions to improve mechanistic interpretability"
 layout: redirected
 sitemap: false
 permalink: lesswrong1

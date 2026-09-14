@@ -1,7 +1,6 @@
 ---
 layout: redirected
 permalink: /science/
-sitemap:
-  exclude: 'yes'
+sitemap: false
 redirect_to: /research/
 ---

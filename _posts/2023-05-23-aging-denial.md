@@ -1,5 +1,6 @@
 ---
 substacktitle:  Sorry Dr. Coughlin, “aging” and “old age” are real, and they suck
+title: "Sorry Dr. Coughlin, “aging” and “old age” are real, and they suck"
 layout: redirected
 sitemap: false
 permalink: substack19

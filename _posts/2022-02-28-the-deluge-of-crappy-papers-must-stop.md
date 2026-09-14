@@ -1,5 +1,6 @@
 ---
 substacktitle:  The deluge of crappy papers must stop
+title: "The deluge of crappy papers must stop"
 layout: redirected
 sitemap: false
 permalink: substack10
