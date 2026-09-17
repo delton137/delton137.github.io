@@ -38,7 +38,7 @@ Note: As of February 2021, most new articles are being posted on [my Substack](h
         {% capture tags %}{% if post.metascience %}metascience {% endif %}{% if post.progress_studies %}progress_studies {% endif %}{% if post.fda %}fda {% endif %}{% if post.ai %}ai {% endif %}{% if post.long_covid %}long-covid {% endif %}{% endcapture %}
         <li class="listing-item" data-tags="{{ tags | strip }}">
             <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-            <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+            <a href="{{ post.url | escape }}" title="{{ post.title | escape }}">{{ post.title | escape }}</a>
             {% if post.metascience %}
               <span class="badge badge-metascience">Metascience</span>
             {% endif %}
@@ -59,7 +59,7 @@ Note: As of February 2021, most new articles are being posted on [my Substack](h
         {% capture tags %}{% if post.metascience %}metascience {% endif %}{% if post.progress_studies %}progress_studies {% endif %}{% if post.fda %}fda {% endif %}{% if post.ai %}ai {% endif %}{% if post.long_covid %}long-covid {% endif %}{% endcapture %}
         <li class="listing-item" data-tags="{{ tags | strip }}">
             <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-            <a href="{{ post.redirect_to }}" title="{{ post.substacktitle | default: post.title }}">{{ post.substacktitle | default: post.title }}</a>
+            <a href="{{ post.redirect_to | escape }}" title="{{ post.substacktitle | default: post.title | escape }}">{{ post.substacktitle | default: post.title | escape }}</a>
             {% if post.metascience %}
               <span class="badge badge-metascience">Metascience</span>
             {% endif %}
